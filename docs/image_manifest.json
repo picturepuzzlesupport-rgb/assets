@@ -1,0 +1,2524 @@
+{
+  "version": 1,
+  "baseUrl": "https://raw.githubusercontent.com/picturepuzzlesupport-rgb/assets/main/docs",
+  "categories": [
+    {
+      "id": "abc",
+      "title": "Abc",
+      "images": []
+    },
+    {
+      "id": "animal",
+      "title": "Animal",
+      "images": [
+        {
+          "id": "cat",
+          "title": "Cat",
+          "url": "/animal/cat.webp",
+          "fact": {
+            "title": "Cat",
+            "fact": "Cats use whiskers to sense nearby spaces and can rotate their ears to track tiny sounds.",
+            "foodTitle": "Food",
+            "food": "Cats are meat-eaters and need animal protein in their diet.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Domestic cats live with people all over the world, with especially large populations in the United States, China, and Brazil.",
+            "learningPoints": [
+              "Cats sleep for many hours each day.",
+              "Their rough tongues help them groom their fur.",
+              "A cat can land on its feet by twisting its body in the air."
+            ]
+          }
+        },
+        {
+          "id": "dog",
+          "title": "Dog",
+          "url": "/animal/dog.webp",
+          "fact": {
+            "title": "Dog",
+            "fact": "Dogs have an excellent sense of smell and can learn many words, sounds, and routines from people.",
+            "foodTitle": "Food",
+            "food": "Dogs eat a mixed diet that usually includes meat-based foods.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Domestic dogs are found worldwide, with very large populations in countries such as the United States, Brazil, and India.",
+            "learningPoints": [
+              "Dogs use body language like tail wagging and ear position to communicate.",
+              "Their noses can detect scents far better than human noses.",
+              "Many dogs enjoy jobs like herding, guiding, and rescue work."
+            ]
+          }
+        },
+        {
+          "id": "elephant",
+          "title": "Elephant",
+          "url": "/animal/elephant.webp",
+          "fact": {
+            "title": "Elephant",
+            "fact": "Elephants are the largest land animals and use their trunks to smell, drink, grab food, and greet each other.",
+            "foodTitle": "Food",
+            "food": "Elephants mostly eat grass, leaves, bark, roots, and fruit.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "One of the biggest wild elephant strongholds is Botswana in southern Africa.",
+            "learningPoints": [
+              "Their trunks have thousands of muscles.",
+              "They live in family groups led by older females.",
+              "They help forests by spreading seeds as they travel."
+            ]
+          }
+        },
+        {
+          "id": "giraffe",
+          "title": "Giraffe",
+          "url": "/animal/giraffe.webp",
+          "fact": {
+            "title": "Giraffe",
+            "fact": "Giraffes are the tallest land animals, and their long necks help them reach leaves high in trees.",
+            "foodTitle": "Food",
+            "food": "Giraffes mostly eat leaves, buds, and shoots, especially from acacia trees.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Large giraffe populations are found in several African countries, including Kenya, Tanzania, and South Africa.",
+            "learningPoints": [
+              "A giraffe’s tongue can be dark blue or purple and very long.",
+              "They have powerful kicks to defend themselves.",
+              "Each giraffe has a unique patch pattern."
+            ]
+          }
+        },
+        {
+          "id": "hedgehog",
+          "title": "Hedgehog",
+          "url": "/animal/hedgehog.webp",
+          "fact": {
+            "title": "Hedgehog",
+            "fact": "Hedgehogs curl into a tight ball when they feel unsafe, using their spines for protection.",
+            "foodTitle": "Food",
+            "food": "Hedgehogs eat insects, worms, and other small creatures.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Wild hedgehogs are found across parts of Europe, Asia, and Africa, with Britain being well known for its hedgehog population.",
+            "learningPoints": [
+              "Their spines are stiff hairs made of keratin.",
+              "Hedgehogs are usually active at night.",
+              "They use smell and hearing to find food."
+            ]
+          }
+        },
+        {
+          "id": "koala",
+          "title": "Koala",
+          "url": "/animal/koala.webp",
+          "fact": {
+            "title": "Koala",
+            "fact": "Koalas sleep for many hours each day because eucalyptus leaves do not give them much energy.",
+            "foodTitle": "Food",
+            "food": "Koalas mainly eat eucalyptus leaves.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Koalas are found in Australia, especially in the eastern parts of the country.",
+            "learningPoints": [
+              "Koalas are marsupials, so babies grow in a pouch.",
+              "Their fingerprints are surprisingly similar to human fingerprints.",
+              "They have strong claws for climbing trees."
+            ]
+          }
+        },
+        {
+          "id": "panda",
+          "title": "Panda",
+          "url": "/animal/panda.webp",
+          "fact": {
+            "title": "Panda",
+            "fact": "Giant pandas spend much of their day eating bamboo, even though they belong to the meat-eater group of mammals.",
+            "foodTitle": "Food",
+            "food": "Pandas mainly eat bamboo shoots and leaves.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Wild giant pandas live in mountain forests in China.",
+            "learningPoints": [
+              "Pandas have a special wrist bone that works like a thumb.",
+              "They are strong climbers and good swimmers.",
+              "A baby panda is tiny compared with its mother."
+            ]
+          }
+        },
+        {
+          "id": "penguin",
+          "title": "Penguin",
+          "url": "/animal/penguin.webp",
+          "fact": {
+            "title": "Penguin",
+            "fact": "Penguins cannot fly, but they use their wings like flippers to glide quickly through water.",
+            "foodTitle": "Food",
+            "food": "Penguins eat fish, krill, and squid.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Many penguins live in the Southern Hemisphere, with Antarctica and nearby coasts being famous strongholds.",
+            "learningPoints": [
+              "Their black-and-white feathers help camouflage them in water.",
+              "Penguins huddle together to stay warm.",
+              "Different penguin species live in very different climates."
+            ]
+          }
+        },
+        {
+          "id": "rabbit",
+          "title": "Rabbit",
+          "url": "/animal/rabbit.webp",
+          "fact": {
+            "title": "Rabbit",
+            "fact": "Rabbits use their large ears to hear danger quickly and to help release body heat.",
+            "foodTitle": "Food",
+            "food": "Rabbits eat grasses, leafy plants, and vegetables.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Wild rabbits are common in many parts of Europe and are also found in many other regions around the world.",
+            "learningPoints": [
+              "Rabbit teeth keep growing, so chewing helps wear them down.",
+              "They can hop quickly and zigzag to escape danger.",
+              "Many rabbits live in burrows called warrens."
+            ]
+          }
+        },
+        {
+          "id": "squirrel",
+          "title": "Squirrel",
+          "url": "/animal/squirrel.webp",
+          "fact": {
+            "title": "Squirrel",
+            "fact": "Squirrels hide nuts and seeds in many places, and some forgotten seeds can grow into new plants.",
+            "foodTitle": "Food",
+            "food": "Squirrels eat nuts, seeds, fruits, and sometimes insects.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Squirrels are found in many countries, with large populations across North America, Europe, and Asia.",
+            "learningPoints": [
+              "Their tails help them balance when climbing and jumping.",
+              "Squirrels have strong front teeth for cracking nuts.",
+              "Many tree squirrels build nests called dreys."
+            ]
+          }
+        },
+        {
+          "id": "tiger",
+          "title": "Tiger",
+          "url": "/animal/tiger.webp",
+          "fact": {
+            "title": "Tiger",
+            "fact": "Every tiger has a unique stripe pattern, just like each person has unique fingerprints.",
+            "foodTitle": "Food",
+            "food": "Tigers are meat-eaters and hunt deer, wild boar, and other animals.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "India is the strongest country for wild tiger populations today.",
+            "learningPoints": [
+              "Tigers are excellent swimmers.",
+              "Their striped coats help them hide in tall grass.",
+              "They usually hunt alone."
+            ]
+          }
+        },
+        {
+          "id": "zebra",
+          "title": "Zebra",
+          "url": "/animal/zebra.webp",
+          "fact": {
+            "title": "Zebra",
+            "fact": "No two zebras have exactly the same stripe pattern, and the stripes help confuse predators.",
+            "foodTitle": "Food",
+            "food": "Zebras mostly eat grasses and tender plants.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Large zebra populations are found in East and southern Africa, including Tanzania and Kenya.",
+            "learningPoints": [
+              "Zebras stay in groups for safety.",
+              "Their ears can turn to catch sounds from different directions.",
+              "Young zebras can stand soon after they are born."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "art",
+      "title": "Art",
+      "images": [
+        {
+          "id": "butterfly",
+          "title": "Butterfly Art",
+          "url": "/art/butterfly.webp",
+          "fact": {
+            "title": "Butterfly Art",
+            "fact": "Butterfly art often uses bright wings, patterns, and symmetry to create a lively picture.",
+            "foodTitle": "Art Materials",
+            "food": "Artists may use paint, paper, markers, or mixed materials to make butterfly-themed art.",
+            "strongholdTitle": "Where You Might See It",
+            "stronghold": "Butterflies inspire artists and craft projects in classrooms, studios, and homes around the world.",
+            "learningPoints": [
+              "Many butterfly artworks use matching shapes on both sides.",
+              "Colorful wing patterns help the picture feel playful and energetic.",
+              "Nature is a common inspiration for art."
+            ]
+          }
+        },
+        {
+          "id": "chalk",
+          "title": "Chalk Art",
+          "url": "/art/chalk.webp",
+          "fact": {
+            "title": "Chalk Art",
+            "fact": "Chalk art uses soft chalk sticks or chalk pastels to draw colorful pictures on paper or pavement.",
+            "foodTitle": "Art Materials",
+            "food": "Chalk, pastel sticks, blending tools, and textured paper are often used for this kind of art.",
+            "strongholdTitle": "Where You Might See It",
+            "stronghold": "Chalk art is popular in schools, sidewalks, festivals, and art studios.",
+            "learningPoints": [
+              "Chalk can be blended with fingers or tools to create soft color transitions.",
+              "Sidewalk chalk art can be large and temporary.",
+              "Artists often layer colors to make chalk drawings richer."
+            ]
+          }
+        },
+        {
+          "id": "clay",
+          "title": "Clay Art",
+          "url": "/art/clay.webp",
+          "fact": {
+            "title": "Clay Art",
+            "fact": "Clay art is made by shaping soft clay into objects, figures, bowls, or decorations.",
+            "foodTitle": "Art Materials",
+            "food": "Clay artists often use clay, sculpting tools, water, and sometimes paint or glaze.",
+            "strongholdTitle": "Where You Might See It",
+            "stronghold": "Clay art appears in classrooms, pottery studios, and traditional crafts around the world.",
+            "learningPoints": [
+              "Clay can be pinched, rolled, pressed, or carved into shapes.",
+              "Some clay pieces are dried or fired to become hard and strong.",
+              "Pottery is one of the oldest art forms."
+            ]
+          }
+        },
+        {
+          "id": "collage",
+          "title": "Collage Art",
+          "url": "/art/collage.webp",
+          "fact": {
+            "title": "Collage Art",
+            "fact": "Collage art is made by arranging and sticking different pieces together to form one picture.",
+            "foodTitle": "Art Materials",
+            "food": "Paper scraps, magazine cutouts, fabric, glue, and stickers are common collage materials.",
+            "strongholdTitle": "Where You Might See It",
+            "stronghold": "Collage is widely used in classrooms, design work, and creative art projects.",
+            "learningPoints": [
+              "Collage combines many textures, colors, and shapes in one artwork.",
+              "Artists can overlap pieces to build layers.",
+              "Recycled materials are often used in collage."
+            ]
+          }
+        },
+        {
+          "id": "crayon",
+          "title": "Crayon Art",
+          "url": "/art/crayon.webp",
+          "fact": {
+            "title": "Crayon Art",
+            "fact": "Crayon art uses wax crayons to make colorful drawings with bold and friendly textures.",
+            "foodTitle": "Art Materials",
+            "food": "Crayons and paper are the main materials, though artists sometimes add watercolor or marker too.",
+            "strongholdTitle": "Where You Might See It",
+            "stronghold": "Crayon art is especially common in schools, homes, and early art learning activities.",
+            "learningPoints": [
+              "Crayons are easy to layer for stronger colors.",
+              "Different hand pressure can make lines lighter or darker.",
+              "Crayon resist art can make fun effects with paint over wax."
+            ]
+          }
+        },
+        {
+          "id": "fingerpaint",
+          "title": "Finger Painting",
+          "url": "/art/fingerpaint.webp",
+          "fact": {
+            "title": "Finger Painting",
+            "fact": "Finger painting lets artists spread paint with their hands and fingers instead of brushes.",
+            "foodTitle": "Art Materials",
+            "food": "Washable paint, thick paper, and aprons are often used for finger painting.",
+            "strongholdTitle": "Where You Might See It",
+            "stronghold": "Finger painting is popular in children’s art activities and sensory play spaces.",
+            "learningPoints": [
+              "It helps children explore color, texture, and movement.",
+              "Hands can make swirls, dots, and broad paint strokes.",
+              "Finger painting often focuses on creativity more than perfect lines."
+            ]
+          }
+        },
+        {
+          "id": "painting",
+          "title": "Painting",
+          "url": "/art/painting.webp",
+          "fact": {
+            "title": "Painting",
+            "fact": "Painting uses color and brushstrokes to create scenes, objects, patterns, or feelings on a surface.",
+            "foodTitle": "Art Materials",
+            "food": "Paint, brushes, palettes, canvas, and paper are common painting materials.",
+            "strongholdTitle": "Where You Might See It",
+            "stronghold": "Paintings are created in studios, schools, galleries, and homes around the world.",
+            "learningPoints": [
+              "Artists can paint with many styles, from realistic to abstract.",
+              "Brush size changes the kind of marks an artist can make.",
+              "Paintings can tell stories or express moods."
+            ]
+          }
+        },
+        {
+          "id": "papercraft",
+          "title": "Paper Craft",
+          "url": "/art/papercraft.webp",
+          "fact": {
+            "title": "Paper Craft",
+            "fact": "Paper craft uses folded, cut, rolled, or layered paper to make artistic shapes and objects.",
+            "foodTitle": "Art Materials",
+            "food": "Colored paper, scissors, glue, and folding tools are common paper craft supplies.",
+            "strongholdTitle": "Where You Might See It",
+            "stronghold": "Paper crafts are made in classrooms, holiday projects, and art studios across many cultures.",
+            "learningPoints": [
+              "Some paper crafts are flat pictures while others become 3D models.",
+              "Origami is a famous paper art based on folding.",
+              "Paper crafting helps with planning shapes and careful hand movements."
+            ]
+          }
+        },
+        {
+          "id": "studio",
+          "title": "Art Studio",
+          "url": "/art/studio.webp",
+          "fact": {
+            "title": "Art Studio",
+            "fact": "An art studio is a creative workspace where artists draw, paint, sculpt, and experiment with materials.",
+            "foodTitle": "Art Materials",
+            "food": "Studios may contain paints, easels, brushes, paper, clay, and many other tools.",
+            "strongholdTitle": "Where You Might See It",
+            "stronghold": "Art studios are found in schools, homes, shared creative spaces, and professional workshops.",
+            "learningPoints": [
+              "Studios are organized so artists can keep tools and projects nearby.",
+              "Different art forms often share the same creative space.",
+              "A studio can be large or small as long as it supports making art."
+            ]
+          }
+        },
+        {
+          "id": "watercolor",
+          "title": "Watercolor",
+          "url": "/art/watercolor.webp",
+          "fact": {
+            "title": "Watercolor",
+            "fact": "Watercolor art uses water-thinned paint to create soft, glowing layers of color.",
+            "foodTitle": "Art Materials",
+            "food": "Watercolor paints, brushes, water, and thick paper are key materials for watercolor art.",
+            "strongholdTitle": "Where You Might See It",
+            "stronghold": "Watercolor painting is used in sketchbooks, classrooms, design work, and fine art around the world.",
+            "learningPoints": [
+              "More water usually makes the color look lighter and more transparent.",
+              "Artists often paint from light colors to darker ones.",
+              "Watercolor can create gentle gradients and flowing textures."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "birds",
+      "title": "Birds",
+      "images": [
+        {
+          "id": "duck",
+          "title": "Duck",
+          "url": "/birds/duck.webp",
+          "fact": {
+            "title": "Duck",
+            "fact": "Ducks have waterproof feathers and webbed feet that help them paddle through water.",
+            "foodTitle": "Food",
+            "food": "Ducks eat plants, seeds, insects, and small water animals.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Ducks are found around lakes, rivers, wetlands, and coasts in many countries around the world.",
+            "learningPoints": [
+              "They spread oil over their feathers to keep water off.",
+              "Some ducks dive underwater while others tip forward to feed.",
+              "Ducklings can often swim soon after hatching."
+            ]
+          }
+        },
+        {
+          "id": "flamingo",
+          "title": "Flamingo",
+          "url": "/birds/flamingo.webp",
+          "fact": {
+            "title": "Flamingo",
+            "fact": "Flamingos get their pink color from pigments in the food they eat, such as algae and tiny crustaceans.",
+            "foodTitle": "Food",
+            "food": "Flamingos filter-feed on algae, shrimp-like animals, and other tiny organisms.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Large flamingo groups are found in parts of Africa, South America, and the Caribbean.",
+            "learningPoints": [
+              "They often stand on one leg to conserve body heat.",
+              "Their beaks are shaped for filtering food from water.",
+              "Flamingos live in big flocks for safety and nesting."
+            ]
+          }
+        },
+        {
+          "id": "hummingbird",
+          "title": "Hummingbird",
+          "url": "/birds/hummingbird.webp",
+          "fact": {
+            "title": "Hummingbird",
+            "fact": "Hummingbirds can hover in place and flap their wings extremely fast to drink nectar from flowers.",
+            "foodTitle": "Food",
+            "food": "Hummingbirds drink nectar and also eat tiny insects for protein.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Hummingbirds live only in the Americas, with many species found in Central and South America.",
+            "learningPoints": [
+              "They can fly backward as well as forward.",
+              "Their long tongues help them sip nectar deep inside flowers.",
+              "Hummingbirds are among the smallest birds in the world."
+            ]
+          }
+        },
+        {
+          "id": "owl",
+          "title": "Owl",
+          "url": "/birds/owl.webp",
+          "fact": {
+            "title": "Owl",
+            "fact": "Owls can turn their heads very far and have excellent night vision for hunting in the dark.",
+            "foodTitle": "Food",
+            "food": "Owls eat small mammals, insects, fish, and other birds depending on the species.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Owls live on every continent except Antarctica, with many species found across forests and grasslands worldwide.",
+            "learningPoints": [
+              "Their soft feathers help them fly almost silently.",
+              "Owls swallow some prey whole and later cough up pellets.",
+              "Their ears are placed to help pinpoint where sounds come from."
+            ]
+          }
+        },
+        {
+          "id": "parrot",
+          "title": "Parrot",
+          "url": "/birds/parrot.webp",
+          "fact": {
+            "title": "Parrot",
+            "fact": "Parrots are known for their curved beaks, bright feathers, and ability to copy sounds.",
+            "foodTitle": "Food",
+            "food": "Parrots often eat seeds, nuts, fruit, and buds.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Many parrot species live in tropical parts of South America, Australia, and Southeast Asia.",
+            "learningPoints": [
+              "Parrots use their strong beaks like a third hand when climbing.",
+              "Some parrots can learn to mimic human speech.",
+              "They are very social birds and often live in groups."
+            ]
+          }
+        },
+        {
+          "id": "peacock",
+          "title": "Peacock",
+          "url": "/birds/peacock.webp",
+          "fact": {
+            "title": "Peacock",
+            "fact": "Male peafowl, often called peacocks, spread their colorful tail feathers in a huge fan display.",
+            "foodTitle": "Food",
+            "food": "Peafowl eat seeds, insects, fruit, and small creatures.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Indian peafowl are native to India and nearby parts of South Asia.",
+            "learningPoints": [
+              "The shiny eye-spots on the tail help attract attention.",
+              "Peafowl can fly short distances even with long tail feathers.",
+              "The female is called a peahen."
+            ]
+          }
+        },
+        {
+          "id": "penguin",
+          "title": "Penguin",
+          "url": "/birds/penguin.webp",
+          "fact": {
+            "title": "Penguin",
+            "fact": "Penguins cannot fly, but they use their wings like flippers to glide quickly through water.",
+            "foodTitle": "Food",
+            "food": "Penguins eat fish, krill, and squid.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Many penguins live in the Southern Hemisphere, with Antarctica and nearby coasts being famous strongholds.",
+            "learningPoints": [
+              "Their black-and-white feathers help camouflage them in water.",
+              "Penguins huddle together to stay warm.",
+              "Different penguin species live in very different climates."
+            ]
+          }
+        },
+        {
+          "id": "sparrow",
+          "title": "Sparrow",
+          "url": "/birds/sparrow.webp",
+          "fact": {
+            "title": "Sparrow",
+            "fact": "Sparrows are small, active birds that often live close to people and communicate with many chirps.",
+            "foodTitle": "Food",
+            "food": "Sparrows eat seeds, grains, and small insects.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Sparrows are common in many countries across Europe, Asia, Africa, and the Americas.",
+            "learningPoints": [
+              "Their short beaks are well suited for cracking seeds.",
+              "Sparrows often travel and feed in flocks.",
+              "They can build nests in trees, roofs, and small gaps in buildings."
+            ]
+          }
+        },
+        {
+          "id": "toucan",
+          "title": "Toucan",
+          "url": "/birds/toucan.webp",
+          "fact": {
+            "title": "Toucan",
+            "fact": "Toucans have very large, lightweight beaks that help them reach and peel fruit.",
+            "foodTitle": "Food",
+            "food": "Toucans eat fruit, insects, eggs, and small animals.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Toucans live in the rainforests of Central and South America.",
+            "learningPoints": [
+              "Their colorful beaks also help them release body heat.",
+              "Toucans hop from branch to branch rather than walking on the ground.",
+              "They nest in tree holes."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "body_parts",
+      "title": "Body Parts",
+      "images": [
+        {
+          "id": "arm",
+          "title": "Arm",
+          "url": "/body_parts/arm.webp",
+          "fact": {
+            "title": "Arm",
+            "fact": "Your arms help you lift, reach, wave, hug, and carry many things every day.",
+            "foodTitle": "Food",
+            "food": "Strong arms are helped by healthy foods, water, and active play.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "People around the world use their arms for work, sports, art, and daily activities.",
+            "learningPoints": [
+              "Your arm includes the upper arm, elbow, forearm, wrist, and hand.",
+              "Muscles and bones work together to help the arm move.",
+              "Arms help with balance and movement too."
+            ]
+          }
+        },
+        {
+          "id": "ear",
+          "title": "Ear",
+          "url": "/body_parts/ear.webp",
+          "fact": {
+            "title": "Ear",
+            "fact": "Ears help us hear sounds and also help our bodies keep balance.",
+            "foodTitle": "Food",
+            "food": "Healthy eating and protecting ears from loud noise help them work well.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Ears are important body parts for people and many animals around the world.",
+            "learningPoints": [
+              "The outer ear collects sound and sends it inward.",
+              "Tiny parts inside the ear help the brain understand sound.",
+              "The inner ear also helps you know if you are standing, turning, or moving."
+            ]
+          }
+        },
+        {
+          "id": "eye",
+          "title": "Eye",
+          "url": "/body_parts/eye.webp",
+          "fact": {
+            "title": "Eye",
+            "fact": "Eyes help us see colors, shapes, light, movement, and the world around us.",
+            "foodTitle": "Food",
+            "food": "Foods like carrots, leafy greens, and colorful fruits can help support eye health.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Eyes are one of the main sense organs used by people everywhere.",
+            "learningPoints": [
+              "The pupil changes size to let more or less light in.",
+              "Your brain works with your eyes to build the picture you see.",
+              "Blinking helps keep your eyes moist and clean."
+            ]
+          }
+        },
+        {
+          "id": "hair",
+          "title": "Hair",
+          "url": "/body_parts/hair.webp",
+          "fact": {
+            "title": "Hair",
+            "fact": "Hair helps protect the head from sunlight and can also help keep the body warm.",
+            "foodTitle": "Food",
+            "food": "Healthy foods with protein and vitamins help hair grow strong.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "People all around the world have different hair colors, textures, and styles.",
+            "learningPoints": [
+              "Hair grows from tiny openings in the skin called follicles.",
+              "Hair does not feel pain when cut because the part above the skin is not alive.",
+              "Eyebrows and eyelashes are also types of hair that help protect the eyes."
+            ]
+          }
+        },
+        {
+          "id": "hand",
+          "title": "Hand",
+          "url": "/body_parts/hand.webp",
+          "fact": {
+            "title": "Hand",
+            "fact": "Hands help us hold, draw, clap, build, write, and explore many textures.",
+            "foodTitle": "Food",
+            "food": "Healthy meals and exercise help the muscles in your hands stay strong.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Hands are used every day by people all over the world for learning and play.",
+            "learningPoints": [
+              "Each hand has fingers and a thumb that make gripping easier.",
+              "Hands have many small bones that allow careful movement.",
+              "Fingerprints on your hands are unique to you."
+            ]
+          }
+        },
+        {
+          "id": "leg",
+          "title": "Leg",
+          "url": "/body_parts/leg.webp",
+          "fact": {
+            "title": "Leg",
+            "fact": "Legs help us stand, walk, run, jump, dance, and climb.",
+            "foodTitle": "Food",
+            "food": "Bones and muscles in the legs are supported by movement and healthy foods.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "People depend on their legs every day for travel, sports, and balance.",
+            "learningPoints": [
+              "The thigh, knee, calf, ankle, and foot are all part of the leg area.",
+              "Leg muscles are some of the strongest muscles in the body.",
+              "Legs work with the feet to help the body stay balanced."
+            ]
+          }
+        },
+        {
+          "id": "mouth",
+          "title": "Mouth",
+          "url": "/body_parts/mouth.webp",
+          "fact": {
+            "title": "Mouth",
+            "fact": "The mouth helps us eat, drink, speak, sing, and show expressions like smiling.",
+            "foodTitle": "Food",
+            "food": "Teeth and gums stay healthiest with water, balanced meals, and regular brushing.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Mouths are important for communication and eating in people around the world.",
+            "learningPoints": [
+              "Teeth inside the mouth help bite and chew food.",
+              "The tongue helps with tasting and speaking.",
+              "Saliva helps soften food and keep the mouth moist."
+            ]
+          }
+        },
+        {
+          "id": "neck",
+          "title": "Neck",
+          "url": "/body_parts/neck.webp",
+          "fact": {
+            "title": "Neck",
+            "fact": "The neck supports the head and helps it turn, tilt, and look in different directions.",
+            "foodTitle": "Food",
+            "food": "Good posture, stretching, and healthy habits help keep the neck comfortable.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "The neck is an important connecting part of the body for everyone.",
+            "learningPoints": [
+              "The neck links the head to the shoulders and chest.",
+              "It contains bones, muscles, and the airway.",
+              "The neck helps protect important nerves and blood vessels."
+            ]
+          }
+        },
+        {
+          "id": "nose",
+          "title": "Nose",
+          "url": "/body_parts/nose.webp",
+          "fact": {
+            "title": "Nose",
+            "fact": "The nose helps us smell scents and also helps clean and warm the air we breathe.",
+            "foodTitle": "Food",
+            "food": "Smelling food with the nose helps the brain notice flavors and freshness.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "People use their noses every day to breathe and detect smells all around the world.",
+            "learningPoints": [
+              "Tiny sensors inside the nose help recognize many different smells.",
+              "The nose and tongue work together to help us enjoy flavor.",
+              "Nose hairs and mucus help trap dust before it enters the lungs."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "colors",
+      "title": "Colors",
+      "images": []
+    },
+    {
+      "id": "daily_puzzle",
+      "title": "Daily Puzzle",
+      "images": [
+        {
+          "id": "arctic_wildlife",
+          "title": "Arctic Wildlife",
+          "url": "/daily_puzzle/arctic_wildlife.webp"
+        },
+        {
+          "id": "birds",
+          "title": "Birds",
+          "url": "/daily_puzzle/birds.webp"
+        },
+        {
+          "id": "body_parts",
+          "title": "Body Parts",
+          "url": "/daily_puzzle/body_parts.webp"
+        },
+        {
+          "id": "coral_seaworld",
+          "title": "Coral Seaworld",
+          "url": "/daily_puzzle/coral_seaworld.webp"
+        },
+        {
+          "id": "dog",
+          "title": "Dog",
+          "url": "/daily_puzzle/dog.webp"
+        },
+        {
+          "id": "fruits",
+          "title": "Fruits",
+          "url": "/daily_puzzle/fruits.webp"
+        },
+        {
+          "id": "galaxy_space",
+          "title": "Galaxy Space",
+          "url": "/daily_puzzle/galaxy_space.webp"
+        },
+        {
+          "id": "nature_rainforest",
+          "title": "Nature Rainforest",
+          "url": "/daily_puzzle/nature_rainforest.webp"
+        },
+        {
+          "id": "ocean_whales",
+          "title": "Ocean Whales",
+          "url": "/daily_puzzle/ocean_whales.webp"
+        },
+        {
+          "id": "savanna_animals",
+          "title": "Savanna Animals",
+          "url": "/daily_puzzle/savanna_animals.webp"
+        },
+        {
+          "id": "sealife",
+          "title": "Sealife",
+          "url": "/daily_puzzle/sealife.webp"
+        },
+        {
+          "id": "valley_rainbow",
+          "title": "Valley Rainbow",
+          "url": "/daily_puzzle/valley_rainbow.webp"
+        },
+        {
+          "id": "weather",
+          "title": "Weather",
+          "url": "/daily_puzzle/weather.webp"
+        },
+        {
+          "id": "weather_storm",
+          "title": "Weather Storm",
+          "url": "/daily_puzzle/weather_storm.webp"
+        },
+        {
+          "id": "wile_animals",
+          "title": "Wile Animals",
+          "url": "/daily_puzzle/wile_animals.webp"
+        }
+      ]
+    },
+    {
+      "id": "dino",
+      "title": "Dino",
+      "images": [
+        {
+          "id": "balloon",
+          "title": "Balloon",
+          "url": "/dino/balloon.webp"
+        },
+        {
+          "id": "brachiosaurus",
+          "title": "Brachiosaurus",
+          "url": "/dino/brachiosaurus.webp"
+        },
+        {
+          "id": "bunny",
+          "title": "Bunny",
+          "url": "/dino/bunny.webp"
+        },
+        {
+          "id": "dinosaur",
+          "title": "Dinosaur",
+          "url": "/dino/dinosaur.webp"
+        },
+        {
+          "id": "fox",
+          "title": "Fox",
+          "url": "/dino/fox.webp"
+        },
+        {
+          "id": "jungle",
+          "title": "Jungle",
+          "url": "/dino/jungle.webp"
+        },
+        {
+          "id": "rocket",
+          "title": "Rocket",
+          "url": "/dino/rocket.webp"
+        },
+        {
+          "id": "stegosaurus",
+          "title": "Stegosaurus",
+          "url": "/dino/stegosaurus.webp"
+        },
+        {
+          "id": "tractor",
+          "title": "Tractor",
+          "url": "/dino/tractor.webp"
+        },
+        {
+          "id": "treehouse",
+          "title": "Treehouse",
+          "url": "/dino/treehouse.webp"
+        },
+        {
+          "id": "trex",
+          "title": "Trex",
+          "url": "/dino/trex.webp"
+        },
+        {
+          "id": "triceratops",
+          "title": "Triceratops",
+          "url": "/dino/triceratops.webp"
+        },
+        {
+          "id": "turtle",
+          "title": "Turtle",
+          "url": "/dino/turtle.webp"
+        },
+        {
+          "id": "whale",
+          "title": "Whale",
+          "url": "/dino/whale.webp"
+        }
+      ]
+    },
+    {
+      "id": "fruits",
+      "title": "Fruits",
+      "images": [
+        {
+          "id": "apple",
+          "title": "Apple",
+          "url": "/fruits/apple.webp",
+          "fact": {
+            "title": "Apple",
+            "fact": "Apples grow on trees and come in many colors such as red, green, and yellow.",
+            "foodTitle": "Food",
+            "food": "Apples are fruits that people can eat fresh, cooked, or dried.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "China is one of the world’s largest apple-growing countries.",
+            "learningPoints": [
+              "Apple trees blossom with flowers before the fruit grows.",
+              "Apples contain fiber and vitamin C.",
+              "There are thousands of apple varieties around the world."
+            ]
+          }
+        },
+        {
+          "id": "banana",
+          "title": "Banana",
+          "url": "/fruits/banana.webp",
+          "fact": {
+            "title": "Banana",
+            "fact": "Bananas grow in large hanging clusters and are picked while still green so they can ripen later.",
+            "foodTitle": "Food",
+            "food": "Bananas are soft, sweet fruits often eaten raw.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "India is one of the biggest banana-producing countries in the world.",
+            "learningPoints": [
+              "Banana plants are giant herbs, not trees.",
+              "Bananas are a good source of potassium.",
+              "The peel protects the fruit as it grows."
+            ]
+          }
+        },
+        {
+          "id": "blueberry",
+          "title": "Blueberry",
+          "url": "/fruits/blueberry.webp",
+          "fact": {
+            "title": "Blueberry",
+            "fact": "Blueberries are small berries that often grow in clusters on shrubs.",
+            "foodTitle": "Food",
+            "food": "Blueberries are sweet fruits eaten fresh or baked into foods.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "The United States and Canada are well known for blueberry production.",
+            "learningPoints": [
+              "Blueberries start out green before turning blue.",
+              "They contain antioxidants that help protect cells.",
+              "Many birds also enjoy eating blueberries."
+            ]
+          }
+        },
+        {
+          "id": "grapes",
+          "title": "Grapes",
+          "url": "/fruits/grapes.webp",
+          "fact": {
+            "title": "Grapes",
+            "fact": "Grapes grow in bunches on vines and can be eaten fresh or dried into raisins.",
+            "foodTitle": "Food",
+            "food": "Grapes are sweet fruits that can be purple, red, or green.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "China is one of the largest grape-growing countries in the world.",
+            "learningPoints": [
+              "Grape vines need support as they grow.",
+              "Some grapes have seeds while others do not.",
+              "Raisins are dried grapes."
+            ]
+          }
+        },
+        {
+          "id": "mango",
+          "title": "Mango",
+          "url": "/fruits/mango.webp",
+          "fact": {
+            "title": "Mango",
+            "fact": "Mangoes are tropical fruits known for their sweet taste and smooth orange-yellow flesh.",
+            "foodTitle": "Food",
+            "food": "Mangoes are eaten fresh and also used in drinks, salads, and desserts.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "India is one of the biggest mango-producing countries in the world.",
+            "learningPoints": [
+              "Each mango usually has one large seed in the center.",
+              "Mango trees can grow quite large.",
+              "Different mango varieties can taste a little different."
+            ]
+          }
+        },
+        {
+          "id": "orange",
+          "title": "Orange",
+          "url": "/fruits/orange.webp",
+          "fact": {
+            "title": "Orange",
+            "fact": "Oranges are citrus fruits known for their juicy segments and fresh smell.",
+            "foodTitle": "Food",
+            "food": "Oranges are eaten fresh and also used for juice.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Brazil is one of the strongest orange-producing countries in the world.",
+            "learningPoints": [
+              "Orange trees can keep green leaves all year long.",
+              "The fruit is rich in vitamin C.",
+              "Its thick peel helps protect the juicy inside."
+            ]
+          }
+        },
+        {
+          "id": "pineapple",
+          "title": "Apple",
+          "url": "/fruits/pineapple.webp",
+          "fact": {
+            "title": "Apple",
+            "fact": "Apples grow on trees and come in many colors such as red, green, and yellow.",
+            "foodTitle": "Food",
+            "food": "Apples are fruits that people can eat fresh, cooked, or dried.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "China is one of the world’s largest apple-growing countries.",
+            "learningPoints": [
+              "Apple trees blossom with flowers before the fruit grows.",
+              "Apples contain fiber and vitamin C.",
+              "There are thousands of apple varieties around the world."
+            ]
+          }
+        },
+        {
+          "id": "strawberry",
+          "title": "Strawberry",
+          "url": "/fruits/strawberry.webp",
+          "fact": {
+            "title": "Strawberry",
+            "fact": "Strawberries are unusual because their seeds are on the outside of the fruit.",
+            "foodTitle": "Food",
+            "food": "Strawberries are sweet fruits often eaten fresh or used in desserts.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "China and the United States are among the major strawberry-producing countries.",
+            "learningPoints": [
+              "A strawberry plant can spread using runners.",
+              "The bright red color helps attract animals that spread seeds.",
+              "Strawberries are a good source of vitamin C."
+            ]
+          }
+        },
+        {
+          "id": "watermelon",
+          "title": "Watermelon",
+          "url": "/fruits/watermelon.webp",
+          "fact": {
+            "title": "Watermelon",
+            "fact": "Watermelons are large fruits with a lot of water inside, which helps them stay refreshing.",
+            "foodTitle": "Food",
+            "food": "Watermelon is eaten fresh and has sweet red or pink flesh.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "China grows more watermelons than any other country.",
+            "learningPoints": [
+              "Watermelons grow on sprawling vines along the ground.",
+              "They can have black seeds, pale seeds, or be seedless.",
+              "The rind protects the juicy center as it grows."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "imagination",
+      "title": "Imagination",
+      "images": [
+        {
+          "id": "balloons",
+          "title": "Balloons",
+          "url": "/imagination/balloons.webp"
+        },
+        {
+          "id": "castle",
+          "title": "Castle",
+          "url": "/imagination/castle.webp"
+        },
+        {
+          "id": "crystal",
+          "title": "Crystal",
+          "url": "/imagination/crystal.webp"
+        },
+        {
+          "id": "dinosaurs",
+          "title": "Dinosaurs",
+          "url": "/imagination/dinosaurs.webp"
+        },
+        {
+          "id": "garden",
+          "title": "Garden",
+          "url": "/imagination/garden.webp"
+        },
+        {
+          "id": "island",
+          "title": "Island",
+          "url": "/imagination/island.webp"
+        },
+        {
+          "id": "library",
+          "title": "Library",
+          "url": "/imagination/library.webp"
+        },
+        {
+          "id": "meadow",
+          "title": "Meadow",
+          "url": "/imagination/meadow.webp"
+        },
+        {
+          "id": "treehouse",
+          "title": "Treehouse",
+          "url": "/imagination/treehouse.webp"
+        },
+        {
+          "id": "underwater",
+          "title": "Underwater",
+          "url": "/imagination/underwater.webp"
+        }
+      ]
+    },
+    {
+      "id": "months",
+      "title": "Months",
+      "images": [
+        {
+          "id": "april",
+          "title": "April",
+          "url": "/months/april.webp"
+        },
+        {
+          "id": "august",
+          "title": "August",
+          "url": "/months/august.webp"
+        },
+        {
+          "id": "december",
+          "title": "December",
+          "url": "/months/december.webp"
+        },
+        {
+          "id": "february",
+          "title": "February",
+          "url": "/months/february.webp"
+        },
+        {
+          "id": "january",
+          "title": "January",
+          "url": "/months/january.webp"
+        },
+        {
+          "id": "july",
+          "title": "July",
+          "url": "/months/july.webp"
+        },
+        {
+          "id": "june",
+          "title": "June",
+          "url": "/months/june.webp"
+        },
+        {
+          "id": "march",
+          "title": "March",
+          "url": "/months/march.webp"
+        },
+        {
+          "id": "may",
+          "title": "May",
+          "url": "/months/may.webp"
+        },
+        {
+          "id": "november",
+          "title": "November",
+          "url": "/months/november.webp"
+        },
+        {
+          "id": "october",
+          "title": "October",
+          "url": "/months/october.webp"
+        },
+        {
+          "id": "september",
+          "title": "September",
+          "url": "/months/september.webp"
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "title": "Nature",
+      "images": [
+        {
+          "id": "angel",
+          "title": "Waterfall in a Misty Jungle",
+          "url": "/nature/angel.webp",
+          "fact": {
+            "title": "Waterfall in a Misty Jungle",
+            "fact": "A waterfall forms where a river drops over a steep rock edge or cliff.",
+            "foodTitle": "What You See",
+            "food": "This scene features falling water, misty air, lush plants, and a green valley.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Waterfalls are found worldwide, especially in mountainous and rainy regions.",
+            "learningPoints": [
+              "Mist from waterfalls can help nearby plants stay moist.",
+              "Fast-moving water can slowly shape the rocks below.",
+              "Jungle valleys often support many kinds of plants and animals."
+            ]
+          }
+        },
+        {
+          "id": "aurora",
+          "title": "Aurora Over Icy Lagoon",
+          "url": "/nature/aurora.webp",
+          "fact": {
+            "title": "Aurora Over Icy Lagoon",
+            "fact": "An aurora is a glowing light display in the sky created when particles from space interact with Earth’s atmosphere.",
+            "foodTitle": "What You See",
+            "food": "This scene is known for colorful night skies, icy water, and reflections on the lagoon.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Auroras are most common near the Arctic and Antarctic regions, including Iceland, Norway, and Canada.",
+            "learningPoints": [
+              "Auroras can appear green, pink, purple, and red.",
+              "They are easier to see on dark, clear nights.",
+              "The same natural event is called aurora borealis in the north and aurora australis in the south."
+            ]
+          }
+        },
+        {
+          "id": "basalt",
+          "title": "Stormy Waves on a Rugged Coast",
+          "url": "/nature/basalt.webp",
+          "fact": {
+            "title": "Stormy Waves on a Rugged Coast",
+            "fact": "Powerful ocean waves can crash against rocky shores and reshape coastlines over time.",
+            "foodTitle": "What You See",
+            "food": "This scene features rough seas, dark clouds, and rocky cliffs along the shore.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Stormy coastlines are common in windy ocean regions such as the North Atlantic and the Southern Ocean.",
+            "learningPoints": [
+              "Strong storms can make waves much larger than usual.",
+              "Rocky coasts are worn down little by little by water and wind.",
+              "Sea spray can travel far inland during rough weather."
+            ]
+          }
+        },
+        {
+          "id": "biolume",
+          "title": "Glowing Mangrove Bay",
+          "url": "/nature/biolume.webp",
+          "fact": {
+            "title": "Glowing Mangrove Bay",
+            "fact": "Some bays glow at night because tiny living organisms in the water create bioluminescent light.",
+            "foodTitle": "What You See",
+            "food": "This scene includes glowing water, mangrove trees, and a sky full of stars.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Bioluminescent bays are found in places such as Puerto Rico and some tropical coastal regions.",
+            "learningPoints": [
+              "Mangroves grow along salty coasts and help protect shorelines.",
+              "Bioluminescence is light made by living things.",
+              "The glow often becomes brighter when the water is disturbed."
+            ]
+          }
+        },
+        {
+          "id": "canyon",
+          "title": "Sunlight Through Canyon Walls",
+          "url": "/nature/canyon.webp",
+          "fact": {
+            "title": "Sunlight Through Canyon Walls",
+            "fact": "Canyons are deep valleys cut by rivers or floods over long periods of time.",
+            "foodTitle": "What You See",
+            "food": "This scene shows narrow rock walls, warm sunlight beams, and smooth canyon curves.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Beautiful canyons are found in many dry regions, including the United States, Jordan, and Australia.",
+            "learningPoints": [
+              "Sunlight can create glowing colors on canyon walls.",
+              "Flash floods can help carve narrow canyon passages.",
+              "Different rock layers can show Earth’s history over time."
+            ]
+          }
+        },
+        {
+          "id": "dragon",
+          "title": "Giant Trees in a Rocky Desert",
+          "url": "/nature/dragon.webp",
+          "fact": {
+            "title": "Giant Trees in a Rocky Desert",
+            "fact": "Some hardy trees can survive in dry places with little rain by storing water and growing deep roots.",
+            "foodTitle": "What You See",
+            "food": "This scene shows giant trees, dry rocky ground, and wide open desert skies.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Tree-filled desert landscapes can be found in places such as Socotra, Namibia, and the American Southwest.",
+            "learningPoints": [
+              "Desert plants often grow slowly and conserve water carefully.",
+              "Rocks and sand can become extremely hot during the day.",
+              "Even dry landscapes can support unique life forms."
+            ]
+          }
+        },
+        {
+          "id": "pillars",
+          "title": "Sandstone Pillars in Mist",
+          "url": "/nature/pillars.webp",
+          "fact": {
+            "title": "Sandstone Pillars in Mist",
+            "fact": "Sandstone pillars are tall rock formations shaped over time by wind, rain, and changing temperatures.",
+            "foodTitle": "What You See",
+            "food": "This scene shows steep rock pillars, misty air, and a green forested valley.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Towering sandstone formations are found in places such as China, the United States, and parts of Europe.",
+            "learningPoints": [
+              "Sandstone forms from layers of sand pressed together over a very long time.",
+              "Mist can make distant cliffs look softer and more mysterious.",
+              "Erosion slowly changes rock shapes over thousands of years."
+            ]
+          }
+        },
+        {
+          "id": "prismatic",
+          "title": "Geothermal Springs",
+          "url": "/nature/prismatic.webp",
+          "fact": {
+            "title": "Geothermal Springs",
+            "fact": "Geothermal springs are heated by warm energy from deep inside the Earth.",
+            "foodTitle": "What You See",
+            "food": "This scene features steaming water, mineral-rich pools, and surrounding forest views.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Geothermal springs are common in places with volcanic activity, such as Iceland, New Zealand, and Yellowstone in the United States.",
+            "learningPoints": [
+              "Some springs bubble because hot water and gases rise to the surface.",
+              "Minerals can color the water and rocks in surprising shades.",
+              "These areas can be very hot, so people should stay on safe paths."
+            ]
+          }
+        },
+        {
+          "id": "saltflat",
+          "title": "Mirror of the Fiery Sky",
+          "url": "/nature/saltflat.webp",
+          "fact": {
+            "title": "Mirror of the Fiery Sky",
+            "fact": "Still water can reflect a colorful sunrise or sunset so clearly that it looks like a mirror.",
+            "foodTitle": "What You See",
+            "food": "This scene is known for calm water, dramatic sky colors, and bright reflections.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "These reflections can happen anywhere there is still water and a vivid sky.",
+            "learningPoints": [
+              "Red and orange skies often appear when sunlight travels through more of the atmosphere.",
+              "Wind can break up a reflection by making waves.",
+              "Reflections are easier to see on smooth water than on rough water."
+            ]
+          }
+        },
+        {
+          "id": "terraces",
+          "title": "Cascading Terraces",
+          "url": "/nature/terraces.webp",
+          "fact": {
+            "title": "Cascading Terraces",
+            "fact": "Terraces are step-like levels built on hillsides to manage water and make farming easier.",
+            "foodTitle": "What You See",
+            "food": "This scene is known for layered slopes, shining water, and warm golden tones.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Terraced landscapes are found in countries such as China, Vietnam, Peru, and the Philippines.",
+            "learningPoints": [
+              "Terraces help keep soil from washing away.",
+              "They can hold water for crops like rice.",
+              "Sunlight can make terraced fields glow beautifully at sunrise or sunset."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "numbers",
+      "title": "Numbers",
+      "images": [
+        {
+          "id": "0",
+          "title": "Zero",
+          "url": "/numbers/0.webp",
+          "fact": {
+            "title": "Zero",
+            "fact": "Zero means none at all, and it is an important number in math and counting.",
+            "foodTitle": "Food",
+            "food": "You can use zero when talking about food, like zero cookies left on the plate.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Zero is used in number systems all around the world.",
+            "learningPoints": [
+              "Zero acts as a placeholder in larger numbers like 10 and 100.",
+              "It helps show that nothing is in a group.",
+              "Adding zero to a number does not change the number."
+            ]
+          }
+        },
+        {
+          "id": "1",
+          "title": "One",
+          "url": "/numbers/1.webp",
+          "fact": {
+            "title": "One",
+            "fact": "One is the first counting number and means a single thing.",
+            "foodTitle": "Food",
+            "food": "You can count one apple, one carrot, or one slice of bread.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "The number one is used in counting systems everywhere.",
+            "learningPoints": [
+              "One stands for a single object or idea.",
+              "It is the building block for larger numbers.",
+              "When you add one, the count grows by a single step."
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "title": "Two",
+          "url": "/numbers/2.webp",
+          "fact": {
+            "title": "Two",
+            "fact": "Two means a pair, like two shoes or two eyes.",
+            "foodTitle": "Food",
+            "food": "You might have two bananas or two peas in a small group.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Two is a basic number used worldwide in counting and measuring.",
+            "learningPoints": [
+              "Two things together can make a pair.",
+              "Many animals and people have two eyes and two ears.",
+              "Two is an even number."
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "title": "Three",
+          "url": "/numbers/3.webp",
+          "fact": {
+            "title": "Three",
+            "fact": "Three is often seen in groups, like traffic-light colors or the sides of a triangle.",
+            "foodTitle": "Food",
+            "food": "You can count three grapes, three peas, or three cookies.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Three is used around the world in counting, shapes, and patterns.",
+            "learningPoints": [
+              "A triangle has three sides.",
+              "Three is an odd number.",
+              "Many stories and songs use groups of three because they are easy to remember."
+            ]
+          }
+        },
+        {
+          "id": "4",
+          "title": "Four",
+          "url": "/numbers/4.webp",
+          "fact": {
+            "title": "Four",
+            "fact": "Four is common in nature and everyday life, like four seasons or four legs on many animals.",
+            "foodTitle": "Food",
+            "food": "A child might count four strawberries or four slices of cucumber.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Four is a widely used counting number across the world.",
+            "learningPoints": [
+              "A square has four sides.",
+              "Many tables and chairs stand on four legs.",
+              "Four is an even number."
+            ]
+          }
+        },
+        {
+          "id": "5",
+          "title": "Five",
+          "url": "/numbers/5.webp",
+          "fact": {
+            "title": "Five",
+            "fact": "Five is easy to spot because many people have five fingers on each hand.",
+            "foodTitle": "Food",
+            "food": "You can count five blueberries or five pieces of popcorn.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Five is used worldwide in counting, games, and measuring.",
+            "learningPoints": [
+              "Hands make five easy to learn by counting fingers.",
+              "Five is an odd number.",
+              "Many star shapes are drawn with five points."
+            ]
+          }
+        },
+        {
+          "id": "6",
+          "title": "Six",
+          "url": "/numbers/6.webp",
+          "fact": {
+            "title": "Six",
+            "fact": "Six appears in nature too, such as the six legs of an insect.",
+            "foodTitle": "Food",
+            "food": "A snack bowl could hold six grapes or six crackers.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Six is used around the world in counting and grouping.",
+            "learningPoints": [
+              "Many insects have six legs.",
+              "Six is an even number.",
+              "A hexagon has six sides."
+            ]
+          }
+        },
+        {
+          "id": "7",
+          "title": "Seven",
+          "url": "/numbers/7.webp",
+          "fact": {
+            "title": "Seven",
+            "fact": "Seven is a number often remembered in songs, stories, and the days of the week.",
+            "foodTitle": "Food",
+            "food": "A child could count seven peas or seven orange slices.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Seven is a familiar counting number used globally.",
+            "learningPoints": [
+              "There are seven days in a week.",
+              "Seven is an odd number.",
+              "It is often seen as a special number in stories and games."
+            ]
+          }
+        },
+        {
+          "id": "8",
+          "title": "Eight",
+          "url": "/numbers/8.webp",
+          "fact": {
+            "title": "Eight",
+            "fact": "Eight can be seen in nature, like the eight legs of an octopus or spider.",
+            "foodTitle": "Food",
+            "food": "You might count eight raisins or eight berries in a snack.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Eight is used in counting and math all over the world.",
+            "learningPoints": [
+              "An octopus has eight arms.",
+              "Eight is an even number.",
+              "When turned sideways, 8 looks like the infinity symbol."
+            ]
+          }
+        },
+        {
+          "id": "9",
+          "title": "Nine",
+          "url": "/numbers/9.webp",
+          "fact": {
+            "title": "Nine",
+            "fact": "Nine is one step before ten and helps children practice bigger number groups.",
+            "foodTitle": "Food",
+            "food": "You can count nine seeds, nine peas, or nine crackers.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Nine is a standard counting number used worldwide.",
+            "learningPoints": [
+              "Nine is an odd number.",
+              "It comes right before ten.",
+              "Three groups of three make nine."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "ocean",
+      "title": "Ocean",
+      "images": [
+        {
+          "id": "clownfish",
+          "title": "Clownfish",
+          "url": "/ocean/clownfish.webp",
+          "fact": {
+            "title": "Clownfish",
+            "fact": "Clownfish are small, bright fish famous for living safely among the stinging tentacles of sea anemones.",
+            "foodTitle": "Food",
+            "food": "Clownfish eat algae, plankton, and tiny sea animals.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Clownfish live in warm waters of the Indian and Pacific Oceans.",
+            "learningPoints": [
+              "A special mucus on their skin helps protect them from anemone stings.",
+              "They are usually orange with white stripes.",
+              "Clownfish and sea anemones help each other survive."
+            ]
+          }
+        },
+        {
+          "id": "dolphin",
+          "title": "Dolphin",
+          "url": "/ocean/dolphin.webp",
+          "fact": {
+            "title": "Dolphin",
+            "fact": "Dolphins are smart marine mammals that breathe air and often live in social groups called pods.",
+            "foodTitle": "Food",
+            "food": "Dolphins eat fish, squid, and other small sea animals.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Many dolphins live in warm and temperate oceans around the world, with large populations in the Atlantic and Pacific Oceans.",
+            "learningPoints": [
+              "Dolphins come to the surface to breathe through a blowhole.",
+              "They use clicks and whistles to communicate and find food.",
+              "Dolphins are mammals, so mothers feed milk to their babies."
+            ]
+          }
+        },
+        {
+          "id": "jellyfish",
+          "title": "Jellyfish",
+          "url": "/ocean/jellyfish.webp",
+          "fact": {
+            "title": "Jellyfish",
+            "fact": "Jellyfish have soft, umbrella-shaped bodies and trailing tentacles that drift through the water.",
+            "foodTitle": "Food",
+            "food": "Jellyfish eat tiny fish, plankton, and other small sea creatures.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Jellyfish live in oceans all over the world, from shallow coasts to deep sea waters.",
+            "learningPoints": [
+              "Some jellyfish glow in the dark ocean with bioluminescence.",
+              "Their tentacles can sting to help catch food.",
+              "Jellyfish have no bones, brain, or heart."
+            ]
+          }
+        },
+        {
+          "id": "lionfish",
+          "title": "Lionfish",
+          "url": "/ocean/lionfish.webp",
+          "fact": {
+            "title": "Lionfish",
+            "fact": "Lionfish are striking reef fish with long, fan-like spines and bold stripes.",
+            "foodTitle": "Food",
+            "food": "Lionfish eat small fish and crustaceans.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Lionfish are native to the Indo-Pacific region, though they are also found in other waters as an invasive species.",
+            "learningPoints": [
+              "Their spines contain venom for defense.",
+              "Lionfish often move slowly and hunt by surprising prey.",
+              "Their dramatic fins help them look larger to predators."
+            ]
+          }
+        },
+        {
+          "id": "manta_ray",
+          "title": "Manta Ray",
+          "url": "/ocean/manta_ray.webp",
+          "fact": {
+            "title": "Manta Ray",
+            "fact": "Manta rays are large, graceful sea animals with wide fins that look like underwater wings.",
+            "foodTitle": "Food",
+            "food": "Manta rays mainly eat plankton and tiny sea animals.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Manta rays are found in tropical and subtropical oceans around the world.",
+            "learningPoints": [
+              "They glide through the water with smooth, powerful movements.",
+              "Manta rays do not have the stinging tail seen in some other rays.",
+              "They often visit coral reefs and cleaning stations."
+            ]
+          }
+        },
+        {
+          "id": "octopus",
+          "title": "Octopus",
+          "url": "/ocean/octopus.webp",
+          "fact": {
+            "title": "Octopus",
+            "fact": "Octopuses are clever sea animals with eight arms and strong suckers.",
+            "foodTitle": "Food",
+            "food": "Octopuses eat crabs, shellfish, and other small sea creatures.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Octopuses live in oceans all over the world, often hiding in reefs and rocky seafloors.",
+            "learningPoints": [
+              "An octopus can squeeze through very small spaces.",
+              "It can change color to help hide from predators.",
+              "Octopuses are known for problem-solving skills."
+            ]
+          }
+        },
+        {
+          "id": "sea_turtle",
+          "title": "Sea Turtle",
+          "url": "/ocean/sea_turtle.webp",
+          "fact": {
+            "title": "Sea Turtle",
+            "fact": "Sea turtles are reptiles that spend most of their lives in the ocean but come onto beaches to lay eggs.",
+            "foodTitle": "Food",
+            "food": "Different sea turtles eat seagrass, jellyfish, crabs, and other sea life.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Sea turtles live in warm and temperate oceans, with important nesting beaches in countries such as Australia, Costa Rica, and Oman.",
+            "learningPoints": [
+              "Sea turtles can travel very long distances in the ocean.",
+              "Their flippers help them swim strongly through the water.",
+              "Many baby turtles hatch on beaches and head to the sea on their own."
+            ]
+          }
+        },
+        {
+          "id": "seahorse",
+          "title": "Seahorse",
+          "url": "/ocean/seahorse.webp",
+          "fact": {
+            "title": "Seahorse",
+            "fact": "Seahorses are tiny fish that swim upright and use their curled tails to hold onto plants or coral.",
+            "foodTitle": "Food",
+            "food": "Seahorses eat tiny shrimp-like animals and plankton.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Seahorses live in shallow tropical and temperate waters around the world.",
+            "learningPoints": [
+              "A seahorse uses its long snout like a straw to suck up food.",
+              "Male seahorses carry the babies in a pouch.",
+              "They are not strong swimmers and often drift with the water."
+            ]
+          }
+        },
+        {
+          "id": "starfish",
+          "title": "Starfish",
+          "url": "/ocean/starfish.webp",
+          "fact": {
+            "title": "Starfish",
+            "fact": "Starfish, also called sea stars, are marine animals that usually have five arms.",
+            "foodTitle": "Food",
+            "food": "Sea stars often eat shellfish and tiny sea animals.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Sea stars live in oceans worldwide, from coral reefs to rocky shores.",
+            "learningPoints": [
+              "A sea star can move using tiny tube feet underneath its body.",
+              "Some sea stars can regrow a lost arm.",
+              "They are not actually fish."
+            ]
+          }
+        },
+        {
+          "id": "whale",
+          "title": "Whale",
+          "url": "/ocean/whale.webp",
+          "fact": {
+            "title": "Whale",
+            "fact": "Whales are giant marine mammals that travel through oceans and come to the surface to breathe air.",
+            "foodTitle": "Food",
+            "food": "Different whales eat krill, plankton, fish, or squid depending on the species.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Whales are found in every ocean, with many species migrating across huge distances each year.",
+            "learningPoints": [
+              "Some whales are the largest animals on Earth.",
+              "Whales use sounds to communicate over long distances underwater.",
+              "Like all mammals, whales breathe air and care for their young."
+            ]
+          }
+        },
+        {
+          "id": "whale_reef",
+          "title": "Whale",
+          "url": "/ocean/whale_reef.webp",
+          "fact": {
+            "title": "Whale",
+            "fact": "Whales are giant marine mammals that travel through oceans and come to the surface to breathe air.",
+            "foodTitle": "Food",
+            "food": "Different whales eat krill, plankton, fish, or squid depending on the species.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Whales are found in every ocean, with many species migrating across huge distances each year.",
+            "learningPoints": [
+              "Some whales are the largest animals on Earth.",
+              "Whales use sounds to communicate over long distances underwater.",
+              "Like all mammals, whales breathe air and care for their young."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "shapes",
+      "title": "Shapes",
+      "images": [
+        {
+          "id": "circle",
+          "title": "Circle",
+          "url": "/shapes/circle.webp",
+          "fact": {
+            "title": "Circle",
+            "fact": "A circle is a round shape with no corners and no straight sides.",
+            "foodTitle": "Food",
+            "food": "Many foods look like circles, such as orange slices, pancakes, and cookies.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Circles are seen everywhere in signs, wheels, clocks, and toys around the world.",
+            "learningPoints": [
+              "Every point around a circle is the same distance from the center.",
+              "A circle can roll smoothly because it has no corners.",
+              "Balls, coins, and plates often show circular shapes."
+            ]
+          }
+        },
+        {
+          "id": "diamond",
+          "title": "Diamond",
+          "url": "/shapes/diamond.webp",
+          "fact": {
+            "title": "Diamond",
+            "fact": "A diamond shape looks like a square tilted onto one corner.",
+            "foodTitle": "Food",
+            "food": "Some crackers, candies, and decorations are cut into diamond shapes.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Diamond shapes appear in patterns, road signs, kites, and art around the world.",
+            "learningPoints": [
+              "A diamond shape has four sides.",
+              "It can look narrow or wide depending on how it is drawn.",
+              "Many kites use a diamond-like outline."
+            ]
+          }
+        },
+        {
+          "id": "heart",
+          "title": "Heart",
+          "url": "/shapes/heart.webp",
+          "fact": {
+            "title": "Heart",
+            "fact": "The heart shape is a symbol often used for love, care, and kindness.",
+            "foodTitle": "Food",
+            "food": "Heart shapes are popular in cookies, sandwiches, candies, and decorations.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Heart symbols are recognized in many countries and cultures.",
+            "learningPoints": [
+              "The heart symbol is different from the real body organ, but both are important symbols.",
+              "It has a pointed bottom and rounded top sections.",
+              "It is often seen on cards and gifts."
+            ]
+          }
+        },
+        {
+          "id": "hexagon",
+          "title": "Hexagon",
+          "url": "/shapes/hexagon.webp",
+          "fact": {
+            "title": "Hexagon",
+            "fact": "A hexagon is a shape with six sides.",
+            "foodTitle": "Food",
+            "food": "Some honeycomb candies and crackers can be shaped like hexagons.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Hexagons appear in nature and design, especially in beehives.",
+            "learningPoints": [
+              "A honeycomb is made from many hexagons fitted together.",
+              "Six equal sides make a regular hexagon.",
+              "Hexagons can pack tightly without leaving gaps."
+            ]
+          }
+        },
+        {
+          "id": "oval",
+          "title": "Oval",
+          "url": "/shapes/oval.webp",
+          "fact": {
+            "title": "Oval",
+            "fact": "An oval is a rounded shape that looks stretched compared with a circle.",
+            "foodTitle": "Food",
+            "food": "Eggs, some fruits, and many plates or decorations can be oval-shaped.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Ovals are common in sports tracks, mirrors, and everyday design.",
+            "learningPoints": [
+              "An oval has no corners.",
+              "It is longer in one direction than the other.",
+              "A circle can be thought of as a special kind of round shape, while an oval is more stretched."
+            ]
+          }
+        },
+        {
+          "id": "pentagon",
+          "title": "Pentagon",
+          "url": "/shapes/pentagon.webp",
+          "fact": {
+            "title": "Pentagon",
+            "fact": "A pentagon is a shape with five sides.",
+            "foodTitle": "Food",
+            "food": "Some cookies, tiles, and craft cutouts can be made in pentagon shapes.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Pentagons appear in geometry, art, and building patterns.",
+            "learningPoints": [
+              "A regular pentagon has five equal sides.",
+              "Many stars can be drawn inside a pentagon.",
+              "Five corners make the pentagon easy to recognize."
+            ]
+          }
+        },
+        {
+          "id": "rectangle",
+          "title": "Rectangle",
+          "url": "/shapes/rectangle.webp",
+          "fact": {
+            "title": "Rectangle",
+            "fact": "A rectangle is a four-sided shape with opposite sides the same length.",
+            "foodTitle": "Food",
+            "food": "Sandwiches, chocolate bars, and crackers are often cut into rectangles.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Rectangles are one of the most common shapes in books, doors, screens, and windows everywhere.",
+            "learningPoints": [
+              "A rectangle has four right-angle corners.",
+              "Squares are a special type of rectangle.",
+              "Many buildings and objects use rectangles because they stack neatly."
+            ]
+          }
+        },
+        {
+          "id": "square",
+          "title": "Square",
+          "url": "/shapes/square.webp",
+          "fact": {
+            "title": "Square",
+            "fact": "A square is a four-sided shape with all sides the same length.",
+            "foodTitle": "Food",
+            "food": "Cheese slices, crackers, and brownies are often made in square shapes.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Squares are used in games, floor tiles, blocks, and picture grids all around the world.",
+            "learningPoints": [
+              "A square has four equal sides and four equal corners.",
+              "It looks the same even when turned.",
+              "Many puzzle boards and game boards use square sections."
+            ]
+          }
+        },
+        {
+          "id": "star",
+          "title": "Star",
+          "url": "/shapes/star.webp",
+          "fact": {
+            "title": "Star",
+            "fact": "A star shape usually has points that stretch outward from the center.",
+            "foodTitle": "Food",
+            "food": "Cookies, fruit slices, and sandwiches are sometimes cut into star shapes.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Star shapes are popular in flags, decorations, stickers, and holiday crafts around the world.",
+            "learningPoints": [
+              "Many simple stars have five points.",
+              "Stars can be drawn in different styles with different numbers of points.",
+              "The night sky inspired many star-shaped symbols."
+            ]
+          }
+        },
+        {
+          "id": "triangle",
+          "title": "Triangle",
+          "url": "/shapes/triangle.webp",
+          "fact": {
+            "title": "Triangle",
+            "fact": "A triangle is a shape with three sides and three corners.",
+            "foodTitle": "Food",
+            "food": "Pizza slices, nachos, and sandwiches are often cut into triangles.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Triangles appear in road signs, roofs, art, and structures all over the world.",
+            "learningPoints": [
+              "A triangle is one of the strongest simple shapes in building.",
+              "All triangles have exactly three sides.",
+              "Some triangles have equal sides while others do not."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "solar_system",
+      "title": "Solar System",
+      "images": [
+        {
+          "id": "asteroid",
+          "title": "Asteroid",
+          "url": "/solar_system/asteroid.webp",
+          "fact": {
+            "title": "Asteroid",
+            "fact": "Asteroids are rocky objects that orbit the Sun, and many are smaller than planets.",
+            "foodTitle": "What It Is",
+            "food": "They are chunks of rock and metal left over from the early solar system.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Many asteroids are found in the asteroid belt between Mars and Jupiter.",
+            "learningPoints": [
+              "Asteroids come in many sizes and shapes.",
+              "Some asteroids have tiny moons of their own.",
+              "Scientists study asteroids to learn about the early solar system."
+            ]
+          }
+        },
+        {
+          "id": "earth",
+          "title": "Earth",
+          "url": "/solar_system/earth.webp",
+          "fact": {
+            "title": "Earth",
+            "fact": "Earth is the only known planet with liquid water on the surface and life all around it.",
+            "foodTitle": "What It Is",
+            "food": "It is a rocky planet with oceans, land, clouds, and an atmosphere we can breathe.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Earth is the third planet from the Sun.",
+            "learningPoints": [
+              "About 70 percent of Earth’s surface is covered by water.",
+              "Earth has one natural moon.",
+              "Its atmosphere helps protect life from harmful radiation."
+            ]
+          }
+        },
+        {
+          "id": "jupiter",
+          "title": "Jupiter",
+          "url": "/solar_system/jupiter.webp",
+          "fact": {
+            "title": "Jupiter",
+            "fact": "Jupiter is the largest planet in our solar system.",
+            "foodTitle": "What It Is",
+            "food": "It is a giant gas planet with swirling clouds and a huge storm called the Great Red Spot.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Jupiter is the fifth planet from the Sun.",
+            "learningPoints": [
+              "Jupiter has many moons.",
+              "It is made mostly of hydrogen and helium.",
+              "Its Great Red Spot is a giant storm larger than Earth."
+            ]
+          }
+        },
+        {
+          "id": "mars",
+          "title": "Mars",
+          "url": "/solar_system/mars.webp",
+          "fact": {
+            "title": "Mars",
+            "fact": "Mars is often called the Red Planet because iron-rich dust gives it a reddish color.",
+            "foodTitle": "What It Is",
+            "food": "It is a cold rocky planet with volcanoes, canyons, and polar ice caps.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Mars is the fourth planet from the Sun.",
+            "learningPoints": [
+              "Mars has two small moons.",
+              "Scientists study Mars for signs of ancient water.",
+              "Some of the tallest volcanoes in the solar system are on Mars."
+            ]
+          }
+        },
+        {
+          "id": "mercury",
+          "title": "Mercury",
+          "url": "/solar_system/mercury.webp",
+          "fact": {
+            "title": "Mercury",
+            "fact": "Mercury is the closest planet to the Sun and has a rocky surface full of craters.",
+            "foodTitle": "What It Is",
+            "food": "It is a small rocky planet with almost no atmosphere to hold in heat.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Mercury is the first planet from the Sun.",
+            "learningPoints": [
+              "Mercury has very hot days and very cold nights.",
+              "It has no moons.",
+              "A year on Mercury is much shorter than a year on Earth."
+            ]
+          }
+        },
+        {
+          "id": "neptune",
+          "title": "Neptune",
+          "url": "/solar_system/neptune.webp",
+          "fact": {
+            "title": "Neptune",
+            "fact": "Neptune is a deep blue icy giant and one of the windiest places in the solar system.",
+            "foodTitle": "What It Is",
+            "food": "It is a cold outer planet with fast-moving storms and a thick atmosphere.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Neptune is the eighth planet from the Sun.",
+            "learningPoints": [
+              "Neptune is very far from the Sun.",
+              "It has powerful winds and dark storm systems.",
+              "Methane in the atmosphere contributes to its blue color."
+            ]
+          }
+        },
+        {
+          "id": "saturn",
+          "title": "Saturn",
+          "url": "/solar_system/saturn.webp",
+          "fact": {
+            "title": "Saturn",
+            "fact": "Saturn is famous for its bright rings made of ice and rock.",
+            "foodTitle": "What It Is",
+            "food": "It is a giant gas planet with pale cloud bands and a large ring system.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Saturn is the sixth planet from the Sun.",
+            "learningPoints": [
+              "Saturn’s rings are wide but very thin.",
+              "It has many moons, including Titan.",
+              "Like Jupiter, Saturn is made mostly of hydrogen and helium."
+            ]
+          }
+        },
+        {
+          "id": "sun",
+          "title": "Sun",
+          "url": "/solar_system/sun.webp",
+          "fact": {
+            "title": "Sun",
+            "fact": "The Sun is the star at the center of our solar system and gives Earth light and warmth.",
+            "foodTitle": "What It Is",
+            "food": "It is a huge glowing ball of hot gases, mostly hydrogen and helium.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "The Sun is at the center of the solar system, and all the planets travel around it.",
+            "learningPoints": [
+              "Plants use sunlight to make food.",
+              "The Sun is much larger than Earth.",
+              "Without the Sun, Earth would be dark and freezing cold."
+            ]
+          }
+        },
+        {
+          "id": "uranus",
+          "title": "Uranus",
+          "url": "/solar_system/uranus.webp",
+          "fact": {
+            "title": "Uranus",
+            "fact": "Uranus is an icy giant planet that rotates tipped over on its side.",
+            "foodTitle": "What It Is",
+            "food": "It is a cold blue-green planet with a thick atmosphere and faint rings.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Uranus is the seventh planet from the Sun.",
+            "learningPoints": [
+              "Methane in its atmosphere helps give Uranus its blue-green color.",
+              "Its unusual tilt makes its seasons very extreme.",
+              "Uranus is much farther from the Sun than Earth."
+            ]
+          }
+        },
+        {
+          "id": "venus",
+          "title": "Venus",
+          "url": "/solar_system/venus.webp",
+          "fact": {
+            "title": "Venus",
+            "fact": "Venus is a rocky planet covered by thick clouds that trap a great deal of heat.",
+            "foodTitle": "What It Is",
+            "food": "It is often called Earth’s sister planet because it is similar in size.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Venus is the second planet from the Sun.",
+            "learningPoints": [
+              "Venus is one of the hottest planets in the solar system.",
+              "Its thick clouds are made mostly of carbon dioxide with acid clouds high above.",
+              "Venus spins very slowly compared with Earth."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "veggies",
+      "title": "Veggies",
+      "images": [
+        {
+          "id": "bell_pepper",
+          "title": "Bell Pepper",
+          "url": "/veggies/bell_pepper.webp"
+        },
+        {
+          "id": "broccoli",
+          "title": "Broccoli",
+          "url": "/veggies/broccoli.webp"
+        },
+        {
+          "id": "carrot",
+          "title": "Carrot",
+          "url": "/veggies/carrot.webp"
+        },
+        {
+          "id": "cauliflower",
+          "title": "Cauliflower",
+          "url": "/veggies/cauliflower.webp"
+        },
+        {
+          "id": "cucumber",
+          "title": "Cucumber",
+          "url": "/veggies/cucumber.webp"
+        },
+        {
+          "id": "eggplant",
+          "title": "Eggplant",
+          "url": "/veggies/eggplant.webp"
+        },
+        {
+          "id": "peas",
+          "title": "Peas",
+          "url": "/veggies/peas.webp"
+        },
+        {
+          "id": "potato",
+          "title": "Potato",
+          "url": "/veggies/potato.webp"
+        },
+        {
+          "id": "tomato",
+          "title": "Tomato",
+          "url": "/veggies/tomato.webp"
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "images": [
+        {
+          "id": "cloudy",
+          "title": "Cloudy",
+          "url": "/weather/cloudy.webp",
+          "fact": {
+            "title": "Cloudy",
+            "fact": "Cloudy weather means most of the sky is covered by clouds, which can block a lot of sunlight.",
+            "foodTitle": "Food",
+            "food": "Soups, sandwiches, and warm snacks often feel nice on cloudy days.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Cloudy weather is common in many temperate and coastal places around the world.",
+            "learningPoints": [
+              "Clouds can help keep temperatures cooler during the day.",
+              "Some clouds bring rain, while others just drift by.",
+              "The sky can still be bright even when the Sun is hidden by clouds."
+            ]
+          }
+        },
+        {
+          "id": "foggy",
+          "title": "Foggy",
+          "url": "/weather/foggy.webp",
+          "fact": {
+            "title": "Foggy",
+            "fact": "Fog is a cloud that forms very close to the ground, making it harder to see far away.",
+            "foodTitle": "Food",
+            "food": "Warm drinks and hot breakfasts can feel extra cozy on foggy mornings.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Fog is common in places with cool air and moisture, such as coastal California and mountain valleys.",
+            "learningPoints": [
+              "Fog forms when water vapor in the air cools and condenses.",
+              "Drivers should slow down and use extra care in fog.",
+              "Fog often clears when the Sun warms the air."
+            ]
+          }
+        },
+        {
+          "id": "hot",
+          "title": "Hot",
+          "url": "/weather/hot.webp",
+          "fact": {
+            "title": "Hot",
+            "fact": "Hot weather means the air temperature is high and can make the body warm quickly.",
+            "foodTitle": "Food",
+            "food": "People often choose cold water, fruit, and chilled foods in hot weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Very hot weather is common in desert regions such as the Sahara and parts of the Middle East.",
+            "learningPoints": [
+              "Drinking water helps the body stay cool in hot weather.",
+              "Shade can make a big difference on a hot day.",
+              "Animals often rest more during the hottest part of the day."
+            ]
+          }
+        },
+        {
+          "id": "partly_cloudy",
+          "title": "Partly Cloudy",
+          "url": "/weather/partly_cloudy.webp",
+          "fact": {
+            "title": "Partly Cloudy",
+            "fact": "Partly cloudy weather means some of the sky is covered with clouds while sunlight still peeks through.",
+            "foodTitle": "Food",
+            "food": "It is a comfortable kind of weather for picnics, fruit snacks, and outdoor meals.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Partly cloudy skies can happen almost anywhere as clouds move in and out during the day.",
+            "learningPoints": [
+              "Clouds are made of tiny water droplets or ice crystals.",
+              "Partly cloudy days can feel cooler than fully sunny days.",
+              "Changing cloud cover can be a sign that the weather is shifting."
+            ]
+          }
+        },
+        {
+          "id": "rainbow",
+          "title": "Rainbow",
+          "url": "/weather/rainbow.webp",
+          "fact": {
+            "title": "Rainbow",
+            "fact": "A rainbow appears when sunlight passes through raindrops and bends into many colors.",
+            "foodTitle": "Food",
+            "food": "Rainbows do not change what people eat, but they often appear after rainy weather clears.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Rainbows can appear anywhere in the world when sunlight and raindrops are in the right position.",
+            "learningPoints": [
+              "The colors usually appear in the order red, orange, yellow, green, blue, indigo, and violet.",
+              "You need both sunlight and water droplets to see a rainbow.",
+              "A rainbow is an optical effect, not a solid object in the sky."
+            ]
+          }
+        },
+        {
+          "id": "rainy",
+          "title": "Rainy",
+          "url": "/weather/rainy.webp",
+          "fact": {
+            "title": "Rainy",
+            "fact": "Rainy weather happens when clouds release drops of water that fall to the ground.",
+            "foodTitle": "Food",
+            "food": "Rainy days often make people want warm meals, tea, or soup indoors.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Rainy weather is especially common in tropical rainforests and monsoon regions such as India and Southeast Asia.",
+            "learningPoints": [
+              "Rain helps refill rivers, lakes, and underground water supplies.",
+              "Plants and crops need rain to grow.",
+              "Puddles form when the ground cannot soak up all the water right away."
+            ]
+          }
+        },
+        {
+          "id": "snowy",
+          "title": "Snowy",
+          "url": "/weather/snowy.webp",
+          "fact": {
+            "title": "Snowy",
+            "fact": "Snow falls when water in clouds freezes into ice crystals and drops to the ground.",
+            "foodTitle": "Food",
+            "food": "Hot soup, cocoa, and warm meals are popular on snowy days.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Snowy weather is common in colder countries such as Canada, Norway, and parts of Japan.",
+            "learningPoints": [
+              "Every snowflake forms from ice crystals in the clouds.",
+              "Snow can help keep the ground insulated and warmer underneath.",
+              "Snowy weather usually happens when the air is cold enough for ice to stay frozen."
+            ]
+          }
+        },
+        {
+          "id": "sunny",
+          "title": "Sunny",
+          "url": "/weather/sunny.webp",
+          "fact": {
+            "title": "Sunny",
+            "fact": "Sunny weather happens when the sky is mostly clear and sunlight reaches the ground directly.",
+            "foodTitle": "Food",
+            "food": "People often enjoy cool water, juicy fruit, and light foods on sunny days.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Sunny weather is common in many dry regions, including parts of Egypt, Australia, and the southwestern United States.",
+            "learningPoints": [
+              "The Sun helps warm the land, air, and water.",
+              "Wearing sunscreen and a hat can help protect skin on bright days.",
+              "Plants use sunlight to make their own food."
+            ]
+          }
+        },
+        {
+          "id": "thunderstorm",
+          "title": "Thunderstorm",
+          "url": "/weather/thunderstorm.webp",
+          "fact": {
+            "title": "Thunderstorm",
+            "fact": "A thunderstorm is a storm with thunder, lightning, dark clouds, and often heavy rain.",
+            "foodTitle": "Food",
+            "food": "Many people like staying indoors with warm snacks while thunderstorms pass.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Thunderstorms happen in many places, especially in warm, humid regions such as Florida and parts of central Africa.",
+            "learningPoints": [
+              "Lightning is a giant electrical spark in the atmosphere.",
+              "Thunder is the sound made when lightning heats the air very quickly.",
+              "It is safest to go indoors when thunder is heard."
+            ]
+          }
+        },
+        {
+          "id": "windy",
+          "title": "Windy",
+          "url": "/weather/windy.webp",
+          "fact": {
+            "title": "Windy",
+            "fact": "Windy weather happens when air moves quickly from one place to another.",
+            "foodTitle": "Food",
+            "food": "On windy days, people often enjoy warm foods and drinks after playing outside.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Very windy conditions are common in open plains, mountain passes, and coastal areas.",
+            "learningPoints": [
+              "Wind can move clouds, seeds, and even help sailboats travel.",
+              "Kites fly best when there is enough wind.",
+              "Strong winds can make the air feel colder than the thermometer says."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "wonders",
+      "title": "Wonders",
+      "images": [
+        {
+          "id": "christ_the_redeemer",
+          "title": "Christ the Redeemer",
+          "url": "/wonders/christ_the_redeemer.webp",
+          "fact": {
+            "title": "Christ the Redeemer",
+            "fact": "Christ the Redeemer is a giant statue standing with open arms above Rio de Janeiro.",
+            "foodTitle": "Famous For",
+            "food": "It is famous for its mountaintop location, sweeping city views, and welcoming pose.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "The statue stands on Corcovado Mountain in Rio de Janeiro, Brazil.",
+            "learningPoints": [
+              "It is one of the most recognized statues in the world.",
+              "The statue overlooks the city and coastline below.",
+              "It is considered one of the New Seven Wonders of the World."
+            ]
+          }
+        },
+        {
+          "id": "colosseum",
+          "title": "Colosseum",
+          "url": "/wonders/colosseum.webp",
+          "fact": {
+            "title": "Colosseum",
+            "fact": "The Colosseum is a giant ancient amphitheater where Romans once gathered for public events.",
+            "foodTitle": "Famous For",
+            "food": "It is famous for its huge arches, layered seating, and ancient engineering.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "The Colosseum is in Rome, Italy.",
+            "learningPoints": [
+              "It could hold tens of thousands of people.",
+              "It is one of the best-known buildings from ancient Rome.",
+              "Parts of it still stand after many centuries."
+            ]
+          }
+        },
+        {
+          "id": "great_pyramid_of_giza",
+          "title": "Great Pyramid of Giza",
+          "url": "/wonders/great_pyramid_of_giza.webp",
+          "fact": {
+            "title": "Great Pyramid of Giza",
+            "fact": "The Great Pyramid of Giza is the oldest and largest pyramid in the famous pyramid fields of Egypt.",
+            "foodTitle": "Famous For",
+            "food": "It is famous for huge stone blocks, ancient engineering, and lasting for thousands of years.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "The Great Pyramid of Giza stands near Cairo in Egypt.",
+            "learningPoints": [
+              "It was built as a tomb for an Egyptian pharaoh.",
+              "For a very long time, it was the tallest human-made structure on Earth.",
+              "It is the last surviving wonder of the ancient world."
+            ]
+          }
+        },
+        {
+          "id": "great_wall",
+          "title": "Great Wall of China",
+          "url": "/wonders/great_wall.webp",
+          "fact": {
+            "title": "Great Wall of China",
+            "fact": "The Great Wall is a huge system of walls and watchtowers built over many centuries in China.",
+            "foodTitle": "Famous For",
+            "food": "It is famous for its long stone pathways, mountain views, and history of guarding ancient borders.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "The Great Wall is in northern China, with famous restored sections near Beijing.",
+            "learningPoints": [
+              "It is one of the most famous landmarks in the world.",
+              "Different dynasties added new parts over time.",
+              "Some sections climb steep hills and mountains."
+            ]
+          }
+        },
+        {
+          "id": "machu_picchu",
+          "title": "Machu Picchu",
+          "url": "/wonders/machu_picchu.webp",
+          "fact": {
+            "title": "Machu Picchu",
+            "fact": "Machu Picchu is an ancient Inca site high in the Andes Mountains.",
+            "foodTitle": "Famous For",
+            "food": "It is famous for its stone terraces, mountain setting, and Inca history.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Machu Picchu is in Peru near Cusco.",
+            "learningPoints": [
+              "The site sits high above a river valley.",
+              "The Inca built strong stone walls without modern machines.",
+              "It stayed hidden from much of the outside world for a long time."
+            ]
+          }
+        },
+        {
+          "id": "petra",
+          "title": "Petra",
+          "url": "/wonders/petra.webp",
+          "fact": {
+            "title": "Petra",
+            "fact": "Petra is an ancient city famous for buildings carved directly into pink rock cliffs.",
+            "foodTitle": "Famous For",
+            "food": "It is famous for rock-cut architecture, narrow canyons, and desert history.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Petra is in southern Jordan.",
+            "learningPoints": [
+              "Petra is sometimes called the Rose City because of its stone color.",
+              "People enter through a narrow canyon called the Siq.",
+              "It was an important trading city long ago."
+            ]
+          }
+        },
+        {
+          "id": "taj_mahal",
+          "title": "Taj Mahal",
+          "url": "/wonders/taj_mahal.webp",
+          "fact": {
+            "title": "Taj Mahal",
+            "fact": "The Taj Mahal is a white marble monument built in India and known for its beautiful symmetry.",
+            "foodTitle": "Famous For",
+            "food": "It is famous for its shining marble, detailed carvings, and reflecting pools.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "The Taj Mahal stands in Agra, India, on the banks of the Yamuna River.",
+            "learningPoints": [
+              "It was built as a mausoleum.",
+              "The marble can look different colors at different times of day.",
+              "It is one of the New Seven Wonders of the World."
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
