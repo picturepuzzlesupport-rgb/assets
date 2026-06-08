@@ -761,46 +761,6 @@
       "title": "Daily Puzzle",
       "images": [
         {
-          "id": "arctic_wildlife",
-          "title": "Arctic Wildlife",
-          "url": "/daily_puzzle/arctic_wildlife.webp"
-        },
-        {
-          "id": "artist_puppy",
-          "title": "Artist Puppy",
-          "url": "/daily_puzzle/artist_puppy.webp"
-        },
-        {
-          "id": "autumn_deer",
-          "title": "Autumn Deer",
-          "url": "/daily_puzzle/autumn_deer.webp"
-        },
-        {
-          "id": "autumn_harvest_at_sunset_with_children",
-          "title": "Autumn Harvest at Sunset with Children",
-          "url": "/daily_puzzle/autumn_harvest_at_sunset_with_children.webp"
-        },
-        {
-          "id": "birds",
-          "title": "Birds",
-          "url": "/daily_puzzle/birds.webp"
-        },
-        {
-          "id": "body_parts",
-          "title": "Body Parts",
-          "url": "/daily_puzzle/body_parts.webp"
-        },
-        {
-          "id": "bunny_doll",
-          "title": "Bunny Doll",
-          "url": "/daily_puzzle/bunny_doll.webp"
-        },
-        {
-          "id": "cat_reading",
-          "title": "Cat Reading",
-          "url": "/daily_puzzle/cat_reading.webp"
-        },
-        {
           "id": "cheerful_garden_tapestry_with_children_painting",
           "title": "Cheerful Garden Tapestry with Children Painting",
           "url": "/daily_puzzle/cheerful_garden_tapestry_with_children_painting.webp"
@@ -864,6 +824,46 @@
           "id": "forest_fox",
           "title": "Forest Fox",
           "url": "/daily_puzzle/forest_fox.webp"
+        },
+        {
+          "id": "arctic_wildlife",
+          "title": "Arctic Wildlife",
+          "url": "/daily_puzzle/arctic_wildlife.webp"
+        },
+        {
+          "id": "artist_puppy",
+          "title": "Artist Puppy",
+          "url": "/daily_puzzle/artist_puppy.webp"
+        },
+        {
+          "id": "autumn_deer",
+          "title": "Autumn Deer",
+          "url": "/daily_puzzle/autumn_deer.webp"
+        },
+        {
+          "id": "autumn_harvest_at_sunset_with_children",
+          "title": "Autumn Harvest at Sunset with Children",
+          "url": "/daily_puzzle/autumn_harvest_at_sunset_with_children.webp"
+        },
+        {
+          "id": "birds",
+          "title": "Birds",
+          "url": "/daily_puzzle/birds.webp"
+        },
+        {
+          "id": "body_parts",
+          "title": "Body Parts",
+          "url": "/daily_puzzle/body_parts.webp"
+        },
+        {
+          "id": "bunny_doll",
+          "title": "Bunny Doll",
+          "url": "/daily_puzzle/bunny_doll.webp"
+        },
+        {
+          "id": "cat_reading",
+          "title": "Cat Reading",
+          "url": "/daily_puzzle/cat_reading.webp"
         },
         {
           "id": "fruits",
