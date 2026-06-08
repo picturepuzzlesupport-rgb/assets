@@ -766,6 +766,21 @@
           "url": "/daily_puzzle/arctic_wildlife.webp"
         },
         {
+          "id": "artist_puppy",
+          "title": "Artist Puppy",
+          "url": "/daily_puzzle/artist_puppy.webp"
+        },
+        {
+          "id": "autumn_deer",
+          "title": "Autumn Deer",
+          "url": "/daily_puzzle/autumn_deer.webp"
+        },
+        {
+          "id": "autumn_harvest_at_sunset_with_children",
+          "title": "Autumn Harvest at Sunset with Children",
+          "url": "/daily_puzzle/autumn_harvest_at_sunset_with_children.webp"
+        },
+        {
           "id": "birds",
           "title": "Birds",
           "url": "/daily_puzzle/birds.webp"
@@ -776,14 +791,79 @@
           "url": "/daily_puzzle/body_parts.webp"
         },
         {
+          "id": "bunny_doll",
+          "title": "Bunny Doll",
+          "url": "/daily_puzzle/bunny_doll.webp"
+        },
+        {
+          "id": "cat_reading",
+          "title": "Cat Reading",
+          "url": "/daily_puzzle/cat_reading.webp"
+        },
+        {
+          "id": "cheerful_garden_tapestry_with_children_painting",
+          "title": "Cheerful Garden Tapestry with Children Painting",
+          "url": "/daily_puzzle/cheerful_garden_tapestry_with_children_painting.webp"
+        },
+        {
+          "id": "colorful_kite_flying_in_the_countryside",
+          "title": "Colorful Kite Flying in the Countryside",
+          "url": "/daily_puzzle/colorful_kite_flying_in_the_countryside.webp"
+        },
+        {
+          "id": "confidence_independence",
+          "title": "Confidence Independence",
+          "url": "/daily_puzzle/confidence_independence.webp"
+        },
+        {
           "id": "coral_seaworld",
           "title": "Coral Seaworld",
           "url": "/daily_puzzle/coral_seaworld.webp"
         },
         {
+          "id": "cozy_twilight_storytime_in_the_garden",
+          "title": "Cozy Twilight Storytime in the Garden",
+          "url": "/daily_puzzle/cozy_twilight_storytime_in_the_garden.webp"
+        },
+        {
+          "id": "creative_playroom",
+          "title": "Creative Playroom",
+          "url": "/daily_puzzle/creative_playroom.webp"
+        },
+        {
+          "id": "curiosity_adventure",
+          "title": "Curiosity Adventure",
+          "url": "/daily_puzzle/curiosity_adventure.webp"
+        },
+        {
           "id": "dog",
           "title": "Dog",
           "url": "/daily_puzzle/dog.webp"
+        },
+        {
+          "id": "elephant_blanket",
+          "title": "Elephant Blanket",
+          "url": "/daily_puzzle/elephant_blanket.webp"
+        },
+        {
+          "id": "emotional_skills",
+          "title": "Emotional Skills",
+          "url": "/daily_puzzle/emotional_skills.webp"
+        },
+        {
+          "id": "enchanted_garden_of_princesses_and_roses",
+          "title": "Enchanted Garden of Princesses and Roses",
+          "url": "/daily_puzzle/enchanted_garden_of_princesses_and_roses.webp"
+        },
+        {
+          "id": "family_connection",
+          "title": "Family Connection",
+          "url": "/daily_puzzle/family_connection.webp"
+        },
+        {
+          "id": "forest_fox",
+          "title": "Forest Fox",
+          "url": "/daily_puzzle/forest_fox.webp"
         },
         {
           "id": "fruits",
@@ -796,14 +876,64 @@
           "url": "/daily_puzzle/galaxy_space.webp"
         },
         {
+          "id": "girls_reading_in_a_magical_meadow",
+          "title": "Girls Reading in a Magical Meadow",
+          "url": "/daily_puzzle/girls_reading_in_a_magical_meadow.webp"
+        },
+        {
+          "id": "hands_on_play",
+          "title": "Hands on Play",
+          "url": "/daily_puzzle/hands_on_play.webp"
+        },
+        {
+          "id": "kindness_sharing",
+          "title": "Kindness Sharing",
+          "url": "/daily_puzzle/kindness_sharing.webp"
+        },
+        {
+          "id": "knitting_bear",
+          "title": "Knitting Bear",
+          "url": "/daily_puzzle/knitting_bear.webp"
+        },
+        {
+          "id": "learning_center",
+          "title": "Learning Center",
+          "url": "/daily_puzzle/learning_center.webp"
+        },
+        {
+          "id": "moonlit_garden_with_castle_and_flowers",
+          "title": "Moonlit Garden with Castle and Flowers",
+          "url": "/daily_puzzle/moonlit_garden_with_castle_and_flowers.webp"
+        },
+        {
+          "id": "mouse_doll",
+          "title": "Mouse Doll",
+          "url": "/daily_puzzle/mouse_doll.webp"
+        },
+        {
           "id": "nature_rainforest",
           "title": "Nature Rainforest",
           "url": "/daily_puzzle/nature_rainforest.webp"
         },
         {
+          "id": "night_festival_in_embroidered_village",
+          "title": "Night Festival in Embroidered Village",
+          "url": "/daily_puzzle/night_festival_in_embroidered_village.webp"
+        },
+        {
           "id": "ocean_whales",
           "title": "Ocean Whales",
           "url": "/daily_puzzle/ocean_whales.webp"
+        },
+        {
+          "id": "princess_doll",
+          "title": "Princess Doll",
+          "url": "/daily_puzzle/princess_doll.webp"
+        },
+        {
+          "id": "problem_solving",
+          "title": "Problem Solving",
+          "url": "/daily_puzzle/problem_solving.webp"
         },
         {
           "id": "savanna_animals",
@@ -814,6 +944,21 @@
           "id": "sealife",
           "title": "Sealife",
           "url": "/daily_puzzle/sealife.webp"
+        },
+        {
+          "id": "sisters_reading",
+          "title": "Sisters Reading",
+          "url": "/daily_puzzle/sisters_reading.webp"
+        },
+        {
+          "id": "storytelling_time",
+          "title": "Storytelling Time",
+          "url": "/daily_puzzle/storytelling_time.webp"
+        },
+        {
+          "id": "sweethearts_in_a_floral_meadow",
+          "title": "Sweethearts in a Floral Meadow",
+          "url": "/daily_puzzle/sweethearts_in_a_floral_meadow.webp"
         },
         {
           "id": "valley_rainbow",
@@ -829,6 +974,11 @@
           "id": "weather_storm",
           "title": "Weather Storm",
           "url": "/daily_puzzle/weather_storm.webp"
+        },
+        {
+          "id": "whimsical_candy_meadow_playtime_scene",
+          "title": "Whimsical Candy Meadow Playtime Scene",
+          "url": "/daily_puzzle/whimsical_candy_meadow_playtime_scene.webp"
         },
         {
           "id": "wile_animals",
