@@ -1294,62 +1294,218 @@
         {
           "id": "april",
           "title": "April",
-          "url": "/months/april.webp"
+          "url": "/months/april.webp",
+          "fact": {
+            "title": "April",
+            "fact": "April is the fourth month of the year and has 30 days.",
+            "foodTitle": "Season and Weather",
+            "food": "April is often known for spring rain, blooming flowers, and fresh green plants in many places.",
+            "strongholdTitle": "Calendar Use",
+            "stronghold": "April is a spring month in the Northern Hemisphere and an autumn month in the Southern Hemisphere.",
+            "learningPoints": [
+              "April is month number 4.",
+              "It comes after March and before May.",
+              "Earth Day is celebrated in April."
+            ]
+          }
         },
         {
           "id": "august",
           "title": "August",
-          "url": "/months/august.webp"
+          "url": "/months/august.webp",
+          "fact": {
+            "title": "August",
+            "fact": "August is the eighth month of the year and has 31 days.",
+            "foodTitle": "Season and Weather",
+            "food": "August is often warm in many Northern Hemisphere places and can be a time for ripe fruits and late-summer gardens.",
+            "strongholdTitle": "Calendar Use",
+            "stronghold": "August is near the end of summer in the Northern Hemisphere and near the end of winter in the Southern Hemisphere.",
+            "learningPoints": [
+              "August is month number 8.",
+              "It comes after July and before September.",
+              "Many children get ready to go back to school around August in some countries."
+            ]
+          }
         },
         {
           "id": "december",
           "title": "December",
-          "url": "/months/december.webp"
+          "url": "/months/december.webp",
+          "fact": {
+            "title": "December",
+            "fact": "December is the twelfth and last month of the year, and it has 31 days.",
+            "foodTitle": "Season and Weather",
+            "food": "December often brings winter weather, early nights, and holiday lights in many Northern Hemisphere places.",
+            "strongholdTitle": "Calendar Use",
+            "stronghold": "December closes the calendar year and is followed by January of the next year.",
+            "learningPoints": [
+              "December is month number 12.",
+              "It comes after November and before January.",
+              "Many winter holidays are celebrated in December around the world."
+            ]
+          }
         },
         {
           "id": "february",
           "title": "February",
-          "url": "/months/february.webp"
+          "url": "/months/february.webp",
+          "fact": {
+            "title": "February",
+            "fact": "February is the shortest month of the year, usually with 28 days.",
+            "foodTitle": "Season and Weather",
+            "food": "February is often a late-winter month in many Northern Hemisphere places.",
+            "strongholdTitle": "Calendar Use",
+            "stronghold": "Every four years, February usually has 29 days in a leap year.",
+            "learningPoints": [
+              "February is month number 2.",
+              "It comes after January and before March.",
+              "Valentine’s Day is celebrated in February in many places."
+            ]
+          }
         },
         {
           "id": "january",
           "title": "January",
-          "url": "/months/january.webp"
+          "url": "/months/january.webp",
+          "fact": {
+            "title": "January",
+            "fact": "January is the first month of the year and has 31 days.",
+            "foodTitle": "Season and Weather",
+            "food": "In many Northern Hemisphere places, January is a cold winter month with snow, ice, or chilly air.",
+            "strongholdTitle": "Calendar Use",
+            "stronghold": "January starts a new calendar year and is a time when many people make new plans and goals.",
+            "learningPoints": [
+              "January is month number 1.",
+              "It comes after December and before February.",
+              "New Year’s Day is celebrated on January 1."
+            ]
+          }
         },
         {
           "id": "july",
           "title": "July",
-          "url": "/months/july.webp"
+          "url": "/months/july.webp",
+          "fact": {
+            "title": "July",
+            "fact": "July is the seventh month of the year and has 31 days.",
+            "foodTitle": "Season and Weather",
+            "food": "July is often a hot summer month in many Northern Hemisphere places.",
+            "strongholdTitle": "Calendar Use",
+            "stronghold": "July is a common month for summer vacations, outdoor games, and water activities in many regions.",
+            "learningPoints": [
+              "July is month number 7.",
+              "It comes after June and before August.",
+              "Independence Day in the United States is celebrated on July 4."
+            ]
+          }
         },
         {
           "id": "june",
           "title": "June",
-          "url": "/months/june.webp"
+          "url": "/months/june.webp",
+          "fact": {
+            "title": "June",
+            "fact": "June is the sixth month of the year and has 30 days.",
+            "foodTitle": "Season and Weather",
+            "food": "June often brings long sunny days and the beginning of summer in the Northern Hemisphere.",
+            "strongholdTitle": "Calendar Use",
+            "stronghold": "The summer solstice often happens in June in the Northern Hemisphere, giving one of the longest days of the year.",
+            "learningPoints": [
+              "June is month number 6.",
+              "It comes after May and before July.",
+              "Many schools begin summer break around June in some countries."
+            ]
+          }
         },
         {
           "id": "march",
           "title": "March",
-          "url": "/months/march.webp"
+          "url": "/months/march.webp",
+          "fact": {
+            "title": "March",
+            "fact": "March is the third month of the year and has 31 days.",
+            "foodTitle": "Season and Weather",
+            "food": "In many Northern Hemisphere places, March brings early signs of spring, such as warmer days and new plant growth.",
+            "strongholdTitle": "Calendar Use",
+            "stronghold": "March is a month when seasons can start to change from winter toward spring in many regions.",
+            "learningPoints": [
+              "March is month number 3.",
+              "It comes after February and before April.",
+              "The first day of spring often happens in March in the Northern Hemisphere."
+            ]
+          }
         },
         {
           "id": "may",
           "title": "May",
-          "url": "/months/may.webp"
+          "url": "/months/may.webp",
+          "fact": {
+            "title": "May",
+            "fact": "May is the fifth month of the year and has 31 days.",
+            "foodTitle": "Season and Weather",
+            "food": "May often brings warmer weather, bright flowers, and more outdoor play in many Northern Hemisphere places.",
+            "strongholdTitle": "Calendar Use",
+            "stronghold": "May is part of late spring in the Northern Hemisphere and late autumn in the Southern Hemisphere.",
+            "learningPoints": [
+              "May is month number 5.",
+              "It comes after April and before June.",
+              "Many plants grow quickly during May in springtime regions."
+            ]
+          }
         },
         {
           "id": "november",
           "title": "November",
-          "url": "/months/november.webp"
+          "url": "/months/november.webp",
+          "fact": {
+            "title": "November",
+            "fact": "November is the eleventh month of the year and has 30 days.",
+            "foodTitle": "Season and Weather",
+            "food": "November often brings shorter days, chilly weather, and late autumn changes in many Northern Hemisphere places.",
+            "strongholdTitle": "Calendar Use",
+            "stronghold": "November is a month when many people prepare for winter in colder regions.",
+            "learningPoints": [
+              "November is month number 11.",
+              "It comes after October and before December.",
+              "Thanksgiving is celebrated in November in the United States."
+            ]
+          }
         },
         {
           "id": "october",
           "title": "October",
-          "url": "/months/october.webp"
+          "url": "/months/october.webp",
+          "fact": {
+            "title": "October",
+            "fact": "October is the tenth month of the year and has 31 days.",
+            "foodTitle": "Season and Weather",
+            "food": "October is often known for colorful leaves, pumpkins, and cooler autumn weather in many Northern Hemisphere places.",
+            "strongholdTitle": "Calendar Use",
+            "stronghold": "October is an autumn month in the Northern Hemisphere and a spring month in the Southern Hemisphere.",
+            "learningPoints": [
+              "October is month number 10.",
+              "It comes after September and before November.",
+              "Halloween is celebrated on October 31 in many places."
+            ]
+          }
         },
         {
           "id": "september",
           "title": "September",
-          "url": "/months/september.webp"
+          "url": "/months/september.webp",
+          "fact": {
+            "title": "September",
+            "fact": "September is the ninth month of the year and has 30 days.",
+            "foodTitle": "Season and Weather",
+            "food": "September often brings cooler mornings and the start of autumn in many Northern Hemisphere places.",
+            "strongholdTitle": "Calendar Use",
+            "stronghold": "September is a common back-to-school month in many countries.",
+            "learningPoints": [
+              "September is month number 9.",
+              "It comes after August and before October.",
+              "The first day of autumn often happens in September in the Northern Hemisphere."
+            ]
+          }
         }
       ]
     },
