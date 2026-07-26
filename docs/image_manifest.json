@@ -1514,6 +1514,366 @@
       "title": "Nature",
       "images": [
         {
+          "id": "delicate_dandelion",
+          "title": "Delicate Dandelion",
+          "url": "/nature/delicate_dandelion.webp",
+          "fact": {
+            "title": "Delicate Dandelion",
+            "fact": "A dandelion seed head is made of many tiny seeds, each attached to a light, fluffy parachute that helps it float on the wind.",
+            "foodTitle": "What You See",
+            "food": "This scene shows delicate white seed parachutes, a round seed head, and a soft natural background.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Dandelions grow in lawns, meadows, fields, and roadsides across many temperate parts of the world.",
+            "learningPoints": [
+              "Dandelion seeds can travel away from the parent plant by wind.",
+              "The yellow flower changes into a fluffy seed head after blooming.",
+              "Dandelions are useful to some insects because their flowers provide nectar and pollen."
+            ]
+          }
+        },
+        {
+          "id": "desert_arch",
+          "title": "Desert Arch",
+          "url": "/nature/desert_arch.webp",
+          "fact": {
+            "title": "Desert Arch",
+            "fact": "A desert arch forms when softer rock wears away over time, leaving a curved opening in harder rock.",
+            "foodTitle": "What You See",
+            "food": "This scene features a tall rock arch, dry desert ground, bright sunlight, and open blue sky.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Natural rock arches are common in dry sandstone regions such as the American Southwest and other desert landscapes.",
+            "learningPoints": [
+              "Wind, rain, freezing, and heat can slowly shape desert rocks.",
+              "Many arches take thousands or millions of years to form.",
+              "Desert plants and animals survive with very little water."
+            ]
+          }
+        },
+        {
+          "id": "golden_grass_at_sunset",
+          "title": "Golden Grass at Sunset",
+          "url": "/nature/golden_grass_at_sunset.webp",
+          "fact": {
+            "title": "Golden Grass at Sunset",
+            "fact": "At sunset, sunlight passes through more of the atmosphere, often making grasses glow in warm gold, orange, or red tones.",
+            "foodTitle": "What You See",
+            "food": "This scene shows tall grass stems, warm sunset light, and a peaceful outdoor field.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Golden sunset grasslands can be seen in fields, meadows, prairies, and countryside areas around the world.",
+            "learningPoints": [
+              "Grasslands provide homes and food for many insects, birds, and mammals.",
+              "The Sun appears lower in the sky during sunrise and sunset.",
+              "Backlighting can make thin grass stems look bright and glowing."
+            ]
+          }
+        },
+        {
+          "id": "spring_blossoms",
+          "title": "Spring Blossoms",
+          "url": "/nature/spring_blossoms.webp",
+          "fact": {
+            "title": "Spring Blossoms",
+            "fact": "Spring blossoms are flowers that open on trees and shrubs when warmer weather and longer daylight return.",
+            "foodTitle": "What You See",
+            "food": "This scene shows soft pink blossoms, small branches, and gentle spring light.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Blossoming trees are found in gardens, parks, orchards, and forests in many temperate regions.",
+            "learningPoints": [
+              "Many fruit trees bloom before they grow fruit.",
+              "Bees and other pollinators visit blossoms for nectar and pollen.",
+              "Spring flowers are often a sign that plants are starting a new growing season."
+            ]
+          }
+        },
+        {
+          "id": "rolling_hills",
+          "title": "Rolling Hills",
+          "url": "/nature/rolling_hills.webp",
+          "fact": {
+            "title": "Rolling Hills",
+            "fact": "Rolling hills are gently rising and falling landforms shaped by weathering, water, wind, and long-term changes in the landscape.",
+            "foodTitle": "What You See",
+            "food": "This scene shows green hills, open countryside, and a peaceful natural landscape.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Rolling hills are common in rural areas, grasslands, farming regions, and foothills around the world.",
+            "learningPoints": [
+              "Hills are lower and usually less steep than mountains.",
+              "Grass-covered hills can support grazing animals and wildflowers.",
+              "Sunlight and shadows can make hill shapes easier to see."
+            ]
+          }
+        },
+        {
+          "id": "bald_eagle",
+          "title": "Bald Eagle",
+          "url": "/nature/bald_eagle.webp",
+          "fact": {
+            "title": "Bald Eagle",
+            "fact": "The bald eagle is a large bird of prey known for its white head, strong hooked beak, and powerful eyesight.",
+            "foodTitle": "Food",
+            "food": "Bald eagles mainly eat fish, but they may also eat birds, small mammals, and carrion.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Bald eagles live in North America, often near lakes, rivers, coasts, and wetlands.",
+            "learningPoints": [
+              "Bald eagles build very large nests high in trees or on cliffs.",
+              "Their sharp talons help them catch and hold prey.",
+              "They are a national symbol of the United States."
+            ]
+          }
+        },
+        {
+          "id": "mountain_road",
+          "title": "Mountain Road",
+          "url": "/nature/mountain_road.webp",
+          "fact": {
+            "title": "Mountain Road",
+            "fact": "Mountain roads often wind through valleys and passes because steep rocky terrain makes straight roads difficult to build.",
+            "foodTitle": "What You See",
+            "food": "This scene shows a road leading toward high peaks, open sky, and rugged mountain scenery.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Mountain roads are found in ranges such as the Rockies, Alps, Andes, Himalayas, and many other highland regions.",
+            "learningPoints": [
+              "Mountains can create changing weather and cooler temperatures.",
+              "Roads through mountains may follow valleys or natural gaps.",
+              "Snow, ice, and rockfall can make mountain travel challenging."
+            ]
+          }
+        },
+        {
+          "id": "desert_rock_formations",
+          "title": "Desert Rock Formations",
+          "url": "/nature/desert_rock_formations.webp",
+          "fact": {
+            "title": "Desert Rock Formations",
+            "fact": "Desert rock formations are shaped over long periods by erosion from wind, rain, temperature changes, and moving sand.",
+            "foodTitle": "What You See",
+            "food": "This scene features layered rocks, dry ground, warm sunlight, and open desert space.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "These formations are common in dry regions with exposed sandstone, limestone, or volcanic rock.",
+            "learningPoints": [
+              "Different rock layers can show different periods of Earth’s history.",
+              "Desert landscapes can be very hot in the day and cold at night.",
+              "Erosion slowly changes cliffs, towers, arches, and canyons."
+            ]
+          }
+        },
+        {
+          "id": "northern_lights",
+          "title": "Northern Lights",
+          "url": "/nature/northern_lights.webp",
+          "fact": {
+            "title": "Northern Lights",
+            "fact": "The northern lights are glowing colors in the sky caused when charged particles from space interact with gases in Earth’s atmosphere.",
+            "foodTitle": "What You See",
+            "food": "This scene shows colorful night-sky lights, dark land, and a dramatic Arctic-style landscape.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Northern lights are most often seen near the Arctic, including places such as Alaska, Canada, Iceland, Norway, Sweden, and Finland.",
+            "learningPoints": [
+              "Northern lights are also called aurora borealis.",
+              "They are easier to see on dark, clear nights away from city lights.",
+              "Auroras can appear green, purple, pink, red, or blue."
+            ]
+          }
+        },
+        {
+          "id": "shorebird",
+          "title": "Shorebird",
+          "url": "/nature/shorebird.webp",
+          "fact": {
+            "title": "Shorebird",
+            "fact": "Shorebirds are birds that often feed along beaches, mudflats, wetlands, and shallow water edges.",
+            "foodTitle": "Food",
+            "food": "Many shorebirds eat insects, worms, small crustaceans, and tiny creatures found in sand or mud.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Shorebirds are found along coasts, lakeshores, rivers, and wetlands across many parts of the world.",
+            "learningPoints": [
+              "Long legs help many shorebirds walk through shallow water.",
+              "Some shorebirds have long beaks for probing mud and sand.",
+              "Many shorebirds migrate long distances between breeding and feeding areas."
+            ]
+          }
+        },
+        {
+          "id": "spotted_gecko",
+          "title": "Spotted Gecko",
+          "url": "/nature/spotted_gecko.webp",
+          "fact": {
+            "title": "Spotted Gecko",
+            "fact": "Geckos are small reptiles, and many species use spotted or patterned skin to blend into rocks, bark, or sandy ground.",
+            "foodTitle": "Food",
+            "food": "Most geckos eat insects and other small invertebrates.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Geckos live in warm regions around the world, including deserts, forests, grasslands, and homes.",
+            "learningPoints": [
+              "Many geckos are active at night.",
+              "Some geckos can climb smooth surfaces using special toe pads.",
+              "A gecko may drop its tail to escape a predator, and some can regrow it."
+            ]
+          }
+        },
+        {
+          "id": "flying_goose",
+          "title": "Flying Goose",
+          "url": "/nature/flying_goose.webp",
+          "fact": {
+            "title": "Flying Goose",
+            "fact": "Geese are strong flying birds that often travel in groups and may form a V-shape during long migrations.",
+            "foodTitle": "Food",
+            "food": "Geese eat grasses, grains, aquatic plants, seeds, and sometimes small insects.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Geese are found near lakes, wetlands, fields, rivers, and coastlines across many regions of the world.",
+            "learningPoints": [
+              "Flying in a V formation can help geese save energy.",
+              "Geese communicate with loud honking calls.",
+              "Many geese return to the same nesting or feeding areas each year."
+            ]
+          }
+        },
+        {
+          "id": "tabby_cat",
+          "title": "Tabby Cat",
+          "url": "/nature/tabby_cat.webp",
+          "fact": {
+            "title": "Tabby Cat",
+            "fact": "A tabby cat has striped, spotted, or swirled coat markings, often with an M-shaped mark on the forehead.",
+            "foodTitle": "Food",
+            "food": "Cats are meat-eaters and need animal protein in their diet.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Domestic cats live with people around the world in homes, farms, neighborhoods, and cities.",
+            "learningPoints": [
+              "Cats use whiskers to sense nearby objects and spaces.",
+              "Their ears can turn to help locate tiny sounds.",
+              "Cats groom their fur with rough tongues."
+            ]
+          }
+        },
+        {
+          "id": "poppy_meadow",
+          "title": "Poppy Meadow",
+          "url": "/nature/poppy_meadow.webp",
+          "fact": {
+            "title": "Poppy Meadow",
+            "fact": "A poppy meadow is a field where bright poppy flowers grow among grasses and other plants.",
+            "foodTitle": "What You See",
+            "food": "This scene shows vivid red poppies, green stems, open meadow space, and sunlight.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Poppies grow in fields, meadows, gardens, and disturbed soils in many temperate regions.",
+            "learningPoints": [
+              "Poppies often have thin, delicate petals.",
+              "Flowers attract pollinators such as bees and butterflies.",
+              "Meadows can support many insects, birds, and small animals."
+            ]
+          }
+        },
+        {
+          "id": "orb_weaver_spider",
+          "title": "Orb Weaver Spider",
+          "url": "/nature/orb_weaver_spider.webp",
+          "fact": {
+            "title": "Orb Weaver Spider",
+            "fact": "Orb-weaver spiders are known for building round, wheel-shaped webs that help catch flying insects.",
+            "foodTitle": "Food",
+            "food": "Orb-weaver spiders eat insects that become trapped in their sticky webs.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Orb-weaver spiders are found in gardens, forests, fields, and around buildings in many parts of the world.",
+            "learningPoints": [
+              "Many orb webs have a spiral pattern.",
+              "Spiders use silk to build webs, wrap prey, and make egg sacs.",
+              "Spiders have eight legs and are arachnids, not insects."
+            ]
+          }
+        },
+        {
+          "id": "great_wall",
+          "title": "Great Wall",
+          "url": "/nature/great_wall.webp",
+          "fact": {
+            "title": "Great Wall",
+            "fact": "The Great Wall is a long system of walls, watchtowers, and fortifications built across parts of northern China over many centuries.",
+            "foodTitle": "Famous For",
+            "food": "It is famous for its long stone pathways, mountain views, and historic watchtowers.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "The Great Wall is in northern China, with famous restored sections near Beijing.",
+            "learningPoints": [
+              "Different Chinese dynasties built and repaired different sections.",
+              "Some parts of the wall cross steep hills and mountains.",
+              "The wall is one of the most recognized landmarks in the world."
+            ]
+          }
+        },
+        {
+          "id": "alpine_village",
+          "title": "Alpine Village",
+          "url": "/nature/alpine_village.webp",
+          "fact": {
+            "title": "Alpine Village",
+            "fact": "An alpine village is a settlement in or near high mountain regions, often surrounded by peaks, forests, lakes, or meadows.",
+            "foodTitle": "What You See",
+            "food": "This scene shows a mountain village, green slopes, water, and bright alpine scenery.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Alpine villages are common in mountain regions such as the Alps, but similar villages exist in many highland areas worldwide.",
+            "learningPoints": [
+              "Mountain villages often adapt to snow, steep slopes, and cooler weather.",
+              "Lakes and valleys can form from glaciers and mountain streams.",
+              "Tourism, farming, and local crafts are important in many alpine communities."
+            ]
+          }
+        },
+        {
+          "id": "yellow_dahlia",
+          "title": "Yellow Dahlia",
+          "url": "/nature/yellow_dahlia.webp",
+          "fact": {
+            "title": "Yellow Dahlia",
+            "fact": "Dahlias are flowering plants known for bold, layered blooms that can come in many shapes, sizes, and colors.",
+            "foodTitle": "What You See",
+            "food": "This scene shows a bright yellow dahlia bloom with many detailed petals.",
+            "strongholdTitle": "Where It Happens",
+            "stronghold": "Dahlias are grown in gardens and flower farms around the world, and they originally come from Mexico and Central America.",
+            "learningPoints": [
+              "Dahlia flowers can have many rows of petals.",
+              "They are popular garden flowers because of their bright colors.",
+              "Pollinators such as bees may visit dahlia blooms."
+            ]
+          }
+        },
+        {
+          "id": "butterfly_on_bloom",
+          "title": "Butterfly on Bloom",
+          "url": "/nature/butterfly_on_bloom.webp",
+          "fact": {
+            "title": "Butterfly on Bloom",
+            "fact": "Butterflies often visit flowers to sip nectar using a long, tube-like mouthpart called a proboscis.",
+            "foodTitle": "Food",
+            "food": "Adult butterflies mostly drink nectar, while caterpillars usually eat leaves from host plants.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Butterflies live in meadows, gardens, forests, wetlands, and many other habitats around the world.",
+            "learningPoints": [
+              "Butterflies go through metamorphosis from egg to caterpillar to chrysalis to adult.",
+              "Their wings are covered with tiny scales.",
+              "Butterflies help pollinate some flowers as they move from bloom to bloom."
+            ]
+          }
+        },
+        {
+          "id": "orange_butterfly_on_thistle",
+          "title": "Orange Butterfly on Thistle",
+          "url": "/nature/orange_butterfly_on_thistle.webp",
+          "fact": {
+            "title": "Orange Butterfly on Thistle",
+            "fact": "Orange butterflies often rest on nectar-rich flowers such as thistles, using their delicate legs and curled feeding tube.",
+            "foodTitle": "Food",
+            "food": "Butterflies drink nectar from flowers, while their caterpillars feed on specific host plants.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Butterflies and thistles can be found in gardens, meadows, roadsides, and wildflower areas in many regions.",
+            "learningPoints": [
+              "Thistle flowers can provide nectar for bees, butterflies, and other insects.",
+              "Butterfly wing colors and patterns can help with camouflage or warning signals.",
+              "Butterflies are important parts of many food webs."
+            ]
+          }
+        },
+        {
           "id": "angel",
           "title": "Waterfall in a Misty Jungle",
           "url": "/nature/angel.webp",
