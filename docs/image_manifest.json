@@ -12,6 +12,186 @@
       "title": "Animal",
       "images": [
         {
+          "id": "red_squirrel",
+          "title": "Red Squirrel",
+          "url": "/animal/red_squirrel.webp",
+          "fact": {
+            "title": "Red Squirrel",
+            "fact": "Red squirrels are quick tree-climbing mammals known for their reddish fur, bushy tails, and habit of storing food.",
+            "foodTitle": "Food",
+            "food": "Red squirrels eat seeds, nuts, berries, fungi, and tender plant parts.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Red squirrels live in forests across Europe and northern Asia, especially where conifer trees are common.",
+            "learningPoints": [
+              "Their long tails help them balance while climbing and jumping.",
+              "They hide food in many small storage places for later.",
+              "Their sharp front teeth keep growing throughout their lives."
+            ]
+          }
+        },
+        {
+          "id": "tabby_kitten",
+          "title": "Tabby Kitten",
+          "url": "/animal/tabby_kitten.webp",
+          "fact": {
+            "title": "Tabby Kitten",
+            "fact": "A tabby kitten has striped, spotted, or swirled coat markings and learns through play, climbing, and exploring.",
+            "foodTitle": "Food",
+            "food": "Kittens need nutrient-rich food with animal protein to support healthy growth.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Domestic kittens live with people in homes and communities around the world.",
+            "learningPoints": [
+              "Kittens use play to practice balance, hunting movements, and social skills.",
+              "Their whiskers help them sense nearby spaces and objects.",
+              "Young kittens sleep many hours each day while they grow."
+            ]
+          }
+        },
+        {
+          "id": "raccoon",
+          "title": "Raccoon",
+          "url": "/animal/raccoon.webp",
+          "fact": {
+            "title": "Raccoon",
+            "fact": "Raccoons are clever nocturnal mammals recognized by their dark facial masks and ringed tails.",
+            "foodTitle": "Food",
+            "food": "Raccoons eat fruits, nuts, insects, eggs, small animals, and many other available foods.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Raccoons are native to North America and live in forests, wetlands, farms, suburbs, and cities.",
+            "learningPoints": [
+              "Their sensitive front paws help them examine and handle food.",
+              "Raccoons are strong climbers and can also swim.",
+              "They often rest in tree hollows, dens, or sheltered spaces during the day."
+            ]
+          }
+        },
+        {
+          "id": "leopard",
+          "title": "Leopard",
+          "url": "/animal/leopard.webp",
+          "fact": {
+            "title": "Leopard",
+            "fact": "Leopards are powerful wild cats with spotted coats that help them blend into grass, rocks, and forest shadows.",
+            "foodTitle": "Food",
+            "food": "Leopards are meat-eaters that hunt animals such as antelope, monkeys, birds, and small mammals.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Leopards live in parts of Africa and Asia across forests, grasslands, mountains, and dry regions.",
+            "learningPoints": [
+              "Their spots are arranged in patterns called rosettes.",
+              "Leopards are excellent climbers and often rest in trees.",
+              "They usually live and hunt alone."
+            ]
+          }
+        },
+        {
+          "id": "polar_bear",
+          "title": "Polar Bear",
+          "url": "/animal/polar_bear.webp",
+          "fact": {
+            "title": "Polar Bear",
+            "fact": "Polar bears are large Arctic mammals with thick fur and a layer of body fat that helps them stay warm.",
+            "foodTitle": "Food",
+            "food": "Polar bears mainly hunt seals, though they may also eat other available animal foods.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Polar bears live around the Arctic in areas of Canada, Alaska, Greenland, Russia, and Norway.",
+            "learningPoints": [
+              "Their wide paws help them walk on ice and swim through cold water.",
+              "Their skin is dark beneath fur that appears white.",
+              "Sea ice is important because it provides a platform for hunting."
+            ]
+          }
+        },
+        {
+          "id": "arctic_fox",
+          "title": "Arctic Fox",
+          "url": "/animal/arctic_fox.webp",
+          "fact": {
+            "title": "Arctic Fox",
+            "fact": "Arctic foxes have dense fur, compact ears, and furry paws that help them survive extremely cold environments.",
+            "foodTitle": "Food",
+            "food": "Arctic foxes eat small mammals, birds, eggs, fish, and leftover food from larger predators.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Arctic foxes live across tundra regions of North America, Greenland, Iceland, northern Europe, and Russia.",
+            "learningPoints": [
+              "Many Arctic foxes grow white winter coats that blend into snow.",
+              "Their thick tails can wrap around the body for warmth.",
+              "They have an excellent sense of hearing for finding prey beneath snow."
+            ]
+          }
+        },
+        {
+          "id": "red_fox",
+          "title": "Red Fox",
+          "url": "/animal/red_fox.webp",
+          "fact": {
+            "title": "Red Fox",
+            "fact": "Red foxes are adaptable mammals known for reddish coats, pointed ears, and long bushy tails.",
+            "foodTitle": "Food",
+            "food": "Red foxes eat rodents, rabbits, birds, insects, fruit, and other available foods.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Red foxes live across much of North America, Europe, Asia, and parts of North Africa.",
+            "learningPoints": [
+              "Their tails help with balance and can provide warmth.",
+              "Foxes use sharp hearing to locate small animals.",
+              "They communicate with calls, scent markings, and body movements."
+            ]
+          }
+        },
+        {
+          "id": "sheep",
+          "title": "Sheep",
+          "url": "/animal/sheep.webp",
+          "fact": {
+            "title": "Sheep",
+            "fact": "Sheep are social farm animals that grow woolly coats and often stay together in flocks.",
+            "foodTitle": "Food",
+            "food": "Sheep mainly eat grass, hay, and other leafy plants.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Domestic sheep are raised around the world, with large populations in China, Australia, India, and New Zealand.",
+            "learningPoints": [
+              "Wool can be cleaned and spun into yarn for clothing and blankets.",
+              "Sheep communicate through bleats and body language.",
+              "A young sheep is called a lamb."
+            ]
+          }
+        },
+        {
+          "id": "white_rabbit",
+          "title": "White Rabbit",
+          "url": "/animal/white_rabbit.webp",
+          "fact": {
+            "title": "White Rabbit",
+            "fact": "White rabbits have pale fur and large ears that help them hear nearby sounds and release body heat.",
+            "foodTitle": "Food",
+            "food": "Rabbits eat grasses, hay, leafy plants, and suitable vegetables.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Domestic rabbits live with people worldwide, while wild rabbit species occupy grasslands, forests, and scrublands.",
+            "learningPoints": [
+              "Rabbit teeth keep growing, so chewing helps wear them down.",
+              "Their strong hind legs help them hop and escape quickly.",
+              "Rabbits use their noses, ears, and whiskers to study their surroundings."
+            ]
+          }
+        },
+        {
+          "id": "sea_turtle",
+          "title": "Sea Turtle",
+          "url": "/animal/sea_turtle.webp",
+          "fact": {
+            "title": "Sea Turtle",
+            "fact": "Sea turtles are ocean reptiles with streamlined shells and strong flippers for long-distance swimming.",
+            "foodTitle": "Food",
+            "food": "Depending on the species, sea turtles eat seagrass, algae, jellyfish, crabs, sponges, and other sea life.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Sea turtles live in tropical and temperate oceans, with nesting beaches across many coastal countries.",
+            "learningPoints": [
+              "Female sea turtles return to sandy beaches to lay eggs.",
+              "Some sea turtles migrate thousands of miles between feeding and nesting areas.",
+              "They must surface regularly because they breathe air."
+            ]
+          }
+        },
+        {
           "id": "cat",
           "title": "Cat",
           "url": "/animal/cat.webp",
