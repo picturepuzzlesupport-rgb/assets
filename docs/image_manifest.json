@@ -257,7 +257,7 @@
             "strongholdTitle": "Where They Are Found",
             "stronghold": "Large giraffe populations are found in several African countries, including Kenya, Tanzania, and South Africa.",
             "learningPoints": [
-              "A giraffe’s tongue can be dark blue or purple and very long.",
+              "A giraffe\u2019s tongue can be dark blue or purple and very long.",
               "They have powerful kicks to defend themselves.",
               "Each giraffe has a unique patch pattern."
             ]
@@ -513,7 +513,7 @@
             "foodTitle": "Art Materials",
             "food": "Washable paint, thick paper, and aprons are often used for finger painting.",
             "strongholdTitle": "Where You Might See It",
-            "stronghold": "Finger painting is popular in children’s art activities and sensory play spaces.",
+            "stronghold": "Finger painting is popular in children\u2019s art activities and sensory play spaces.",
             "learningPoints": [
               "It helps children explore color, texture, and movement.",
               "Hands can make swirls, dots, and broad paint strokes.",
@@ -941,229 +941,104 @@
       "title": "Daily Puzzle",
       "images": [
         {
-          "id": "cheerful_garden_tapestry_with_children_painting",
-          "title": "Cheerful Garden Tapestry with Children Painting",
-          "url": "/daily_puzzle/cheerful_garden_tapestry_with_children_painting.webp"
+          "id": "mountain_waterfall_01",
+          "title": "Tranquil Lake with Waterfall and Mountains",
+          "url": "/daily_puzzle/mountain_waterfall_01.webp"
         },
         {
-          "id": "colorful_kite_flying_in_the_countryside",
-          "title": "Colorful Kite Flying in the Countryside",
-          "url": "/daily_puzzle/colorful_kite_flying_in_the_countryside.webp"
+          "id": "mountain_waterfall_02",
+          "title": "Serene Alpine Lake with Cascading Waterfall",
+          "url": "/daily_puzzle/mountain_waterfall_02.webp"
         },
         {
-          "id": "confidence_independence",
-          "title": "Confidence Independence",
-          "url": "/daily_puzzle/confidence_independence.webp"
+          "id": "mountain_waterfall_03",
+          "title": "Serene Fjord with Cascading Waterfall",
+          "url": "/daily_puzzle/mountain_waterfall_03.webp"
         },
         {
-          "id": "coral_seaworld",
-          "title": "Coral Seaworld",
-          "url": "/daily_puzzle/coral_seaworld.webp"
+          "id": "mountain_waterfall_04",
+          "title": "Majestic Alpine Lake and Waterfalls",
+          "url": "/daily_puzzle/mountain_waterfall_04.webp"
         },
         {
-          "id": "cozy_twilight_storytime_in_the_garden",
-          "title": "Cozy Twilight Storytime in the Garden",
-          "url": "/daily_puzzle/cozy_twilight_storytime_in_the_garden.webp"
+          "id": "mountain_waterfall_05",
+          "title": "Alpine Lake and Waterfall in Daylight",
+          "url": "/daily_puzzle/mountain_waterfall_05.webp"
         },
         {
-          "id": "creative_playroom",
-          "title": "Creative Playroom",
-          "url": "/daily_puzzle/creative_playroom.webp"
+          "id": "mountain_waterfall_06",
+          "title": "Golden Hour in Alpine Serenity",
+          "url": "/daily_puzzle/mountain_waterfall_06.webp"
         },
         {
-          "id": "curiosity_adventure",
-          "title": "Curiosity Adventure",
-          "url": "/daily_puzzle/curiosity_adventure.webp"
+          "id": "mountain_waterfall_07",
+          "title": "Serene Alpine Morning Glow",
+          "url": "/daily_puzzle/mountain_waterfall_07.webp"
         },
         {
-          "id": "dog",
-          "title": "Dog",
-          "url": "/daily_puzzle/dog.webp"
+          "id": "mountain_waterfall_08",
+          "title": "Alpine Waterfall and Mountain Lake View",
+          "url": "/daily_puzzle/mountain_waterfall_08.webp"
         },
         {
-          "id": "elephant_blanket",
-          "title": "Elephant Blanket",
-          "url": "/daily_puzzle/elephant_blanket.webp"
+          "id": "mountain_waterfall_09",
+          "title": "Mountain Lake and Waterfall Vista",
+          "url": "/daily_puzzle/mountain_waterfall_09.webp"
         },
         {
-          "id": "emotional_skills",
-          "title": "Emotional Skills",
-          "url": "/daily_puzzle/emotional_skills.webp"
+          "id": "mountain_waterfall_10",
+          "title": "Serene Alpine Valley and Lake",
+          "url": "/daily_puzzle/mountain_waterfall_10.webp"
         },
         {
-          "id": "enchanted_garden_of_princesses_and_roses",
-          "title": "Enchanted Garden of Princesses and Roses",
-          "url": "/daily_puzzle/enchanted_garden_of_princesses_and_roses.webp"
+          "id": "nature_city_people_water_01",
+          "title": "Waterfront Park with Skyline Backdrop",
+          "url": "/daily_puzzle/nature_city_people_water_01.webp"
         },
         {
-          "id": "family_connection",
-          "title": "Family Connection",
-          "url": "/daily_puzzle/family_connection.webp"
+          "id": "nature_city_people_water_02",
+          "title": "Urban Park by the Waterfront",
+          "url": "/daily_puzzle/nature_city_people_water_02.webp"
         },
         {
-          "id": "forest_fox",
-          "title": "Forest Fox",
-          "url": "/daily_puzzle/forest_fox.webp"
+          "id": "nature_city_people_water_03",
+          "title": "Sunny Canal Side Cafe Scene",
+          "url": "/daily_puzzle/nature_city_people_water_03.webp"
         },
         {
-          "id": "arctic_wildlife",
-          "title": "Arctic Wildlife",
-          "url": "/daily_puzzle/arctic_wildlife.webp"
+          "id": "nature_city_people_water_04",
+          "title": "Sunny Coastal City by the Marina",
+          "url": "/daily_puzzle/nature_city_people_water_04.webp"
         },
         {
-          "id": "artist_puppy",
-          "title": "Artist Puppy",
-          "url": "/daily_puzzle/artist_puppy.webp"
+          "id": "nature_city_people_water_05",
+          "title": "Sunny Beach Promenade with City Skyline",
+          "url": "/daily_puzzle/nature_city_people_water_05.webp"
         },
         {
-          "id": "autumn_deer",
-          "title": "Autumn Deer",
-          "url": "/daily_puzzle/autumn_deer.webp"
+          "id": "nature_city_people_water_06",
+          "title": "Sunny Waterfront Plaza with Fountain",
+          "url": "/daily_puzzle/nature_city_people_water_06.webp"
         },
         {
-          "id": "autumn_harvest_at_sunset_with_children",
-          "title": "Autumn Harvest at Sunset with Children",
-          "url": "/daily_puzzle/autumn_harvest_at_sunset_with_children.webp"
+          "id": "nature_city_people_water_07",
+          "title": "Lakeside Village with Mountain Backdrop",
+          "url": "/daily_puzzle/nature_city_people_water_07.webp"
         },
         {
-          "id": "birds",
-          "title": "Birds",
-          "url": "/daily_puzzle/birds.webp"
+          "id": "nature_city_people_water_08",
+          "title": "Golden Hour at the Waterfront Promenade",
+          "url": "/daily_puzzle/nature_city_people_water_08.webp"
         },
         {
-          "id": "body_parts",
-          "title": "Body Parts",
-          "url": "/daily_puzzle/body_parts.webp"
+          "id": "nature_city_people_water_09",
+          "title": "Spring Day at the City Waterfront",
+          "url": "/daily_puzzle/nature_city_people_water_09.webp"
         },
         {
-          "id": "bunny_doll",
-          "title": "Bunny Doll",
-          "url": "/daily_puzzle/bunny_doll.webp"
-        },
-        {
-          "id": "cat_reading",
-          "title": "Cat Reading",
-          "url": "/daily_puzzle/cat_reading.webp"
-        },
-        {
-          "id": "fruits",
-          "title": "Fruits",
-          "url": "/daily_puzzle/fruits.webp"
-        },
-        {
-          "id": "galaxy_space",
-          "title": "Galaxy Space",
-          "url": "/daily_puzzle/galaxy_space.webp"
-        },
-        {
-          "id": "girls_reading_in_a_magical_meadow",
-          "title": "Girls Reading in a Magical Meadow",
-          "url": "/daily_puzzle/girls_reading_in_a_magical_meadow.webp"
-        },
-        {
-          "id": "hands_on_play",
-          "title": "Hands on Play",
-          "url": "/daily_puzzle/hands_on_play.webp"
-        },
-        {
-          "id": "kindness_sharing",
-          "title": "Kindness Sharing",
-          "url": "/daily_puzzle/kindness_sharing.webp"
-        },
-        {
-          "id": "knitting_bear",
-          "title": "Knitting Bear",
-          "url": "/daily_puzzle/knitting_bear.webp"
-        },
-        {
-          "id": "learning_center",
-          "title": "Learning Center",
-          "url": "/daily_puzzle/learning_center.webp"
-        },
-        {
-          "id": "moonlit_garden_with_castle_and_flowers",
-          "title": "Moonlit Garden with Castle and Flowers",
-          "url": "/daily_puzzle/moonlit_garden_with_castle_and_flowers.webp"
-        },
-        {
-          "id": "mouse_doll",
-          "title": "Mouse Doll",
-          "url": "/daily_puzzle/mouse_doll.webp"
-        },
-        {
-          "id": "nature_rainforest",
-          "title": "Nature Rainforest",
-          "url": "/daily_puzzle/nature_rainforest.webp"
-        },
-        {
-          "id": "night_festival_in_embroidered_village",
-          "title": "Night Festival in Embroidered Village",
-          "url": "/daily_puzzle/night_festival_in_embroidered_village.webp"
-        },
-        {
-          "id": "ocean_whales",
-          "title": "Ocean Whales",
-          "url": "/daily_puzzle/ocean_whales.webp"
-        },
-        {
-          "id": "princess_doll",
-          "title": "Princess Doll",
-          "url": "/daily_puzzle/princess_doll.webp"
-        },
-        {
-          "id": "problem_solving",
-          "title": "Problem Solving",
-          "url": "/daily_puzzle/problem_solving.webp"
-        },
-        {
-          "id": "savanna_animals",
-          "title": "Savanna Animals",
-          "url": "/daily_puzzle/savanna_animals.webp"
-        },
-        {
-          "id": "sealife",
-          "title": "Sealife",
-          "url": "/daily_puzzle/sealife.webp"
-        },
-        {
-          "id": "sisters_reading",
-          "title": "Sisters Reading",
-          "url": "/daily_puzzle/sisters_reading.webp"
-        },
-        {
-          "id": "storytelling_time",
-          "title": "Storytelling Time",
-          "url": "/daily_puzzle/storytelling_time.webp"
-        },
-        {
-          "id": "sweethearts_in_a_floral_meadow",
-          "title": "Sweethearts in a Floral Meadow",
-          "url": "/daily_puzzle/sweethearts_in_a_floral_meadow.webp"
-        },
-        {
-          "id": "valley_rainbow",
-          "title": "Valley Rainbow",
-          "url": "/daily_puzzle/valley_rainbow.webp"
-        },
-        {
-          "id": "weather",
-          "title": "Weather",
-          "url": "/daily_puzzle/weather.webp"
-        },
-        {
-          "id": "weather_storm",
-          "title": "Weather Storm",
-          "url": "/daily_puzzle/weather_storm.webp"
-        },
-        {
-          "id": "whimsical_candy_meadow_playtime_scene",
-          "title": "Whimsical Candy Meadow Playtime Scene",
-          "url": "/daily_puzzle/whimsical_candy_meadow_playtime_scene.webp"
-        },
-        {
-          "id": "wile_animals",
-          "title": "Wile Animals",
-          "url": "/daily_puzzle/wile_animals.webp"
+          "id": "nature_city_people_water_10",
+          "title": "Sunny Lakeside Promenade on a Summer Day",
+          "url": "/daily_puzzle/nature_city_people_water_10.webp"
         }
       ]
     },
@@ -1257,7 +1132,7 @@
             "foodTitle": "Food",
             "food": "Apples are fruits that people can eat fresh, cooked, or dried.",
             "strongholdTitle": "Where They Are Found",
-            "stronghold": "China is one of the world’s largest apple-growing countries.",
+            "stronghold": "China is one of the world\u2019s largest apple-growing countries.",
             "learningPoints": [
               "Apple trees blossom with flowers before the fruit grows.",
               "Apples contain fiber and vitamin C.",
@@ -1365,7 +1240,7 @@
             "foodTitle": "Food",
             "food": "Apples are fruits that people can eat fresh, cooked, or dried.",
             "strongholdTitle": "Where They Are Found",
-            "stronghold": "China is one of the world’s largest apple-growing countries.",
+            "stronghold": "China is one of the world\u2019s largest apple-growing countries.",
             "learningPoints": [
               "Apple trees blossom with flowers before the fruit grows.",
               "Apples contain fiber and vitamin C.",
@@ -1539,7 +1414,7 @@
             "learningPoints": [
               "February is month number 2.",
               "It comes after January and before March.",
-              "Valentine’s Day is celebrated in February in many places."
+              "Valentine\u2019s Day is celebrated in February in many places."
             ]
           }
         },
@@ -1557,7 +1432,7 @@
             "learningPoints": [
               "January is month number 1.",
               "It comes after December and before February.",
-              "New Year’s Day is celebrated on January 1."
+              "New Year\u2019s Day is celebrated on January 1."
             ]
           }
         },
@@ -1831,7 +1706,7 @@
             "strongholdTitle": "Where It Happens",
             "stronghold": "These formations are common in dry regions with exposed sandstone, limestone, or volcanic rock.",
             "learningPoints": [
-              "Different rock layers can show different periods of Earth’s history.",
+              "Different rock layers can show different periods of Earth\u2019s history.",
               "Desert landscapes can be very hot in the day and cold at night.",
               "Erosion slowly changes cliffs, towers, arches, and canyons."
             ]
@@ -1843,7 +1718,7 @@
           "url": "/nature/northern_lights.webp",
           "fact": {
             "title": "Northern Lights",
-            "fact": "The northern lights are glowing colors in the sky caused when charged particles from space interact with gases in Earth’s atmosphere.",
+            "fact": "The northern lights are glowing colors in the sky caused when charged particles from space interact with gases in Earth\u2019s atmosphere.",
             "foodTitle": "What You See",
             "food": "This scene shows colorful night-sky lights, dark land, and a dramatic Arctic-style landscape.",
             "strongholdTitle": "Where It Happens",
@@ -2077,7 +1952,7 @@
           "url": "/nature/aurora.webp",
           "fact": {
             "title": "Aurora Over Icy Lagoon",
-            "fact": "An aurora is a glowing light display in the sky created when particles from space interact with Earth’s atmosphere.",
+            "fact": "An aurora is a glowing light display in the sky created when particles from space interact with Earth\u2019s atmosphere.",
             "foodTitle": "What You See",
             "food": "This scene is known for colorful night skies, icy water, and reflections on the lagoon.",
             "strongholdTitle": "Where It Happens",
@@ -2139,7 +2014,7 @@
             "learningPoints": [
               "Sunlight can create glowing colors on canyon walls.",
               "Flash floods can help carve narrow canyon passages.",
-              "Different rock layers can show Earth’s history over time."
+              "Different rock layers can show Earth\u2019s history over time."
             ]
           }
         },
@@ -2845,7 +2720,7 @@
             "strongholdTitle": "Where It Is Located",
             "stronghold": "Earth is the third planet from the Sun.",
             "learningPoints": [
-              "About 70 percent of Earth’s surface is covered by water.",
+              "About 70 percent of Earth\u2019s surface is covered by water.",
               "Earth has one natural moon.",
               "Its atmosphere helps protect life from harmful radiation."
             ]
@@ -2935,7 +2810,7 @@
             "strongholdTitle": "Where It Is Located",
             "stronghold": "Saturn is the sixth planet from the Sun.",
             "learningPoints": [
-              "Saturn’s rings are wide but very thin.",
+              "Saturn\u2019s rings are wide but very thin.",
               "It has many moons, including Titan.",
               "Like Jupiter, Saturn is made mostly of hydrogen and helium."
             ]
@@ -2985,7 +2860,7 @@
             "title": "Venus",
             "fact": "Venus is a rocky planet covered by thick clouds that trap a great deal of heat.",
             "foodTitle": "What It Is",
-            "food": "It is often called Earth’s sister planet because it is similar in size.",
+            "food": "It is often called Earth\u2019s sister planet because it is similar in size.",
             "strongholdTitle": "Where It Is Located",
             "stronghold": "Venus is the second planet from the Sun.",
             "learningPoints": [
