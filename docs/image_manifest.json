@@ -3113,42 +3113,42 @@
       "id": "wildlife",
       "title": "Wildlife",
       "images": [
-        {
-          "id": "wolf_0679",
-          "title": "Wolf",
-          "url": "/wildlife/wolf_0679.webp",
-          "fact": {
-            "title": "Wolf",
-            "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
-            "foodTitle": "Food",
-            "food": "Wolves are carnivores that hunt hoofed animals and may also eat smaller prey.",
-            "strongholdTitle": "Habitat",
-            "stronghold": "Wolves live in forests, tundra, mountains, grasslands, and other open habitats.",
-            "learningPoints": [
-              "A wolf has long legs, a deep chest, and a bushy tail.",
-              "Packs cooperate to travel, hunt, and raise young.",
-              "Gray, black, white, or brown coats can appear in different wolf populations."
-            ]
-          }
-        },
-        {
-          "id": "lion_00bb",
-          "title": "Lion",
-          "url": "/wildlife/lion_00bb.webp",
-          "fact": {
+          {
+            "id": "lion_00bb",
             "title": "Lion",
-            "fact": "Lions are social big cats that often live in family groups called prides.",
-            "foodTitle": "Food",
-            "food": "Lions are carnivores that hunt large hoofed animals and may also scavenge.",
-            "strongholdTitle": "Habitat",
-            "stronghold": "Lions are mostly found in African grasslands and savannas, with a small population in India.",
-            "learningPoints": [
-              "Male lions often have a mane around the head and neck.",
-              "A pride can include related females, their young, and a small number of males.",
-              "The tawny coat helps lions blend into dry grass."
-            ]
-          }
-        },
+            "url": "/wildlife/lion_00bb.webp",
+            "fact": {
+              "title": "Lion",
+              "fact": "Lions are social big cats that often live in family groups called prides.",
+              "foodTitle": "Food",
+              "food": "Lions are carnivores that hunt large hoofed animals and may also scavenge.",
+              "strongholdTitle": "Habitat",
+              "stronghold": "Lions are mostly found in African grasslands and savannas, with a small population in India.",
+              "learningPoints": [
+                "Male lions often have a mane around the head and neck.",
+                "A pride can include related females, their young, and a small number of males.",
+                "The tawny coat helps lions blend into dry grass."
+              ]
+            }
+          },
+          {
+            "id": "deer_1582",
+            "title": "Deer",
+            "url": "/wildlife/deer_1582.webp",
+            "fact": {
+              "title": "Deer",
+              "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
+              "foodTitle": "Food",
+              "food": "Deer eat leaves, grasses, shoots, fruits, and bark depending on the season.",
+              "strongholdTitle": "Habitat",
+              "stronghold": "Deer live in forests, meadows, grasslands, and woodland edges.",
+              "learningPoints": [
+                "Long legs and alert ears are common deer features.",
+                "Antlers, when present, help distinguish many male deer.",
+                "Deer often rely on speed and caution to avoid danger."
+              ]
+            }
+          },
         {
           "id": "kangaroo_009b",
           "title": "Kangaroo",
@@ -3290,24 +3290,6 @@
               "Jaguar rosettes often have small spots inside them.",
               "Jaguars are strong swimmers.",
               "A stocky body helps distinguish a jaguar from a leopard."
-            ]
-          }
-        },
-        {
-          "id": "deer_1582",
-          "title": "Deer",
-          "url": "/wildlife/deer_1582.webp",
-          "fact": {
-            "title": "Deer",
-            "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
-            "foodTitle": "Food",
-            "food": "Deer eat leaves, grasses, shoots, fruits, and bark depending on the season.",
-            "strongholdTitle": "Habitat",
-            "stronghold": "Deer live in forests, meadows, grasslands, and woodland edges.",
-            "learningPoints": [
-              "Long legs and alert ears are common deer features.",
-              "Antlers, when present, help distinguish many male deer.",
-              "Deer often rely on speed and caution to avoid danger."
             ]
           }
         },
@@ -4604,6 +4586,24 @@
               "Black-and-white stripes are the clearest zebra clue.",
               "Zebras often travel in groups.",
               "Their body shape is similar to horses and donkeys."
+            ]
+          }
+        },
+        {
+          "id": "wolf_0679",
+          "title": "Wolf",
+          "url": "/wildlife/wolf_0679.webp",
+          "fact": {
+            "title": "Wolf",
+            "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
+            "foodTitle": "Food",
+            "food": "Wolves are carnivores that hunt hoofed animals and may also eat smaller prey.",
+            "strongholdTitle": "Habitat",
+            "stronghold": "Wolves live in forests, tundra, mountains, grasslands, and other open habitats.",
+            "learningPoints": [
+              "A wolf has long legs, a deep chest, and a bushy tail.",
+              "Packs cooperate to travel, hunt, and raise young.",
+              "Gray, black, white, or brown coats can appear in different wolf populations."
             ]
           }
         },
