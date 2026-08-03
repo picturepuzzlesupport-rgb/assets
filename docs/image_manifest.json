@@ -3114,9 +3114,9 @@
       "title": "Wildlife",
       "images": [
         {
-          "id": "wolf",
+          "id": "wolf_0679",
           "title": "Wolf",
-          "url": "/wildlife/wolf1.jpg",
+          "url": "/wildlife/wolf_0679.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -3132,9 +3132,9 @@
           }
         },
         {
-          "id": "lion",
+          "id": "lion_00bb",
           "title": "Lion",
-          "url": "/wildlife/lion1.png",
+          "url": "/wildlife/lion_00bb.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -3150,9 +3150,9 @@
           }
         },
         {
-          "id": "kangaroo",
+          "id": "kangaroo_009b",
           "title": "Kangaroo",
-          "url": "/wildlife/kangaroo1.jpg",
+          "url": "/wildlife/kangaroo_009b.webp",
           "fact": {
             "title": "Kangaroo",
             "fact": "Kangaroos are marsupials with powerful hind legs, large feet, and long balancing tails.",
@@ -3168,9 +3168,9 @@
           }
         },
         {
-          "id": "tiger",
+          "id": "tiger_06aa",
           "title": "Tiger",
-          "url": "/wildlife/tiger1.jpg",
+          "url": "/wildlife/tiger_06aa.webp",
           "fact": {
             "title": "Tiger",
             "fact": "Tigers are striped big cats, and each tiger has its own stripe pattern.",
@@ -3186,9 +3186,9 @@
           }
         },
         {
-          "id": "leopard",
+          "id": "leopard_1880",
           "title": "Leopard",
-          "url": "/wildlife/leopard1.jpg",
+          "url": "/wildlife/leopard_1880.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -3204,9 +3204,9 @@
           }
         },
         {
-          "id": "gorilla",
+          "id": "gorilla_0543",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla1.jpg",
+          "url": "/wildlife/gorilla_0543.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -3222,9 +3222,9 @@
           }
         },
         {
-          "id": "panda",
+          "id": "panda_0599",
           "title": "Panda",
-          "url": "/wildlife/panda1.jpg",
+          "url": "/wildlife/panda_0599.webp",
           "fact": {
             "title": "Panda",
             "fact": "Giant pandas are black-and-white bears with strong jaws and a diet centered on bamboo.",
@@ -3240,9 +3240,9 @@
           }
         },
         {
-          "id": "koala",
+          "id": "koala_32c6",
           "title": "Koala",
-          "url": "/wildlife/koala1.jpg",
+          "url": "/wildlife/koala_32c6.webp",
           "fact": {
             "title": "Koala",
             "fact": "Koalas are tree-dwelling marsupials with round ears, gray fur, and strong gripping claws.",
@@ -3258,9 +3258,9 @@
           }
         },
         {
-          "id": "hippopotamus",
+          "id": "hippopotamus_1ff7",
           "title": "Hippopotamus",
-          "url": "/wildlife/hippopotamus1.jpg",
+          "url": "/wildlife/hippopotamus_1ff7.webp",
           "fact": {
             "title": "Hippopotamus",
             "fact": "Hippopotamuses are large semi-aquatic mammals that spend much of the day in water.",
@@ -3276,9 +3276,9 @@
           }
         },
         {
-          "id": "jaguar",
+          "id": "jaguar_19ff",
           "title": "Jaguar",
-          "url": "/wildlife/jaguar1.jpg",
+          "url": "/wildlife/jaguar_19ff.webp",
           "fact": {
             "title": "Jaguar",
             "fact": "Jaguars are powerful spotted big cats with strong jaws and compact bodies.",
@@ -3294,9 +3294,9 @@
           }
         },
         {
-          "id": "deer",
+          "id": "deer_1582",
           "title": "Deer",
-          "url": "/wildlife/deer1.jpg",
+          "url": "/wildlife/deer_1582.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -3312,9 +3312,9 @@
           }
         },
         {
-          "id": "bear",
+          "id": "bear_0599",
           "title": "Bear",
-          "url": "/wildlife/bear1.jpg",
+          "url": "/wildlife/bear_0599.webp",
           "fact": {
             "title": "Bear",
             "fact": "Bears are large mammals with strong bodies, short tails, and a very sensitive sense of smell.",
@@ -3330,9 +3330,9 @@
           }
         },
         {
-          "id": "bison",
+          "id": "bison_067d",
           "title": "Bison",
-          "url": "/wildlife/bison1.jpg",
+          "url": "/wildlife/bison_067d.webp",
           "fact": {
             "title": "Bison",
             "fact": "Bison are heavy hoofed mammals with large shoulder humps and shaggy front coats.",
@@ -3348,9 +3348,9 @@
           }
         },
         {
-          "id": "fox",
+          "id": "fox_17d6",
           "title": "Fox",
-          "url": "/wildlife/fox1.jpg",
+          "url": "/wildlife/fox_17d6.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -3366,9 +3366,9 @@
           }
         },
         {
-          "id": "wolf_2",
+          "id": "wolf_0fc4",
           "title": "Wolf",
-          "url": "/wildlife/wolf2.jpg",
+          "url": "/wildlife/wolf_0fc4.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -3384,9 +3384,9 @@
           }
         },
         {
-          "id": "lion_2",
+          "id": "lion_28f8",
           "title": "Lion",
-          "url": "/wildlife/lion3.jpg",
+          "url": "/wildlife/lion_28f8.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -3402,9 +3402,9 @@
           }
         },
         {
-          "id": "kangaroo_2",
+          "id": "kangaroo_1cd5",
           "title": "Kangaroo",
-          "url": "/wildlife/kangaroo2.jpg",
+          "url": "/wildlife/kangaroo_1cd5.webp",
           "fact": {
             "title": "Kangaroo",
             "fact": "Kangaroos are marsupials with powerful hind legs, large feet, and long balancing tails.",
@@ -3420,9 +3420,9 @@
           }
         },
         {
-          "id": "tiger_2",
+          "id": "tiger_2c69",
           "title": "Tiger",
-          "url": "/wildlife/tiger2.jpg",
+          "url": "/wildlife/tiger_2c69.webp",
           "fact": {
             "title": "Tiger",
             "fact": "Tigers are striped big cats, and each tiger has its own stripe pattern.",
@@ -3438,9 +3438,9 @@
           }
         },
         {
-          "id": "leopard_2",
+          "id": "leopard_2502",
           "title": "Leopard",
-          "url": "/wildlife/leopard2.jpg",
+          "url": "/wildlife/leopard_2502.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -3456,9 +3456,9 @@
           }
         },
         {
-          "id": "gorilla_2",
+          "id": "gorilla_07de",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla2.jpg",
+          "url": "/wildlife/gorilla_07de.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -3474,9 +3474,9 @@
           }
         },
         {
-          "id": "panda_2",
+          "id": "panda_2c25",
           "title": "Panda",
-          "url": "/wildlife/panda2.jpg",
+          "url": "/wildlife/panda_2c25.webp",
           "fact": {
             "title": "Panda",
             "fact": "Giant pandas are black-and-white bears with strong jaws and a diet centered on bamboo.",
@@ -3492,9 +3492,9 @@
           }
         },
         {
-          "id": "koala_2",
+          "id": "koala_3602",
           "title": "Koala",
-          "url": "/wildlife/koala2.jpg",
+          "url": "/wildlife/koala_3602.webp",
           "fact": {
             "title": "Koala",
             "fact": "Koalas are tree-dwelling marsupials with round ears, gray fur, and strong gripping claws.",
@@ -3510,9 +3510,9 @@
           }
         },
         {
-          "id": "hippopotamus_2",
+          "id": "hippopotamus_398d",
           "title": "Hippopotamus",
-          "url": "/wildlife/hippopotamus2.png",
+          "url": "/wildlife/hippopotamus_398d.webp",
           "fact": {
             "title": "Hippopotamus",
             "fact": "Hippopotamuses are large semi-aquatic mammals that spend much of the day in water.",
@@ -3528,9 +3528,9 @@
           }
         },
         {
-          "id": "jaguar_2",
+          "id": "jaguar_2e64",
           "title": "Jaguar",
-          "url": "/wildlife/jaguar2.jpg",
+          "url": "/wildlife/jaguar_2e64.webp",
           "fact": {
             "title": "Jaguar",
             "fact": "Jaguars are powerful spotted big cats with strong jaws and compact bodies.",
@@ -3546,9 +3546,9 @@
           }
         },
         {
-          "id": "deer_2",
+          "id": "deer_23f7",
           "title": "Deer",
-          "url": "/wildlife/deer2.jpg",
+          "url": "/wildlife/deer_23f7.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -3564,9 +3564,9 @@
           }
         },
         {
-          "id": "bear_2",
+          "id": "bear_1985",
           "title": "Bear",
-          "url": "/wildlife/bear3.jpg",
+          "url": "/wildlife/bear_1985.webp",
           "fact": {
             "title": "Bear",
             "fact": "Bears are large mammals with strong bodies, short tails, and a very sensitive sense of smell.",
@@ -3582,9 +3582,9 @@
           }
         },
         {
-          "id": "crocodile_2",
+          "id": "crocodile_086c",
           "title": "Crocodile",
-          "url": "/wildlife/crocodile2.jpg",
+          "url": "/wildlife/crocodile_086c.webp",
           "fact": {
             "title": "Crocodile",
             "fact": "Crocodiles are large reptiles with armored skin, long tails, and powerful jaws.",
@@ -3600,9 +3600,9 @@
           }
         },
         {
-          "id": "fox_2",
+          "id": "fox_2002",
           "title": "Fox",
-          "url": "/wildlife/fox2.jpg",
+          "url": "/wildlife/fox_2002.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -3618,9 +3618,9 @@
           }
         },
         {
-          "id": "wolf_3",
+          "id": "wolf_1dfd",
           "title": "Wolf",
-          "url": "/wildlife/wolf3.jpg",
+          "url": "/wildlife/wolf_1dfd.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -3636,9 +3636,9 @@
           }
         },
         {
-          "id": "lion_3",
+          "id": "lion_2eb2",
           "title": "Lion",
-          "url": "/wildlife/lion4.jpg",
+          "url": "/wildlife/lion_2eb2.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -3654,9 +3654,9 @@
           }
         },
         {
-          "id": "kangaroo_3",
+          "id": "kangaroo_2487",
           "title": "Kangaroo",
-          "url": "/wildlife/kangaroo3.jpg",
+          "url": "/wildlife/kangaroo_2487.webp",
           "fact": {
             "title": "Kangaroo",
             "fact": "Kangaroos are marsupials with powerful hind legs, large feet, and long balancing tails.",
@@ -3672,9 +3672,9 @@
           }
         },
         {
-          "id": "tiger_3",
+          "id": "tiger_30bf",
           "title": "Tiger",
-          "url": "/wildlife/tiger3.jpg",
+          "url": "/wildlife/tiger_30bf.webp",
           "fact": {
             "title": "Tiger",
             "fact": "Tigers are striped big cats, and each tiger has its own stripe pattern.",
@@ -3690,9 +3690,9 @@
           }
         },
         {
-          "id": "leopard_3",
+          "id": "leopard_2b06",
           "title": "Leopard",
-          "url": "/wildlife/leopard3.jpg",
+          "url": "/wildlife/leopard_2b06.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -3708,9 +3708,9 @@
           }
         },
         {
-          "id": "elephant_3",
+          "id": "elephant_0481",
           "title": "Elephant",
-          "url": "/wildlife/elephant3.jpg",
+          "url": "/wildlife/elephant_0481.webp",
           "fact": {
             "title": "Elephant",
             "fact": "Elephants are the largest land animals and use their trunks for breathing, smelling, drinking, and grasping.",
@@ -3726,9 +3726,9 @@
           }
         },
         {
-          "id": "zebra_3",
+          "id": "zebra_00cb",
           "title": "Zebra",
-          "url": "/wildlife/zebra3.jpg",
+          "url": "/wildlife/zebra_00cb.webp",
           "fact": {
             "title": "Zebra",
             "fact": "Zebras are striped wild equids, and each zebra has a unique stripe pattern.",
@@ -3744,9 +3744,9 @@
           }
         },
         {
-          "id": "gorilla_3",
+          "id": "gorilla_0bde",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla3.jpg",
+          "url": "/wildlife/gorilla_0bde.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -3762,9 +3762,9 @@
           }
         },
         {
-          "id": "panda_3",
+          "id": "panda_433d",
           "title": "Panda",
-          "url": "/wildlife/panda3.jpg",
+          "url": "/wildlife/panda_433d.webp",
           "fact": {
             "title": "Panda",
             "fact": "Giant pandas are black-and-white bears with strong jaws and a diet centered on bamboo.",
@@ -3780,9 +3780,9 @@
           }
         },
         {
-          "id": "koala_3",
+          "id": "koala_3991",
           "title": "Koala",
-          "url": "/wildlife/koala3.jpg",
+          "url": "/wildlife/koala_3991.webp",
           "fact": {
             "title": "Koala",
             "fact": "Koalas are tree-dwelling marsupials with round ears, gray fur, and strong gripping claws.",
@@ -3798,9 +3798,9 @@
           }
         },
         {
-          "id": "hippopotamus_3",
+          "id": "hippopotamus_43a7",
           "title": "Hippopotamus",
-          "url": "/wildlife/hippopotamus3.jpg",
+          "url": "/wildlife/hippopotamus_43a7.webp",
           "fact": {
             "title": "Hippopotamus",
             "fact": "Hippopotamuses are large semi-aquatic mammals that spend much of the day in water.",
@@ -3816,9 +3816,9 @@
           }
         },
         {
-          "id": "jaguar_3",
+          "id": "jaguar_2fb9",
           "title": "Jaguar",
-          "url": "/wildlife/jaguar3.jpg",
+          "url": "/wildlife/jaguar_2fb9.webp",
           "fact": {
             "title": "Jaguar",
             "fact": "Jaguars are powerful spotted big cats with strong jaws and compact bodies.",
@@ -3834,9 +3834,9 @@
           }
         },
         {
-          "id": "deer_3",
+          "id": "deer_2805",
           "title": "Deer",
-          "url": "/wildlife/deer3.jpg",
+          "url": "/wildlife/deer_2805.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -3852,9 +3852,9 @@
           }
         },
         {
-          "id": "bear_3",
+          "id": "bear_1b8f",
           "title": "Bear",
-          "url": "/wildlife/bear4.jpg",
+          "url": "/wildlife/bear_1b8f.webp",
           "fact": {
             "title": "Bear",
             "fact": "Bears are large mammals with strong bodies, short tails, and a very sensitive sense of smell.",
@@ -3870,9 +3870,9 @@
           }
         },
         {
-          "id": "bison_3",
+          "id": "bison_223e",
           "title": "Bison",
-          "url": "/wildlife/bison3.jpg",
+          "url": "/wildlife/bison_223e.webp",
           "fact": {
             "title": "Bison",
             "fact": "Bison are heavy hoofed mammals with large shoulder humps and shaggy front coats.",
@@ -3888,9 +3888,9 @@
           }
         },
         {
-          "id": "fox_3",
+          "id": "fox_26e6",
           "title": "Fox",
-          "url": "/wildlife/fox3.webp",
+          "url": "/wildlife/fox_26e6.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -3906,9 +3906,9 @@
           }
         },
         {
-          "id": "wolf_4",
+          "id": "wolf_3a8e",
           "title": "Wolf",
-          "url": "/wildlife/wolf4.jpg",
+          "url": "/wildlife/wolf_3a8e.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -3924,9 +3924,9 @@
           }
         },
         {
-          "id": "lion_4",
+          "id": "lion_4adb",
           "title": "Lion",
-          "url": "/wildlife/lion5.jpg",
+          "url": "/wildlife/lion_4adb.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -3942,9 +3942,9 @@
           }
         },
         {
-          "id": "rhinoceros_4",
+          "id": "rhinoceros_02f0",
           "title": "Rhinoceros",
-          "url": "/wildlife/rhinoceros4.jpg",
+          "url": "/wildlife/rhinoceros_02f0.webp",
           "fact": {
             "title": "Rhinoceros",
             "fact": "Rhinoceroses are large hoofed mammals known for thick skin and one or two horns on the snout.",
@@ -3960,9 +3960,9 @@
           }
         },
         {
-          "id": "kangaroo_4",
+          "id": "kangaroo_4d73",
           "title": "Kangaroo",
-          "url": "/wildlife/kangaroo4.jpg",
+          "url": "/wildlife/kangaroo_4d73.webp",
           "fact": {
             "title": "Kangaroo",
             "fact": "Kangaroos are marsupials with powerful hind legs, large feet, and long balancing tails.",
@@ -3978,9 +3978,9 @@
           }
         },
         {
-          "id": "tiger_4",
+          "id": "tiger_40ca",
           "title": "Tiger",
-          "url": "/wildlife/tiger4.jpg",
+          "url": "/wildlife/tiger_40ca.webp",
           "fact": {
             "title": "Tiger",
             "fact": "Tigers are striped big cats, and each tiger has its own stripe pattern.",
@@ -3996,9 +3996,9 @@
           }
         },
         {
-          "id": "leopard_4",
+          "id": "leopard_2fc0",
           "title": "Leopard",
-          "url": "/wildlife/leopard4.jpg",
+          "url": "/wildlife/leopard_2fc0.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -4014,9 +4014,9 @@
           }
         },
         {
-          "id": "elephant_4",
+          "id": "elephant_16c7",
           "title": "Elephant",
-          "url": "/wildlife/elephant4.jpg",
+          "url": "/wildlife/elephant_16c7.webp",
           "fact": {
             "title": "Elephant",
             "fact": "Elephants are the largest land animals and use their trunks for breathing, smelling, drinking, and grasping.",
@@ -4032,9 +4032,9 @@
           }
         },
         {
-          "id": "zebra_4",
+          "id": "zebra_0ef8",
           "title": "Zebra",
-          "url": "/wildlife/zebra4.jpg",
+          "url": "/wildlife/zebra_0ef8.webp",
           "fact": {
             "title": "Zebra",
             "fact": "Zebras are striped wild equids, and each zebra has a unique stripe pattern.",
@@ -4050,9 +4050,9 @@
           }
         },
         {
-          "id": "gorilla_4",
+          "id": "gorilla_0d41",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla4.jpg",
+          "url": "/wildlife/gorilla_0d41.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -4068,9 +4068,9 @@
           }
         },
         {
-          "id": "panda_4",
+          "id": "panda_5369",
           "title": "Panda",
-          "url": "/wildlife/panda4.jpg",
+          "url": "/wildlife/panda_5369.webp",
           "fact": {
             "title": "Panda",
             "fact": "Giant pandas are black-and-white bears with strong jaws and a diet centered on bamboo.",
@@ -4086,9 +4086,9 @@
           }
         },
         {
-          "id": "hippopotamus_4",
+          "id": "hippopotamus_4f16",
           "title": "Hippopotamus",
-          "url": "/wildlife/hippopotamus4.jpg",
+          "url": "/wildlife/hippopotamus_4f16.webp",
           "fact": {
             "title": "Hippopotamus",
             "fact": "Hippopotamuses are large semi-aquatic mammals that spend much of the day in water.",
@@ -4104,9 +4104,9 @@
           }
         },
         {
-          "id": "jaguar_4",
+          "id": "jaguar_3ca8",
           "title": "Jaguar",
-          "url": "/wildlife/jaguar4.jpg",
+          "url": "/wildlife/jaguar_3ca8.webp",
           "fact": {
             "title": "Jaguar",
             "fact": "Jaguars are powerful spotted big cats with strong jaws and compact bodies.",
@@ -4122,9 +4122,9 @@
           }
         },
         {
-          "id": "deer_4",
+          "id": "deer_4dee",
           "title": "Deer",
-          "url": "/wildlife/deer4.jpg",
+          "url": "/wildlife/deer_4dee.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -4140,9 +4140,9 @@
           }
         },
         {
-          "id": "bison_4",
+          "id": "bison_24ce",
           "title": "Bison",
-          "url": "/wildlife/bison4.jpg",
+          "url": "/wildlife/bison_24ce.webp",
           "fact": {
             "title": "Bison",
             "fact": "Bison are heavy hoofed mammals with large shoulder humps and shaggy front coats.",
@@ -4158,9 +4158,9 @@
           }
         },
         {
-          "id": "fox_4",
+          "id": "fox_2ddc",
           "title": "Fox",
-          "url": "/wildlife/fox4.jpg",
+          "url": "/wildlife/fox_2ddc.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -4176,9 +4176,9 @@
           }
         },
         {
-          "id": "wolf_5",
+          "id": "wolf_3c54",
           "title": "Wolf",
-          "url": "/wildlife/wolf5.png",
+          "url": "/wildlife/wolf_3c54.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -4194,9 +4194,9 @@
           }
         },
         {
-          "id": "lion_5",
+          "id": "lion_4e64",
           "title": "Lion",
-          "url": "/wildlife/lion6.jpg",
+          "url": "/wildlife/lion_4e64.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -4212,9 +4212,9 @@
           }
         },
         {
-          "id": "rhinoceros_5",
+          "id": "rhinoceros_0d2d",
           "title": "Rhinoceros",
-          "url": "/wildlife/rhinoceros5.jpg",
+          "url": "/wildlife/rhinoceros_0d2d.webp",
           "fact": {
             "title": "Rhinoceros",
             "fact": "Rhinoceroses are large hoofed mammals known for thick skin and one or two horns on the snout.",
@@ -4230,9 +4230,9 @@
           }
         },
         {
-          "id": "kangaroo_5",
+          "id": "kangaroo_4e40",
           "title": "Kangaroo",
-          "url": "/wildlife/kangaroo5.jpg",
+          "url": "/wildlife/kangaroo_4e40.webp",
           "fact": {
             "title": "Kangaroo",
             "fact": "Kangaroos are marsupials with powerful hind legs, large feet, and long balancing tails.",
@@ -4248,9 +4248,9 @@
           }
         },
         {
-          "id": "tiger_5",
+          "id": "tiger_69f2",
           "title": "Tiger",
-          "url": "/wildlife/tiger5.jpg",
+          "url": "/wildlife/tiger_69f2.webp",
           "fact": {
             "title": "Tiger",
             "fact": "Tigers are striped big cats, and each tiger has its own stripe pattern.",
@@ -4266,9 +4266,9 @@
           }
         },
         {
-          "id": "leopard_5",
+          "id": "leopard_58ce",
           "title": "Leopard",
-          "url": "/wildlife/leopard5.jpg",
+          "url": "/wildlife/leopard_58ce.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -4284,9 +4284,9 @@
           }
         },
         {
-          "id": "zebra_5",
+          "id": "zebra_1a95",
           "title": "Zebra",
-          "url": "/wildlife/zebra5.jpg",
+          "url": "/wildlife/zebra_1a95.webp",
           "fact": {
             "title": "Zebra",
             "fact": "Zebras are striped wild equids, and each zebra has a unique stripe pattern.",
@@ -4302,9 +4302,9 @@
           }
         },
         {
-          "id": "gorilla_5",
+          "id": "gorilla_2d18",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla5.png",
+          "url": "/wildlife/gorilla_2d18.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -4320,9 +4320,9 @@
           }
         },
         {
-          "id": "panda_5",
+          "id": "panda_5885",
           "title": "Panda",
-          "url": "/wildlife/panda5.jpg",
+          "url": "/wildlife/panda_5885.webp",
           "fact": {
             "title": "Panda",
             "fact": "Giant pandas are black-and-white bears with strong jaws and a diet centered on bamboo.",
@@ -4338,9 +4338,9 @@
           }
         },
         {
-          "id": "koala_5",
+          "id": "koala_4013",
           "title": "Koala",
-          "url": "/wildlife/koala5.jpg",
+          "url": "/wildlife/koala_4013.webp",
           "fact": {
             "title": "Koala",
             "fact": "Koalas are tree-dwelling marsupials with round ears, gray fur, and strong gripping claws.",
@@ -4356,9 +4356,9 @@
           }
         },
         {
-          "id": "hippopotamus_5",
+          "id": "hippopotamus_7c7f",
           "title": "Hippopotamus",
-          "url": "/wildlife/hippopotamus5.jpg",
+          "url": "/wildlife/hippopotamus_7c7f.webp",
           "fact": {
             "title": "Hippopotamus",
             "fact": "Hippopotamuses are large semi-aquatic mammals that spend much of the day in water.",
@@ -4374,9 +4374,9 @@
           }
         },
         {
-          "id": "jaguar_5",
+          "id": "jaguar_4492",
           "title": "Jaguar",
-          "url": "/wildlife/jaguar5.jpg",
+          "url": "/wildlife/jaguar_4492.webp",
           "fact": {
             "title": "Jaguar",
             "fact": "Jaguars are powerful spotted big cats with strong jaws and compact bodies.",
@@ -4392,9 +4392,9 @@
           }
         },
         {
-          "id": "deer_5",
+          "id": "deer_55a1",
           "title": "Deer",
-          "url": "/wildlife/deer5.jpg",
+          "url": "/wildlife/deer_55a1.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -4410,9 +4410,9 @@
           }
         },
         {
-          "id": "bear_5",
+          "id": "bear_2320",
           "title": "Bear",
-          "url": "/wildlife/bear6.jpg",
+          "url": "/wildlife/bear_2320.webp",
           "fact": {
             "title": "Bear",
             "fact": "Bears are large mammals with strong bodies, short tails, and a very sensitive sense of smell.",
@@ -4428,9 +4428,9 @@
           }
         },
         {
-          "id": "bison_5",
+          "id": "bison_31a6",
           "title": "Bison",
-          "url": "/wildlife/bison5.jpg",
+          "url": "/wildlife/bison_31a6.webp",
           "fact": {
             "title": "Bison",
             "fact": "Bison are heavy hoofed mammals with large shoulder humps and shaggy front coats.",
@@ -4446,9 +4446,9 @@
           }
         },
         {
-          "id": "fox_5",
+          "id": "fox_41a4",
           "title": "Fox",
-          "url": "/wildlife/fox5.jpg",
+          "url": "/wildlife/fox_41a4.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -4464,9 +4464,9 @@
           }
         },
         {
-          "id": "wolf_6",
+          "id": "wolf_438e",
           "title": "Wolf",
-          "url": "/wildlife/wolf6.jpg",
+          "url": "/wildlife/wolf_438e.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -4482,9 +4482,9 @@
           }
         },
         {
-          "id": "lion_6",
+          "id": "lion_70be",
           "title": "Lion",
-          "url": "/wildlife/lion7.jpg",
+          "url": "/wildlife/lion_70be.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -4500,9 +4500,9 @@
           }
         },
         {
-          "id": "rhinoceros_6",
+          "id": "rhinoceros_2638",
           "title": "Rhinoceros",
-          "url": "/wildlife/rhinoceros6.jpg",
+          "url": "/wildlife/rhinoceros_2638.webp",
           "fact": {
             "title": "Rhinoceros",
             "fact": "Rhinoceroses are large hoofed mammals known for thick skin and one or two horns on the snout.",
@@ -4518,9 +4518,9 @@
           }
         },
         {
-          "id": "kangaroo_6",
+          "id": "kangaroo_50af",
           "title": "Kangaroo",
-          "url": "/wildlife/kangaroo6.jpg",
+          "url": "/wildlife/kangaroo_50af.webp",
           "fact": {
             "title": "Kangaroo",
             "fact": "Kangaroos are marsupials with powerful hind legs, large feet, and long balancing tails.",
@@ -4536,9 +4536,9 @@
           }
         },
         {
-          "id": "tiger_6",
+          "id": "tiger_78d4",
           "title": "Tiger",
-          "url": "/wildlife/tiger6.jpg",
+          "url": "/wildlife/tiger_78d4.webp",
           "fact": {
             "title": "Tiger",
             "fact": "Tigers are striped big cats, and each tiger has its own stripe pattern.",
@@ -4554,9 +4554,9 @@
           }
         },
         {
-          "id": "leopard_6",
+          "id": "leopard_5a6f",
           "title": "Leopard",
-          "url": "/wildlife/leopard6.jpg",
+          "url": "/wildlife/leopard_5a6f.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -4572,9 +4572,9 @@
           }
         },
         {
-          "id": "elephant_6",
+          "id": "elephant_182f",
           "title": "Elephant",
-          "url": "/wildlife/elephant6.jpg",
+          "url": "/wildlife/elephant_182f.webp",
           "fact": {
             "title": "Elephant",
             "fact": "Elephants are the largest land animals and use their trunks for breathing, smelling, drinking, and grasping.",
@@ -4590,9 +4590,9 @@
           }
         },
         {
-          "id": "zebra_6",
+          "id": "zebra_20f6",
           "title": "Zebra",
-          "url": "/wildlife/zebra6.jpg",
+          "url": "/wildlife/zebra_20f6.webp",
           "fact": {
             "title": "Zebra",
             "fact": "Zebras are striped wild equids, and each zebra has a unique stripe pattern.",
@@ -4608,9 +4608,9 @@
           }
         },
         {
-          "id": "gorilla_6",
+          "id": "gorilla_3b70",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla6.jpg",
+          "url": "/wildlife/gorilla_3b70.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -4626,9 +4626,9 @@
           }
         },
         {
-          "id": "panda_6",
+          "id": "panda_6d0c",
           "title": "Panda",
-          "url": "/wildlife/panda6.jpg",
+          "url": "/wildlife/panda_6d0c.webp",
           "fact": {
             "title": "Panda",
             "fact": "Giant pandas are black-and-white bears with strong jaws and a diet centered on bamboo.",
@@ -4644,9 +4644,9 @@
           }
         },
         {
-          "id": "koala_6",
+          "id": "koala_4067",
           "title": "Koala",
-          "url": "/wildlife/koala6.jpg",
+          "url": "/wildlife/koala_4067.webp",
           "fact": {
             "title": "Koala",
             "fact": "Koalas are tree-dwelling marsupials with round ears, gray fur, and strong gripping claws.",
@@ -4662,9 +4662,9 @@
           }
         },
         {
-          "id": "hippopotamus_6",
+          "id": "hippopotamus_81b3",
           "title": "Hippopotamus",
-          "url": "/wildlife/hippopotamus6.jpg",
+          "url": "/wildlife/hippopotamus_81b3.webp",
           "fact": {
             "title": "Hippopotamus",
             "fact": "Hippopotamuses are large semi-aquatic mammals that spend much of the day in water.",
@@ -4680,9 +4680,9 @@
           }
         },
         {
-          "id": "jaguar_6",
+          "id": "jaguar_5c5d",
           "title": "Jaguar",
-          "url": "/wildlife/jaguar6.jpg",
+          "url": "/wildlife/jaguar_5c5d.webp",
           "fact": {
             "title": "Jaguar",
             "fact": "Jaguars are powerful spotted big cats with strong jaws and compact bodies.",
@@ -4698,9 +4698,9 @@
           }
         },
         {
-          "id": "deer_6",
+          "id": "deer_5a1a",
           "title": "Deer",
-          "url": "/wildlife/deer6.jpg",
+          "url": "/wildlife/deer_5a1a.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -4716,9 +4716,9 @@
           }
         },
         {
-          "id": "bear_6",
+          "id": "bear_2b25",
           "title": "Bear",
-          "url": "/wildlife/bear7.jpg",
+          "url": "/wildlife/bear_2b25.webp",
           "fact": {
             "title": "Bear",
             "fact": "Bears are large mammals with strong bodies, short tails, and a very sensitive sense of smell.",
@@ -4734,9 +4734,9 @@
           }
         },
         {
-          "id": "crocodile_6",
+          "id": "crocodile_0d79",
           "title": "Crocodile",
-          "url": "/wildlife/crocodile6.jpg",
+          "url": "/wildlife/crocodile_0d79.webp",
           "fact": {
             "title": "Crocodile",
             "fact": "Crocodiles are large reptiles with armored skin, long tails, and powerful jaws.",
@@ -4752,9 +4752,9 @@
           }
         },
         {
-          "id": "fox_6",
+          "id": "fox_457c",
           "title": "Fox",
-          "url": "/wildlife/fox6.jpg",
+          "url": "/wildlife/fox_457c.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -4770,9 +4770,9 @@
           }
         },
         {
-          "id": "wolf_7",
+          "id": "wolf_5093",
           "title": "Wolf",
-          "url": "/wildlife/wolf7.png",
+          "url": "/wildlife/wolf_5093.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -4788,9 +4788,9 @@
           }
         },
         {
-          "id": "lion_7",
+          "id": "lion_77b6",
           "title": "Lion",
-          "url": "/wildlife/lion8.jpg",
+          "url": "/wildlife/lion_77b6.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -4806,9 +4806,9 @@
           }
         },
         {
-          "id": "rhinoceros_7",
+          "id": "rhinoceros_2cb2",
           "title": "Rhinoceros",
-          "url": "/wildlife/rhinoceros7.jpg",
+          "url": "/wildlife/rhinoceros_2cb2.webp",
           "fact": {
             "title": "Rhinoceros",
             "fact": "Rhinoceroses are large hoofed mammals known for thick skin and one or two horns on the snout.",
@@ -4824,9 +4824,9 @@
           }
         },
         {
-          "id": "kangaroo_7",
+          "id": "kangaroo_50c2",
           "title": "Kangaroo",
-          "url": "/wildlife/kangaroo7.jpg",
+          "url": "/wildlife/kangaroo_50c2.webp",
           "fact": {
             "title": "Kangaroo",
             "fact": "Kangaroos are marsupials with powerful hind legs, large feet, and long balancing tails.",
@@ -4842,9 +4842,9 @@
           }
         },
         {
-          "id": "tiger_7",
+          "id": "tiger_7c7e",
           "title": "Tiger",
-          "url": "/wildlife/tiger7.jpg",
+          "url": "/wildlife/tiger_7c7e.webp",
           "fact": {
             "title": "Tiger",
             "fact": "Tigers are striped big cats, and each tiger has its own stripe pattern.",
@@ -4860,9 +4860,9 @@
           }
         },
         {
-          "id": "leopard_7",
+          "id": "leopard_67e9",
           "title": "Leopard",
-          "url": "/wildlife/leopard7.jpg",
+          "url": "/wildlife/leopard_67e9.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -4878,9 +4878,9 @@
           }
         },
         {
-          "id": "elephant_7",
+          "id": "elephant_1b1e",
           "title": "Elephant",
-          "url": "/wildlife/elephant8.webp",
+          "url": "/wildlife/elephant_1b1e.webp",
           "fact": {
             "title": "Elephant",
             "fact": "Elephants are the largest land animals and use their trunks for breathing, smelling, drinking, and grasping.",
@@ -4896,9 +4896,9 @@
           }
         },
         {
-          "id": "zebra_7",
+          "id": "zebra_29d1",
           "title": "Zebra",
-          "url": "/wildlife/zebra7.jpg",
+          "url": "/wildlife/zebra_29d1.webp",
           "fact": {
             "title": "Zebra",
             "fact": "Zebras are striped wild equids, and each zebra has a unique stripe pattern.",
@@ -4914,9 +4914,9 @@
           }
         },
         {
-          "id": "gorilla_7",
+          "id": "gorilla_48d7",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla7.jpg",
+          "url": "/wildlife/gorilla_48d7.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -4932,9 +4932,9 @@
           }
         },
         {
-          "id": "panda_7",
+          "id": "panda_71ec",
           "title": "Panda",
-          "url": "/wildlife/panda7.jpg",
+          "url": "/wildlife/panda_71ec.webp",
           "fact": {
             "title": "Panda",
             "fact": "Giant pandas are black-and-white bears with strong jaws and a diet centered on bamboo.",
@@ -4950,9 +4950,9 @@
           }
         },
         {
-          "id": "koala_7",
+          "id": "koala_48a8",
           "title": "Koala",
-          "url": "/wildlife/koala7.jpg",
+          "url": "/wildlife/koala_48a8.webp",
           "fact": {
             "title": "Koala",
             "fact": "Koalas are tree-dwelling marsupials with round ears, gray fur, and strong gripping claws.",
@@ -4968,9 +4968,9 @@
           }
         },
         {
-          "id": "hippopotamus_7",
+          "id": "hippopotamus_ad1c",
           "title": "Hippopotamus",
-          "url": "/wildlife/hippopotamus8.jpg",
+          "url": "/wildlife/hippopotamus_ad1c.webp",
           "fact": {
             "title": "Hippopotamus",
             "fact": "Hippopotamuses are large semi-aquatic mammals that spend much of the day in water.",
@@ -4986,9 +4986,9 @@
           }
         },
         {
-          "id": "jaguar_7",
+          "id": "jaguar_5da3",
           "title": "Jaguar",
-          "url": "/wildlife/jaguar7.jpg",
+          "url": "/wildlife/jaguar_5da3.webp",
           "fact": {
             "title": "Jaguar",
             "fact": "Jaguars are powerful spotted big cats with strong jaws and compact bodies.",
@@ -5004,9 +5004,9 @@
           }
         },
         {
-          "id": "deer_7",
+          "id": "deer_5be1",
           "title": "Deer",
-          "url": "/wildlife/deer7.jpg",
+          "url": "/wildlife/deer_5be1.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -5022,9 +5022,9 @@
           }
         },
         {
-          "id": "bear_7",
+          "id": "bear_6033",
           "title": "Bear",
-          "url": "/wildlife/bear8.jpg",
+          "url": "/wildlife/bear_6033.webp",
           "fact": {
             "title": "Bear",
             "fact": "Bears are large mammals with strong bodies, short tails, and a very sensitive sense of smell.",
@@ -5040,9 +5040,9 @@
           }
         },
         {
-          "id": "bison_7",
+          "id": "bison_3b15",
           "title": "Bison",
-          "url": "/wildlife/bison7.jpg",
+          "url": "/wildlife/bison_3b15.webp",
           "fact": {
             "title": "Bison",
             "fact": "Bison are heavy hoofed mammals with large shoulder humps and shaggy front coats.",
@@ -5058,9 +5058,9 @@
           }
         },
         {
-          "id": "fox_7",
+          "id": "fox_4b21",
           "title": "Fox",
-          "url": "/wildlife/fox7.webp",
+          "url": "/wildlife/fox_4b21.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -5076,9 +5076,9 @@
           }
         },
         {
-          "id": "wolf_8",
+          "id": "wolf_6225",
           "title": "Wolf",
-          "url": "/wildlife/wolf8.jpg",
+          "url": "/wildlife/wolf_6225.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -5094,9 +5094,9 @@
           }
         },
         {
-          "id": "lion_8",
+          "id": "lion_7e74",
           "title": "Lion",
-          "url": "/wildlife/lion9.jpg",
+          "url": "/wildlife/lion_7e74.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -5112,9 +5112,9 @@
           }
         },
         {
-          "id": "rhinoceros_8",
+          "id": "rhinoceros_2d3d",
           "title": "Rhinoceros",
-          "url": "/wildlife/rhinoceros8.jpg",
+          "url": "/wildlife/rhinoceros_2d3d.webp",
           "fact": {
             "title": "Rhinoceros",
             "fact": "Rhinoceroses are large hoofed mammals known for thick skin and one or two horns on the snout.",
@@ -5130,9 +5130,9 @@
           }
         },
         {
-          "id": "kangaroo_8",
+          "id": "kangaroo_694a",
           "title": "Kangaroo",
-          "url": "/wildlife/kangaroo8.jpg",
+          "url": "/wildlife/kangaroo_694a.webp",
           "fact": {
             "title": "Kangaroo",
             "fact": "Kangaroos are marsupials with powerful hind legs, large feet, and long balancing tails.",
@@ -5148,9 +5148,9 @@
           }
         },
         {
-          "id": "leopard_8",
+          "id": "leopard_7c1c",
           "title": "Leopard",
-          "url": "/wildlife/leopard8.jpg",
+          "url": "/wildlife/leopard_7c1c.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -5166,9 +5166,9 @@
           }
         },
         {
-          "id": "elephant_8",
+          "id": "elephant_3bfb",
           "title": "Elephant",
-          "url": "/wildlife/elephant9.jpg",
+          "url": "/wildlife/elephant_3bfb.webp",
           "fact": {
             "title": "Elephant",
             "fact": "Elephants are the largest land animals and use their trunks for breathing, smelling, drinking, and grasping.",
@@ -5184,9 +5184,9 @@
           }
         },
         {
-          "id": "gorilla_8",
+          "id": "gorilla_5718",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla8.jpg",
+          "url": "/wildlife/gorilla_5718.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -5202,9 +5202,9 @@
           }
         },
         {
-          "id": "panda_8",
+          "id": "panda_7870",
           "title": "Panda",
-          "url": "/wildlife/panda8.jpg",
+          "url": "/wildlife/panda_7870.webp",
           "fact": {
             "title": "Panda",
             "fact": "Giant pandas are black-and-white bears with strong jaws and a diet centered on bamboo.",
@@ -5220,9 +5220,9 @@
           }
         },
         {
-          "id": "koala_8",
+          "id": "koala_4967",
           "title": "Koala",
-          "url": "/wildlife/koala8.jpg",
+          "url": "/wildlife/koala_4967.webp",
           "fact": {
             "title": "Koala",
             "fact": "Koalas are tree-dwelling marsupials with round ears, gray fur, and strong gripping claws.",
@@ -5238,9 +5238,9 @@
           }
         },
         {
-          "id": "jaguar_8",
+          "id": "jaguar_730a",
           "title": "Jaguar",
-          "url": "/wildlife/jaguar8.jpg",
+          "url": "/wildlife/jaguar_730a.webp",
           "fact": {
             "title": "Jaguar",
             "fact": "Jaguars are powerful spotted big cats with strong jaws and compact bodies.",
@@ -5256,9 +5256,9 @@
           }
         },
         {
-          "id": "deer_8",
+          "id": "deer_5d57",
           "title": "Deer",
-          "url": "/wildlife/deer8.jpg",
+          "url": "/wildlife/deer_5d57.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -5274,9 +5274,9 @@
           }
         },
         {
-          "id": "bear_8",
+          "id": "bear_71ec",
           "title": "Bear",
-          "url": "/wildlife/bear9.jpg",
+          "url": "/wildlife/bear_71ec.webp",
           "fact": {
             "title": "Bear",
             "fact": "Bears are large mammals with strong bodies, short tails, and a very sensitive sense of smell.",
@@ -5292,9 +5292,9 @@
           }
         },
         {
-          "id": "bison_8",
+          "id": "bison_487a",
           "title": "Bison",
-          "url": "/wildlife/bison8.jpg",
+          "url": "/wildlife/bison_487a.webp",
           "fact": {
             "title": "Bison",
             "fact": "Bison are heavy hoofed mammals with large shoulder humps and shaggy front coats.",
@@ -5310,9 +5310,9 @@
           }
         },
         {
-          "id": "crocodile_8",
+          "id": "crocodile_11a2",
           "title": "Crocodile",
-          "url": "/wildlife/crocodile8.jpg",
+          "url": "/wildlife/crocodile_11a2.webp",
           "fact": {
             "title": "Crocodile",
             "fact": "Crocodiles are large reptiles with armored skin, long tails, and powerful jaws.",
@@ -5328,9 +5328,9 @@
           }
         },
         {
-          "id": "fox_8",
+          "id": "fox_64ea",
           "title": "Fox",
-          "url": "/wildlife/fox8.jpg",
+          "url": "/wildlife/fox_64ea.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -5346,9 +5346,9 @@
           }
         },
         {
-          "id": "wolf_9",
+          "id": "wolf_7222",
           "title": "Wolf",
-          "url": "/wildlife/wolf9.jpg",
+          "url": "/wildlife/wolf_7222.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -5364,9 +5364,9 @@
           }
         },
         {
-          "id": "lion_9",
+          "id": "lion_8816",
           "title": "Lion",
-          "url": "/wildlife/lion10.jpg",
+          "url": "/wildlife/lion_8816.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -5382,9 +5382,9 @@
           }
         },
         {
-          "id": "kangaroo_9",
+          "id": "kangaroo_748b",
           "title": "Kangaroo",
-          "url": "/wildlife/kangaroo9.jpg",
+          "url": "/wildlife/kangaroo_748b.webp",
           "fact": {
             "title": "Kangaroo",
             "fact": "Kangaroos are marsupials with powerful hind legs, large feet, and long balancing tails.",
@@ -5400,9 +5400,9 @@
           }
         },
         {
-          "id": "tiger_9",
+          "id": "tiger_a0c4",
           "title": "Tiger",
-          "url": "/wildlife/tiger9.jpg",
+          "url": "/wildlife/tiger_a0c4.webp",
           "fact": {
             "title": "Tiger",
             "fact": "Tigers are striped big cats, and each tiger has its own stripe pattern.",
@@ -5418,9 +5418,9 @@
           }
         },
         {
-          "id": "leopard_9",
+          "id": "leopard_819f",
           "title": "Leopard",
-          "url": "/wildlife/leopard9.jpg",
+          "url": "/wildlife/leopard_819f.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -5436,9 +5436,9 @@
           }
         },
         {
-          "id": "elephant_9",
+          "id": "elephant_5346",
           "title": "Elephant",
-          "url": "/wildlife/elephant10.jpg",
+          "url": "/wildlife/elephant_5346.webp",
           "fact": {
             "title": "Elephant",
             "fact": "Elephants are the largest land animals and use their trunks for breathing, smelling, drinking, and grasping.",
@@ -5454,9 +5454,9 @@
           }
         },
         {
-          "id": "zebra_9",
+          "id": "zebra_3019",
           "title": "Zebra",
-          "url": "/wildlife/zebra9.webp",
+          "url": "/wildlife/zebra_3019.webp",
           "fact": {
             "title": "Zebra",
             "fact": "Zebras are striped wild equids, and each zebra has a unique stripe pattern.",
@@ -5472,9 +5472,9 @@
           }
         },
         {
-          "id": "gorilla_9",
+          "id": "gorilla_5807",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla9.jpg",
+          "url": "/wildlife/gorilla_5807.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -5490,9 +5490,9 @@
           }
         },
         {
-          "id": "panda_9",
+          "id": "panda_7e05",
           "title": "Panda",
-          "url": "/wildlife/panda9.jpg",
+          "url": "/wildlife/panda_7e05.webp",
           "fact": {
             "title": "Panda",
             "fact": "Giant pandas are black-and-white bears with strong jaws and a diet centered on bamboo.",
@@ -5508,9 +5508,9 @@
           }
         },
         {
-          "id": "koala_9",
+          "id": "koala_508f",
           "title": "Koala",
-          "url": "/wildlife/koala9.jpg",
+          "url": "/wildlife/koala_508f.webp",
           "fact": {
             "title": "Koala",
             "fact": "Koalas are tree-dwelling marsupials with round ears, gray fur, and strong gripping claws.",
@@ -5526,9 +5526,9 @@
           }
         },
         {
-          "id": "hippopotamus_9",
+          "id": "hippopotamus_c6bb",
           "title": "Hippopotamus",
-          "url": "/wildlife/hippopotamus10.jpg",
+          "url": "/wildlife/hippopotamus_c6bb.webp",
           "fact": {
             "title": "Hippopotamus",
             "fact": "Hippopotamuses are large semi-aquatic mammals that spend much of the day in water.",
@@ -5544,9 +5544,9 @@
           }
         },
         {
-          "id": "jaguar_9",
+          "id": "jaguar_8199",
           "title": "Jaguar",
-          "url": "/wildlife/jaguar9.jpg",
+          "url": "/wildlife/jaguar_8199.webp",
           "fact": {
             "title": "Jaguar",
             "fact": "Jaguars are powerful spotted big cats with strong jaws and compact bodies.",
@@ -5562,9 +5562,9 @@
           }
         },
         {
-          "id": "deer_9",
+          "id": "deer_6ad4",
           "title": "Deer",
-          "url": "/wildlife/deer9.webp",
+          "url": "/wildlife/deer_6ad4.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -5580,9 +5580,9 @@
           }
         },
         {
-          "id": "bear_9",
+          "id": "bear_988b",
           "title": "Bear",
-          "url": "/wildlife/bear10.jpg",
+          "url": "/wildlife/bear_988b.webp",
           "fact": {
             "title": "Bear",
             "fact": "Bears are large mammals with strong bodies, short tails, and a very sensitive sense of smell.",
@@ -5598,9 +5598,9 @@
           }
         },
         {
-          "id": "bison_9",
+          "id": "bison_4c66",
           "title": "Bison",
-          "url": "/wildlife/bison9.jpg",
+          "url": "/wildlife/bison_4c66.webp",
           "fact": {
             "title": "Bison",
             "fact": "Bison are heavy hoofed mammals with large shoulder humps and shaggy front coats.",
@@ -5616,9 +5616,9 @@
           }
         },
         {
-          "id": "crocodile_9",
+          "id": "crocodile_3052",
           "title": "Crocodile",
-          "url": "/wildlife/crocodile9.png",
+          "url": "/wildlife/crocodile_3052.webp",
           "fact": {
             "title": "Crocodile",
             "fact": "Crocodiles are large reptiles with armored skin, long tails, and powerful jaws.",
@@ -5634,9 +5634,9 @@
           }
         },
         {
-          "id": "fox_9",
+          "id": "fox_65f6",
           "title": "Fox",
-          "url": "/wildlife/fox9.jpg",
+          "url": "/wildlife/fox_65f6.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -5652,9 +5652,9 @@
           }
         },
         {
-          "id": "wolf_10",
+          "id": "wolf_752b",
           "title": "Wolf",
-          "url": "/wildlife/wolf10.jpg",
+          "url": "/wildlife/wolf_752b.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -5670,9 +5670,9 @@
           }
         },
         {
-          "id": "lion_10",
+          "id": "lion_9e20",
           "title": "Lion",
-          "url": "/wildlife/lion11.jpg",
+          "url": "/wildlife/lion_9e20.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -5688,9 +5688,9 @@
           }
         },
         {
-          "id": "rhinoceros_10",
+          "id": "rhinoceros_63c7",
           "title": "Rhinoceros",
-          "url": "/wildlife/rhinoceros10.jpg",
+          "url": "/wildlife/rhinoceros_63c7.webp",
           "fact": {
             "title": "Rhinoceros",
             "fact": "Rhinoceroses are large hoofed mammals known for thick skin and one or two horns on the snout.",
@@ -5706,9 +5706,9 @@
           }
         },
         {
-          "id": "tiger_10",
+          "id": "tiger_c037",
           "title": "Tiger",
-          "url": "/wildlife/tiger10.jpg",
+          "url": "/wildlife/tiger_c037.webp",
           "fact": {
             "title": "Tiger",
             "fact": "Tigers are striped big cats, and each tiger has its own stripe pattern.",
@@ -5724,9 +5724,9 @@
           }
         },
         {
-          "id": "leopard_10",
+          "id": "leopard_89dd",
           "title": "Leopard",
-          "url": "/wildlife/leopard10.jpg",
+          "url": "/wildlife/leopard_89dd.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -5742,9 +5742,9 @@
           }
         },
         {
-          "id": "gorilla_10",
+          "id": "gorilla_59ff",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla10.jpg",
+          "url": "/wildlife/gorilla_59ff.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -5760,9 +5760,9 @@
           }
         },
         {
-          "id": "panda_10",
+          "id": "panda_7e0b",
           "title": "Panda",
-          "url": "/wildlife/panda10.jpg",
+          "url": "/wildlife/panda_7e0b.webp",
           "fact": {
             "title": "Panda",
             "fact": "Giant pandas are black-and-white bears with strong jaws and a diet centered on bamboo.",
@@ -5778,9 +5778,9 @@
           }
         },
         {
-          "id": "koala_10",
+          "id": "koala_562c",
           "title": "Koala",
-          "url": "/wildlife/koala10.jpg",
+          "url": "/wildlife/koala_562c.webp",
           "fact": {
             "title": "Koala",
             "fact": "Koalas are tree-dwelling marsupials with round ears, gray fur, and strong gripping claws.",
@@ -5796,9 +5796,9 @@
           }
         },
         {
-          "id": "hippopotamus_10",
+          "id": "hippopotamus_cabb",
           "title": "Hippopotamus",
-          "url": "/wildlife/hippopotamus11.jpg",
+          "url": "/wildlife/hippopotamus_cabb.webp",
           "fact": {
             "title": "Hippopotamus",
             "fact": "Hippopotamuses are large semi-aquatic mammals that spend much of the day in water.",
@@ -5814,9 +5814,9 @@
           }
         },
         {
-          "id": "jaguar_10",
+          "id": "jaguar_868c",
           "title": "Jaguar",
-          "url": "/wildlife/jaguar10.jpg",
+          "url": "/wildlife/jaguar_868c.webp",
           "fact": {
             "title": "Jaguar",
             "fact": "Jaguars are powerful spotted big cats with strong jaws and compact bodies.",
@@ -5832,9 +5832,9 @@
           }
         },
         {
-          "id": "deer_10",
+          "id": "deer_6afc",
           "title": "Deer",
-          "url": "/wildlife/deer10.jpg",
+          "url": "/wildlife/deer_6afc.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -5850,9 +5850,9 @@
           }
         },
         {
-          "id": "crocodile_10",
+          "id": "crocodile_406a",
           "title": "Crocodile",
-          "url": "/wildlife/crocodile10.webp",
+          "url": "/wildlife/crocodile_406a.webp",
           "fact": {
             "title": "Crocodile",
             "fact": "Crocodiles are large reptiles with armored skin, long tails, and powerful jaws.",
@@ -5868,9 +5868,9 @@
           }
         },
         {
-          "id": "fox_10",
+          "id": "fox_663e",
           "title": "Fox",
-          "url": "/wildlife/fox10.jpg",
+          "url": "/wildlife/fox_663e.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -5886,9 +5886,9 @@
           }
         },
         {
-          "id": "wolf_11",
+          "id": "wolf_8005",
           "title": "Wolf",
-          "url": "/wildlife/wolf11.jpg",
+          "url": "/wildlife/wolf_8005.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -5904,9 +5904,9 @@
           }
         },
         {
-          "id": "rhinoceros_11",
+          "id": "rhinoceros_7015",
           "title": "Rhinoceros",
-          "url": "/wildlife/rhinoceros11.jpg",
+          "url": "/wildlife/rhinoceros_7015.webp",
           "fact": {
             "title": "Rhinoceros",
             "fact": "Rhinoceroses are large hoofed mammals known for thick skin and one or two horns on the snout.",
@@ -5922,9 +5922,9 @@
           }
         },
         {
-          "id": "kangaroo_11",
+          "id": "kangaroo_78c1",
           "title": "Kangaroo",
-          "url": "/wildlife/kangaroo11.jpg",
+          "url": "/wildlife/kangaroo_78c1.webp",
           "fact": {
             "title": "Kangaroo",
             "fact": "Kangaroos are marsupials with powerful hind legs, large feet, and long balancing tails.",
@@ -5940,9 +5940,9 @@
           }
         },
         {
-          "id": "leopard_11",
+          "id": "leopard_9d3c",
           "title": "Leopard",
-          "url": "/wildlife/leopard11.jpg",
+          "url": "/wildlife/leopard_9d3c.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -5958,9 +5958,9 @@
           }
         },
         {
-          "id": "elephant_11",
+          "id": "elephant_7617",
           "title": "Elephant",
-          "url": "/wildlife/elephant12.jpg",
+          "url": "/wildlife/elephant_7617.webp",
           "fact": {
             "title": "Elephant",
             "fact": "Elephants are the largest land animals and use their trunks for breathing, smelling, drinking, and grasping.",
@@ -5976,9 +5976,9 @@
           }
         },
         {
-          "id": "zebra_11",
+          "id": "zebra_3fc3",
           "title": "Zebra",
-          "url": "/wildlife/zebra11.jpg",
+          "url": "/wildlife/zebra_3fc3.webp",
           "fact": {
             "title": "Zebra",
             "fact": "Zebras are striped wild equids, and each zebra has a unique stripe pattern.",
@@ -5994,9 +5994,9 @@
           }
         },
         {
-          "id": "gorilla_11",
+          "id": "gorilla_5b5b",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla11.jpg",
+          "url": "/wildlife/gorilla_5b5b.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -6012,9 +6012,9 @@
           }
         },
         {
-          "id": "koala_11",
+          "id": "koala_66df",
           "title": "Koala",
-          "url": "/wildlife/koala11.jpg",
+          "url": "/wildlife/koala_66df.webp",
           "fact": {
             "title": "Koala",
             "fact": "Koalas are tree-dwelling marsupials with round ears, gray fur, and strong gripping claws.",
@@ -6030,9 +6030,9 @@
           }
         },
         {
-          "id": "hippopotamus_11",
+          "id": "hippopotamus_d62c",
           "title": "Hippopotamus",
-          "url": "/wildlife/hippopotamus12.jpg",
+          "url": "/wildlife/hippopotamus_d62c.webp",
           "fact": {
             "title": "Hippopotamus",
             "fact": "Hippopotamuses are large semi-aquatic mammals that spend much of the day in water.",
@@ -6048,9 +6048,9 @@
           }
         },
         {
-          "id": "jaguar_11",
+          "id": "jaguar_8c39",
           "title": "Jaguar",
-          "url": "/wildlife/jaguar11.jpg",
+          "url": "/wildlife/jaguar_8c39.webp",
           "fact": {
             "title": "Jaguar",
             "fact": "Jaguars are powerful spotted big cats with strong jaws and compact bodies.",
@@ -6066,9 +6066,9 @@
           }
         },
         {
-          "id": "deer_11",
+          "id": "deer_6f8c",
           "title": "Deer",
-          "url": "/wildlife/deer11.jpg",
+          "url": "/wildlife/deer_6f8c.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -6084,9 +6084,9 @@
           }
         },
         {
-          "id": "bear_11",
+          "id": "bear_a03c",
           "title": "Bear",
-          "url": "/wildlife/bear13.jpg",
+          "url": "/wildlife/bear_a03c.webp",
           "fact": {
             "title": "Bear",
             "fact": "Bears are large mammals with strong bodies, short tails, and a very sensitive sense of smell.",
@@ -6102,9 +6102,9 @@
           }
         },
         {
-          "id": "bison_11",
+          "id": "bison_5094",
           "title": "Bison",
-          "url": "/wildlife/bison11.jpg",
+          "url": "/wildlife/bison_5094.webp",
           "fact": {
             "title": "Bison",
             "fact": "Bison are heavy hoofed mammals with large shoulder humps and shaggy front coats.",
@@ -6120,9 +6120,9 @@
           }
         },
         {
-          "id": "crocodile_11",
+          "id": "crocodile_4e4a",
           "title": "Crocodile",
-          "url": "/wildlife/crocodile11.jpg",
+          "url": "/wildlife/crocodile_4e4a.webp",
           "fact": {
             "title": "Crocodile",
             "fact": "Crocodiles are large reptiles with armored skin, long tails, and powerful jaws.",
@@ -6138,9 +6138,9 @@
           }
         },
         {
-          "id": "fox_11",
+          "id": "fox_7906",
           "title": "Fox",
-          "url": "/wildlife/fox11.jpg",
+          "url": "/wildlife/fox_7906.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -6156,9 +6156,9 @@
           }
         },
         {
-          "id": "wolf_12",
+          "id": "wolf_8f9e",
           "title": "Wolf",
-          "url": "/wildlife/wolf12.jpg",
+          "url": "/wildlife/wolf_8f9e.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -6174,9 +6174,9 @@
           }
         },
         {
-          "id": "lion_12",
+          "id": "lion_a163",
           "title": "Lion",
-          "url": "/wildlife/lion13.jpg",
+          "url": "/wildlife/lion_a163.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -6192,9 +6192,9 @@
           }
         },
         {
-          "id": "rhinoceros_12",
+          "id": "rhinoceros_7f76",
           "title": "Rhinoceros",
-          "url": "/wildlife/rhinoceros12.jpg",
+          "url": "/wildlife/rhinoceros_7f76.webp",
           "fact": {
             "title": "Rhinoceros",
             "fact": "Rhinoceroses are large hoofed mammals known for thick skin and one or two horns on the snout.",
@@ -6210,9 +6210,9 @@
           }
         },
         {
-          "id": "kangaroo_12",
+          "id": "kangaroo_8277",
           "title": "Kangaroo",
-          "url": "/wildlife/kangaroo12.jpg",
+          "url": "/wildlife/kangaroo_8277.webp",
           "fact": {
             "title": "Kangaroo",
             "fact": "Kangaroos are marsupials with powerful hind legs, large feet, and long balancing tails.",
@@ -6228,9 +6228,9 @@
           }
         },
         {
-          "id": "tiger_12",
+          "id": "tiger_c776",
           "title": "Tiger",
-          "url": "/wildlife/tiger12.jpg",
+          "url": "/wildlife/tiger_c776.webp",
           "fact": {
             "title": "Tiger",
             "fact": "Tigers are striped big cats, and each tiger has its own stripe pattern.",
@@ -6246,9 +6246,9 @@
           }
         },
         {
-          "id": "leopard_12",
+          "id": "leopard_abde",
           "title": "Leopard",
-          "url": "/wildlife/leopard12.jpg",
+          "url": "/wildlife/leopard_abde.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -6264,9 +6264,9 @@
           }
         },
         {
-          "id": "zebra_12",
+          "id": "zebra_8c04",
           "title": "Zebra",
-          "url": "/wildlife/zebra12.webp",
+          "url": "/wildlife/zebra_8c04.webp",
           "fact": {
             "title": "Zebra",
             "fact": "Zebras are striped wild equids, and each zebra has a unique stripe pattern.",
@@ -6282,9 +6282,9 @@
           }
         },
         {
-          "id": "gorilla_12",
+          "id": "gorilla_6084",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla12.jpg",
+          "url": "/wildlife/gorilla_6084.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -6300,9 +6300,9 @@
           }
         },
         {
-          "id": "panda_12",
+          "id": "panda_83be",
           "title": "Panda",
-          "url": "/wildlife/panda12.jpg",
+          "url": "/wildlife/panda_83be.webp",
           "fact": {
             "title": "Panda",
             "fact": "Giant pandas are black-and-white bears with strong jaws and a diet centered on bamboo.",
@@ -6318,9 +6318,9 @@
           }
         },
         {
-          "id": "koala_12",
+          "id": "koala_a790",
           "title": "Koala",
-          "url": "/wildlife/koala12.png",
+          "url": "/wildlife/koala_a790.webp",
           "fact": {
             "title": "Koala",
             "fact": "Koalas are tree-dwelling marsupials with round ears, gray fur, and strong gripping claws.",
@@ -6336,9 +6336,9 @@
           }
         },
         {
-          "id": "hippopotamus_12",
+          "id": "hippopotamus_d691",
           "title": "Hippopotamus",
-          "url": "/wildlife/hippopotamus13.jpg",
+          "url": "/wildlife/hippopotamus_d691.webp",
           "fact": {
             "title": "Hippopotamus",
             "fact": "Hippopotamuses are large semi-aquatic mammals that spend much of the day in water.",
@@ -6354,9 +6354,9 @@
           }
         },
         {
-          "id": "jaguar_12",
+          "id": "jaguar_8f66",
           "title": "Jaguar",
-          "url": "/wildlife/jaguar12.jpg",
+          "url": "/wildlife/jaguar_8f66.webp",
           "fact": {
             "title": "Jaguar",
             "fact": "Jaguars are powerful spotted big cats with strong jaws and compact bodies.",
@@ -6372,9 +6372,9 @@
           }
         },
         {
-          "id": "deer_12",
+          "id": "deer_724c",
           "title": "Deer",
-          "url": "/wildlife/deer12.jpg",
+          "url": "/wildlife/deer_724c.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -6390,9 +6390,9 @@
           }
         },
         {
-          "id": "bear_12",
+          "id": "bear_becb",
           "title": "Bear",
-          "url": "/wildlife/bear14.jpg",
+          "url": "/wildlife/bear_becb.webp",
           "fact": {
             "title": "Bear",
             "fact": "Bears are large mammals with strong bodies, short tails, and a very sensitive sense of smell.",
@@ -6408,9 +6408,9 @@
           }
         },
         {
-          "id": "bison_12",
+          "id": "bison_510a",
           "title": "Bison",
-          "url": "/wildlife/bison12.jpg",
+          "url": "/wildlife/bison_510a.webp",
           "fact": {
             "title": "Bison",
             "fact": "Bison are heavy hoofed mammals with large shoulder humps and shaggy front coats.",
@@ -6426,9 +6426,9 @@
           }
         },
         {
-          "id": "crocodile_12",
+          "id": "crocodile_8dfa",
           "title": "Crocodile",
-          "url": "/wildlife/crocodile12.jpg",
+          "url": "/wildlife/crocodile_8dfa.webp",
           "fact": {
             "title": "Crocodile",
             "fact": "Crocodiles are large reptiles with armored skin, long tails, and powerful jaws.",
@@ -6444,9 +6444,9 @@
           }
         },
         {
-          "id": "wolf_13",
+          "id": "wolf_a6c0",
           "title": "Wolf",
-          "url": "/wildlife/wolf13.jpg",
+          "url": "/wildlife/wolf_a6c0.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -6462,9 +6462,9 @@
           }
         },
         {
-          "id": "lion_13",
+          "id": "lion_a4dd",
           "title": "Lion",
-          "url": "/wildlife/lion14.jpg",
+          "url": "/wildlife/lion_a4dd.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -6480,9 +6480,9 @@
           }
         },
         {
-          "id": "kangaroo_13",
+          "id": "kangaroo_9e2a",
           "title": "Kangaroo",
-          "url": "/wildlife/kangaroo13.jpg",
+          "url": "/wildlife/kangaroo_9e2a.webp",
           "fact": {
             "title": "Kangaroo",
             "fact": "Kangaroos are marsupials with powerful hind legs, large feet, and long balancing tails.",
@@ -6498,9 +6498,9 @@
           }
         },
         {
-          "id": "tiger_13",
+          "id": "tiger_ca06",
           "title": "Tiger",
-          "url": "/wildlife/tiger13.jpg",
+          "url": "/wildlife/tiger_ca06.webp",
           "fact": {
             "title": "Tiger",
             "fact": "Tigers are striped big cats, and each tiger has its own stripe pattern.",
@@ -6516,9 +6516,9 @@
           }
         },
         {
-          "id": "leopard_13",
+          "id": "leopard_ae85",
           "title": "Leopard",
-          "url": "/wildlife/leopard13.jpg",
+          "url": "/wildlife/leopard_ae85.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -6534,9 +6534,9 @@
           }
         },
         {
-          "id": "zebra_13",
+          "id": "zebra_8c68",
           "title": "Zebra",
-          "url": "/wildlife/zebra13.jpg",
+          "url": "/wildlife/zebra_8c68.webp",
           "fact": {
             "title": "Zebra",
             "fact": "Zebras are striped wild equids, and each zebra has a unique stripe pattern.",
@@ -6552,9 +6552,9 @@
           }
         },
         {
-          "id": "panda_13",
+          "id": "panda_8c74",
           "title": "Panda",
-          "url": "/wildlife/panda13.jpg",
+          "url": "/wildlife/panda_8c74.webp",
           "fact": {
             "title": "Panda",
             "fact": "Giant pandas are black-and-white bears with strong jaws and a diet centered on bamboo.",
@@ -6570,9 +6570,9 @@
           }
         },
         {
-          "id": "koala_13",
+          "id": "koala_a7c2",
           "title": "Koala",
-          "url": "/wildlife/koala13.jpg",
+          "url": "/wildlife/koala_a7c2.webp",
           "fact": {
             "title": "Koala",
             "fact": "Koalas are tree-dwelling marsupials with round ears, gray fur, and strong gripping claws.",
@@ -6588,9 +6588,9 @@
           }
         },
         {
-          "id": "hippopotamus_13",
+          "id": "hippopotamus_d6df",
           "title": "Hippopotamus",
-          "url": "/wildlife/hippopotamus14.jpg",
+          "url": "/wildlife/hippopotamus_d6df.webp",
           "fact": {
             "title": "Hippopotamus",
             "fact": "Hippopotamuses are large semi-aquatic mammals that spend much of the day in water.",
@@ -6606,9 +6606,9 @@
           }
         },
         {
-          "id": "deer_13",
+          "id": "deer_7bcd",
           "title": "Deer",
-          "url": "/wildlife/deer13.jpg",
+          "url": "/wildlife/deer_7bcd.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -6624,9 +6624,9 @@
           }
         },
         {
-          "id": "bear_13",
+          "id": "bear_d277",
           "title": "Bear",
-          "url": "/wildlife/bear15.jpg",
+          "url": "/wildlife/bear_d277.webp",
           "fact": {
             "title": "Bear",
             "fact": "Bears are large mammals with strong bodies, short tails, and a very sensitive sense of smell.",
@@ -6642,9 +6642,9 @@
           }
         },
         {
-          "id": "bison_13",
+          "id": "bison_6508",
           "title": "Bison",
-          "url": "/wildlife/bison13.jpg",
+          "url": "/wildlife/bison_6508.webp",
           "fact": {
             "title": "Bison",
             "fact": "Bison are heavy hoofed mammals with large shoulder humps and shaggy front coats.",
@@ -6660,9 +6660,9 @@
           }
         },
         {
-          "id": "fox_13",
+          "id": "fox_a04c",
           "title": "Fox",
-          "url": "/wildlife/fox13.jpg",
+          "url": "/wildlife/fox_a04c.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -6678,9 +6678,9 @@
           }
         },
         {
-          "id": "wolf_14",
+          "id": "wolf_b9b8",
           "title": "Wolf",
-          "url": "/wildlife/wolf14.jpg",
+          "url": "/wildlife/wolf_b9b8.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -6696,9 +6696,9 @@
           }
         },
         {
-          "id": "lion_14",
+          "id": "lion_a77f",
           "title": "Lion",
-          "url": "/wildlife/lion16.jpg",
+          "url": "/wildlife/lion_a77f.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -6714,9 +6714,9 @@
           }
         },
         {
-          "id": "rhinoceros_14",
+          "id": "rhinoceros_af87",
           "title": "Rhinoceros",
-          "url": "/wildlife/rhinoceros14.jpg",
+          "url": "/wildlife/rhinoceros_af87.webp",
           "fact": {
             "title": "Rhinoceros",
             "fact": "Rhinoceroses are large hoofed mammals known for thick skin and one or two horns on the snout.",
@@ -6732,9 +6732,9 @@
           }
         },
         {
-          "id": "kangaroo_14",
+          "id": "kangaroo_c0eb",
           "title": "Kangaroo",
-          "url": "/wildlife/kangaroo14.jpg",
+          "url": "/wildlife/kangaroo_c0eb.webp",
           "fact": {
             "title": "Kangaroo",
             "fact": "Kangaroos are marsupials with powerful hind legs, large feet, and long balancing tails.",
@@ -6750,9 +6750,9 @@
           }
         },
         {
-          "id": "leopard_14",
+          "id": "leopard_c38a",
           "title": "Leopard",
-          "url": "/wildlife/leopard14.jpg",
+          "url": "/wildlife/leopard_c38a.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -6768,9 +6768,9 @@
           }
         },
         {
-          "id": "zebra_14",
+          "id": "zebra_935a",
           "title": "Zebra",
-          "url": "/wildlife/zebra14.webp",
+          "url": "/wildlife/zebra_935a.webp",
           "fact": {
             "title": "Zebra",
             "fact": "Zebras are striped wild equids, and each zebra has a unique stripe pattern.",
@@ -6786,9 +6786,9 @@
           }
         },
         {
-          "id": "gorilla_14",
+          "id": "gorilla_67e4",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla14.jpg",
+          "url": "/wildlife/gorilla_67e4.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -6804,9 +6804,9 @@
           }
         },
         {
-          "id": "panda_14",
+          "id": "panda_8ecb",
           "title": "Panda",
-          "url": "/wildlife/panda14.jpg",
+          "url": "/wildlife/panda_8ecb.webp",
           "fact": {
             "title": "Panda",
             "fact": "Giant pandas are black-and-white bears with strong jaws and a diet centered on bamboo.",
@@ -6822,9 +6822,9 @@
           }
         },
         {
-          "id": "koala_14",
+          "id": "koala_b320",
           "title": "Koala",
-          "url": "/wildlife/koala14.jpg",
+          "url": "/wildlife/koala_b320.webp",
           "fact": {
             "title": "Koala",
             "fact": "Koalas are tree-dwelling marsupials with round ears, gray fur, and strong gripping claws.",
@@ -6840,9 +6840,9 @@
           }
         },
         {
-          "id": "hippopotamus_14",
+          "id": "hippopotamus_dd28",
           "title": "Hippopotamus",
-          "url": "/wildlife/hippopotamus15.jpg",
+          "url": "/wildlife/hippopotamus_dd28.webp",
           "fact": {
             "title": "Hippopotamus",
             "fact": "Hippopotamuses are large semi-aquatic mammals that spend much of the day in water.",
@@ -6858,9 +6858,9 @@
           }
         },
         {
-          "id": "jaguar_14",
+          "id": "jaguar_9c31",
           "title": "Jaguar",
-          "url": "/wildlife/jaguar14.jpg",
+          "url": "/wildlife/jaguar_9c31.webp",
           "fact": {
             "title": "Jaguar",
             "fact": "Jaguars are powerful spotted big cats with strong jaws and compact bodies.",
@@ -6876,9 +6876,9 @@
           }
         },
         {
-          "id": "deer_14",
+          "id": "deer_7e0e",
           "title": "Deer",
-          "url": "/wildlife/deer14.jpg",
+          "url": "/wildlife/deer_7e0e.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -6894,9 +6894,9 @@
           }
         },
         {
-          "id": "bear_14",
+          "id": "bear_df10",
           "title": "Bear",
-          "url": "/wildlife/bear16.jpg",
+          "url": "/wildlife/bear_df10.webp",
           "fact": {
             "title": "Bear",
             "fact": "Bears are large mammals with strong bodies, short tails, and a very sensitive sense of smell.",
@@ -6912,9 +6912,9 @@
           }
         },
         {
-          "id": "bison_14",
+          "id": "bison_84ab",
           "title": "Bison",
-          "url": "/wildlife/bison14.jpg",
+          "url": "/wildlife/bison_84ab.webp",
           "fact": {
             "title": "Bison",
             "fact": "Bison are heavy hoofed mammals with large shoulder humps and shaggy front coats.",
@@ -6930,9 +6930,9 @@
           }
         },
         {
-          "id": "crocodile_14",
+          "id": "crocodile_a148",
           "title": "Crocodile",
-          "url": "/wildlife/crocodile14.jpg",
+          "url": "/wildlife/crocodile_a148.webp",
           "fact": {
             "title": "Crocodile",
             "fact": "Crocodiles are large reptiles with armored skin, long tails, and powerful jaws.",
@@ -6948,9 +6948,9 @@
           }
         },
         {
-          "id": "fox_14",
+          "id": "fox_b6f3",
           "title": "Fox",
-          "url": "/wildlife/fox14.jpg",
+          "url": "/wildlife/fox_b6f3.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -6966,9 +6966,9 @@
           }
         },
         {
-          "id": "wolf_15",
+          "id": "wolf_bdbc",
           "title": "Wolf",
-          "url": "/wildlife/wolf15.jpg",
+          "url": "/wildlife/wolf_bdbc.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -6984,9 +6984,9 @@
           }
         },
         {
-          "id": "lion_15",
+          "id": "lion_b997",
           "title": "Lion",
-          "url": "/wildlife/lion17.jpg",
+          "url": "/wildlife/lion_b997.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -7002,9 +7002,9 @@
           }
         },
         {
-          "id": "rhinoceros_15",
+          "id": "rhinoceros_b8d2",
           "title": "Rhinoceros",
-          "url": "/wildlife/rhinoceros15.jpg",
+          "url": "/wildlife/rhinoceros_b8d2.webp",
           "fact": {
             "title": "Rhinoceros",
             "fact": "Rhinoceroses are large hoofed mammals known for thick skin and one or two horns on the snout.",
@@ -7020,9 +7020,9 @@
           }
         },
         {
-          "id": "kangaroo_15",
+          "id": "kangaroo_c5f7",
           "title": "Kangaroo",
-          "url": "/wildlife/kangaroo15.jpg",
+          "url": "/wildlife/kangaroo_c5f7.webp",
           "fact": {
             "title": "Kangaroo",
             "fact": "Kangaroos are marsupials with powerful hind legs, large feet, and long balancing tails.",
@@ -7038,9 +7038,9 @@
           }
         },
         {
-          "id": "leopard_15",
+          "id": "leopard_d59a",
           "title": "Leopard",
-          "url": "/wildlife/leopard15.jpg",
+          "url": "/wildlife/leopard_d59a.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -7056,9 +7056,9 @@
           }
         },
         {
-          "id": "elephant_15",
+          "id": "elephant_8064",
           "title": "Elephant",
-          "url": "/wildlife/elephant16.jpg",
+          "url": "/wildlife/elephant_8064.webp",
           "fact": {
             "title": "Elephant",
             "fact": "Elephants are the largest land animals and use their trunks for breathing, smelling, drinking, and grasping.",
@@ -7074,9 +7074,9 @@
           }
         },
         {
-          "id": "zebra_15",
+          "id": "zebra_978d",
           "title": "Zebra",
-          "url": "/wildlife/zebra15.jpg",
+          "url": "/wildlife/zebra_978d.webp",
           "fact": {
             "title": "Zebra",
             "fact": "Zebras are striped wild equids, and each zebra has a unique stripe pattern.",
@@ -7092,9 +7092,9 @@
           }
         },
         {
-          "id": "gorilla_15",
+          "id": "gorilla_69d6",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla15.jpg",
+          "url": "/wildlife/gorilla_69d6.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -7110,9 +7110,9 @@
           }
         },
         {
-          "id": "koala_15",
+          "id": "koala_b84b",
           "title": "Koala",
-          "url": "/wildlife/koala15.jpg",
+          "url": "/wildlife/koala_b84b.webp",
           "fact": {
             "title": "Koala",
             "fact": "Koalas are tree-dwelling marsupials with round ears, gray fur, and strong gripping claws.",
@@ -7128,9 +7128,9 @@
           }
         },
         {
-          "id": "hippopotamus_15",
+          "id": "hippopotamus_e56d",
           "title": "Hippopotamus",
-          "url": "/wildlife/hippopotamus16.jpg",
+          "url": "/wildlife/hippopotamus_e56d.webp",
           "fact": {
             "title": "Hippopotamus",
             "fact": "Hippopotamuses are large semi-aquatic mammals that spend much of the day in water.",
@@ -7146,9 +7146,9 @@
           }
         },
         {
-          "id": "jaguar_15",
+          "id": "jaguar_c25b",
           "title": "Jaguar",
-          "url": "/wildlife/jaguar15.jpg",
+          "url": "/wildlife/jaguar_c25b.webp",
           "fact": {
             "title": "Jaguar",
             "fact": "Jaguars are powerful spotted big cats with strong jaws and compact bodies.",
@@ -7164,9 +7164,9 @@
           }
         },
         {
-          "id": "deer_15",
+          "id": "deer_a113",
           "title": "Deer",
-          "url": "/wildlife/deer15.jpg",
+          "url": "/wildlife/deer_a113.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -7182,9 +7182,9 @@
           }
         },
         {
-          "id": "bear_15",
+          "id": "bear_f7cd",
           "title": "Bear",
-          "url": "/wildlife/bear17.jpg",
+          "url": "/wildlife/bear_f7cd.webp",
           "fact": {
             "title": "Bear",
             "fact": "Bears are large mammals with strong bodies, short tails, and a very sensitive sense of smell.",
@@ -7200,9 +7200,9 @@
           }
         },
         {
-          "id": "bison_15",
+          "id": "bison_9d46",
           "title": "Bison",
-          "url": "/wildlife/bison15.jpg",
+          "url": "/wildlife/bison_9d46.webp",
           "fact": {
             "title": "Bison",
             "fact": "Bison are heavy hoofed mammals with large shoulder humps and shaggy front coats.",
@@ -7218,9 +7218,9 @@
           }
         },
         {
-          "id": "fox_15",
+          "id": "fox_c1b1",
           "title": "Fox",
-          "url": "/wildlife/fox15.jpg",
+          "url": "/wildlife/fox_c1b1.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -7236,9 +7236,9 @@
           }
         },
         {
-          "id": "wolf_16",
+          "id": "wolf_c55c",
           "title": "Wolf",
-          "url": "/wildlife/wolf16.jpg",
+          "url": "/wildlife/wolf_c55c.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -7254,9 +7254,9 @@
           }
         },
         {
-          "id": "lion_16",
+          "id": "lion_c0eb",
           "title": "Lion",
-          "url": "/wildlife/lion19.jpg",
+          "url": "/wildlife/lion_c0eb.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -7272,9 +7272,9 @@
           }
         },
         {
-          "id": "rhinoceros_16",
+          "id": "rhinoceros_d7ad",
           "title": "Rhinoceros",
-          "url": "/wildlife/rhinoceros16.jpg",
+          "url": "/wildlife/rhinoceros_d7ad.webp",
           "fact": {
             "title": "Rhinoceros",
             "fact": "Rhinoceroses are large hoofed mammals known for thick skin and one or two horns on the snout.",
@@ -7290,9 +7290,9 @@
           }
         },
         {
-          "id": "kangaroo_16",
+          "id": "kangaroo_cfc2",
           "title": "Kangaroo",
-          "url": "/wildlife/kangaroo16.webp",
+          "url": "/wildlife/kangaroo_cfc2.webp",
           "fact": {
             "title": "Kangaroo",
             "fact": "Kangaroos are marsupials with powerful hind legs, large feet, and long balancing tails.",
@@ -7308,9 +7308,9 @@
           }
         },
         {
-          "id": "tiger_16",
+          "id": "tiger_d6b9",
           "title": "Tiger",
-          "url": "/wildlife/tiger16.jpg",
+          "url": "/wildlife/tiger_d6b9.webp",
           "fact": {
             "title": "Tiger",
             "fact": "Tigers are striped big cats, and each tiger has its own stripe pattern.",
@@ -7326,9 +7326,9 @@
           }
         },
         {
-          "id": "leopard_16",
+          "id": "leopard_d786",
           "title": "Leopard",
-          "url": "/wildlife/leopard16.jpg",
+          "url": "/wildlife/leopard_d786.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -7344,9 +7344,9 @@
           }
         },
         {
-          "id": "elephant_16",
+          "id": "elephant_978b",
           "title": "Elephant",
-          "url": "/wildlife/elephant17.jpg",
+          "url": "/wildlife/elephant_978b.webp",
           "fact": {
             "title": "Elephant",
             "fact": "Elephants are the largest land animals and use their trunks for breathing, smelling, drinking, and grasping.",
@@ -7362,9 +7362,9 @@
           }
         },
         {
-          "id": "zebra_16",
+          "id": "zebra_9db9",
           "title": "Zebra",
-          "url": "/wildlife/zebra16.jpg",
+          "url": "/wildlife/zebra_9db9.webp",
           "fact": {
             "title": "Zebra",
             "fact": "Zebras are striped wild equids, and each zebra has a unique stripe pattern.",
@@ -7380,9 +7380,9 @@
           }
         },
         {
-          "id": "gorilla_16",
+          "id": "gorilla_874b",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla16.jpg",
+          "url": "/wildlife/gorilla_874b.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -7398,9 +7398,9 @@
           }
         },
         {
-          "id": "panda_16",
+          "id": "panda_988b",
           "title": "Panda",
-          "url": "/wildlife/panda16.jpg",
+          "url": "/wildlife/panda_988b.webp",
           "fact": {
             "title": "Panda",
             "fact": "Giant pandas are black-and-white bears with strong jaws and a diet centered on bamboo.",
@@ -7416,9 +7416,9 @@
           }
         },
         {
-          "id": "koala_16",
+          "id": "koala_babe",
           "title": "Koala",
-          "url": "/wildlife/koala16.jpg",
+          "url": "/wildlife/koala_babe.webp",
           "fact": {
             "title": "Koala",
             "fact": "Koalas are tree-dwelling marsupials with round ears, gray fur, and strong gripping claws.",
@@ -7434,9 +7434,9 @@
           }
         },
         {
-          "id": "hippopotamus_16",
+          "id": "hippopotamus_e7d6",
           "title": "Hippopotamus",
-          "url": "/wildlife/hippopotamus17.jpg",
+          "url": "/wildlife/hippopotamus_e7d6.webp",
           "fact": {
             "title": "Hippopotamus",
             "fact": "Hippopotamuses are large semi-aquatic mammals that spend much of the day in water.",
@@ -7452,9 +7452,9 @@
           }
         },
         {
-          "id": "jaguar_16",
+          "id": "jaguar_c85d",
           "title": "Jaguar",
-          "url": "/wildlife/jaguar16.webp",
+          "url": "/wildlife/jaguar_c85d.webp",
           "fact": {
             "title": "Jaguar",
             "fact": "Jaguars are powerful spotted big cats with strong jaws and compact bodies.",
@@ -7470,9 +7470,9 @@
           }
         },
         {
-          "id": "deer_16",
+          "id": "deer_c869",
           "title": "Deer",
-          "url": "/wildlife/deer16.jpg",
+          "url": "/wildlife/deer_c869.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -7488,9 +7488,9 @@
           }
         },
         {
-          "id": "bison_16",
+          "id": "bison_a23b",
           "title": "Bison",
-          "url": "/wildlife/bison16.jpg",
+          "url": "/wildlife/bison_a23b.webp",
           "fact": {
             "title": "Bison",
             "fact": "Bison are heavy hoofed mammals with large shoulder humps and shaggy front coats.",
@@ -7506,9 +7506,9 @@
           }
         },
         {
-          "id": "fox_16",
+          "id": "fox_c54e",
           "title": "Fox",
-          "url": "/wildlife/fox16.jpg",
+          "url": "/wildlife/fox_c54e.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -7524,9 +7524,9 @@
           }
         },
         {
-          "id": "wolf_17",
+          "id": "wolf_e021",
           "title": "Wolf",
-          "url": "/wildlife/wolf17.jpg",
+          "url": "/wildlife/wolf_e021.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -7542,9 +7542,9 @@
           }
         },
         {
-          "id": "lion_17",
+          "id": "lion_c15e",
           "title": "Lion",
-          "url": "/wildlife/lion20.jpg",
+          "url": "/wildlife/lion_c15e.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -7560,9 +7560,9 @@
           }
         },
         {
-          "id": "tiger_17",
+          "id": "tiger_e13f",
           "title": "Tiger",
-          "url": "/wildlife/tiger17.jpg",
+          "url": "/wildlife/tiger_e13f.webp",
           "fact": {
             "title": "Tiger",
             "fact": "Tigers are striped big cats, and each tiger has its own stripe pattern.",
@@ -7578,9 +7578,9 @@
           }
         },
         {
-          "id": "leopard_17",
+          "id": "leopard_dad5",
           "title": "Leopard",
-          "url": "/wildlife/leopard17.jpg",
+          "url": "/wildlife/leopard_dad5.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -7596,9 +7596,9 @@
           }
         },
         {
-          "id": "zebra_17",
+          "id": "zebra_b685",
           "title": "Zebra",
-          "url": "/wildlife/zebra17.jpg",
+          "url": "/wildlife/zebra_b685.webp",
           "fact": {
             "title": "Zebra",
             "fact": "Zebras are striped wild equids, and each zebra has a unique stripe pattern.",
@@ -7614,9 +7614,9 @@
           }
         },
         {
-          "id": "gorilla_17",
+          "id": "gorilla_a462",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla17.jpg",
+          "url": "/wildlife/gorilla_a462.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -7632,9 +7632,9 @@
           }
         },
         {
-          "id": "panda_17",
+          "id": "panda_a973",
           "title": "Panda",
-          "url": "/wildlife/panda17.jpg",
+          "url": "/wildlife/panda_a973.webp",
           "fact": {
             "title": "Panda",
             "fact": "Giant pandas are black-and-white bears with strong jaws and a diet centered on bamboo.",
@@ -7650,9 +7650,9 @@
           }
         },
         {
-          "id": "koala_17",
+          "id": "koala_c78f",
           "title": "Koala",
-          "url": "/wildlife/koala17.jpg",
+          "url": "/wildlife/koala_c78f.webp",
           "fact": {
             "title": "Koala",
             "fact": "Koalas are tree-dwelling marsupials with round ears, gray fur, and strong gripping claws.",
@@ -7668,9 +7668,9 @@
           }
         },
         {
-          "id": "hippopotamus_17",
+          "id": "hippopotamus_f6b0",
           "title": "Hippopotamus",
-          "url": "/wildlife/hippopotamus18.jpg",
+          "url": "/wildlife/hippopotamus_f6b0.webp",
           "fact": {
             "title": "Hippopotamus",
             "fact": "Hippopotamuses are large semi-aquatic mammals that spend much of the day in water.",
@@ -7686,9 +7686,9 @@
           }
         },
         {
-          "id": "jaguar_17",
+          "id": "jaguar_e326",
           "title": "Jaguar",
-          "url": "/wildlife/jaguar17.jpg",
+          "url": "/wildlife/jaguar_e326.webp",
           "fact": {
             "title": "Jaguar",
             "fact": "Jaguars are powerful spotted big cats with strong jaws and compact bodies.",
@@ -7704,9 +7704,9 @@
           }
         },
         {
-          "id": "deer_17",
+          "id": "deer_c8be",
           "title": "Deer",
-          "url": "/wildlife/deer17.jpg",
+          "url": "/wildlife/deer_c8be.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -7722,9 +7722,9 @@
           }
         },
         {
-          "id": "bison_17",
+          "id": "bison_af25",
           "title": "Bison",
-          "url": "/wildlife/bison17.jpg",
+          "url": "/wildlife/bison_af25.webp",
           "fact": {
             "title": "Bison",
             "fact": "Bison are heavy hoofed mammals with large shoulder humps and shaggy front coats.",
@@ -7740,9 +7740,9 @@
           }
         },
         {
-          "id": "crocodile_17",
+          "id": "crocodile_adc6",
           "title": "Crocodile",
-          "url": "/wildlife/crocodile17.webp",
+          "url": "/wildlife/crocodile_adc6.webp",
           "fact": {
             "title": "Crocodile",
             "fact": "Crocodiles are large reptiles with armored skin, long tails, and powerful jaws.",
@@ -7758,9 +7758,9 @@
           }
         },
         {
-          "id": "fox_17",
+          "id": "fox_cc30",
           "title": "Fox",
-          "url": "/wildlife/fox17.jpg",
+          "url": "/wildlife/fox_cc30.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -7776,9 +7776,9 @@
           }
         },
         {
-          "id": "lion_18",
+          "id": "lion_c8e7",
           "title": "Lion",
-          "url": "/wildlife/lion21.jpg",
+          "url": "/wildlife/lion_c8e7.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -7794,9 +7794,9 @@
           }
         },
         {
-          "id": "rhinoceros_18",
+          "id": "rhinoceros_efd7",
           "title": "Rhinoceros",
-          "url": "/wildlife/rhinoceros18.jpg",
+          "url": "/wildlife/rhinoceros_efd7.webp",
           "fact": {
             "title": "Rhinoceros",
             "fact": "Rhinoceroses are large hoofed mammals known for thick skin and one or two horns on the snout.",
@@ -7812,9 +7812,9 @@
           }
         },
         {
-          "id": "kangaroo_18",
+          "id": "kangaroo_e826",
           "title": "Kangaroo",
-          "url": "/wildlife/kangaroo18.jpg",
+          "url": "/wildlife/kangaroo_e826.webp",
           "fact": {
             "title": "Kangaroo",
             "fact": "Kangaroos are marsupials with powerful hind legs, large feet, and long balancing tails.",
@@ -7830,9 +7830,9 @@
           }
         },
         {
-          "id": "tiger_18",
+          "id": "tiger_eeba",
           "title": "Tiger",
-          "url": "/wildlife/tiger18.jpg",
+          "url": "/wildlife/tiger_eeba.webp",
           "fact": {
             "title": "Tiger",
             "fact": "Tigers are striped big cats, and each tiger has its own stripe pattern.",
@@ -7848,9 +7848,9 @@
           }
         },
         {
-          "id": "leopard_18",
+          "id": "leopard_fcd8",
           "title": "Leopard",
-          "url": "/wildlife/leopard18.jpg",
+          "url": "/wildlife/leopard_fcd8.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -7866,9 +7866,9 @@
           }
         },
         {
-          "id": "elephant_18",
+          "id": "elephant_bc5e",
           "title": "Elephant",
-          "url": "/wildlife/elephant19.jpg",
+          "url": "/wildlife/elephant_bc5e.webp",
           "fact": {
             "title": "Elephant",
             "fact": "Elephants are the largest land animals and use their trunks for breathing, smelling, drinking, and grasping.",
@@ -7884,9 +7884,9 @@
           }
         },
         {
-          "id": "zebra_18",
+          "id": "zebra_bfdf",
           "title": "Zebra",
-          "url": "/wildlife/zebra18.jpg",
+          "url": "/wildlife/zebra_bfdf.webp",
           "fact": {
             "title": "Zebra",
             "fact": "Zebras are striped wild equids, and each zebra has a unique stripe pattern.",
@@ -7902,9 +7902,9 @@
           }
         },
         {
-          "id": "gorilla_18",
+          "id": "gorilla_b4f9",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla18.jpg",
+          "url": "/wildlife/gorilla_b4f9.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -7920,9 +7920,9 @@
           }
         },
         {
-          "id": "panda_18",
+          "id": "panda_af3e",
           "title": "Panda",
-          "url": "/wildlife/panda18.jpg",
+          "url": "/wildlife/panda_af3e.webp",
           "fact": {
             "title": "Panda",
             "fact": "Giant pandas are black-and-white bears with strong jaws and a diet centered on bamboo.",
@@ -7938,9 +7938,9 @@
           }
         },
         {
-          "id": "koala_18",
+          "id": "koala_d11e",
           "title": "Koala",
-          "url": "/wildlife/koala18.jpg",
+          "url": "/wildlife/koala_d11e.webp",
           "fact": {
             "title": "Koala",
             "fact": "Koalas are tree-dwelling marsupials with round ears, gray fur, and strong gripping claws.",
@@ -7956,9 +7956,9 @@
           }
         },
         {
-          "id": "hippopotamus_18",
+          "id": "hippopotamus_fc4d",
           "title": "Hippopotamus",
-          "url": "/wildlife/hippopotamus19.jpg",
+          "url": "/wildlife/hippopotamus_fc4d.webp",
           "fact": {
             "title": "Hippopotamus",
             "fact": "Hippopotamuses are large semi-aquatic mammals that spend much of the day in water.",
@@ -7974,9 +7974,9 @@
           }
         },
         {
-          "id": "deer_18",
+          "id": "deer_eb8a",
           "title": "Deer",
-          "url": "/wildlife/deer18.webp",
+          "url": "/wildlife/deer_eb8a.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -7992,9 +7992,9 @@
           }
         },
         {
-          "id": "bison_18",
+          "id": "bison_c30c",
           "title": "Bison",
-          "url": "/wildlife/bison18.jpg",
+          "url": "/wildlife/bison_c30c.webp",
           "fact": {
             "title": "Bison",
             "fact": "Bison are heavy hoofed mammals with large shoulder humps and shaggy front coats.",
@@ -8010,9 +8010,9 @@
           }
         },
         {
-          "id": "fox_18",
+          "id": "fox_d0f1",
           "title": "Fox",
-          "url": "/wildlife/fox18.jpg",
+          "url": "/wildlife/fox_d0f1.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -8028,9 +8028,9 @@
           }
         },
         {
-          "id": "wolf_19",
+          "id": "wolf_e20c",
           "title": "Wolf",
-          "url": "/wildlife/wolf19.jpg",
+          "url": "/wildlife/wolf_e20c.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -8046,9 +8046,9 @@
           }
         },
         {
-          "id": "lion_19",
+          "id": "lion_ca4d",
           "title": "Lion",
-          "url": "/wildlife/lion22.jpg",
+          "url": "/wildlife/lion_ca4d.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -8064,9 +8064,9 @@
           }
         },
         {
-          "id": "kangaroo_19",
+          "id": "kangaroo_ef45",
           "title": "Kangaroo",
-          "url": "/wildlife/kangaroo19.jpg",
+          "url": "/wildlife/kangaroo_ef45.webp",
           "fact": {
             "title": "Kangaroo",
             "fact": "Kangaroos are marsupials with powerful hind legs, large feet, and long balancing tails.",
@@ -8082,9 +8082,9 @@
           }
         },
         {
-          "id": "leopard_19",
+          "id": "leopard_fef9",
           "title": "Leopard",
-          "url": "/wildlife/leopard19.jpg",
+          "url": "/wildlife/leopard_fef9.webp",
           "fact": {
             "title": "Leopard",
             "fact": "Leopards are agile spotted big cats known for climbing and carrying prey into trees.",
@@ -8100,9 +8100,9 @@
           }
         },
         {
-          "id": "elephant_19",
+          "id": "elephant_bf2a",
           "title": "Elephant",
-          "url": "/wildlife/elephant20.jpg",
+          "url": "/wildlife/elephant_bf2a.webp",
           "fact": {
             "title": "Elephant",
             "fact": "Elephants are the largest land animals and use their trunks for breathing, smelling, drinking, and grasping.",
@@ -8118,9 +8118,9 @@
           }
         },
         {
-          "id": "zebra_19",
+          "id": "zebra_cbbd",
           "title": "Zebra",
-          "url": "/wildlife/zebra19.jpg",
+          "url": "/wildlife/zebra_cbbd.webp",
           "fact": {
             "title": "Zebra",
             "fact": "Zebras are striped wild equids, and each zebra has a unique stripe pattern.",
@@ -8136,9 +8136,9 @@
           }
         },
         {
-          "id": "gorilla_19",
+          "id": "gorilla_d6a5",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla19.jpg",
+          "url": "/wildlife/gorilla_d6a5.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -8154,9 +8154,9 @@
           }
         },
         {
-          "id": "panda_19",
+          "id": "panda_c457",
           "title": "Panda",
-          "url": "/wildlife/panda19.jpg",
+          "url": "/wildlife/panda_c457.webp",
           "fact": {
             "title": "Panda",
             "fact": "Giant pandas are black-and-white bears with strong jaws and a diet centered on bamboo.",
@@ -8172,9 +8172,9 @@
           }
         },
         {
-          "id": "koala_19",
+          "id": "koala_f48d",
           "title": "Koala",
-          "url": "/wildlife/koala19.jpg",
+          "url": "/wildlife/koala_f48d.webp",
           "fact": {
             "title": "Koala",
             "fact": "Koalas are tree-dwelling marsupials with round ears, gray fur, and strong gripping claws.",
@@ -8190,9 +8190,9 @@
           }
         },
         {
-          "id": "hippopotamus_19",
+          "id": "hippopotamus_fd97",
           "title": "Hippopotamus",
-          "url": "/wildlife/hippopotamus20.jpg",
+          "url": "/wildlife/hippopotamus_fd97.webp",
           "fact": {
             "title": "Hippopotamus",
             "fact": "Hippopotamuses are large semi-aquatic mammals that spend much of the day in water.",
@@ -8208,9 +8208,9 @@
           }
         },
         {
-          "id": "deer_19",
+          "id": "deer_fcdd",
           "title": "Deer",
-          "url": "/wildlife/deer19.jpg",
+          "url": "/wildlife/deer_fcdd.webp",
           "fact": {
             "title": "Deer",
             "fact": "Deer are graceful hoofed mammals, and many male deer grow antlers each year.",
@@ -8226,9 +8226,9 @@
           }
         },
         {
-          "id": "bison_19",
+          "id": "bison_debd",
           "title": "Bison",
-          "url": "/wildlife/bison19.jpg",
+          "url": "/wildlife/bison_debd.webp",
           "fact": {
             "title": "Bison",
             "fact": "Bison are heavy hoofed mammals with large shoulder humps and shaggy front coats.",
@@ -8244,9 +8244,9 @@
           }
         },
         {
-          "id": "crocodile_19",
+          "id": "crocodile_ba9d",
           "title": "Crocodile",
-          "url": "/wildlife/crocodile19.jpg",
+          "url": "/wildlife/crocodile_ba9d.webp",
           "fact": {
             "title": "Crocodile",
             "fact": "Crocodiles are large reptiles with armored skin, long tails, and powerful jaws.",
@@ -8262,9 +8262,9 @@
           }
         },
         {
-          "id": "fox_19",
+          "id": "fox_f4a7",
           "title": "Fox",
-          "url": "/wildlife/fox19.jpg",
+          "url": "/wildlife/fox_f4a7.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -8280,9 +8280,9 @@
           }
         },
         {
-          "id": "wolf_20",
+          "id": "wolf_f82a",
           "title": "Wolf",
-          "url": "/wildlife/wolf20.jpg",
+          "url": "/wildlife/wolf_f82a.webp",
           "fact": {
             "title": "Wolf",
             "fact": "Wolves are wild canids that often live and hunt in family groups called packs.",
@@ -8298,9 +8298,9 @@
           }
         },
         {
-          "id": "lion_20",
+          "id": "lion_d873",
           "title": "Lion",
-          "url": "/wildlife/lion23.jpg",
+          "url": "/wildlife/lion_d873.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -8316,9 +8316,9 @@
           }
         },
         {
-          "id": "kangaroo_20",
+          "id": "kangaroo_f885",
           "title": "Kangaroo",
-          "url": "/wildlife/kangaroo20.jpg",
+          "url": "/wildlife/kangaroo_f885.webp",
           "fact": {
             "title": "Kangaroo",
             "fact": "Kangaroos are marsupials with powerful hind legs, large feet, and long balancing tails.",
@@ -8334,9 +8334,9 @@
           }
         },
         {
-          "id": "tiger_20",
+          "id": "tiger_f7a6",
           "title": "Tiger",
-          "url": "/wildlife/tiger20.jpg",
+          "url": "/wildlife/tiger_f7a6.webp",
           "fact": {
             "title": "Tiger",
             "fact": "Tigers are striped big cats, and each tiger has its own stripe pattern.",
@@ -8352,9 +8352,9 @@
           }
         },
         {
-          "id": "gorilla_20",
+          "id": "gorilla_f010",
           "title": "Gorilla",
-          "url": "/wildlife/gorilla20.jpg",
+          "url": "/wildlife/gorilla_f010.webp",
           "fact": {
             "title": "Gorilla",
             "fact": "Gorillas are the largest living primates and have strong arms, broad chests, and expressive faces.",
@@ -8370,9 +8370,9 @@
           }
         },
         {
-          "id": "panda_20",
+          "id": "panda_f1e5",
           "title": "Panda",
-          "url": "/wildlife/panda20.jpg",
+          "url": "/wildlife/panda_f1e5.webp",
           "fact": {
             "title": "Panda",
             "fact": "Giant pandas are black-and-white bears with strong jaws and a diet centered on bamboo.",
@@ -8388,9 +8388,9 @@
           }
         },
         {
-          "id": "bison_20",
+          "id": "bison_f5ce",
           "title": "Bison",
-          "url": "/wildlife/bison20.jpg",
+          "url": "/wildlife/bison_f5ce.webp",
           "fact": {
             "title": "Bison",
             "fact": "Bison are heavy hoofed mammals with large shoulder humps and shaggy front coats.",
@@ -8406,9 +8406,9 @@
           }
         },
         {
-          "id": "crocodile_20",
+          "id": "crocodile_f127",
           "title": "Crocodile",
-          "url": "/wildlife/crocodile20.jpg",
+          "url": "/wildlife/crocodile_f127.webp",
           "fact": {
             "title": "Crocodile",
             "fact": "Crocodiles are large reptiles with armored skin, long tails, and powerful jaws.",
@@ -8424,9 +8424,9 @@
           }
         },
         {
-          "id": "fox_20",
+          "id": "fox_fd46",
           "title": "Fox",
-          "url": "/wildlife/fox20.jpg",
+          "url": "/wildlife/fox_fd46.webp",
           "fact": {
             "title": "Fox",
             "fact": "Foxes are small wild canids known for pointed ears, narrow muzzles, and bushy tails.",
@@ -8442,9 +8442,9 @@
           }
         },
         {
-          "id": "lion_21",
+          "id": "lion_d885",
           "title": "Lion",
-          "url": "/wildlife/lion24.jpg",
+          "url": "/wildlife/lion_d885.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -8460,9 +8460,9 @@
           }
         },
         {
-          "id": "lion_22",
+          "id": "lion_deb5",
           "title": "Lion",
-          "url": "/wildlife/lion27.jpg",
+          "url": "/wildlife/lion_deb5.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -8478,9 +8478,9 @@
           }
         },
         {
-          "id": "lion_24",
+          "id": "lion_e374",
           "title": "Lion",
-          "url": "/wildlife/lion29.jpg",
+          "url": "/wildlife/lion_e374.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -8496,9 +8496,9 @@
           }
         },
         {
-          "id": "lion_25",
+          "id": "lion_f19e",
           "title": "Lion",
-          "url": "/wildlife/lion31.jpg",
+          "url": "/wildlife/lion_f19e.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
@@ -8514,9 +8514,9 @@
           }
         },
         {
-          "id": "lion_26",
+          "id": "lion_f6a8",
           "title": "Lion",
-          "url": "/wildlife/lion32.jpg",
+          "url": "/wildlife/lion_f6a8.webp",
           "fact": {
             "title": "Lion",
             "fact": "Lions are social big cats that often live in family groups called prides.",
