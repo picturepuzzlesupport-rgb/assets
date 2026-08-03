@@ -11,6 +11,24 @@
       "id": "animal",
       "title": "Animal",
       "images": [
+          {
+            "id": "tabby_kitten",
+            "title": "Tabby Kitten",
+            "url": "/animal/tabby_kitten.webp",
+            "fact": {
+              "title": "Tabby Kitten",
+              "fact": "A tabby kitten has striped, spotted, or swirled coat markings and learns through play, climbing, and exploring.",
+              "foodTitle": "Food",
+              "food": "Kittens need nutrient-rich food with animal protein to support healthy growth.",
+              "strongholdTitle": "Where They Are Found",
+              "stronghold": "Domestic kittens live with people in homes and communities around the world.",
+              "learningPoints": [
+                "Kittens use play to practice balance, hunting movements, and social skills.",
+                "Their whiskers help them sense nearby spaces and objects.",
+                "Young kittens sleep many hours each day while they grow."
+              ]
+            }
+          },
         {
           "id": "red_squirrel",
           "title": "Red Squirrel",
@@ -26,24 +44,6 @@
               "Their long tails help them balance while climbing and jumping.",
               "They hide food in many small storage places for later.",
               "Their sharp front teeth keep growing throughout their lives."
-            ]
-          }
-        },
-        {
-          "id": "tabby_kitten",
-          "title": "Tabby Kitten",
-          "url": "/animal/tabby_kitten.webp",
-          "fact": {
-            "title": "Tabby Kitten",
-            "fact": "A tabby kitten has striped, spotted, or swirled coat markings and learns through play, climbing, and exploring.",
-            "foodTitle": "Food",
-            "food": "Kittens need nutrient-rich food with animal protein to support healthy growth.",
-            "strongholdTitle": "Where They Are Found",
-            "stronghold": "Domestic kittens live with people in homes and communities around the world.",
-            "learningPoints": [
-              "Kittens use play to practice balance, hunting movements, and social skills.",
-              "Their whiskers help them sense nearby spaces and objects.",
-              "Young kittens sleep many hours each day while they grow."
             ]
           }
         },
