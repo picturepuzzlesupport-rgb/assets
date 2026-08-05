@@ -3,6 +3,11 @@
   "baseUrl": "https://raw.githubusercontent.com/picturepuzzlesupport-rgb/assets/main/docs",
   "categories": [
     {
+      "id": "abc",
+      "title": "Abc",
+      "images": []
+    },
+    {
       "id": "animal",
       "title": "Animal",
       "images": [
@@ -1087,6 +1092,251 @@
       ]
     },
     {
+      "id": "body_parts",
+      "title": "Body Parts",
+      "images": [
+        {
+          "id": "arm",
+          "title": "Arm",
+          "url": "/body_parts/arm.webp",
+          "dominantColorHex": "#BE9C5F",
+          "colorPaletteHex": [
+            "#BE9C5F",
+            "#976A2C",
+            "#F6CAA7",
+            "#FDFDFD",
+            "#BFBE97"
+          ],
+          "fact": {
+            "title": "Arm",
+            "fact": "Your arms help you lift, reach, wave, hug, and carry many things every day.",
+            "foodTitle": "Food",
+            "food": "Strong arms are helped by healthy foods, water, and active play.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "People around the world use their arms for work, sports, art, and daily activities.",
+            "learningPoints": [
+              "Your arm includes the upper arm, elbow, forearm, wrist, and hand.",
+              "Muscles and bones work together to help the arm move.",
+              "Arms help with balance and movement too."
+            ]
+          }
+        },
+        {
+          "id": "ear",
+          "title": "Ear",
+          "url": "/body_parts/ear.webp",
+          "dominantColorHex": "#D6B453",
+          "colorPaletteHex": [
+            "#D6B453",
+            "#C68F49",
+            "#623918",
+            "#FCF0DB",
+            "#E3DEAB"
+          ],
+          "fact": {
+            "title": "Ear",
+            "fact": "Ears help us hear sounds and also help our bodies keep balance.",
+            "foodTitle": "Food",
+            "food": "Healthy eating and protecting ears from loud noise help them work well.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Ears are important body parts for people and many animals around the world.",
+            "learningPoints": [
+              "The outer ear collects sound and sends it inward.",
+              "Tiny parts inside the ear help the brain understand sound.",
+              "The inner ear also helps you know if you are standing, turning, or moving."
+            ]
+          }
+        },
+        {
+          "id": "eye",
+          "title": "Eye",
+          "url": "/body_parts/eye.webp",
+          "dominantColorHex": "#D4AB6D",
+          "colorPaletteHex": [
+            "#D4AB6D",
+            "#DFE7C6",
+            "#DA905E",
+            "#AB8643",
+            "#7B4F2A"
+          ],
+          "fact": {
+            "title": "Eye",
+            "fact": "Eyes help us see colors, shapes, light, movement, and the world around us.",
+            "foodTitle": "Food",
+            "food": "Foods like carrots, leafy greens, and colorful fruits can help support eye health.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Eyes are one of the main sense organs used by people everywhere.",
+            "learningPoints": [
+              "The pupil changes size to let more or less light in.",
+              "Your brain works with your eyes to build the picture you see.",
+              "Blinking helps keep your eyes moist and clean."
+            ]
+          }
+        },
+        {
+          "id": "hair",
+          "title": "Hair",
+          "url": "/body_parts/hair.webp",
+          "dominantColorHex": "#F9FAF5",
+          "colorPaletteHex": [
+            "#F9FAF5",
+            "#150802",
+            "#B7B577",
+            "#8D5F30",
+            "#402B19"
+          ],
+          "fact": {
+            "title": "Hair",
+            "fact": "Hair helps protect the head from sunlight and can also help keep the body warm.",
+            "foodTitle": "Food",
+            "food": "Healthy foods with protein and vitamins help hair grow strong.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "People all around the world have different hair colors, textures, and styles.",
+            "learningPoints": [
+              "Hair grows from tiny openings in the skin called follicles.",
+              "Hair does not feel pain when cut because the part above the skin is not alive.",
+              "Eyebrows and eyelashes are also types of hair that help protect the eyes."
+            ]
+          }
+        },
+        {
+          "id": "hand",
+          "title": "Hand",
+          "url": "/body_parts/hand.webp",
+          "dominantColorHex": "#9C8D47",
+          "colorPaletteHex": [
+            "#9C8D47",
+            "#9AD5C9",
+            "#FEFEFE",
+            "#B3B693",
+            "#E9E4BB"
+          ],
+          "fact": {
+            "title": "Hand",
+            "fact": "Hands help us hold, draw, clap, build, write, and explore many textures.",
+            "foodTitle": "Food",
+            "food": "Healthy meals and exercise help the muscles in your hands stay strong.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Hands are used every day by people all over the world for learning and play.",
+            "learningPoints": [
+              "Each hand has fingers and a thumb that make gripping easier.",
+              "Hands have many small bones that allow careful movement.",
+              "Fingerprints on your hands are unique to you."
+            ]
+          }
+        },
+        {
+          "id": "leg",
+          "title": "Leg",
+          "url": "/body_parts/leg.webp",
+          "dominantColorHex": "#AE8F40",
+          "colorPaletteHex": [
+            "#AE8F40",
+            "#524727",
+            "#FDFDFD",
+            "#8AB65D",
+            "#EDC78E"
+          ],
+          "fact": {
+            "title": "Leg",
+            "fact": "Legs help us stand, walk, run, jump, dance, and climb.",
+            "foodTitle": "Food",
+            "food": "Bones and muscles in the legs are supported by movement and healthy foods.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "People depend on their legs every day for travel, sports, and balance.",
+            "learningPoints": [
+              "The thigh, knee, calf, ankle, and foot are all part of the leg area.",
+              "Leg muscles are some of the strongest muscles in the body.",
+              "Legs work with the feet to help the body stay balanced."
+            ]
+          }
+        },
+        {
+          "id": "mouth",
+          "title": "Mouth",
+          "url": "/body_parts/mouth.webp",
+          "dominantColorHex": "#E69563",
+          "colorPaletteHex": [
+            "#E69563",
+            "#E9ECC8",
+            "#988D33",
+            "#9E5B32",
+            "#D4AB63"
+          ],
+          "fact": {
+            "title": "Mouth",
+            "fact": "The mouth helps us eat, drink, speak, sing, and show expressions like smiling.",
+            "foodTitle": "Food",
+            "food": "Teeth and gums stay healthiest with water, balanced meals, and regular brushing.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Mouths are important for communication and eating in people around the world.",
+            "learningPoints": [
+              "Teeth inside the mouth help bite and chew food.",
+              "The tongue helps with tasting and speaking.",
+              "Saliva helps soften food and keep the mouth moist."
+            ]
+          }
+        },
+        {
+          "id": "neck",
+          "title": "Neck",
+          "url": "/body_parts/neck.webp",
+          "dominantColorHex": "#A28141",
+          "colorPaletteHex": [
+            "#A28141",
+            "#F3B383",
+            "#231B1C",
+            "#FDFCF7",
+            "#C3BA82"
+          ],
+          "fact": {
+            "title": "Neck",
+            "fact": "The neck supports the head and helps it turn, tilt, and look in different directions.",
+            "foodTitle": "Food",
+            "food": "Good posture, stretching, and healthy habits help keep the neck comfortable.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "The neck is an important connecting part of the body for everyone.",
+            "learningPoints": [
+              "The neck links the head to the shoulders and chest.",
+              "It contains bones, muscles, and the airway.",
+              "The neck helps protect important nerves and blood vessels."
+            ]
+          }
+        },
+        {
+          "id": "nose",
+          "title": "Nose",
+          "url": "/body_parts/nose.webp",
+          "dominantColorHex": "#DC9E66",
+          "colorPaletteHex": [
+            "#DC9E66",
+            "#F7B588",
+            "#AB7340",
+            "#FCF2EA",
+            "#C4BB8F"
+          ],
+          "fact": {
+            "title": "Nose",
+            "fact": "The nose helps us smell scents and also helps clean and warm the air we breathe.",
+            "foodTitle": "Food",
+            "food": "Smelling food with the nose helps the brain notice flavors and freshness.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "People use their noses every day to breathe and detect smells all around the world.",
+            "learningPoints": [
+              "Tiny sensors inside the nose help recognize many different smells.",
+              "The nose and tongue work together to help us enjoy flavor.",
+              "Nose hairs and mucus help trap dust before it enters the lungs."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "colors",
+      "title": "Colors",
+      "images": []
+    },
+    {
       "id": "daily_puzzle",
       "title": "Daily Puzzle",
       "images": [
@@ -1353,124 +1603,189 @@
       ]
     },
     {
-      "id": "food_and_garden",
-      "title": "Food And Garden",
+      "id": "dino",
+      "title": "Dino",
       "images": [
         {
-          "id": "bell_pepper",
-          "title": "Bell Pepper",
-          "url": "/food_and_garden/bell_pepper.webp",
-          "dominantColorHex": "#0A1804",
+          "id": "balloon",
+          "title": "Balloon",
+          "url": "/dino/balloon.webp",
+          "dominantColorHex": "#4BB4BB",
           "colorPaletteHex": [
-            "#0A1804",
-            "#910E07",
-            "#3F4812",
-            "#6D7B2C",
-            "#B1BE6F"
+            "#4BB4BB",
+            "#544D48",
+            "#B6C259",
+            "#DCE9AF",
+            "#448781"
           ]
         },
         {
-          "id": "broccoli",
-          "title": "Broccoli",
-          "url": "/food_and_garden/broccoli.webp",
-          "dominantColorHex": "#387731",
+          "id": "brachiosaurus",
+          "title": "Brachiosaurus",
+          "url": "/dino/brachiosaurus.webp",
+          "dominantColorHex": "#332933",
           "colorPaletteHex": [
-            "#387731",
-            "#77B05E",
-            "#171F08",
-            "#0D4F1C",
-            "#325420"
+            "#332933",
+            "#5D5D6B",
+            "#69B4E1",
+            "#CBD1C9",
+            "#62869D"
           ]
         },
         {
-          "id": "carrot",
-          "title": "Carrot",
-          "url": "/food_and_garden/carrot.webp",
-          "dominantColorHex": "#0C1E06",
+          "id": "bunny",
+          "title": "Bunny",
+          "url": "/dino/bunny.webp",
+          "dominantColorHex": "#7A4136",
           "colorPaletteHex": [
-            "#0C1E06",
-            "#446730",
-            "#522C13",
-            "#349795",
-            "#A8BC66"
+            "#7A4136",
+            "#E7AD86",
+            "#837D5C",
+            "#F1EAC9",
+            "#6BB798"
           ]
         },
         {
-          "id": "cauliflower",
-          "title": "Cauliflower",
-          "url": "/food_and_garden/cauliflower.webp",
-          "dominantColorHex": "#DFDEC8",
+          "id": "dinosaur",
+          "title": "Dinosaur",
+          "url": "/dino/dinosaur.webp",
+          "dominantColorHex": "#37B6CD",
           "colorPaletteHex": [
-            "#DFDEC8",
-            "#0D1D0A",
-            "#386528",
-            "#749958",
-            "#184D16"
+            "#37B6CD",
+            "#3B512F",
+            "#A4B72B",
+            "#598A4C",
+            "#C1E191"
           ]
         },
         {
-          "id": "cucumber",
-          "title": "Cucumber",
-          "url": "/food_and_garden/cucumber.webp",
-          "dominantColorHex": "#072204",
+          "id": "fox",
+          "title": "Fox",
+          "url": "/dino/fox.webp",
+          "dominantColorHex": "#2B431D",
           "colorPaletteHex": [
-            "#072204",
-            "#1B4911",
-            "#3F712F",
-            "#64934A",
-            "#A6BD6B"
+            "#2B431D",
+            "#828439",
+            "#8B4E1E",
+            "#E3CB70",
+            "#72B886"
           ]
         },
         {
-          "id": "eggplant",
-          "title": "Eggplant",
-          "url": "/food_and_garden/eggplant.webp",
-          "dominantColorHex": "#181809",
+          "id": "jungle",
+          "title": "Jungle",
+          "url": "/dino/jungle.webp",
+          "dominantColorHex": "#22431B",
           "colorPaletteHex": [
-            "#181809",
-            "#5C6522",
-            "#453029",
-            "#8C9A3C",
-            "#B8CE6C"
+            "#22431B",
+            "#BCD08C",
+            "#839145",
+            "#7D5E25",
+            "#872117"
           ]
         },
         {
-          "id": "peas",
-          "title": "Peas",
-          "url": "/food_and_garden/peas.webp",
-          "dominantColorHex": "#88B93E",
+          "id": "rocket",
+          "title": "Rocket",
+          "url": "/dino/rocket.webp",
+          "dominantColorHex": "#09054C",
           "colorPaletteHex": [
-            "#88B93E",
-            "#4A7C19",
-            "#022302",
-            "#0C3603",
-            "#23490A"
+            "#09054C",
+            "#B8A199",
+            "#01033E",
+            "#53226D",
+            "#45065B"
           ]
         },
         {
-          "id": "potato",
-          "title": "Potato",
-          "url": "/food_and_garden/potato.webp",
-          "dominantColorHex": "#111607",
+          "id": "stegosaurus",
+          "title": "Stegosaurus",
+          "url": "/dino/stegosaurus.webp",
+          "dominantColorHex": "#413219",
           "colorPaletteHex": [
-            "#111607",
-            "#442D1C",
-            "#60562B",
-            "#D7A847",
-            "#729A68"
+            "#413219",
+            "#B46B32",
+            "#CE8B37",
+            "#B43E1B",
+            "#EEC041"
           ]
         },
         {
-          "id": "tomato",
-          "title": "Tomato",
-          "url": "/food_and_garden/tomato.webp",
-          "dominantColorHex": "#0B2103",
+          "id": "tractor",
+          "title": "Tractor",
+          "url": "/dino/tractor.webp",
+          "dominantColorHex": "#5E2516",
           "colorPaletteHex": [
-            "#0B2103",
-            "#484E13",
-            "#75934D",
-            "#C51205",
-            "#451703"
+            "#5E2516",
+            "#DEAF2E",
+            "#45B7AE",
+            "#62723A",
+            "#E2E89E"
+          ]
+        },
+        {
+          "id": "treehouse",
+          "title": "Treehouse",
+          "url": "/dino/treehouse.webp",
+          "dominantColorHex": "#1A1C13",
+          "colorPaletteHex": [
+            "#1A1C13",
+            "#5B2711",
+            "#705839",
+            "#BB7B5D",
+            "#EAAF4B"
+          ]
+        },
+        {
+          "id": "trex",
+          "title": "Trex",
+          "url": "/dino/trex.webp",
+          "dominantColorHex": "#244425",
+          "colorPaletteHex": [
+            "#244425",
+            "#6A5C34",
+            "#499CA1",
+            "#A69E53",
+            "#BDD59C"
+          ]
+        },
+        {
+          "id": "triceratops",
+          "title": "Triceratops",
+          "url": "/dino/triceratops.webp",
+          "dominantColorHex": "#5E5035",
+          "colorPaletteHex": [
+            "#5E5035",
+            "#66AECC",
+            "#14405F",
+            "#CBCB91",
+            "#578992"
+          ]
+        },
+        {
+          "id": "turtle",
+          "title": "Turtle",
+          "url": "/dino/turtle.webp",
+          "dominantColorHex": "#5DC8CB",
+          "colorPaletteHex": [
+            "#5DC8CB",
+            "#624630",
+            "#F4C666",
+            "#ECECB8",
+            "#5D8B7A"
+          ]
+        },
+        {
+          "id": "whale",
+          "title": "Whale",
+          "url": "/dino/whale.webp",
+          "dominantColorHex": "#07ADF1",
+          "colorPaletteHex": [
+            "#07ADF1",
+            "#034DA0",
+            "#89BFC9",
+            "#5B3979",
+            "#5C6A8F"
           ]
         }
       ]
@@ -2956,6 +3271,272 @@
       ]
     },
     {
+      "id": "numbers",
+      "title": "Numbers",
+      "images": [
+        {
+          "id": "0",
+          "title": "Zero",
+          "url": "/numbers/0.webp",
+          "dominantColorHex": "#F0DEC7",
+          "colorPaletteHex": [
+            "#F0DEC7",
+            "#47A0A0",
+            "#F5E8D7",
+            "#A8CBBA",
+            "#AFDDD1"
+          ],
+          "fact": {
+            "title": "Zero",
+            "fact": "Zero means none at all, and it is an important number in math and counting.",
+            "foodTitle": "Food",
+            "food": "You can use zero when talking about food, like zero cookies left on the plate.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Zero is used in number systems all around the world.",
+            "learningPoints": [
+              "Zero acts as a placeholder in larger numbers like 10 and 100.",
+              "It helps show that nothing is in a group.",
+              "Adding zero to a number does not change the number."
+            ]
+          }
+        },
+        {
+          "id": "1",
+          "title": "One",
+          "url": "/numbers/1.webp",
+          "dominantColorHex": "#D9B353",
+          "colorPaletteHex": [
+            "#D9B353",
+            "#8E791B",
+            "#F4DEAD",
+            "#EDCB7D",
+            "#FCEFCD"
+          ],
+          "fact": {
+            "title": "One",
+            "fact": "One is the first counting number and means a single thing.",
+            "foodTitle": "Food",
+            "food": "You can count one apple, one carrot, or one slice of bread.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "The number one is used in counting systems everywhere.",
+            "learningPoints": [
+              "One stands for a single object or idea.",
+              "It is the building block for larger numbers.",
+              "When you add one, the count grows by a single step."
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "title": "Two",
+          "url": "/numbers/2.webp",
+          "dominantColorHex": "#BE3A1E",
+          "colorPaletteHex": [
+            "#BE3A1E",
+            "#D3BEA8",
+            "#E3CDB8",
+            "#BD875C",
+            "#F1E3CF"
+          ],
+          "fact": {
+            "title": "Two",
+            "fact": "Two means a pair, like two shoes or two eyes.",
+            "foodTitle": "Food",
+            "food": "You might have two bananas or two peas in a small group.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Two is a basic number used worldwide in counting and measuring.",
+            "learningPoints": [
+              "Two things together can make a pair.",
+              "Many animals and people have two eyes and two ears.",
+              "Two is an even number."
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "title": "Three",
+          "url": "/numbers/3.webp",
+          "dominantColorHex": "#4C7358",
+          "colorPaletteHex": [
+            "#4C7358",
+            "#959F7E",
+            "#C6C6A5",
+            "#F6DEBF",
+            "#FCEDD5"
+          ],
+          "fact": {
+            "title": "Three",
+            "fact": "Three is often seen in groups, like traffic-light colors or the sides of a triangle.",
+            "foodTitle": "Food",
+            "food": "You can count three grapes, three peas, or three cookies.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Three is used around the world in counting, shapes, and patterns.",
+            "learningPoints": [
+              "A triangle has three sides.",
+              "Three is an odd number.",
+              "Many stories and songs use groups of three because they are easy to remember."
+            ]
+          }
+        },
+        {
+          "id": "4",
+          "title": "Four",
+          "url": "/numbers/4.webp",
+          "dominantColorHex": "#CB8633",
+          "colorPaletteHex": [
+            "#CB8633",
+            "#B0590F",
+            "#D2AC76",
+            "#E7C9A9",
+            "#F4E4D2"
+          ],
+          "fact": {
+            "title": "Four",
+            "fact": "Four is common in nature and everyday life, like four seasons or four legs on many animals.",
+            "foodTitle": "Food",
+            "food": "A child might count four strawberries or four slices of cucumber.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Four is a widely used counting number across the world.",
+            "learningPoints": [
+              "A square has four sides.",
+              "Many tables and chairs stand on four legs.",
+              "Four is an even number."
+            ]
+          }
+        },
+        {
+          "id": "5",
+          "title": "Five",
+          "url": "/numbers/5.webp",
+          "dominantColorHex": "#290B2E",
+          "colorPaletteHex": [
+            "#290B2E",
+            "#79626C",
+            "#603E5C",
+            "#997C80",
+            "#B09293"
+          ],
+          "fact": {
+            "title": "Five",
+            "fact": "Five is easy to spot because many people have five fingers on each hand.",
+            "foodTitle": "Food",
+            "food": "You can count five blueberries or five pieces of popcorn.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Five is used worldwide in counting, games, and measuring.",
+            "learningPoints": [
+              "Hands make five easy to learn by counting fingers.",
+              "Five is an odd number.",
+              "Many star shapes are drawn with five points."
+            ]
+          }
+        },
+        {
+          "id": "6",
+          "title": "Six",
+          "url": "/numbers/6.webp",
+          "dominantColorHex": "#BC7F43",
+          "colorPaletteHex": [
+            "#BC7F43",
+            "#A95212",
+            "#C8A579",
+            "#DCC5A9",
+            "#E6D3BE"
+          ],
+          "fact": {
+            "title": "Six",
+            "fact": "Six appears in nature too, such as the six legs of an insect.",
+            "foodTitle": "Food",
+            "food": "A snack bowl could hold six grapes or six crackers.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Six is used around the world in counting and grouping.",
+            "learningPoints": [
+              "Many insects have six legs.",
+              "Six is an even number.",
+              "A hexagon has six sides."
+            ]
+          }
+        },
+        {
+          "id": "7",
+          "title": "Seven",
+          "url": "/numbers/7.webp",
+          "dominantColorHex": "#FAEFE0",
+          "colorPaletteHex": [
+            "#FAEFE0",
+            "#79871C",
+            "#AFC513",
+            "#E7DD9A",
+            "#D9C68E"
+          ],
+          "fact": {
+            "title": "Seven",
+            "fact": "Seven is a number often remembered in songs, stories, and the days of the week.",
+            "foodTitle": "Food",
+            "food": "A child could count seven peas or seven orange slices.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Seven is a familiar counting number used globally.",
+            "learningPoints": [
+              "There are seven days in a week.",
+              "Seven is an odd number.",
+              "It is often seen as a special number in stories and games."
+            ]
+          }
+        },
+        {
+          "id": "8",
+          "title": "Eight",
+          "url": "/numbers/8.webp",
+          "dominantColorHex": "#2B2B74",
+          "colorPaletteHex": [
+            "#2B2B74",
+            "#D2BFA9",
+            "#7C7980",
+            "#E6D2BB",
+            "#F3E2D0"
+          ],
+          "fact": {
+            "title": "Eight",
+            "fact": "Eight can be seen in nature, like the eight legs of an octopus or spider.",
+            "foodTitle": "Food",
+            "food": "You might count eight raisins or eight berries in a snack.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Eight is used in counting and math all over the world.",
+            "learningPoints": [
+              "An octopus has eight arms.",
+              "Eight is an even number.",
+              "When turned sideways, 8 looks like the infinity symbol."
+            ]
+          }
+        },
+        {
+          "id": "9",
+          "title": "Nine",
+          "url": "/numbers/9.webp",
+          "dominantColorHex": "#BC1206",
+          "colorPaletteHex": [
+            "#BC1206",
+            "#D6B894",
+            "#E5CBAE",
+            "#AA6D3D",
+            "#EAD6BC"
+          ],
+          "fact": {
+            "title": "Nine",
+            "fact": "Nine is one step before ten and helps children practice bigger number groups.",
+            "foodTitle": "Food",
+            "food": "You can count nine seeds, nine peas, or nine crackers.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Nine is a standard counting number used worldwide.",
+            "learningPoints": [
+              "Nine is an odd number.",
+              "It comes right before ten.",
+              "Three groups of three make nine."
+            ]
+          }
+        }
+      ]
+    },
+    {
       "id": "ocean",
       "title": "Ocean",
       "images": [
@@ -3248,13 +3829,279 @@
       ]
     },
     {
-      "id": "space",
-      "title": "Space",
+      "id": "shapes",
+      "title": "Shapes",
+      "images": [
+        {
+          "id": "circle",
+          "title": "Circle",
+          "url": "/shapes/circle.webp",
+          "dominantColorHex": "#F9C610",
+          "colorPaletteHex": [
+            "#F9C610",
+            "#FCF2DE",
+            "#D4A43D",
+            "#F7D669",
+            "#FBEECA"
+          ],
+          "fact": {
+            "title": "Circle",
+            "fact": "A circle is a round shape with no corners and no straight sides.",
+            "foodTitle": "Food",
+            "food": "Many foods look like circles, such as orange slices, pancakes, and cookies.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Circles are seen everywhere in signs, wheels, clocks, and toys around the world.",
+            "learningPoints": [
+              "Every point around a circle is the same distance from the center.",
+              "A circle can roll smoothly because it has no corners.",
+              "Balls, coins, and plates often show circular shapes."
+            ]
+          }
+        },
+        {
+          "id": "diamond",
+          "title": "Diamond",
+          "url": "/shapes/diamond.webp",
+          "dominantColorHex": "#CCB195",
+          "colorPaletteHex": [
+            "#CCB195",
+            "#E3D3C7",
+            "#3A6DB9",
+            "#F9D39E",
+            "#FBE9CE"
+          ],
+          "fact": {
+            "title": "Diamond",
+            "fact": "A diamond shape looks like a square tilted onto one corner.",
+            "foodTitle": "Food",
+            "food": "Some crackers, candies, and decorations are cut into diamond shapes.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Diamond shapes appear in patterns, road signs, kites, and art around the world.",
+            "learningPoints": [
+              "A diamond shape has four sides.",
+              "It can look narrow or wide depending on how it is drawn.",
+              "Many kites use a diamond-like outline."
+            ]
+          }
+        },
+        {
+          "id": "heart",
+          "title": "Heart",
+          "url": "/shapes/heart.webp",
+          "dominantColorHex": "#DF2B55",
+          "colorPaletteHex": [
+            "#DF2B55",
+            "#D47670",
+            "#FCC5C6",
+            "#F3ABA8",
+            "#FBD3D2"
+          ],
+          "fact": {
+            "title": "Heart",
+            "fact": "The heart shape is a symbol often used for love, care, and kindness.",
+            "foodTitle": "Food",
+            "food": "Heart shapes are popular in cookies, sandwiches, candies, and decorations.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Heart symbols are recognized in many countries and cultures.",
+            "learningPoints": [
+              "The heart symbol is different from the real body organ, but both are important symbols.",
+              "It has a pointed bottom and rounded top sections.",
+              "It is often seen on cards and gifts."
+            ]
+          }
+        },
+        {
+          "id": "hexagon",
+          "title": "Hexagon",
+          "url": "/shapes/hexagon.webp",
+          "dominantColorHex": "#D0DBCD",
+          "colorPaletteHex": [
+            "#D0DBCD",
+            "#DDB53B",
+            "#F6DDB9",
+            "#A07131",
+            "#F8CC68"
+          ],
+          "fact": {
+            "title": "Hexagon",
+            "fact": "A hexagon is a shape with six sides.",
+            "foodTitle": "Food",
+            "food": "Some honeycomb candies and crackers can be shaped like hexagons.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Hexagons appear in nature and design, especially in beehives.",
+            "learningPoints": [
+              "A honeycomb is made from many hexagons fitted together.",
+              "Six equal sides make a regular hexagon.",
+              "Hexagons can pack tightly without leaving gaps."
+            ]
+          }
+        },
+        {
+          "id": "oval",
+          "title": "Oval",
+          "url": "/shapes/oval.webp",
+          "dominantColorHex": "#F7E9C9",
+          "colorPaletteHex": [
+            "#F7E9C9",
+            "#D3AE44",
+            "#ECE8DB",
+            "#F5EEE0",
+            "#E9D99B"
+          ],
+          "fact": {
+            "title": "Oval",
+            "fact": "An oval is a rounded shape that looks stretched compared with a circle.",
+            "foodTitle": "Food",
+            "food": "Eggs, some fruits, and many plates or decorations can be oval-shaped.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Ovals are common in sports tracks, mirrors, and everyday design.",
+            "learningPoints": [
+              "An oval has no corners.",
+              "It is longer in one direction than the other.",
+              "A circle can be thought of as a special kind of round shape, while an oval is more stretched."
+            ]
+          }
+        },
+        {
+          "id": "pentagon",
+          "title": "Pentagon",
+          "url": "/shapes/pentagon.webp",
+          "dominantColorHex": "#DA5369",
+          "colorPaletteHex": [
+            "#DA5369",
+            "#F5D7BE",
+            "#F9E1D1",
+            "#E3B694",
+            "#FBE8DE"
+          ],
+          "fact": {
+            "title": "Pentagon",
+            "fact": "A pentagon is a shape with five sides.",
+            "foodTitle": "Food",
+            "food": "Some cookies, tiles, and craft cutouts can be made in pentagon shapes.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Pentagons appear in geometry, art, and building patterns.",
+            "learningPoints": [
+              "A regular pentagon has five equal sides.",
+              "Many stars can be drawn inside a pentagon.",
+              "Five corners make the pentagon easy to recognize."
+            ]
+          }
+        },
+        {
+          "id": "rectangle",
+          "title": "Rectangle",
+          "url": "/shapes/rectangle.webp",
+          "dominantColorHex": "#8836CE",
+          "colorPaletteHex": [
+            "#8836CE",
+            "#E9E1D4",
+            "#FEE3A7",
+            "#BFB38E",
+            "#9461B1"
+          ],
+          "fact": {
+            "title": "Rectangle",
+            "fact": "A rectangle is a four-sided shape with opposite sides the same length.",
+            "foodTitle": "Food",
+            "food": "Sandwiches, chocolate bars, and crackers are often cut into rectangles.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Rectangles are one of the most common shapes in books, doors, screens, and windows everywhere.",
+            "learningPoints": [
+              "A rectangle has four right-angle corners.",
+              "Squares are a special type of rectangle.",
+              "Many buildings and objects use rectangles because they stack neatly."
+            ]
+          }
+        },
+        {
+          "id": "square",
+          "title": "Square",
+          "url": "/shapes/square.webp",
+          "dominantColorHex": "#C9A98C",
+          "colorPaletteHex": [
+            "#C9A98C",
+            "#FDEFDE",
+            "#3A76AE",
+            "#E1DBCC",
+            "#FBEAD6"
+          ],
+          "fact": {
+            "title": "Square",
+            "fact": "A square is a four-sided shape with all sides the same length.",
+            "foodTitle": "Food",
+            "food": "Cheese slices, crackers, and brownies are often made in square shapes.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Squares are used in games, floor tiles, blocks, and picture grids all around the world.",
+            "learningPoints": [
+              "A square has four equal sides and four equal corners.",
+              "It looks the same even when turned.",
+              "Many puzzle boards and game boards use square sections."
+            ]
+          }
+        },
+        {
+          "id": "star",
+          "title": "Star",
+          "url": "/shapes/star.webp",
+          "dominantColorHex": "#D7E6F2",
+          "colorPaletteHex": [
+            "#D7E6F2",
+            "#B99F6B",
+            "#D6E0D0",
+            "#D9CCB7",
+            "#E1C18B"
+          ],
+          "fact": {
+            "title": "Star",
+            "fact": "A star shape usually has points that stretch outward from the center.",
+            "foodTitle": "Food",
+            "food": "Cookies, fruit slices, and sandwiches are sometimes cut into star shapes.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Star shapes are popular in flags, decorations, stickers, and holiday crafts around the world.",
+            "learningPoints": [
+              "Many simple stars have five points.",
+              "Stars can be drawn in different styles with different numbers of points.",
+              "The night sky inspired many star-shaped symbols."
+            ]
+          }
+        },
+        {
+          "id": "triangle",
+          "title": "Triangle",
+          "url": "/shapes/triangle.webp",
+          "dominantColorHex": "#DFDDDC",
+          "colorPaletteHex": [
+            "#DFDDDC",
+            "#B3B2B4",
+            "#446197",
+            "#FAD9AE",
+            "#FAE6C6"
+          ],
+          "fact": {
+            "title": "Triangle",
+            "fact": "A triangle is a shape with three sides and three corners.",
+            "foodTitle": "Food",
+            "food": "Pizza slices, nachos, and sandwiches are often cut into triangles.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Triangles appear in road signs, roofs, art, and structures all over the world.",
+            "learningPoints": [
+              "A triangle is one of the strongest simple shapes in building.",
+              "All triangles have exactly three sides.",
+              "Some triangles have equal sides while others do not."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "solar_system",
+      "title": "Solar System",
       "images": [
         {
           "id": "asteroid",
           "title": "Asteroid",
-          "url": "/space/asteroid.webp",
+          "url": "/solar_system/asteroid.webp",
           "dominantColorHex": "#181B1F",
           "colorPaletteHex": [
             "#181B1F",
@@ -3280,7 +4127,7 @@
         {
           "id": "earth",
           "title": "Earth",
-          "url": "/space/earth.webp",
+          "url": "/solar_system/earth.webp",
           "dominantColorHex": "#03040A",
           "colorPaletteHex": [
             "#03040A",
@@ -3306,7 +4153,7 @@
         {
           "id": "jupiter",
           "title": "Jupiter",
-          "url": "/space/jupiter.webp",
+          "url": "/solar_system/jupiter.webp",
           "dominantColorHex": "#111216",
           "colorPaletteHex": [
             "#111216",
@@ -3332,7 +4179,7 @@
         {
           "id": "mars",
           "title": "Mars",
-          "url": "/space/mars.webp",
+          "url": "/solar_system/mars.webp",
           "dominantColorHex": "#DD723F",
           "colorPaletteHex": [
             "#DD723F",
@@ -3358,7 +4205,7 @@
         {
           "id": "mercury",
           "title": "Mercury",
-          "url": "/space/mercury.webp",
+          "url": "/solar_system/mercury.webp",
           "dominantColorHex": "#060506",
           "colorPaletteHex": [
             "#060506",
@@ -3384,7 +4231,7 @@
         {
           "id": "neptune",
           "title": "Neptune",
-          "url": "/space/neptune.webp",
+          "url": "/solar_system/neptune.webp",
           "dominantColorHex": "#010107",
           "colorPaletteHex": [
             "#010107",
@@ -3410,7 +4257,7 @@
         {
           "id": "saturn",
           "title": "Saturn",
-          "url": "/space/saturn.webp",
+          "url": "/solar_system/saturn.webp",
           "dominantColorHex": "#C2995D",
           "colorPaletteHex": [
             "#C2995D",
@@ -3436,7 +4283,7 @@
         {
           "id": "sun",
           "title": "Sun",
-          "url": "/space/sun.webp",
+          "url": "/solar_system/sun.webp",
           "dominantColorHex": "#110402",
           "colorPaletteHex": [
             "#110402",
@@ -3462,7 +4309,7 @@
         {
           "id": "uranus",
           "title": "Uranus",
-          "url": "/space/uranus.webp",
+          "url": "/solar_system/uranus.webp",
           "dominantColorHex": "#020203",
           "colorPaletteHex": [
             "#020203",
@@ -3488,7 +4335,7 @@
         {
           "id": "venus",
           "title": "Venus",
-          "url": "/space/venus.webp",
+          "url": "/solar_system/venus.webp",
           "dominantColorHex": "#060607",
           "colorPaletteHex": [
             "#060607",
@@ -3510,6 +4357,129 @@
               "Venus spins very slowly compared with Earth."
             ]
           }
+        }
+      ]
+    },
+    {
+      "id": "veggies",
+      "title": "Veggies",
+      "images": [
+        {
+          "id": "bell_pepper",
+          "title": "Bell Pepper",
+          "url": "/veggies/bell_pepper.webp",
+          "dominantColorHex": "#0A1804",
+          "colorPaletteHex": [
+            "#0A1804",
+            "#910E07",
+            "#3F4812",
+            "#6D7B2C",
+            "#B1BE6F"
+          ]
+        },
+        {
+          "id": "broccoli",
+          "title": "Broccoli",
+          "url": "/veggies/broccoli.webp",
+          "dominantColorHex": "#387731",
+          "colorPaletteHex": [
+            "#387731",
+            "#77B05E",
+            "#171F08",
+            "#0D4F1C",
+            "#325420"
+          ]
+        },
+        {
+          "id": "carrot",
+          "title": "Carrot",
+          "url": "/veggies/carrot.webp",
+          "dominantColorHex": "#0C1E06",
+          "colorPaletteHex": [
+            "#0C1E06",
+            "#446730",
+            "#522C13",
+            "#349795",
+            "#A8BC66"
+          ]
+        },
+        {
+          "id": "cauliflower",
+          "title": "Cauliflower",
+          "url": "/veggies/cauliflower.webp",
+          "dominantColorHex": "#DFDEC8",
+          "colorPaletteHex": [
+            "#DFDEC8",
+            "#0D1D0A",
+            "#386528",
+            "#749958",
+            "#184D16"
+          ]
+        },
+        {
+          "id": "cucumber",
+          "title": "Cucumber",
+          "url": "/veggies/cucumber.webp",
+          "dominantColorHex": "#072204",
+          "colorPaletteHex": [
+            "#072204",
+            "#1B4911",
+            "#3F712F",
+            "#64934A",
+            "#A6BD6B"
+          ]
+        },
+        {
+          "id": "eggplant",
+          "title": "Eggplant",
+          "url": "/veggies/eggplant.webp",
+          "dominantColorHex": "#181809",
+          "colorPaletteHex": [
+            "#181809",
+            "#5C6522",
+            "#453029",
+            "#8C9A3C",
+            "#B8CE6C"
+          ]
+        },
+        {
+          "id": "peas",
+          "title": "Peas",
+          "url": "/veggies/peas.webp",
+          "dominantColorHex": "#88B93E",
+          "colorPaletteHex": [
+            "#88B93E",
+            "#4A7C19",
+            "#022302",
+            "#0C3603",
+            "#23490A"
+          ]
+        },
+        {
+          "id": "potato",
+          "title": "Potato",
+          "url": "/veggies/potato.webp",
+          "dominantColorHex": "#111607",
+          "colorPaletteHex": [
+            "#111607",
+            "#442D1C",
+            "#60562B",
+            "#D7A847",
+            "#729A68"
+          ]
+        },
+        {
+          "id": "tomato",
+          "title": "Tomato",
+          "url": "/veggies/tomato.webp",
+          "dominantColorHex": "#0B2103",
+          "colorPaletteHex": [
+            "#0B2103",
+            "#484E13",
+            "#75934D",
+            "#C51205",
+            "#451703"
+          ]
         }
       ]
     },
