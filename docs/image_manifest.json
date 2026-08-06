@@ -5035,84 +5035,6 @@
           ]
         },
         {
-          "id": "castle",
-          "title": "Castle",
-          "url": "/imagination/castle.webp",
-          "dominantColorHex": "#5A7AC2",
-          "colorPaletteHex": [
-            "#5A7AC2",
-            "#12357F",
-            "#3A4F8E",
-            "#66A5E1",
-            "#B2B7D6"
-          ]
-        },
-        {
-          "id": "crystal",
-          "title": "Crystal",
-          "url": "/imagination/crystal.webp",
-          "dominantColorHex": "#142227",
-          "colorPaletteHex": [
-            "#142227",
-            "#493025",
-            "#4A6066",
-            "#668B8C",
-            "#92BBB2"
-          ]
-        },
-        {
-          "id": "dinosaurs",
-          "title": "Dinosaurs",
-          "url": "/imagination/dinosaurs.webp",
-          "dominantColorHex": "#665F3A",
-          "colorPaletteHex": [
-            "#665F3A",
-            "#2C3F3A",
-            "#779388",
-            "#76B9E4",
-            "#CCD0BC"
-          ]
-        },
-        {
-          "id": "garden",
-          "title": "Garden",
-          "url": "/imagination/garden.webp",
-          "dominantColorHex": "#B0C085",
-          "colorPaletteHex": [
-            "#B0C085",
-            "#6E794C",
-            "#172715",
-            "#354224",
-            "#634832"
-          ]
-        },
-        {
-          "id": "island",
-          "title": "Island",
-          "url": "/imagination/island.webp",
-          "dominantColorHex": "#323B28",
-          "colorPaletteHex": [
-            "#323B28",
-            "#72AEC9",
-            "#4F7C7E",
-            "#D8E1E6",
-            "#B9BBA1"
-          ]
-        },
-        {
-          "id": "library",
-          "title": "Library",
-          "url": "/imagination/library.webp",
-          "dominantColorHex": "#191513",
-          "colorPaletteHex": [
-            "#191513",
-            "#422210",
-            "#593C1D",
-            "#876027",
-            "#CEAE64"
-          ]
-        },
-        {
           "id": "meadow",
           "title": "Meadow",
           "url": "/imagination/meadow.webp",
@@ -5154,7 +5076,7 @@
         {
           "id": "pexels_alexasfotos_7c16",
           "title": "Feathered Potion Bottles",
-          "url": "/Fantasy/pexels_alexasfotos_7c16.webp",
+          "url": "/imagination/pexels_alexasfotos_7c16.webp",
           "dominantColorHex": "#0E060D",
           "colorPaletteHex": [
             "#0E060D",
@@ -5180,7 +5102,7 @@
         {
           "id": "pexels_amar_c7ea",
           "title": "Tiny Sky Planet",
-          "url": "/Fantasy/pexels_amar_c7ea.webp",
+          "url": "/imagination/pexels_amar_c7ea.webp",
           "dominantColorHex": "#22529E",
           "colorPaletteHex": [
             "#22529E",
@@ -5206,7 +5128,7 @@
         {
           "id": "pexels_anas_albadri_e382",
           "title": "Golden Dragon Eye",
-          "url": "/Fantasy/pexels_anas_albadri_e382.webp",
+          "url": "/imagination/pexels_anas_albadri_e382.webp",
           "dominantColorHex": "#000000",
           "colorPaletteHex": [
             "#000000",
@@ -5232,7 +5154,7 @@
         {
           "id": "pexels_anderson_martinsz_946d",
           "title": "Cyber Explorer Mask",
-          "url": "/Fantasy/pexels_anderson_martinsz_946d.webp",
+          "url": "/imagination/pexels_anderson_martinsz_946d.webp",
           "dominantColorHex": "#E5ECEB",
           "colorPaletteHex": [
             "#E5ECEB",
@@ -5258,7 +5180,7 @@
         {
           "id": "pexels_anya_juarez_tenorio_6a5b",
           "title": "Mushroom Forest Friend",
-          "url": "/Fantasy/pexels_anya_juarez_tenorio_6a5b.webp",
+          "url": "/imagination/pexels_anya_juarez_tenorio_6a5b.webp",
           "dominantColorHex": "#030201",
           "colorPaletteHex": [
             "#030201",
@@ -5284,7 +5206,7 @@
         {
           "id": "pexels_artyusufpatel_0b58",
           "title": "Floating Shadow Cube",
-          "url": "/Fantasy/pexels_artyusufpatel_0b58.webp",
+          "url": "/imagination/pexels_artyusufpatel_0b58.webp",
           "dominantColorHex": "#17171C",
           "colorPaletteHex": [
             "#17171C",
@@ -5310,7 +5232,7 @@
         {
           "id": "pexels_aydin_photography_0acc",
           "title": "Storybook Castle Towers",
-          "url": "/Fantasy/pexels_aydin_photography_0acc.webp",
+          "url": "/imagination/pexels_aydin_photography_0acc.webp",
           "dominantColorHex": "#120F0F",
           "colorPaletteHex": [
             "#120F0F",
@@ -5336,7 +5258,7 @@
         {
           "id": "pexels_bakytzhan_baurzhanov_992f",
           "title": "Moonlit Playroom",
-          "url": "/Fantasy/pexels_bakytzhan_baurzhanov_992f.webp",
+          "url": "/imagination/pexels_bakytzhan_baurzhanov_992f.webp",
           "dominantColorHex": "#FEFDFD",
           "colorPaletteHex": [
             "#FEFDFD",
@@ -5362,7 +5284,7 @@
         {
           "id": "pexels_bon_d43a",
           "title": "Wall-Climbing Creatures",
-          "url": "/Fantasy/pexels_bon_d43a.webp",
+          "url": "/imagination/pexels_bon_d43a.webp",
           "dominantColorHex": "#57A0E9",
           "colorPaletteHex": [
             "#57A0E9",
@@ -5388,7 +5310,7 @@
         {
           "id": "pexels_brahim_dogan_a816",
           "title": "Floating Banana Balloon",
-          "url": "/Fantasy/pexels_brahim_dogan_a816.webp",
+          "url": "/imagination/pexels_brahim_dogan_a816.webp",
           "dominantColorHex": "#FFDBCC",
           "colorPaletteHex": [
             "#FFDBCC",
@@ -5414,7 +5336,7 @@
         {
           "id": "pexels_christian_marohn_4a04",
           "title": "Forest Castle",
-          "url": "/Fantasy/pexels_christian_marohn_4a04.webp",
+          "url": "/imagination/pexels_christian_marohn_4a04.webp",
           "dominantColorHex": "#96B8DB",
           "colorPaletteHex": [
             "#96B8DB",
@@ -5440,7 +5362,7 @@
         {
           "id": "pexels_db48",
           "title": "Magic Garden Desk",
-          "url": "/Fantasy/pexels_db48.webp",
+          "url": "/imagination/pexels_db48.webp",
           "dominantColorHex": "#F9C327",
           "colorPaletteHex": [
             "#F9C327",
@@ -5466,7 +5388,7 @@
         {
           "id": "pexels_esteban_santiago_gonzalez_483d",
           "title": "Cozy Reading Chair",
-          "url": "/Fantasy/pexels_esteban_santiago_gonzalez_483d.webp",
+          "url": "/imagination/pexels_esteban_santiago_gonzalez_483d.webp",
           "dominantColorHex": "#8C5839",
           "colorPaletteHex": [
             "#8C5839",
@@ -5492,7 +5414,7 @@
         {
           "id": "pexels_googledeepmind_05e2",
           "title": "Pixel Garden Maze",
-          "url": "/Fantasy/pexels_googledeepmind_05e2.webp",
+          "url": "/imagination/pexels_googledeepmind_05e2.webp",
           "dominantColorHex": "#784733",
           "colorPaletteHex": [
             "#784733",
@@ -5518,7 +5440,7 @@
         {
           "id": "pexels_googledeepmind_0fbf",
           "title": "Purple Pixel Cloud",
-          "url": "/Fantasy/pexels_googledeepmind_0fbf.webp",
+          "url": "/imagination/pexels_googledeepmind_0fbf.webp",
           "dominantColorHex": "#5C2B5B",
           "colorPaletteHex": [
             "#5C2B5B",
@@ -5544,7 +5466,7 @@
         {
           "id": "pexels_googledeepmind_84fe",
           "title": "Crystal Pixel City",
-          "url": "/Fantasy/pexels_googledeepmind_84fe.webp",
+          "url": "/imagination/pexels_googledeepmind_84fe.webp",
           "dominantColorHex": "#BED0DD",
           "colorPaletteHex": [
             "#BED0DD",
@@ -5570,7 +5492,7 @@
         {
           "id": "pexels_googledeepmind_85f8",
           "title": "Candy Game Pieces",
-          "url": "/Fantasy/pexels_googledeepmind_85f8.webp",
+          "url": "/imagination/pexels_googledeepmind_85f8.webp",
           "dominantColorHex": "#EBDED6",
           "colorPaletteHex": [
             "#EBDED6",
@@ -5596,7 +5518,7 @@
         {
           "id": "pexels_googledeepmind_88bb",
           "title": "Floating Garden Network",
-          "url": "/Fantasy/pexels_googledeepmind_88bb.webp",
+          "url": "/imagination/pexels_googledeepmind_88bb.webp",
           "dominantColorHex": "#F2C7D0",
           "colorPaletteHex": [
             "#F2C7D0",
@@ -5622,7 +5544,7 @@
         {
           "id": "pexels_googledeepmind_a894",
           "title": "Floating Stone Island",
-          "url": "/Fantasy/pexels_googledeepmind_a894.webp",
+          "url": "/imagination/pexels_googledeepmind_a894.webp",
           "dominantColorHex": "#E6E2D7",
           "colorPaletteHex": [
             "#E6E2D7",
@@ -5648,7 +5570,7 @@
         {
           "id": "pexels_gypsy_soul_sa_febf",
           "title": "Golden Ring World",
-          "url": "/Fantasy/pexels_gypsy_soul_sa_febf.webp",
+          "url": "/imagination/pexels_gypsy_soul_sa_febf.webp",
           "dominantColorHex": "#B17756",
           "colorPaletteHex": [
             "#B17756",
@@ -5674,7 +5596,7 @@
         {
           "id": "pexels_ian_timothy_6cc8",
           "title": "Sky Propeller",
-          "url": "/Fantasy/pexels_ian_timothy_6cc8.webp",
+          "url": "/imagination/pexels_ian_timothy_6cc8.webp",
           "dominantColorHex": "#0B0C0D",
           "colorPaletteHex": [
             "#0B0C0D",
@@ -5700,7 +5622,7 @@
         {
           "id": "pexels_jj_jordan_16ce",
           "title": "Magic Banana Burst",
-          "url": "/Fantasy/pexels_jj_jordan_16ce.webp",
+          "url": "/imagination/pexels_jj_jordan_16ce.webp",
           "dominantColorHex": "#B7BD4B",
           "colorPaletteHex": [
             "#B7BD4B",
@@ -5726,7 +5648,7 @@
         {
           "id": "pexels_john_logan_42ba",
           "title": "Upside-Down Ice Cream",
-          "url": "/Fantasy/pexels_john_logan_42ba.webp",
+          "url": "/imagination/pexels_john_logan_42ba.webp",
           "dominantColorHex": "#FF4ABC",
           "colorPaletteHex": [
             "#FF4ABC",
@@ -5752,7 +5674,7 @@
         {
           "id": "pexels_joshsorenson_816b",
           "title": "Stormy Sky Eye",
-          "url": "/Fantasy/pexels_joshsorenson_816b.webp",
+          "url": "/imagination/pexels_joshsorenson_816b.webp",
           "dominantColorHex": "#8CBAC7",
           "colorPaletteHex": [
             "#8CBAC7",
@@ -5778,7 +5700,7 @@
         {
           "id": "pexels_kindelmedia_ea25",
           "title": "Strawberry Cone Bouquet",
-          "url": "/Fantasy/pexels_kindelmedia_ea25.webp",
+          "url": "/imagination/pexels_kindelmedia_ea25.webp",
           "dominantColorHex": "#FFF305",
           "colorPaletteHex": [
             "#FFF305",
@@ -5804,7 +5726,7 @@
         {
           "id": "pexels_leo_gilmant_1bc2",
           "title": "Golden Galaxy Eye",
-          "url": "/Fantasy/pexels_leo_gilmant_1bc2.webp",
+          "url": "/imagination/pexels_leo_gilmant_1bc2.webp",
           "dominantColorHex": "#000000",
           "colorPaletteHex": [
             "#000000",
@@ -5830,7 +5752,7 @@
         {
           "id": "pexels_liam_gant_f2c2",
           "title": "Sky Courtyard Portal",
-          "url": "/Fantasy/pexels_liam_gant_f2c2.webp",
+          "url": "/imagination/pexels_liam_gant_f2c2.webp",
           "dominantColorHex": "#D9E4EA",
           "colorPaletteHex": [
             "#D9E4EA",
@@ -5856,7 +5778,7 @@
         {
           "id": "pexels_lucky_ae23",
           "title": "Space-Age Roof",
-          "url": "/Fantasy/pexels_lucky_ae23.webp",
+          "url": "/imagination/pexels_lucky_ae23.webp",
           "dominantColorHex": "#201818",
           "colorPaletteHex": [
             "#201818",
@@ -5882,7 +5804,7 @@
         {
           "id": "pexels_nicosiegl_e487",
           "title": "Glass Dome Portal",
-          "url": "/Fantasy/pexels_nicosiegl_e487.webp",
+          "url": "/imagination/pexels_nicosiegl_e487.webp",
           "dominantColorHex": "#0D0603",
           "colorPaletteHex": [
             "#0D0603",
@@ -5908,7 +5830,7 @@
         {
           "id": "pexels_phototribbiani_e8fa",
           "title": "Painted Creature Map",
-          "url": "/Fantasy/pexels_phototribbiani_e8fa.webp",
+          "url": "/imagination/pexels_phototribbiani_e8fa.webp",
           "dominantColorHex": "#E7ECE9",
           "colorPaletteHex": [
             "#E7ECE9",
@@ -5934,7 +5856,7 @@
         {
           "id": "pexels_pu_ca_adryan_b3b7",
           "title": "Flower Field Piano",
-          "url": "/Fantasy/pexels_pu_ca_adryan_b3b7.webp",
+          "url": "/imagination/pexels_pu_ca_adryan_b3b7.webp",
           "dominantColorHex": "#282E3D",
           "colorPaletteHex": [
             "#282E3D",
@@ -5960,7 +5882,7 @@
         {
           "id": "pexels_pu_ca_adryan_ea98",
           "title": "Forest Armchair",
-          "url": "/Fantasy/pexels_pu_ca_adryan_ea98.webp",
+          "url": "/imagination/pexels_pu_ca_adryan_ea98.webp",
           "dominantColorHex": "#151009",
           "colorPaletteHex": [
             "#151009",
@@ -5986,7 +5908,7 @@
         {
           "id": "pexels_rostislav_e120",
           "title": "Crimson Block Maze",
-          "url": "/Fantasy/pexels_rostislav_e120.webp",
+          "url": "/imagination/pexels_rostislav_e120.webp",
           "dominantColorHex": "#1A0D17",
           "colorPaletteHex": [
             "#1A0D17",
@@ -6012,7 +5934,7 @@
         {
           "id": "pexels_rpphotos_f7eb",
           "title": "Garden Mushroom Fairy",
-          "url": "/Fantasy/pexels_rpphotos_f7eb.webp",
+          "url": "/imagination/pexels_rpphotos_f7eb.webp",
           "dominantColorHex": "#6F9C2A",
           "colorPaletteHex": [
             "#6F9C2A",
@@ -6038,7 +5960,7 @@
         {
           "id": "pexels_samir_zeka_4441",
           "title": "Moonlit Playground Rider",
-          "url": "/Fantasy/pexels_samir_zeka_4441.webp",
+          "url": "/imagination/pexels_samir_zeka_4441.webp",
           "dominantColorHex": "#080808",
           "colorPaletteHex": [
             "#080808",
@@ -6064,7 +5986,7 @@
         {
           "id": "pexels_samsilitongajr_802e",
           "title": "Tree View Perch",
-          "url": "/Fantasy/pexels_samsilitongajr_802e.webp",
+          "url": "/imagination/pexels_samsilitongajr_802e.webp",
           "dominantColorHex": "#8C9A3E",
           "colorPaletteHex": [
             "#8C9A3E",
@@ -6090,7 +6012,7 @@
         {
           "id": "pexels_souvenirpixels_5d89",
           "title": "Glowing Carousel Horse",
-          "url": "/Fantasy/pexels_souvenirpixels_5d89.webp",
+          "url": "/imagination/pexels_souvenirpixels_5d89.webp",
           "dominantColorHex": "#010621",
           "colorPaletteHex": [
             "#010621",
@@ -6116,7 +6038,7 @@
         {
           "id": "pexels_steve_0cc4",
           "title": "Golden Orb Path",
-          "url": "/Fantasy/pexels_steve_0cc4.webp",
+          "url": "/imagination/pexels_steve_0cc4.webp",
           "dominantColorHex": "#000000",
           "colorPaletteHex": [
             "#000000",
@@ -7798,6 +7720,1332 @@
               "Venus is one of the hottest planets in the solar system.",
               "Its thick clouds are made mostly of carbon dioxide with acid clouds high above.",
               "Venus spins very slowly compared with Earth."
+            ]
+          }
+        },
+        {
+          "id": "adisresic_jupiter_7387",
+          "title": "Jupiter Cloud Bands",
+          "url": "/space/adisresic_jupiter_7387.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#A7978A",
+            "#010000",
+            "#2B2520",
+            "#000001"
+          ],
+          "fact": {
+            "title": "Jupiter Cloud Bands",
+            "fact": "Jupiter is a huge gas giant with wide bands of clouds wrapped around the planet.",
+            "foodTitle": "What It Is",
+            "food": "It is the largest planet in our solar system and is made mostly of hydrogen and helium.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Jupiter is the fifth planet from the Sun.",
+            "learningPoints": [
+              "Jupiter has colorful cloud belts that move in different directions.",
+              "The Great Red Spot is a giant storm on Jupiter.",
+              "Jupiter has many moons orbiting around it."
+            ]
+          }
+        },
+        {
+          "id": "alexander_andrews_30k_hy_w7tsb8_unsplash_6f67",
+          "title": "Spiral Galaxy Glow",
+          "url": "/space/alexander_andrews_30k_hy_w7tsb8_unsplash_6f67.webp",
+          "dominantColorHex": "#09080B",
+          "colorPaletteHex": [
+            "#09080B",
+            "#070508",
+            "#060307",
+            "#020203",
+            "#201E1D"
+          ],
+          "fact": {
+            "title": "Spiral Galaxy Glow",
+            "fact": "A spiral galaxy contains billions of stars arranged in a flattened disk with glowing arms.",
+            "foodTitle": "What It Is",
+            "food": "It is a vast collection of stars, gas, dust, and dark matter held together by gravity.",
+            "strongholdTitle": "Where It Is Found",
+            "stronghold": "Spiral galaxies are found throughout the universe, far beyond our solar system.",
+            "learningPoints": [
+              "The bright center is called the galactic core.",
+              "Dust lanes can make dark streaks across the glowing disk.",
+              "Our Milky Way is also a spiral galaxy."
+            ]
+          }
+        },
+        {
+          "id": "asteroids_55d6",
+          "title": "Asteroid Field",
+          "url": "/space/asteroids_55d6.webp",
+          "dominantColorHex": "#0D1317",
+          "colorPaletteHex": [
+            "#0D1317",
+            "#000204",
+            "#010509",
+            "#484340",
+            "#080809"
+          ],
+          "fact": {
+            "title": "Asteroid Field",
+            "fact": "Asteroids are rocky objects that travel around the Sun, and some gather in large groups.",
+            "foodTitle": "What It Is",
+            "food": "They are leftover pieces of rock and metal from the early solar system.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Many asteroids orbit in the asteroid belt between Mars and Jupiter.",
+            "learningPoints": [
+              "Asteroids come in many shapes and sizes.",
+              "Most asteroids are much smaller than planets.",
+              "Scientists study asteroids to learn how the solar system formed."
+            ]
+          }
+        },
+        {
+          "id": "chat_gpt_aug_at_pm_4dae",
+          "title": "Blue Ice Giant Planet",
+          "url": "/space/chat_gpt_aug_at_pm_4dae.webp",
+          "dominantColorHex": "#010104",
+          "colorPaletteHex": [
+            "#010104",
+            "#02082A",
+            "#1E65F6",
+            "#0B2C88",
+            "#56B0FE"
+          ],
+          "fact": {
+            "title": "Blue Ice Giant Planet",
+            "fact": "This blue world resembles an icy giant planet with a deep blue atmosphere and bright rim light.",
+            "foodTitle": "What It Is",
+            "food": "Ice giant planets are large worlds with thick atmospheres and icy materials deep inside.",
+            "strongholdTitle": "Where It Is Found",
+            "stronghold": "Ice giants like Uranus and Neptune are found in the outer solar system.",
+            "learningPoints": [
+              "Methane gas can help give some planets a blue color.",
+              "Outer planets are much farther from the Sun than Earth.",
+              "Cloud bands and storms can move through giant planet atmospheres."
+            ]
+          }
+        },
+        {
+          "id": "chat_gpt_aug_at_pm_57fe",
+          "title": "Jupiter Sunrise",
+          "url": "/space/chat_gpt_aug_at_pm_57fe.webp",
+          "dominantColorHex": "#0A0B10",
+          "colorPaletteHex": [
+            "#0A0B10",
+            "#E5C898",
+            "#916844",
+            "#4F3220",
+            "#242123"
+          ],
+          "fact": {
+            "title": "Jupiter Sunrise",
+            "fact": "Jupiter shows bright cloud belts, swirling storms, and a glowing edge where sunlight reaches the planet.",
+            "foodTitle": "What It Is",
+            "food": "It is a gas giant with no solid surface like Earth.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Jupiter orbits the Sun between Mars and Saturn.",
+            "learningPoints": [
+              "Jupiter spins very quickly for such a large planet.",
+              "Its cloud bands are made by strong winds.",
+              "The Great Red Spot is a storm larger than Earth."
+            ]
+          }
+        },
+        {
+          "id": "chat_gpt_aug_at_pm_5e66",
+          "title": "Ringed Saturn",
+          "url": "/space/chat_gpt_aug_at_pm_5e66.webp",
+          "dominantColorHex": "#040202",
+          "colorPaletteHex": [
+            "#040202",
+            "#150C07",
+            "#51381E",
+            "#B58244",
+            "#F8D175"
+          ],
+          "fact": {
+            "title": "Ringed Saturn",
+            "fact": "Saturn is famous for its wide rings, which are made of countless icy and rocky pieces.",
+            "foodTitle": "What It Is",
+            "food": "It is a gas giant planet with pale cloud bands and a bright ring system.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Saturn is the sixth planet from the Sun.",
+            "learningPoints": [
+              "Saturn's rings are very wide but surprisingly thin.",
+              "Saturn has many moons, including Titan.",
+              "Like Jupiter, Saturn is made mostly of hydrogen and helium."
+            ]
+          }
+        },
+        {
+          "id": "chat_gpt_aug_at_pm_6a6c",
+          "title": "Uranus Ring Glow",
+          "url": "/space/chat_gpt_aug_at_pm_6a6c.webp",
+          "dominantColorHex": "#0B1822",
+          "colorPaletteHex": [
+            "#0B1822",
+            "#7FBAC8",
+            "#020406",
+            "#000000",
+            "#010102"
+          ],
+          "fact": {
+            "title": "Uranus Ring Glow",
+            "fact": "Uranus is a blue-green icy giant with faint rings and an unusual sideways tilt.",
+            "foodTitle": "What It Is",
+            "food": "It is a cold outer planet with a thick atmosphere and icy materials inside.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Uranus is the seventh planet from the Sun.",
+            "learningPoints": [
+              "Uranus rotates tipped far over on its side.",
+              "Its blue-green color comes partly from methane gas.",
+              "Uranus has faint rings and many moons."
+            ]
+          }
+        },
+        {
+          "id": "chat_gpt_aug_at_pm_71d0",
+          "title": "Cratered Mercury",
+          "url": "/space/chat_gpt_aug_at_pm_71d0.webp",
+          "dominantColorHex": "#030304",
+          "colorPaletteHex": [
+            "#030304",
+            "#1E1614",
+            "#4E3F3A",
+            "#856B5E",
+            "#CFAB88"
+          ],
+          "fact": {
+            "title": "Cratered Mercury",
+            "fact": "Mercury has a rocky surface covered with craters from many impacts over time.",
+            "foodTitle": "What It Is",
+            "food": "It is the smallest planet in our solar system and has almost no atmosphere.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Mercury is the closest planet to the Sun.",
+            "learningPoints": [
+              "Mercury has very hot days and very cold nights.",
+              "Its surface looks somewhat like Earth's Moon.",
+              "A year on Mercury is much shorter than a year on Earth."
+            ]
+          }
+        },
+        {
+          "id": "chat_gpt_aug_at_pm_b01d",
+          "title": "Rusty Mars",
+          "url": "/space/chat_gpt_aug_at_pm_b01d.webp",
+          "dominantColorHex": "#EF7939",
+          "colorPaletteHex": [
+            "#EF7939",
+            "#030304",
+            "#792E1A",
+            "#0C0A0C",
+            "#22110F"
+          ],
+          "fact": {
+            "title": "Rusty Mars",
+            "fact": "Mars looks reddish because iron-rich dust and rock cover much of its surface.",
+            "foodTitle": "What It Is",
+            "food": "It is a cold rocky planet with volcanoes, canyons, craters, and polar ice caps.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Mars is the fourth planet from the Sun.",
+            "learningPoints": [
+              "Mars has two small moons named Phobos and Deimos.",
+              "Scientists study Mars for signs of ancient water.",
+              "Mars is often called the Red Planet."
+            ]
+          }
+        },
+        {
+          "id": "chat_gpt_aug_at_pm_c86e",
+          "title": "Golden Venus",
+          "url": "/space/chat_gpt_aug_at_pm_c86e.webp",
+          "dominantColorHex": "#010102",
+          "colorPaletteHex": [
+            "#010102",
+            "#F8C342",
+            "#2B1203",
+            "#7F4209",
+            "#0F0705"
+          ],
+          "fact": {
+            "title": "Golden Venus",
+            "fact": "Venus is covered in thick clouds that reflect sunlight and hide its rocky surface.",
+            "foodTitle": "What It Is",
+            "food": "It is a rocky planet with a very dense atmosphere and extreme surface heat.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Venus is the second planet from the Sun.",
+            "learningPoints": [
+              "Venus is similar in size to Earth.",
+              "Its clouds trap heat, making Venus very hot.",
+              "Venus rotates very slowly compared with Earth."
+            ]
+          }
+        },
+        {
+          "id": "chat_gpt_aug_at_pm_cc23",
+          "title": "Solar System Orbits",
+          "url": "/space/chat_gpt_aug_at_pm_cc23.webp",
+          "dominantColorHex": "#3A2943",
+          "colorPaletteHex": [
+            "#3A2943",
+            "#0C0D29",
+            "#020722",
+            "#BF884B",
+            "#2A1028"
+          ],
+          "fact": {
+            "title": "Solar System Orbits",
+            "fact": "The solar system includes the Sun, planets, moons, asteroids, comets, and other objects that orbit the Sun.",
+            "foodTitle": "What It Is",
+            "food": "It is our local family of worlds held together by the Sun's gravity.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Our solar system is inside the Milky Way galaxy.",
+            "learningPoints": [
+              "Planets follow curved paths called orbits.",
+              "The Sun contains most of the mass in the solar system.",
+              "The inner planets are rocky, while the outer planets are much larger."
+            ]
+          }
+        },
+        {
+          "id": "chat_gpt_aug_at_pm_fe79",
+          "title": "Rocky Asteroid",
+          "url": "/space/chat_gpt_aug_at_pm_fe79.webp",
+          "dominantColorHex": "#080C11",
+          "colorPaletteHex": [
+            "#080C11",
+            "#020407",
+            "#161A1F",
+            "#323336",
+            "#82776D"
+          ],
+          "fact": {
+            "title": "Rocky Asteroid",
+            "fact": "A rocky asteroid can have an uneven surface shaped by impacts, cracks, and dust.",
+            "foodTitle": "What It Is",
+            "food": "Asteroids are small solar system bodies made mostly of rock, metal, or both.",
+            "strongholdTitle": "Where It Is Found",
+            "stronghold": "Many asteroids orbit between Mars and Jupiter, while others travel on different paths around the Sun.",
+            "learningPoints": [
+              "Asteroids are not round like most planets.",
+              "Impacts can leave pits and craters on their surfaces.",
+              "Some spacecraft have visited asteroids to study them up close."
+            ]
+          }
+        },
+        {
+          "id": "earth_6ded",
+          "title": "Earth from Space",
+          "url": "/space/earth_6ded.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#0B1A2B",
+            "#6D828D",
+            "#000105",
+            "#000100"
+          ],
+          "fact": {
+            "title": "Earth from Space",
+            "fact": "Earth looks blue and white from space because of oceans, clouds, ice, and atmosphere.",
+            "foodTitle": "What It Is",
+            "food": "It is a rocky planet with liquid water on the surface and life all around it.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Earth is the third planet from the Sun.",
+            "learningPoints": [
+              "About 70 percent of Earth's surface is covered by water.",
+              "Earth has one natural moon.",
+              "The atmosphere helps protect living things."
+            ]
+          }
+        },
+        {
+          "id": "geralt_sun_41b0",
+          "title": "Glowing Sun",
+          "url": "/space/geralt_sun_41b0.webp",
+          "dominantColorHex": "#5F1A1D",
+          "colorPaletteHex": [
+            "#5F1A1D",
+            "#C11915",
+            "#975139",
+            "#CA9033",
+            "#F1D631"
+          ],
+          "fact": {
+            "title": "Glowing Sun",
+            "fact": "The Sun is a star that gives Earth light and warmth.",
+            "foodTitle": "What It Is",
+            "food": "It is a huge glowing ball of hot gas, mostly hydrogen and helium.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "The Sun sits at the center of our solar system.",
+            "learningPoints": [
+              "Sunlight helps plants make food.",
+              "The Sun is much wider than Earth.",
+              "Solar storms can send charged particles into space."
+            ]
+          }
+        },
+        {
+          "id": "guillermo_ferla_oze6u2m1o_yu_unsplash_cdba",
+          "title": "Andromeda Star Cloud",
+          "url": "/space/guillermo_ferla_oze6u2m1o_yu_unsplash_cdba.webp",
+          "dominantColorHex": "#020302",
+          "colorPaletteHex": [
+            "#020302",
+            "#070A07",
+            "#151C17",
+            "#364238",
+            "#788472"
+          ],
+          "fact": {
+            "title": "Andromeda Star Cloud",
+            "fact": "The Andromeda Galaxy is a large spiral galaxy and one of the Milky Way's closest big neighbors.",
+            "foodTitle": "What It Is",
+            "food": "It is a huge system of stars, gas, and dust held together by gravity.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Andromeda lies about 2.5 million light-years from Earth.",
+            "learningPoints": [
+              "Andromeda can appear as a faint smudge in very dark skies.",
+              "It contains hundreds of billions of stars.",
+              "Astronomers use galaxies to learn about the history of the universe."
+            ]
+          }
+        },
+        {
+          "id": "jupiter_f669",
+          "title": "Jupiter Portrait",
+          "url": "/space/jupiter_f669.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#C9996B",
+            "#301D0D",
+            "#030101",
+            "#000101"
+          ],
+          "fact": {
+            "title": "Jupiter Portrait",
+            "fact": "Jupiter's colorful bands are cloud layers shaped by fast winds and storms.",
+            "foodTitle": "What It Is",
+            "food": "It is the largest planet and a gas giant without a solid surface like Earth.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Jupiter is the fifth planet from the Sun.",
+            "learningPoints": [
+              "Jupiter is more massive than all the other planets combined.",
+              "The Great Red Spot has lasted for a very long time.",
+              "Jupiter's strong gravity affects many nearby objects."
+            ]
+          }
+        },
+        {
+          "id": "mars_5032",
+          "title": "Mars Surface World",
+          "url": "/space/mars_5032.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#DB6415",
+            "#000001",
+            "#210C04",
+            "#080000"
+          ],
+          "fact": {
+            "title": "Mars Surface World",
+            "fact": "Mars is a rocky planet with dusty red-orange landscapes and giant landforms.",
+            "foodTitle": "What It Is",
+            "food": "It has volcanoes, canyons, craters, and frozen water near its poles.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Mars is the fourth planet from the Sun.",
+            "learningPoints": [
+              "Mars has seasons because its axis is tilted.",
+              "Robotic rovers have explored the Martian surface.",
+              "Ancient Mars may have had rivers or lakes."
+            ]
+          }
+        },
+        {
+          "id": "mercury_a888",
+          "title": "Mercury Crater World",
+          "url": "/space/mercury_a888.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#9F8A77",
+            "#010001",
+            "#16120F",
+            "#000001"
+          ],
+          "fact": {
+            "title": "Mercury Crater World",
+            "fact": "Mercury is covered with craters because it has little atmosphere to slow incoming space rocks.",
+            "foodTitle": "What It Is",
+            "food": "It is a small rocky planet with a hard, gray surface.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Mercury orbits closest to the Sun.",
+            "learningPoints": [
+              "Mercury has no rings and no moons.",
+              "Its surface has cliffs, plains, and impact basins.",
+              "Mercury moves around the Sun faster than any other planet."
+            ]
+          }
+        },
+        {
+          "id": "mingwei_lim_fwp9yrg_w658_unsplash_322a",
+          "title": "Black Hole Disk",
+          "url": "/space/mingwei_lim_fwp9yrg_w658_unsplash_322a.webp",
+          "dominantColorHex": "#00070B",
+          "colorPaletteHex": [
+            "#00070B",
+            "#0D0D0F",
+            "#31201F",
+            "#AE4D26",
+            "#F3C062"
+          ],
+          "fact": {
+            "title": "Black Hole Disk",
+            "fact": "A black hole can pull nearby material into a fast-spinning disk that glows brightly before falling inward.",
+            "foodTitle": "What It Is",
+            "food": "A black hole is an object with gravity so strong that not even light can escape from inside it.",
+            "strongholdTitle": "Where It Is Found",
+            "stronghold": "Black holes can form from collapsed massive stars and can also exist at the centers of galaxies.",
+            "learningPoints": [
+              "The bright disk is called an accretion disk.",
+              "Black holes are studied by the light and motion around them.",
+              "Gravity near a black hole can bend light."
+            ]
+          }
+        },
+        {
+          "id": "nasa_hubble_space_telescope_0gbu7iba_ar_unsplash_6305",
+          "title": "Soft Blue Planet View",
+          "url": "/space/nasa_hubble_space_telescope_0gbu7iba_ar_unsplash_6305.webp",
+          "dominantColorHex": "#020202",
+          "colorPaletteHex": [
+            "#020202",
+            "#557D87",
+            "#020204",
+            "#010102",
+            "#020201"
+          ],
+          "fact": {
+            "title": "Soft Blue Planet View",
+            "fact": "This image shows a distant blue planet-like world with soft colors against dark space.",
+            "foodTitle": "What It Is",
+            "food": "Blue planets can get their color from oceans, clouds, or gases in their atmospheres.",
+            "strongholdTitle": "Where It Is Found",
+            "stronghold": "Planetary worlds are found orbiting stars in our solar system and far beyond it.",
+            "learningPoints": [
+              "Atmospheres can scatter and absorb light in different ways.",
+              "Distant planets often appear as small disks through telescopes.",
+              "Color can help scientists learn about a planet's atmosphere."
+            ]
+          }
+        },
+        {
+          "id": "nasa_hubble_space_telescope_aw2ls_hw_xyy_unsplash_4f99",
+          "title": "Hubble Jupiter View",
+          "url": "/space/nasa_hubble_space_telescope_aw2ls_hw_xyy_unsplash_4f99.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#DAC7A5",
+            "#907455",
+            "#1C1614",
+            "#010000"
+          ],
+          "fact": {
+            "title": "Hubble Jupiter View",
+            "fact": "Jupiter's striped clouds and oval storms make it one of the most recognizable planets.",
+            "foodTitle": "What It Is",
+            "food": "It is a gas giant with powerful winds, deep cloud layers, and many moons.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Jupiter orbits beyond Mars in the outer part of the solar system.",
+            "learningPoints": [
+              "The Great Red Spot is visible as a large oval storm.",
+              "Different cloud colors mark different materials and heights.",
+              "Telescopes help track changes in Jupiter's weather."
+            ]
+          }
+        },
+        {
+          "id": "nasa_hubble_space_telescope_gyxz70o_xgz_unsplash_2256",
+          "title": "Space Rock Fragment",
+          "url": "/space/nasa_hubble_space_telescope_gyxz70o_xgz_unsplash_2256.webp",
+          "dominantColorHex": "#050505",
+          "colorPaletteHex": [
+            "#050505",
+            "#030202",
+            "#2A2B28",
+            "#010101",
+            "#010202"
+          ],
+          "fact": {
+            "title": "Space Rock Fragment",
+            "fact": "A space rock fragment can be an asteroid, meteoroid, or broken piece from a larger object.",
+            "foodTitle": "What It Is",
+            "food": "It is a small rocky body traveling through space.",
+            "strongholdTitle": "Where It Is Found",
+            "stronghold": "Rocky fragments are found throughout the solar system, especially near asteroid groups and comet trails.",
+            "learningPoints": [
+              "Small space rocks can have jagged, irregular shapes.",
+              "Some fragments are pieces broken off during collisions.",
+              "If a meteoroid reaches the ground, it is called a meteorite."
+            ]
+          }
+        },
+        {
+          "id": "nasa_hubble_space_telescope_gzmgonv_pc_unsplash_30a9",
+          "title": "Mars Telescope View",
+          "url": "/space/nasa_hubble_space_telescope_gzmgonv_pc_unsplash_30a9.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#AE845E",
+            "#744F4C",
+            "#000002",
+            "#010000"
+          ],
+          "fact": {
+            "title": "Mars Telescope View",
+            "fact": "Mars shows reddish land, darker surface markings, and sometimes pale clouds or ice caps.",
+            "foodTitle": "What It Is",
+            "food": "It is a rocky planet with a thin atmosphere and cold desert-like conditions.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Mars is the fourth planet from the Sun.",
+            "learningPoints": [
+              "Dust storms can sometimes spread across much of Mars.",
+              "Mars has polar caps made of frozen carbon dioxide and water ice.",
+              "Its day is only a little longer than an Earth day."
+            ]
+          }
+        },
+        {
+          "id": "nasa_hubble_space_telescope_ma_gk_9eb_y0u_unsplash_1b35",
+          "title": "Mars Polar Cap",
+          "url": "/space/nasa_hubble_space_telescope_ma_gk_9eb_y0u_unsplash_1b35.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#ECAB75",
+            "#8D704D",
+            "#010000",
+            "#000001"
+          ],
+          "fact": {
+            "title": "Mars Polar Cap",
+            "fact": "Mars has bright polar caps that grow and shrink with the planet's seasons.",
+            "foodTitle": "What It Is",
+            "food": "It is a rocky planet with ice, dust, craters, and ancient volcanic regions.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Mars orbits between Earth and Jupiter.",
+            "learningPoints": [
+              "The polar caps contain water ice and frozen carbon dioxide.",
+              "Mars has the largest volcano known in the solar system.",
+              "Its reddish color comes from iron-rich dust."
+            ]
+          }
+        },
+        {
+          "id": "nasa_hubble_space_telescope_u5s9w3c2cz0_unsplash_5399",
+          "title": "Jupiter Great Red Spot",
+          "url": "/space/nasa_hubble_space_telescope_u5s9w3c2cz0_unsplash_5399.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#D0CBB2",
+            "#6F6759",
+            "#010000",
+            "#000001"
+          ],
+          "fact": {
+            "title": "Jupiter Great Red Spot",
+            "fact": "The Great Red Spot is a giant storm in Jupiter's atmosphere that has been observed for centuries.",
+            "foodTitle": "What It Is",
+            "food": "Jupiter is a gas giant with fast winds and colorful cloud bands.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Jupiter is the fifth planet from the Sun.",
+            "learningPoints": [
+              "The Great Red Spot is larger than Earth.",
+              "Jupiter's clouds form belts and zones.",
+              "Storms on Jupiter can last much longer than storms on Earth."
+            ]
+          }
+        },
+        {
+          "id": "nasa_hubble_space_telescope_x3b7f_jb_oy_unsplash_dff7",
+          "title": "Tilted Jupiter View",
+          "url": "/space/nasa_hubble_space_telescope_x3b7f_jb_oy_unsplash_dff7.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#E8D8B1",
+            "#71644F",
+            "#010000",
+            "#000001"
+          ],
+          "fact": {
+            "title": "Tilted Jupiter View",
+            "fact": "Jupiter's cloud bands circle the planet and can look different as the planet rotates.",
+            "foodTitle": "What It Is",
+            "food": "It is a giant planet made mostly of hydrogen and helium gas.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Jupiter travels around the Sun outside the asteroid belt.",
+            "learningPoints": [
+              "Jupiter has a very strong magnetic field.",
+              "The planet rotates in less than ten Earth hours.",
+              "Its many moons include the large moon Ganymede."
+            ]
+          }
+        },
+        {
+          "id": "nasa_hubble_space_telescope_znwrcsp_f71w_unsplash_63ac",
+          "title": "Comet with Tail",
+          "url": "/space/nasa_hubble_space_telescope_znwrcsp_f71w_unsplash_63ac.webp",
+          "dominantColorHex": "#040705",
+          "colorPaletteHex": [
+            "#040705",
+            "#030604",
+            "#030404",
+            "#020602",
+            "#131917"
+          ],
+          "fact": {
+            "title": "Comet with Tail",
+            "fact": "A comet can grow a glowing tail when sunlight warms its icy surface and releases gas and dust.",
+            "foodTitle": "What It Is",
+            "food": "Comets are icy bodies mixed with dust and rocky material.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Many comets come from cold outer regions of the solar system.",
+            "learningPoints": [
+              "A comet tail usually points away from the Sun.",
+              "Comets can follow long oval-shaped orbits.",
+              "Some comet tails stretch for millions of kilometers."
+            ]
+          }
+        },
+        {
+          "id": "nasa_tzw4f02z_y8_unsplash_f0c1",
+          "title": "Blue Bubble Nebula",
+          "url": "/space/nasa_tzw4f02z_y8_unsplash_f0c1.webp",
+          "dominantColorHex": "#2F414D",
+          "colorPaletteHex": [
+            "#2F414D",
+            "#201628",
+            "#3A2332",
+            "#488186",
+            "#2B192A"
+          ],
+          "fact": {
+            "title": "Blue Bubble Nebula",
+            "fact": "A nebula is a cloud of gas and dust in space, often glowing because of nearby stars.",
+            "foodTitle": "What It Is",
+            "food": "Nebulae can be places where stars are born or shells of material around older stars.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Nebulae are found between stars inside galaxies.",
+            "learningPoints": [
+              "Gas in nebulae can glow in different colors.",
+              "Some nebula shapes are carved by stellar winds.",
+              "New stars can form inside dense clouds of gas and dust."
+            ]
+          }
+        },
+        {
+          "id": "nasa_yj1m5ri_ckk_unsplash_ebaa",
+          "title": "Space Station Orbit",
+          "url": "/space/nasa_yj1m5ri_ckk_unsplash_ebaa.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#A4BBCE",
+            "#6A92AE",
+            "#010003",
+            "#000002"
+          ],
+          "fact": {
+            "title": "Space Station Orbit",
+            "fact": "A space station can orbit Earth while astronauts live and work inside it.",
+            "foodTitle": "What It Is",
+            "food": "It is a human-made laboratory in space used for science, engineering, and observation.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Space stations orbit above Earth in low Earth orbit.",
+            "learningPoints": [
+              "Objects in orbit are constantly falling around Earth.",
+              "Astronauts on a space station experience microgravity.",
+              "Solar panels help provide electricity in space."
+            ]
+          }
+        },
+        {
+          "id": "neptune_03b8",
+          "title": "Neptune Blue World",
+          "url": "/space/neptune_03b8.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#306EDB",
+            "#000003",
+            "#030B22",
+            "#010000"
+          ],
+          "fact": {
+            "title": "Neptune Blue World",
+            "fact": "Neptune is a deep blue icy giant with powerful winds and storm systems.",
+            "foodTitle": "What It Is",
+            "food": "It is a cold outer planet with a thick atmosphere made mostly of hydrogen, helium, and methane.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Neptune is the eighth planet from the Sun.",
+            "learningPoints": [
+              "Neptune is very far from the Sun.",
+              "Its winds can be extremely fast.",
+              "Methane helps give Neptune its blue color."
+            ]
+          }
+        },
+        {
+          "id": "pexels_2139",
+          "title": "Earth Blue Marble",
+          "url": "/space/pexels_2139.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#B8B7BB",
+            "#3E446C",
+            "#070924",
+            "#000100"
+          ],
+          "fact": {
+            "title": "Earth Blue Marble",
+            "fact": "Earth is the only known planet with life and liquid water spread across its surface.",
+            "foodTitle": "What It Is",
+            "food": "It is a rocky planet with oceans, land, clouds, and a protective atmosphere.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Earth is the third planet from the Sun.",
+            "learningPoints": [
+              "Earth's atmosphere contains oxygen that many living things need.",
+              "Clouds are made of tiny water droplets or ice crystals.",
+              "Earth's rotation gives us day and night."
+            ]
+          }
+        },
+        {
+          "id": "pexels_adrian_monserrat_43f0",
+          "title": "Face-On Spiral Galaxy",
+          "url": "/space/pexels_adrian_monserrat_43f0.webp",
+          "dominantColorHex": "#0A0A0A",
+          "colorPaletteHex": [
+            "#0A0A0A",
+            "#0D0C0C",
+            "#141314",
+            "#3C3B40",
+            "#08070A"
+          ],
+          "fact": {
+            "title": "Face-On Spiral Galaxy",
+            "fact": "A face-on spiral galaxy shows arms curling around a bright center like a cosmic pinwheel.",
+            "foodTitle": "What It Is",
+            "food": "It is a large system of stars, gas, and dust arranged by gravity.",
+            "strongholdTitle": "Where It Is Found",
+            "stronghold": "Spiral galaxies are found across the universe.",
+            "learningPoints": [
+              "The arms often contain young stars and glowing gas.",
+              "Dust can trace dark lines through the galaxy.",
+              "Galaxies can contain billions or trillions of stars."
+            ]
+          }
+        },
+        {
+          "id": "pexels_amazingrenders_d640",
+          "title": "Icy Moon World",
+          "url": "/space/pexels_amazingrenders_d640.webp",
+          "dominantColorHex": "#9AAEBA",
+          "colorPaletteHex": [
+            "#9AAEBA",
+            "#333A41",
+            "#05060A",
+            "#010104",
+            "#000003"
+          ],
+          "fact": {
+            "title": "Icy Moon World",
+            "fact": "This pale world looks like an icy moon or cold rocky planet with a bright edge against space.",
+            "foodTitle": "What It Is",
+            "food": "Icy moons can have frozen surfaces made of water ice and other materials.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Many icy moons orbit giant planets in the outer solar system.",
+            "learningPoints": [
+              "Icy surfaces can reflect a lot of sunlight.",
+              "Some icy moons may have oceans beneath their crusts.",
+              "Craters can mark where objects have struck the surface."
+            ]
+          }
+        },
+        {
+          "id": "pexels_brunoscramgnon_59b5",
+          "title": "Half Moon",
+          "url": "/space/pexels_brunoscramgnon_59b5.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#F5F5F5",
+            "#656565",
+            "#B4B4B4",
+            "#111111"
+          ],
+          "fact": {
+            "title": "Half Moon",
+            "fact": "The Moon changes shape in our sky because we see different sunlit parts as it orbits Earth.",
+            "foodTitle": "What It Is",
+            "food": "It is Earth's natural satellite, a rocky world with craters, plains, and mountains.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "The Moon orbits Earth.",
+            "learningPoints": [
+              "A half moon is also called a quarter phase.",
+              "The Moon has no air like Earth's atmosphere.",
+              "Its gravity helps create ocean tides on Earth."
+            ]
+          }
+        },
+        {
+          "id": "pexels_dennisariel_807c",
+          "title": "Glowing Orange Star",
+          "url": "/space/pexels_dennisariel_807c.webp",
+          "dominantColorHex": "#0D5A6F",
+          "colorPaletteHex": [
+            "#0D5A6F",
+            "#012835",
+            "#E27A26",
+            "#578B96",
+            "#ED975A"
+          ],
+          "fact": {
+            "title": "Glowing Orange Star",
+            "fact": "Stars shine because nuclear fusion in their cores releases enormous amounts of energy.",
+            "foodTitle": "What It Is",
+            "food": "A star is a hot glowing sphere of gas, mostly hydrogen and helium.",
+            "strongholdTitle": "Where Stars Are Found",
+            "stronghold": "Stars are found throughout galaxies, including the Milky Way.",
+            "learningPoints": [
+              "Stars can appear different colors depending on temperature.",
+              "Our Sun is the closest star to Earth.",
+              "A star's light can travel across space for many years."
+            ]
+          }
+        },
+        {
+          "id": "pexels_dennisariel_8dd5",
+          "title": "Bright Star Field",
+          "url": "/space/pexels_dennisariel_8dd5.webp",
+          "dominantColorHex": "#070707",
+          "colorPaletteHex": [
+            "#070707",
+            "#030303",
+            "#1A1A1A",
+            "#020202",
+            "#020303"
+          ],
+          "fact": {
+            "title": "Bright Star Field",
+            "fact": "A star field shows many distant stars scattered across dark space.",
+            "foodTitle": "What It Is",
+            "food": "Stars are glowing balls of hot gas that produce light and heat.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Stars fill galaxies and can also gather in clusters.",
+            "learningPoints": [
+              "Some stars are brighter because they are closer or more powerful.",
+              "The dark space between stars can contain gas and dust.",
+              "Astronomers map star patterns to study the sky."
+            ]
+          }
+        },
+        {
+          "id": "pexels_dennisariel_e934",
+          "title": "Orange Sun Disk",
+          "url": "/space/pexels_dennisariel_e934.webp",
+          "dominantColorHex": "#FFFFFF",
+          "colorPaletteHex": [
+            "#FFFFFF",
+            "#D46D18",
+            "#E29159",
+            "#FFFFFE",
+            "#FDFFFF"
+          ],
+          "fact": {
+            "title": "Orange Sun Disk",
+            "fact": "The Sun can look like a bright orange disk when viewed through haze, filters, or artistic imaging.",
+            "foodTitle": "What It Is",
+            "food": "It is the star at the center of our solar system.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "The Sun is about 150 million kilometers from Earth on average.",
+            "learningPoints": [
+              "Never look directly at the Sun without proper protection.",
+              "The Sun's surface has cooler dark spots called sunspots.",
+              "Sunlight takes about eight minutes to reach Earth."
+            ]
+          }
+        },
+        {
+          "id": "pexels_grafixartphoto_4585",
+          "title": "Milky Way Night Sky",
+          "url": "/space/pexels_grafixartphoto_4585.webp",
+          "dominantColorHex": "#183950",
+          "colorPaletteHex": [
+            "#183950",
+            "#0A2D43",
+            "#051F2F",
+            "#234660",
+            "#625755"
+          ],
+          "fact": {
+            "title": "Milky Way Night Sky",
+            "fact": "The Milky Way can appear as a pale band of stars across very dark night skies.",
+            "foodTitle": "What It Is",
+            "food": "It is our home galaxy, filled with stars, gas, dust, and planets.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Earth is inside the Milky Way galaxy.",
+            "learningPoints": [
+              "The Milky Way looks like a band because we see its disk from within.",
+              "Dark skies away from city lights make more stars visible.",
+              "The galaxy contains our solar system."
+            ]
+          }
+        },
+        {
+          "id": "pexels_learnersoumya_d54b",
+          "title": "Red Eclipse Moon",
+          "url": "/space/pexels_learnersoumya_d54b.webp",
+          "dominantColorHex": "#0C0C0C",
+          "colorPaletteHex": [
+            "#0C0C0C",
+            "#0B0B0B",
+            "#0A0A0A",
+            "#0A0B0B",
+            "#17120D"
+          ],
+          "fact": {
+            "title": "Red Eclipse Moon",
+            "fact": "During a lunar eclipse, the Moon can turn reddish as Earth's atmosphere bends sunlight onto it.",
+            "foodTitle": "What It Is",
+            "food": "A lunar eclipse happens when Earth passes between the Sun and the Moon.",
+            "strongholdTitle": "Where It Is Seen",
+            "stronghold": "A lunar eclipse can be seen from the night side of Earth when the Moon is above the horizon.",
+            "learningPoints": [
+              "The red color is sometimes called a blood moon.",
+              "Lunar eclipses are safe to watch with your eyes.",
+              "Earth's shadow moves across the Moon during the eclipse."
+            ]
+          }
+        },
+        {
+          "id": "pexels_mahmoud_yahyaoui_75f6",
+          "title": "Striped Sun Disk",
+          "url": "/space/pexels_mahmoud_yahyaoui_75f6.webp",
+          "dominantColorHex": "#2C0C01",
+          "colorPaletteHex": [
+            "#2C0C01",
+            "#E5BD19",
+            "#210701",
+            "#170501",
+            "#1C0601"
+          ],
+          "fact": {
+            "title": "Striped Sun Disk",
+            "fact": "The Sun is a star whose light can appear striped or softened when viewed through filters or atmospheric layers.",
+            "foodTitle": "What It Is",
+            "food": "It is a giant sphere of hot plasma that powers weather and life on Earth.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "The Sun is at the center of the solar system.",
+            "learningPoints": [
+              "Sunspots are cooler, darker regions on the Sun.",
+              "The Sun rotates, but not all parts rotate at the same speed.",
+              "Solar energy reaches Earth as light and heat."
+            ]
+          }
+        },
+        {
+          "id": "pexels_neilyonamine_32c4",
+          "title": "Crescent Moon Glow",
+          "url": "/space/pexels_neilyonamine_32c4.webp",
+          "dominantColorHex": "#030406",
+          "colorPaletteHex": [
+            "#030406",
+            "#000000",
+            "#010102",
+            "#27272A",
+            "#000002"
+          ],
+          "fact": {
+            "title": "Crescent Moon Glow",
+            "fact": "A crescent Moon appears when only a thin curved part of the Moon is lit from our view on Earth.",
+            "foodTitle": "What It Is",
+            "food": "The Moon is a rocky natural satellite that reflects sunlight.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "The Moon orbits Earth once about every month.",
+            "learningPoints": [
+              "The Moon does not make its own light.",
+              "Its phases repeat in a regular cycle.",
+              "The line between light and dark is called the terminator."
+            ]
+          }
+        },
+        {
+          "id": "pexels_okiine_7c5e",
+          "title": "Milky Way Star River",
+          "url": "/space/pexels_okiine_7c5e.webp",
+          "dominantColorHex": "#010205",
+          "colorPaletteHex": [
+            "#010205",
+            "#4F7EAE",
+            "#1B314C",
+            "#0B121E",
+            "#05080F"
+          ],
+          "fact": {
+            "title": "Milky Way Star River",
+            "fact": "The Milky Way band is made from countless stars blended together across the night sky.",
+            "foodTitle": "What It Is",
+            "food": "It is the bright part of our galaxy's disk seen from inside it.",
+            "strongholdTitle": "Where It Is Seen",
+            "stronghold": "It is best seen from dark places away from city lights.",
+            "learningPoints": [
+              "Dust clouds can make dark patches in the Milky Way.",
+              "Long-exposure photography can reveal many more stars.",
+              "The Milky Way is a barred spiral galaxy."
+            ]
+          }
+        },
+        {
+          "id": "pexels_sasank_cherukupalli_c2d5",
+          "title": "Full Moon",
+          "url": "/space/pexels_sasank_cherukupalli_c2d5.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#DEC8B2",
+            "#9D8B76",
+            "#010000",
+            "#000001"
+          ],
+          "fact": {
+            "title": "Full Moon",
+            "fact": "A full Moon happens when the side of the Moon facing Earth is fully lit by the Sun.",
+            "foodTitle": "What It Is",
+            "food": "The Moon is Earth's rocky companion in space.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "The Moon orbits Earth at an average distance of about 384,400 kilometers.",
+            "learningPoints": [
+              "The Moon's surface has craters, mountains, and dark plains.",
+              "The same side of the Moon usually faces Earth.",
+              "Full moons rise around sunset and set around sunrise."
+            ]
+          }
+        },
+        {
+          "id": "pexels_semws_6855",
+          "title": "Andromeda Galaxy View",
+          "url": "/space/pexels_semws_6855.webp",
+          "dominantColorHex": "#1B1D24",
+          "colorPaletteHex": [
+            "#1B1D24",
+            "#0E0E15",
+            "#565352",
+            "#06070F",
+            "#090C13"
+          ],
+          "fact": {
+            "title": "Andromeda Galaxy View",
+            "fact": "Andromeda is a large spiral galaxy that appears close to the Milky Way in cosmic terms.",
+            "foodTitle": "What It Is",
+            "food": "It is a galaxy made of stars, dust, gas, and dark matter.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Andromeda is in the constellation Andromeda, millions of light-years from Earth.",
+            "learningPoints": [
+              "Andromeda is bigger than it looks in the night sky.",
+              "It has a bright center and sweeping spiral arms.",
+              "Galaxies can slowly move and interact over huge spans of time."
+            ]
+          }
+        },
+        {
+          "id": "saturn_b491",
+          "title": "Saturn Ring Portrait",
+          "url": "/space/saturn_b491.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#CFAC67",
+            "#281F12",
+            "#010001",
+            "#000001"
+          ],
+          "fact": {
+            "title": "Saturn Ring Portrait",
+            "fact": "Saturn's rings are made of countless small pieces of ice and rock orbiting the planet.",
+            "foodTitle": "What It Is",
+            "food": "It is a gas giant planet with a huge ring system and many moons.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Saturn is the sixth planet from the Sun.",
+            "learningPoints": [
+              "The rings are separated into many bands and gaps.",
+              "Saturn is less dense than water overall.",
+              "Titan is Saturn's largest moon."
+            ]
+          }
+        },
+        {
+          "id": "solar_system_86ac",
+          "title": "Solar System Model",
+          "url": "/space/solar_system_86ac.webp",
+          "dominantColorHex": "#0D090A",
+          "colorPaletteHex": [
+            "#0D090A",
+            "#000001",
+            "#6E4318",
+            "#000205",
+            "#030204"
+          ],
+          "fact": {
+            "title": "Solar System Model",
+            "fact": "A solar system model shows planets traveling around the Sun on orbital paths.",
+            "foodTitle": "What It Is",
+            "food": "It is a simplified picture of the Sun, planets, and their paths through space.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Our solar system is part of the Milky Way galaxy.",
+            "learningPoints": [
+              "Models often change sizes and distances so everything fits in one picture.",
+              "The planets orbit the Sun in the same general direction.",
+              "Moons orbit planets while planets orbit the Sun."
+            ]
+          }
+        },
+        {
+          "id": "uranus_3458",
+          "title": "Uranus Blue-Green Planet",
+          "url": "/space/uranus_3458.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#92D8D8",
+            "#000002",
+            "#0C1A19",
+            "#010000"
+          ],
+          "fact": {
+            "title": "Uranus Blue-Green Planet",
+            "fact": "Uranus has a smooth blue-green appearance and a tilted rotation that makes it unusual.",
+            "foodTitle": "What It Is",
+            "food": "It is an icy giant planet with faint rings and many moons.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Uranus is the seventh planet from the Sun.",
+            "learningPoints": [
+              "Uranus rotates on its side compared with most planets.",
+              "Methane in its atmosphere helps create its color.",
+              "Its seasons last for many Earth years."
+            ]
+          }
+        },
+        {
+          "id": "utku_akca_ufqs_on_unsplash_4b06",
+          "title": "Fiery Sun",
+          "url": "/space/utku_akca_ufqs_on_unsplash_4b06.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#F75E09",
+            "#920D07",
+            "#000003",
+            "#6C0001"
+          ],
+          "fact": {
+            "title": "Fiery Sun",
+            "fact": "The Sun has a turbulent surface where hot plasma rises, cools, and sinks again.",
+            "foodTitle": "What It Is",
+            "food": "It is a star that produces energy through nuclear fusion in its core.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "The Sun is the central star of our solar system.",
+            "learningPoints": [
+              "The Sun's outer atmosphere is called the corona.",
+              "Solar flares can release bursts of energy.",
+              "The Sun's gravity keeps planets in orbit."
+            ]
+          }
+        },
+        {
+          "id": "venus_3b25",
+          "title": "Venus Cloud World",
+          "url": "/space/venus_3b25.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#F7B036",
+            "#804204",
+            "#050000",
+            "#000001"
+          ],
+          "fact": {
+            "title": "Venus Cloud World",
+            "fact": "Venus is wrapped in thick clouds that hide the surface and trap heat.",
+            "foodTitle": "What It Is",
+            "food": "It is a rocky planet with a dense atmosphere and very hot surface temperatures.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Venus is the second planet from the Sun.",
+            "learningPoints": [
+              "Venus shines brightly in Earth's sky.",
+              "Its atmosphere is mostly carbon dioxide.",
+              "Venus rotates in the opposite direction from many planets."
+            ]
+          }
+        },
+        {
+          "id": "wikiimages_neptune_745b",
+          "title": "Neptune Storm Bands",
+          "url": "/space/wikiimages_neptune_745b.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#406EFB",
+            "#2D3EB3",
+            "#0F123E",
+            "#000007"
+          ],
+          "fact": {
+            "title": "Neptune Storm Bands",
+            "fact": "Neptune is a distant blue planet where strong winds push clouds and storms around the atmosphere.",
+            "foodTitle": "What It Is",
+            "food": "It is an icy giant planet with a cold, deep atmosphere.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "Neptune is the eighth planet from the Sun.",
+            "learningPoints": [
+              "Neptune takes about 165 Earth years to orbit the Sun.",
+              "Its largest moon is Triton.",
+              "Neptune was found through mathematics before it was seen clearly."
+            ]
+          }
+        },
+        {
+          "id": "wikiimages_sun_16da",
+          "title": "Sun Surface Detail",
+          "url": "/space/wikiimages_sun_16da.webp",
+          "dominantColorHex": "#FC6404",
+          "colorPaletteHex": [
+            "#FC6404",
+            "#000000",
+            "#FC9317",
+            "#7F0E01",
+            "#000001"
+          ],
+          "fact": {
+            "title": "Sun Surface Detail",
+            "fact": "Close views of the Sun can show a mottled surface pattern created by moving hot plasma.",
+            "foodTitle": "What It Is",
+            "food": "The Sun is a star made of extremely hot gas and plasma.",
+            "strongholdTitle": "Where It Is Located",
+            "stronghold": "The Sun is at the center of our solar system.",
+            "learningPoints": [
+              "Granules on the Sun are rising and sinking cells of plasma.",
+              "The Sun is about 4.6 billion years old.",
+              "Its gravity holds the planets, asteroids, and comets in orbit."
             ]
           }
         }
