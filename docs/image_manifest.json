@@ -17310,262 +17310,2186 @@
       "title": "Weather",
       "images": [
         {
-          "id": "cloudy",
-          "title": "Cloudy",
-          "url": "/weather/cloudy.webp",
-          "dominantColorHex": "#0C3A7A",
+          "id": "pexels_3e1d",
+          "title": "Snowy Park Walk",
+          "url": "/weather/pexels_3e1d.webp",
+          "dominantColorHex": "#CAC0BC",
           "colorPaletteHex": [
-            "#0C3A7A",
-            "#3C7A6B",
-            "#7EB292",
-            "#F3F4F3",
-            "#D0D7C9"
+            "#CAC0BC",
+            "#E8E0D9",
+            "#F9F3EB",
+            "#898587",
+            "#FFFEFA"
           ],
           "fact": {
-            "title": "Cloudy",
-            "fact": "Cloudy weather means most of the sky is covered by clouds, which can block a lot of sunlight.",
+            "title": "Snowy Park Walk",
+            "fact": "This weather image shows a snowy park path with bare trees and soft winter haze. Snow forms when water vapor in cold clouds becomes ice crystals that fall to the ground.",
             "foodTitle": "Food",
-            "food": "Soups, sandwiches, and warm snacks often feel nice on cloudy days.",
+            "food": "Warm soups, oatmeal, roasted vegetables, and hot drinks are common comfort foods in snowy weather.",
             "strongholdTitle": "Where They Are Found",
-            "stronghold": "Cloudy weather is common in many temperate and coastal places around the world.",
+            "stronghold": "Snowy weather is common in cold regions, high mountains, and places where winter temperatures stay below freezing.",
             "learningPoints": [
-              "Clouds can help keep temperatures cooler during the day.",
-              "Some clouds bring rain, while others just drift by.",
-              "The sky can still be bright even when the Sun is hidden by clouds."
+              "Snow reflects a lot of sunlight, which can make winter scenes look very bright.",
+              "Fresh snow can soften sounds by trapping air between ice crystals.",
+              "Layered clothing helps people stay warm in freezing weather."
             ]
           }
         },
         {
-          "id": "foggy",
-          "title": "Foggy",
-          "url": "/weather/foggy.webp",
-          "dominantColorHex": "#1A3F25",
+          "id": "pexels_696c",
+          "title": "Snowy Mountain Valley",
+          "url": "/weather/pexels_696c.webp",
+          "dominantColorHex": "#ACBCBF",
           "colorPaletteHex": [
-            "#1A3F25",
-            "#6D9DA6",
-            "#3E7269",
-            "#A0C7E3",
-            "#D7E3F0"
+            "#ACBCBF",
+            "#C9CFD4",
+            "#5E5F58",
+            "#DCDAE0",
+            "#EAE2E7"
           ],
           "fact": {
-            "title": "Foggy",
-            "fact": "Fog is a cloud that forms very close to the ground, making it harder to see far away.",
+            "title": "Snowy Mountain Valley",
+            "fact": "This weather image shows a quiet snow-covered valley below dark winter mountains. Snow forms when water vapor in cold clouds becomes ice crystals that fall to the ground.",
             "foodTitle": "Food",
-            "food": "Warm drinks and hot breakfasts can feel extra cozy on foggy mornings.",
+            "food": "Warm soups, oatmeal, roasted vegetables, and hot drinks are common comfort foods in snowy weather.",
             "strongholdTitle": "Where They Are Found",
-            "stronghold": "Fog is common in places with cool air and moisture, such as coastal California and mountain valleys.",
+            "stronghold": "Snowy weather is common in cold regions, high mountains, and places where winter temperatures stay below freezing.",
             "learningPoints": [
-              "Fog forms when water vapor in the air cools and condenses.",
-              "Drivers should slow down and use extra care in fog.",
-              "Fog often clears when the Sun warms the air."
+              "Snow reflects a lot of sunlight, which can make winter scenes look very bright.",
+              "Fresh snow can soften sounds by trapping air between ice crystals.",
+              "Layered clothing helps people stay warm in freezing weather."
             ]
           }
         },
         {
-          "id": "hot",
-          "title": "Hot",
-          "url": "/weather/hot.webp",
-          "dominantColorHex": "#F7AA1F",
+          "id": "pexels_71f0",
+          "title": "Spring Blossoms",
+          "url": "/weather/pexels_71f0.webp",
+          "dominantColorHex": "#383610",
           "colorPaletteHex": [
-            "#F7AA1F",
-            "#88B7A7",
-            "#5A4230",
-            "#FAE07B",
-            "#7A7B55"
+            "#383610",
+            "#ADB47B",
+            "#747A3D",
+            "#CAD7B9",
+            "#F5ECB2"
           ],
           "fact": {
-            "title": "Hot",
-            "fact": "Hot weather means the air temperature is high and can make the body warm quickly.",
+            "title": "Spring Blossoms",
+            "fact": "This weather image shows white blossoms opening on branches in bright spring light. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
             "foodTitle": "Food",
-            "food": "People often choose cold water, fruit, and chilled foods in hot weather.",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
             "strongholdTitle": "Where They Are Found",
-            "stronghold": "Very hot weather is common in desert regions such as the Sahara and parts of the Middle East.",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
             "learningPoints": [
-              "Drinking water helps the body stay cool in hot weather.",
-              "Shade can make a big difference on a hot day.",
-              "Animals often rest more during the hottest part of the day."
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
             ]
           }
         },
         {
-          "id": "partly_cloudy",
-          "title": "Partly Cloudy",
-          "url": "/weather/partly_cloudy.webp",
-          "dominantColorHex": "#40837F",
+          "id": "pexels_abdus_samad_mahkri_954b",
+          "title": "Backlit Autumn Leaf",
+          "url": "/weather/pexels_abdus_samad_mahkri_954b.webp",
+          "dominantColorHex": "#B82603",
           "colorPaletteHex": [
-            "#40837F",
-            "#14465F",
-            "#72B4A3",
-            "#F4F5DA",
-            "#E0CD77"
+            "#B82603",
+            "#ADAAB6",
+            "#B6C0D4",
+            "#BFD1E8",
+            "#AE6F58"
           ],
           "fact": {
-            "title": "Partly Cloudy",
-            "fact": "Partly cloudy weather means some of the sky is covered with clouds while sunlight still peeks through.",
+            "title": "Backlit Autumn Leaf",
+            "fact": "This weather image shows an orange autumn leaf glowing against a pale sky. Autumn weather brings shorter days and cooler nights, which can change leaf colors before they fall.",
             "foodTitle": "Food",
-            "food": "It is a comfortable kind of weather for picnics, fruit snacks, and outdoor meals.",
+            "food": "Apples, squash, soups, warm bread, and roasted foods are common autumn favorites.",
             "strongholdTitle": "Where They Are Found",
-            "stronghold": "Partly cloudy skies can happen almost anywhere as clouds move in and out during the day.",
+            "stronghold": "Autumn color is common in temperate forests where deciduous trees prepare for winter.",
             "learningPoints": [
-              "Clouds are made of tiny water droplets or ice crystals.",
-              "Partly cloudy days can feel cooler than fully sunny days.",
-              "Changing cloud cover can be a sign that the weather is shifting."
+              "Leaves can turn yellow, orange, or red as green chlorophyll breaks down.",
+              "Cooler air and shorter daylight signal many seasonal changes.",
+              "Fallen leaves help return nutrients to the soil as they decompose."
             ]
           }
         },
         {
-          "id": "rainbow",
-          "title": "Rainbow",
-          "url": "/weather/rainbow.webp",
-          "dominantColorHex": "#4DB3B6",
+          "id": "pexels_alby_ac9f",
+          "title": "Purple Daisy Flowers",
+          "url": "/weather/pexels_alby_ac9f.webp",
+          "dominantColorHex": "#2B2922",
           "colorPaletteHex": [
-            "#4DB3B6",
-            "#C1BE72",
-            "#393C65",
-            "#3A737F",
-            "#EAF0D0"
+            "#2B2922",
+            "#E993FE",
+            "#A42CAE",
+            "#C170D3",
+            "#D28EE5"
           ],
           "fact": {
-            "title": "Rainbow",
-            "fact": "A rainbow appears when sunlight passes through raindrops and bends into many colors.",
+            "title": "Purple Daisy Flowers",
+            "fact": "This weather image shows purple daisy-like flowers blooming in fresh seasonal weather. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
             "foodTitle": "Food",
-            "food": "Rainbows do not change what people eat, but they often appear after rainy weather clears.",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
             "strongholdTitle": "Where They Are Found",
-            "stronghold": "Rainbows can appear anywhere in the world when sunlight and raindrops are in the right position.",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
             "learningPoints": [
-              "The colors usually appear in the order red, orange, yellow, green, blue, indigo, and violet.",
-              "You need both sunlight and water droplets to see a rainbow.",
-              "A rainbow is an optical effect, not a solid object in the sky."
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
             ]
           }
         },
         {
-          "id": "rainy",
-          "title": "Rainy",
-          "url": "/weather/rainy.webp",
-          "dominantColorHex": "#2D5C4E",
+          "id": "pexels_alexasfotos_6142",
+          "title": "Yellow Garden Flower",
+          "url": "/weather/pexels_alexasfotos_6142.webp",
+          "dominantColorHex": "#040B00",
           "colorPaletteHex": [
-            "#2D5C4E",
-            "#023665",
-            "#579A96",
-            "#DBE9EC",
-            "#A2BC9D"
+            "#040B00",
+            "#E4E471",
+            "#F9FC8D",
+            "#FBFEB4",
+            "#545B12"
           ],
           "fact": {
-            "title": "Rainy",
-            "fact": "Rainy weather happens when clouds release drops of water that fall to the ground.",
+            "title": "Yellow Garden Flower",
+            "fact": "This weather image shows a bright yellow flower opened in warm daylight. Sunny weather brings direct sunlight that warms land, water, plants, and air near the ground.",
             "foodTitle": "Food",
-            "food": "Rainy days often make people want warm meals, tea, or soup indoors.",
+            "food": "Fresh fruit, water, salads, and picnic foods are common choices on warm sunny days.",
             "strongholdTitle": "Where They Are Found",
-            "stronghold": "Rainy weather is especially common in tropical rainforests and monsoon regions such as India and Southeast Asia.",
+            "stronghold": "Sunny weather can appear in any region when clouds are thin or absent.",
             "learningPoints": [
-              "Rain helps refill rivers, lakes, and underground water supplies.",
-              "Plants and crops need rain to grow.",
-              "Puddles form when the ground cannot soak up all the water right away."
+              "Sunlight helps plants make food through photosynthesis.",
+              "Bright sun creates strong shadows and vivid colors in photos.",
+              "Hats, shade, sunscreen, and water help people stay safer in strong sunlight."
             ]
           }
         },
         {
-          "id": "snowy",
-          "title": "Snowy",
-          "url": "/weather/snowy.webp",
-          "dominantColorHex": "#2383D8",
+          "id": "pexels_alexpham_ebd9",
+          "title": "Pink Blossom Tree",
+          "url": "/weather/pexels_alexpham_ebd9.webp",
+          "dominantColorHex": "#17252A",
           "colorPaletteHex": [
-            "#2383D8",
-            "#0A44A3",
-            "#61B3ED",
-            "#B9D3EF",
-            "#E1EEF9"
+            "#17252A",
+            "#606870",
+            "#4E3E42",
+            "#CEB4A7",
+            "#4A9DB8"
           ],
           "fact": {
-            "title": "Snowy",
-            "fact": "Snow falls when water in clouds freezes into ice crystals and drops to the ground.",
+            "title": "Pink Blossom Tree",
+            "fact": "This weather image shows a tree covered in pink blossoms beneath a blue sky. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
             "foodTitle": "Food",
-            "food": "Hot soup, cocoa, and warm meals are popular on snowy days.",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
             "strongholdTitle": "Where They Are Found",
-            "stronghold": "Snowy weather is common in colder countries such as Canada, Norway, and parts of Japan.",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
             "learningPoints": [
-              "Every snowflake forms from ice crystals in the clouds.",
-              "Snow can help keep the ground insulated and warmer underneath.",
-              "Snowy weather usually happens when the air is cold enough for ice to stay frozen."
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
             ]
           }
         },
         {
-          "id": "sunny",
-          "title": "Sunny",
-          "url": "/weather/sunny.webp",
-          "dominantColorHex": "#F5C214",
+          "id": "pexels_ali_goode_83a0",
+          "title": "Ladybug on Blue Flower",
+          "url": "/weather/pexels_ali_goode_83a0.webp",
+          "dominantColorHex": "#000000",
           "colorPaletteHex": [
-            "#F5C214",
-            "#70C2A8",
-            "#275155",
-            "#638D61",
-            "#F0ED95"
+            "#000000",
+            "#676AC0",
+            "#291F51",
+            "#030106",
+            "#000003"
           ],
           "fact": {
-            "title": "Sunny",
-            "fact": "Sunny weather happens when the sky is mostly clear and sunlight reaches the ground directly.",
+            "title": "Ladybug on Blue Flower",
+            "fact": "This weather image shows a ladybug resting on a blue flower during mild growing weather. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
             "foodTitle": "Food",
-            "food": "People often enjoy cool water, juicy fruit, and light foods on sunny days.",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
             "strongholdTitle": "Where They Are Found",
-            "stronghold": "Sunny weather is common in many dry regions, including parts of Egypt, Australia, and the southwestern United States.",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
             "learningPoints": [
-              "The Sun helps warm the land, air, and water.",
-              "Wearing sunscreen and a hat can help protect skin on bright days.",
-              "Plants use sunlight to make their own food."
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
             ]
           }
         },
         {
-          "id": "thunderstorm",
-          "title": "Thunderstorm",
-          "url": "/weather/thunderstorm.webp",
-          "dominantColorHex": "#375352",
+          "id": "pexels_animesh_srivastava_6271",
+          "title": "Rain Splash",
+          "url": "/weather/pexels_animesh_srivastava_6271.webp",
+          "dominantColorHex": "#87B0DA",
           "colorPaletteHex": [
-            "#375352",
-            "#041828",
-            "#839579",
-            "#0E283B",
-            "#20323A"
+            "#87B0DA",
+            "#0A2439",
+            "#0D5089",
+            "#2F71A8",
+            "#0A3C6C"
           ],
           "fact": {
-            "title": "Thunderstorm",
-            "fact": "A thunderstorm is a storm with thunder, lightning, dark clouds, and often heavy rain.",
+            "title": "Rain Splash",
+            "fact": "This weather image shows raindrops splashing on a wet surface. Rain falls when water droplets in clouds grow heavy enough to drop through the air.",
             "foodTitle": "Food",
-            "food": "Many people like staying indoors with warm snacks while thunderstorms pass.",
+            "food": "Warm tea, soups, bread, and simple indoor meals often feel satisfying during rainy weather.",
             "strongholdTitle": "Where They Are Found",
-            "stronghold": "Thunderstorms happen in many places, especially in warm, humid regions such as Florida and parts of central Africa.",
+            "stronghold": "Rain happens in many climates, especially where moist air rises and cools into clouds.",
             "learningPoints": [
-              "Lightning is a giant electrical spark in the atmosphere.",
-              "Thunder is the sound made when lightning heats the air very quickly.",
-              "It is safest to go indoors when thunder is heard."
+              "Rain helps refill rivers, lakes, soil, and groundwater.",
+              "Raindrops can make ripples, splashes, and reflections on wet surfaces.",
+              "Clouds become rain clouds when they hold enough condensed water."
             ]
           }
         },
         {
-          "id": "windy",
-          "title": "Windy",
-          "url": "/weather/windy.webp",
-          "dominantColorHex": "#50A8C1",
+          "id": "pexels_beyza_sukran_demi_rbas_abd4",
+          "title": "Green Fruit Buds",
+          "url": "/weather/pexels_beyza_sukran_demi_rbas_abd4.webp",
+          "dominantColorHex": "#92A869",
           "colorPaletteHex": [
-            "#50A8C1",
-            "#103B74",
-            "#D7EEF3",
-            "#2F6F7E",
-            "#A7C290"
+            "#92A869",
+            "#607542",
+            "#C1CEAF",
+            "#FFFEFE",
+            "#EDF1EB"
           ],
           "fact": {
-            "title": "Windy",
-            "fact": "Windy weather happens when air moves quickly from one place to another.",
+            "title": "Green Fruit Buds",
+            "fact": "This weather image shows green fruit buds growing on a branch in soft spring light. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
             "foodTitle": "Food",
-            "food": "On windy days, people often enjoy warm foods and drinks after playing outside.",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
             "strongholdTitle": "Where They Are Found",
-            "stronghold": "Very windy conditions are common in open plains, mountain passes, and coastal areas.",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
             "learningPoints": [
-              "Wind can move clouds, seeds, and even help sailboats travel.",
-              "Kites fly best when there is enough wind.",
-              "Strong winds can make the air feel colder than the thermometer says."
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_brett_sayles_0cb6",
+          "title": "Snowy Field and Clouds",
+          "url": "/weather/pexels_brett_sayles_0cb6.webp",
+          "dominantColorHex": "#A4C2DB",
+          "colorPaletteHex": [
+            "#A4C2DB",
+            "#BDD2E3",
+            "#CBDEEE",
+            "#7CA7C7",
+            "#DAEAF6"
+          ],
+          "fact": {
+            "title": "Snowy Field and Clouds",
+            "fact": "This weather image shows a frozen field under a thick cloudy sky. Snow forms when water vapor in cold clouds becomes ice crystals that fall to the ground.",
+            "foodTitle": "Food",
+            "food": "Warm soups, oatmeal, roasted vegetables, and hot drinks are common comfort foods in snowy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Snowy weather is common in cold regions, high mountains, and places where winter temperatures stay below freezing.",
+            "learningPoints": [
+              "Snow reflects a lot of sunlight, which can make winter scenes look very bright.",
+              "Fresh snow can soften sounds by trapping air between ice crystals.",
+              "Layered clothing helps people stay warm in freezing weather."
+            ]
+          }
+        },
+        {
+          "id": "pexels_charles_miller_b221",
+          "title": "Purple Allium Flower",
+          "url": "/weather/pexels_charles_miller_b221.webp",
+          "dominantColorHex": "#012F01",
+          "colorPaletteHex": [
+            "#012F01",
+            "#414E3C",
+            "#652B72",
+            "#797F73",
+            "#54624D"
+          ],
+          "fact": {
+            "title": "Purple Allium Flower",
+            "fact": "This weather image shows a round purple flower head blooming after seasonal warmth. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_chris_clark_ed6d",
+          "title": "Autumn Butterfly on Leaves",
+          "url": "/weather/pexels_chris_clark_ed6d.webp",
+          "dominantColorHex": "#F7CD48",
+          "colorPaletteHex": [
+            "#F7CD48",
+            "#BE7716",
+            "#0F0A03",
+            "#1B1308",
+            "#653405"
+          ],
+          "fact": {
+            "title": "Autumn Butterfly on Leaves",
+            "fact": "This weather image shows golden autumn leaves with a butterfly blending into the warm colors. Autumn weather brings shorter days and cooler nights, which can change leaf colors before they fall.",
+            "foodTitle": "Food",
+            "food": "Apples, squash, soups, warm bread, and roasted foods are common autumn favorites.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Autumn color is common in temperate forests where deciduous trees prepare for winter.",
+            "learningPoints": [
+              "Leaves can turn yellow, orange, or red as green chlorophyll breaks down.",
+              "Cooler air and shorter daylight signal many seasonal changes.",
+              "Fallen leaves help return nutrients to the soil as they decompose."
+            ]
+          }
+        },
+        {
+          "id": "pexels_chris_magnusson_9157",
+          "title": "Snowy Mountain Clouds",
+          "url": "/weather/pexels_chris_magnusson_9157.webp",
+          "dominantColorHex": "#7A99C5",
+          "colorPaletteHex": [
+            "#7A99C5",
+            "#21221B",
+            "#405F88",
+            "#A0B8D7",
+            "#C7DAEE"
+          ],
+          "fact": {
+            "title": "Snowy Mountain Clouds",
+            "fact": "This weather image shows snowy mountain peaks rising through moving clouds. Clouds are made of tiny water droplets or ice crystals suspended in the air.",
+            "foodTitle": "Food",
+            "food": "Cloudy days often pair well with picnic foods if it is dry, or warm meals if the air feels cool.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Clouds can form anywhere moist air cools enough for water vapor to condense.",
+            "learningPoints": [
+              "Cloud shapes can hint at calm weather, changing weather, or storms ahead.",
+              "Mountains can force air upward, which helps clouds form along ridges.",
+              "Cloud cover can cool daytime temperatures by blocking direct sunlight."
+            ]
+          }
+        },
+        {
+          "id": "pexels_curiosophotography_73a8",
+          "title": "Frosty Riverbank",
+          "url": "/weather/pexels_curiosophotography_73a8.webp",
+          "dominantColorHex": "#B5BED5",
+          "colorPaletteHex": [
+            "#B5BED5",
+            "#3A4859",
+            "#878E9F",
+            "#D1D4E1",
+            "#E0E3EF"
+          ],
+          "fact": {
+            "title": "Frosty Riverbank",
+            "fact": "This weather image shows ice-coated trees beside a cold winter river. Frost forms when water vapor freezes directly onto cold surfaces as tiny ice crystals.",
+            "foodTitle": "Food",
+            "food": "Warm breakfasts, soups, and hot drinks can help people feel comfortable on frosty mornings.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Frost is common on clear, cold nights when surfaces cool below freezing.",
+            "learningPoints": [
+              "Frost often appears first on leaves, grass, railings, and car windows.",
+              "Clear skies let heat escape quickly from the ground at night.",
+              "Tiny ice crystals can outline small textures that are usually hard to see."
+            ]
+          }
+        },
+        {
+          "id": "pexels_cz_jen_ccf0",
+          "title": "Clear Blue Sky Branch",
+          "url": "/weather/pexels_cz_jen_ccf0.webp",
+          "dominantColorHex": "#ABD5E9",
+          "colorPaletteHex": [
+            "#ABD5E9",
+            "#C0E2F3",
+            "#D3E7F2",
+            "#7BA3B1",
+            "#DBF0FB"
+          ],
+          "fact": {
+            "title": "Clear Blue Sky Branch",
+            "fact": "This weather image shows a thin branch reaching into a clear blue sky. Clear weather happens when clouds are scarce and sunlight or open sky is easy to see.",
+            "foodTitle": "Food",
+            "food": "Fresh fruit, sandwiches, salads, and plenty of water are useful for clear outdoor days.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Clear skies can happen in every climate when air is stable and there is not much moisture forming clouds.",
+            "learningPoints": [
+              "Clear nights can cool quickly because fewer clouds trap heat near the ground.",
+              "A blue sky appears when air scatters blue wavelengths of sunlight strongly.",
+              "Sun protection and hydration matter on bright clear days."
+            ]
+          }
+        },
+        {
+          "id": "pexels_durica_6266",
+          "title": "Cloudy Mountain Peak",
+          "url": "/weather/pexels_durica_6266.webp",
+          "dominantColorHex": "#5F5F5F",
+          "colorPaletteHex": [
+            "#5F5F5F",
+            "#848484",
+            "#AEAEAE",
+            "#CECECE",
+            "#E9E9E9"
+          ],
+          "fact": {
+            "title": "Cloudy Mountain Peak",
+            "fact": "This weather image shows a rugged mountain peak partly hidden by thick cloud. Clouds are made of tiny water droplets or ice crystals suspended in the air.",
+            "foodTitle": "Food",
+            "food": "Cloudy days often pair well with picnic foods if it is dry, or warm meals if the air feels cool.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Clouds can form anywhere moist air cools enough for water vapor to condense.",
+            "learningPoints": [
+              "Cloud shapes can hint at calm weather, changing weather, or storms ahead.",
+              "Mountains can force air upward, which helps clouds form along ridges.",
+              "Cloud cover can cool daytime temperatures by blocking direct sunlight."
+            ]
+          }
+        },
+        {
+          "id": "pexels_esra_akin_1f21",
+          "title": "White Spring Blossoms",
+          "url": "/weather/pexels_esra_akin_1f21.webp",
+          "dominantColorHex": "#2F4508",
+          "colorPaletteHex": [
+            "#2F4508",
+            "#0F1A02",
+            "#748047",
+            "#CECBC3",
+            "#FDFDFD"
+          ],
+          "fact": {
+            "title": "White Spring Blossoms",
+            "fact": "This weather image shows white blossoms and green leaves in mild spring weather. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_etienne_allard_88a0",
+          "title": "Snowy Forest Trail",
+          "url": "/weather/pexels_etienne_allard_88a0.webp",
+          "dominantColorHex": "#1C2D39",
+          "colorPaletteHex": [
+            "#1C2D39",
+            "#4A6F88",
+            "#85B4D4",
+            "#B0E7FC",
+            "#DCF5FA"
+          ],
+          "fact": {
+            "title": "Snowy Forest Trail",
+            "fact": "This weather image shows a narrow forest trail lined with snow-covered trees. Snow forms when water vapor in cold clouds becomes ice crystals that fall to the ground.",
+            "foodTitle": "Food",
+            "food": "Warm soups, oatmeal, roasted vegetables, and hot drinks are common comfort foods in snowy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Snowy weather is common in cold regions, high mountains, and places where winter temperatures stay below freezing.",
+            "learningPoints": [
+              "Snow reflects a lot of sunlight, which can make winter scenes look very bright.",
+              "Fresh snow can soften sounds by trapping air between ice crystals.",
+              "Layered clothing helps people stay warm in freezing weather."
+            ]
+          }
+        },
+        {
+          "id": "pexels_favourfrancis_chinonso_ofili_fb94",
+          "title": "Snowy Road with Evergreens",
+          "url": "/weather/pexels_favourfrancis_chinonso_ofili_fb94.webp",
+          "dominantColorHex": "#323638",
+          "colorPaletteHex": [
+            "#323638",
+            "#D7DCDD",
+            "#898E90",
+            "#E8ECED",
+            "#F3FAF9"
+          ],
+          "fact": {
+            "title": "Snowy Road with Evergreens",
+            "fact": "This weather image shows a snow-covered road passing evergreen trees. Snow forms when water vapor in cold clouds becomes ice crystals that fall to the ground.",
+            "foodTitle": "Food",
+            "food": "Warm soups, oatmeal, roasted vegetables, and hot drinks are common comfort foods in snowy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Snowy weather is common in cold regions, high mountains, and places where winter temperatures stay below freezing.",
+            "learningPoints": [
+              "Snow reflects a lot of sunlight, which can make winter scenes look very bright.",
+              "Fresh snow can soften sounds by trapping air between ice crystals.",
+              "Layered clothing helps people stay warm in freezing weather."
+            ]
+          }
+        },
+        {
+          "id": "pexels_filirovska_cb86",
+          "title": "Red Garden Flowers",
+          "url": "/weather/pexels_filirovska_cb86.webp",
+          "dominantColorHex": "#1E3112",
+          "colorPaletteHex": [
+            "#1E3112",
+            "#587447",
+            "#CCD5D0",
+            "#702C26",
+            "#8EA682"
+          ],
+          "fact": {
+            "title": "Red Garden Flowers",
+            "fact": "This weather image shows red garden flowers blooming with fresh green leaves. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_frank_minjarez_e888",
+          "title": "Red Roses",
+          "url": "/weather/pexels_frank_minjarez_e888.webp",
+          "dominantColorHex": "#394A25",
+          "colorPaletteHex": [
+            "#394A25",
+            "#85040F",
+            "#38170E",
+            "#476133",
+            "#7D9147"
+          ],
+          "fact": {
+            "title": "Red Roses",
+            "fact": "This weather image shows red roses blooming in soft outdoor light. Sunny weather brings direct sunlight that warms land, water, plants, and air near the ground.",
+            "foodTitle": "Food",
+            "food": "Fresh fruit, water, salads, and picnic foods are common choices on warm sunny days.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Sunny weather can appear in any region when clouds are thin or absent.",
+            "learningPoints": [
+              "Sunlight helps plants make food through photosynthesis.",
+              "Bright sun creates strong shadows and vivid colors in photos.",
+              "Hats, shade, sunscreen, and water help people stay safer in strong sunlight."
+            ]
+          }
+        },
+        {
+          "id": "pexels_ganajp_25a1",
+          "title": "Purple Wildflower Dew",
+          "url": "/weather/pexels_ganajp_25a1.webp",
+          "dominantColorHex": "#1A1105",
+          "colorPaletteHex": [
+            "#1A1105",
+            "#907868",
+            "#685B52",
+            "#CC9F80",
+            "#523D54"
+          ],
+          "fact": {
+            "title": "Purple Wildflower Dew",
+            "fact": "This weather image shows a small purple flower holding tiny drops after cool damp weather. Frost forms when water vapor freezes directly onto cold surfaces as tiny ice crystals.",
+            "foodTitle": "Food",
+            "food": "Warm breakfasts, soups, and hot drinks can help people feel comfortable on frosty mornings.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Frost is common on clear, cold nights when surfaces cool below freezing.",
+            "learningPoints": [
+              "Frost often appears first on leaves, grass, railings, and car windows.",
+              "Clear skies let heat escape quickly from the ground at night.",
+              "Tiny ice crystals can outline small textures that are usually hard to see."
+            ]
+          }
+        },
+        {
+          "id": "pexels_ganajp_2cb0",
+          "title": "Purple Clover Flower",
+          "url": "/weather/pexels_ganajp_2cb0.webp",
+          "dominantColorHex": "#1C2001",
+          "colorPaletteHex": [
+            "#1C2001",
+            "#323D15",
+            "#998985",
+            "#0C1A00",
+            "#302109"
+          ],
+          "fact": {
+            "title": "Purple Clover Flower",
+            "fact": "This weather image shows purple clover flowers arranged like a starburst. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_ganajp_711e",
+          "title": "Blue Cornflower",
+          "url": "/weather/pexels_ganajp_711e.webp",
+          "dominantColorHex": "#959122",
+          "colorPaletteHex": [
+            "#959122",
+            "#5F6B10",
+            "#BFC44B",
+            "#876F11",
+            "#4D451A"
+          ],
+          "fact": {
+            "title": "Blue Cornflower",
+            "fact": "This weather image shows a blue cornflower standing in warm golden light. Sunny weather brings direct sunlight that warms land, water, plants, and air near the ground.",
+            "foodTitle": "Food",
+            "food": "Fresh fruit, water, salads, and picnic foods are common choices on warm sunny days.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Sunny weather can appear in any region when clouds are thin or absent.",
+            "learningPoints": [
+              "Sunlight helps plants make food through photosynthesis.",
+              "Bright sun creates strong shadows and vivid colors in photos.",
+              "Hats, shade, sunscreen, and water help people stay safer in strong sunlight."
+            ]
+          }
+        },
+        {
+          "id": "pexels_ganajp_79c2",
+          "title": "Meadow Butterfly",
+          "url": "/weather/pexels_ganajp_79c2.webp",
+          "dominantColorHex": "#7F8006",
+          "colorPaletteHex": [
+            "#7F8006",
+            "#8B8F0A",
+            "#516309",
+            "#9DA417",
+            "#D1C858"
+          ],
+          "fact": {
+            "title": "Meadow Butterfly",
+            "fact": "This weather image shows a butterfly resting on a green meadow stem in bright weather. Sunny weather brings direct sunlight that warms land, water, plants, and air near the ground.",
+            "foodTitle": "Food",
+            "food": "Fresh fruit, water, salads, and picnic foods are common choices on warm sunny days.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Sunny weather can appear in any region when clouds are thin or absent.",
+            "learningPoints": [
+              "Sunlight helps plants make food through photosynthesis.",
+              "Bright sun creates strong shadows and vivid colors in photos.",
+              "Hats, shade, sunscreen, and water help people stay safer in strong sunlight."
+            ]
+          }
+        },
+        {
+          "id": "pexels_ganajp_de2b",
+          "title": "Red Poppy Bud",
+          "url": "/weather/pexels_ganajp_de2b.webp",
+          "dominantColorHex": "#B48E18",
+          "colorPaletteHex": [
+            "#B48E18",
+            "#BE961F",
+            "#BE9E23",
+            "#BB7C1C",
+            "#C4AF37"
+          ],
+          "fact": {
+            "title": "Red Poppy Bud",
+            "fact": "This weather image shows a red poppy bud opening on a slender stem. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_gleive_e1dc",
+          "title": "Lightning Sky",
+          "url": "/weather/pexels_gleive_e1dc.webp",
+          "dominantColorHex": "#7F679B",
+          "colorPaletteHex": [
+            "#7F679B",
+            "#CEA9D3",
+            "#282834",
+            "#58497A",
+            "#403663"
+          ],
+          "fact": {
+            "title": "Lightning Sky",
+            "fact": "This weather image shows branching lightning spreading across a dark sky. Storms form when warm, moist air rises quickly and builds tall clouds with strong winds and rain.",
+            "foodTitle": "Food",
+            "food": "During stormy weather, people often keep easy meals, drinking water, and warm drinks available indoors.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Thunderstorms are common where warm, humid air can rise rapidly, especially in spring and summer.",
+            "learningPoints": [
+              "Lightning is a giant electrical discharge between clouds or between cloud and ground.",
+              "Thunder is the sound made when lightning heats air very quickly.",
+              "The safest place during lightning is inside a sturdy building or enclosed vehicle."
+            ]
+          }
+        },
+        {
+          "id": "pexels_harsh_saklani_fe86",
+          "title": "Cloudy Mountain Ridge",
+          "url": "/weather/pexels_harsh_saklani_fe86.webp",
+          "dominantColorHex": "#DBE7EF",
+          "colorPaletteHex": [
+            "#DBE7EF",
+            "#1A3B4D",
+            "#66A0B9",
+            "#22546C",
+            "#3A5D6F"
+          ],
+          "fact": {
+            "title": "Cloudy Mountain Ridge",
+            "fact": "This weather image shows mountain ridges below drifting bright clouds. Clouds are made of tiny water droplets or ice crystals suspended in the air.",
+            "foodTitle": "Food",
+            "food": "Cloudy days often pair well with picnic foods if it is dry, or warm meals if the air feels cool.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Clouds can form anywhere moist air cools enough for water vapor to condense.",
+            "learningPoints": [
+              "Cloud shapes can hint at calm weather, changing weather, or storms ahead.",
+              "Mountains can force air upward, which helps clouds form along ridges.",
+              "Cloud cover can cool daytime temperatures by blocking direct sunlight."
+            ]
+          }
+        },
+        {
+          "id": "pexels_imperfect_ee5d",
+          "title": "Autumn Forest Path",
+          "url": "/weather/pexels_imperfect_ee5d.webp",
+          "dominantColorHex": "#2C2005",
+          "colorPaletteHex": [
+            "#2C2005",
+            "#944313",
+            "#B47A2F",
+            "#DAB47B",
+            "#F1E1CB"
+          ],
+          "fact": {
+            "title": "Autumn Forest Path",
+            "fact": "This weather image shows a forest path covered with orange autumn leaves. Autumn weather brings shorter days and cooler nights, which can change leaf colors before they fall.",
+            "foodTitle": "Food",
+            "food": "Apples, squash, soups, warm bread, and roasted foods are common autumn favorites.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Autumn color is common in temperate forests where deciduous trees prepare for winter.",
+            "learningPoints": [
+              "Leaves can turn yellow, orange, or red as green chlorophyll breaks down.",
+              "Cooler air and shorter daylight signal many seasonal changes.",
+              "Fallen leaves help return nutrients to the soil as they decompose."
+            ]
+          }
+        },
+        {
+          "id": "pexels_iriser_236f",
+          "title": "Stormy Red Sky",
+          "url": "/weather/pexels_iriser_236f.webp",
+          "dominantColorHex": "#2D181E",
+          "colorPaletteHex": [
+            "#2D181E",
+            "#1A1017",
+            "#733129",
+            "#472123",
+            "#9C4C40"
+          ],
+          "fact": {
+            "title": "Stormy Red Sky",
+            "fact": "This weather image shows dark storm clouds glowing red near the horizon. Storms form when warm, moist air rises quickly and builds tall clouds with strong winds and rain.",
+            "foodTitle": "Food",
+            "food": "During stormy weather, people often keep easy meals, drinking water, and warm drinks available indoors.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Thunderstorms are common where warm, humid air can rise rapidly, especially in spring and summer.",
+            "learningPoints": [
+              "Lightning is a giant electrical discharge between clouds or between cloud and ground.",
+              "Thunder is the sound made when lightning heats air very quickly.",
+              "The safest place during lightning is inside a sturdy building or enclosed vehicle."
+            ]
+          }
+        },
+        {
+          "id": "pexels_jacques_barbary_0c29",
+          "title": "Purple Iris Flower",
+          "url": "/weather/pexels_jacques_barbary_0c29.webp",
+          "dominantColorHex": "#E1BFF6",
+          "colorPaletteHex": [
+            "#E1BFF6",
+            "#3F5851",
+            "#678679",
+            "#8DAF8D",
+            "#F3E7DE"
+          ],
+          "fact": {
+            "title": "Purple Iris Flower",
+            "fact": "This weather image shows a purple iris blooming during the growing season. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_jamoimages_679d",
+          "title": "Lightning Over Field",
+          "url": "/weather/pexels_jamoimages_679d.webp",
+          "dominantColorHex": "#2B2C15",
+          "colorPaletteHex": [
+            "#2B2C15",
+            "#6F849B",
+            "#545F5F",
+            "#7F96AD",
+            "#9BB2C8"
+          ],
+          "fact": {
+            "title": "Lightning Over Field",
+            "fact": "This weather image shows a bright lightning bolt striking over an open field. Storms form when warm, moist air rises quickly and builds tall clouds with strong winds and rain.",
+            "foodTitle": "Food",
+            "food": "During stormy weather, people often keep easy meals, drinking water, and warm drinks available indoors.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Thunderstorms are common where warm, humid air can rise rapidly, especially in spring and summer.",
+            "learningPoints": [
+              "Lightning is a giant electrical discharge between clouds or between cloud and ground.",
+              "Thunder is the sound made when lightning heats air very quickly.",
+              "The safest place during lightning is inside a sturdy building or enclosed vehicle."
+            ]
+          }
+        },
+        {
+          "id": "pexels_jaysphotography_e645",
+          "title": "Storm Over Farmland",
+          "url": "/weather/pexels_jaysphotography_e645.webp",
+          "dominantColorHex": "#43420E",
+          "colorPaletteHex": [
+            "#43420E",
+            "#A5BDD2",
+            "#182210",
+            "#5A6359",
+            "#293A46"
+          ],
+          "fact": {
+            "title": "Storm Over Farmland",
+            "fact": "This weather image shows a wide storm cloud crossing farmland with rain in the distance. Storms form when warm, moist air rises quickly and builds tall clouds with strong winds and rain.",
+            "foodTitle": "Food",
+            "food": "During stormy weather, people often keep easy meals, drinking water, and warm drinks available indoors.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Thunderstorms are common where warm, humid air can rise rapidly, especially in spring and summer.",
+            "learningPoints": [
+              "Lightning is a giant electrical discharge between clouds or between cloud and ground.",
+              "Thunder is the sound made when lightning heats air very quickly.",
+              "The safest place during lightning is inside a sturdy building or enclosed vehicle."
+            ]
+          }
+        },
+        {
+          "id": "pexels_jill_burrow_a58a",
+          "title": "Golden Rain Surface",
+          "url": "/weather/pexels_jill_burrow_a58a.webp",
+          "dominantColorHex": "#593512",
+          "colorPaletteHex": [
+            "#593512",
+            "#A66928",
+            "#E59E3D",
+            "#F7C04E",
+            "#FAD960"
+          ],
+          "fact": {
+            "title": "Golden Rain Surface",
+            "fact": "This weather image shows rain falling across a golden wet surface. Rain falls when water droplets in clouds grow heavy enough to drop through the air.",
+            "foodTitle": "Food",
+            "food": "Warm tea, soups, bread, and simple indoor meals often feel satisfying during rainy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Rain happens in many climates, especially where moist air rises and cools into clouds.",
+            "learningPoints": [
+              "Rain helps refill rivers, lakes, soil, and groundwater.",
+              "Raindrops can make ripples, splashes, and reflections on wet surfaces.",
+              "Clouds become rain clouds when they hold enough condensed water."
+            ]
+          }
+        },
+        {
+          "id": "pexels_jorischlr_2ebe",
+          "title": "Frosted Moss Flowers",
+          "url": "/weather/pexels_jorischlr_2ebe.webp",
+          "dominantColorHex": "#5D4436",
+          "colorPaletteHex": [
+            "#5D4436",
+            "#262A20",
+            "#7D6654",
+            "#A68A7F",
+            "#CFBDBB"
+          ],
+          "fact": {
+            "title": "Frosted Moss Flowers",
+            "fact": "This weather image shows tiny plants and moss touched by sparkling cold frost. Frost forms when water vapor freezes directly onto cold surfaces as tiny ice crystals.",
+            "foodTitle": "Food",
+            "food": "Warm breakfasts, soups, and hot drinks can help people feel comfortable on frosty mornings.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Frost is common on clear, cold nights when surfaces cool below freezing.",
+            "learningPoints": [
+              "Frost often appears first on leaves, grass, railings, and car windows.",
+              "Clear skies let heat escape quickly from the ground at night.",
+              "Tiny ice crystals can outline small textures that are usually hard to see."
+            ]
+          }
+        },
+        {
+          "id": "pexels_jorischlr_e86f",
+          "title": "White Daisies",
+          "url": "/weather/pexels_jorischlr_e86f.webp",
+          "dominantColorHex": "#26351B",
+          "colorPaletteHex": [
+            "#26351B",
+            "#0A220D",
+            "#F0FDFE",
+            "#837C49",
+            "#DCE7CB"
+          ],
+          "fact": {
+            "title": "White Daisies",
+            "fact": "This weather image shows white daisies blooming in mild weather. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_jos_van_ouwerkerk_29f1",
+          "title": "Evergreen Tree Climber",
+          "url": "/weather/pexels_jos_van_ouwerkerk_29f1.webp",
+          "dominantColorHex": "#DDF1C6",
+          "colorPaletteHex": [
+            "#DDF1C6",
+            "#1C260D",
+            "#72984B",
+            "#264C1A",
+            "#535623"
+          ],
+          "fact": {
+            "title": "Evergreen Tree Climber",
+            "fact": "This weather image shows a small animal climbing an evergreen tree in filtered sunlight. Sunny weather brings direct sunlight that warms land, water, plants, and air near the ground.",
+            "foodTitle": "Food",
+            "food": "Fresh fruit, water, salads, and picnic foods are common choices on warm sunny days.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Sunny weather can appear in any region when clouds are thin or absent.",
+            "learningPoints": [
+              "Sunlight helps plants make food through photosynthesis.",
+              "Bright sun creates strong shadows and vivid colors in photos.",
+              "Hats, shade, sunscreen, and water help people stay safer in strong sunlight."
+            ]
+          }
+        },
+        {
+          "id": "pexels_kabita_darlami_4d44",
+          "title": "Red Blossom in Snowy Light",
+          "url": "/weather/pexels_kabita_darlami_4d44.webp",
+          "dominantColorHex": "#7D7053",
+          "colorPaletteHex": [
+            "#7D7053",
+            "#592F21",
+            "#A8A389",
+            "#C2BFB0",
+            "#D7D6C8"
+          ],
+          "fact": {
+            "title": "Red Blossom in Snowy Light",
+            "fact": "This weather image shows a red flower standing out against pale frosty surroundings. Frost forms when water vapor freezes directly onto cold surfaces as tiny ice crystals.",
+            "foodTitle": "Food",
+            "food": "Warm breakfasts, soups, and hot drinks can help people feel comfortable on frosty mornings.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Frost is common on clear, cold nights when surfaces cool below freezing.",
+            "learningPoints": [
+              "Frost often appears first on leaves, grass, railings, and car windows.",
+              "Clear skies let heat escape quickly from the ground at night.",
+              "Tiny ice crystals can outline small textures that are usually hard to see."
+            ]
+          }
+        },
+        {
+          "id": "pexels_kabita_darlami_a29d",
+          "title": "Red Hibiscus in Shade",
+          "url": "/weather/pexels_kabita_darlami_a29d.webp",
+          "dominantColorHex": "#080F14",
+          "colorPaletteHex": [
+            "#080F14",
+            "#18231D",
+            "#4F533F",
+            "#060B12",
+            "#141315"
+          ],
+          "fact": {
+            "title": "Red Hibiscus in Shade",
+            "fact": "This weather image shows a red hibiscus-like flower blooming among dark green leaves. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_kurt_barlow_e9ed",
+          "title": "Snowy Lone Tree Sunset",
+          "url": "/weather/pexels_kurt_barlow_e9ed.webp",
+          "dominantColorHex": "#8D98BB",
+          "colorPaletteHex": [
+            "#8D98BB",
+            "#1A202A",
+            "#5B6783",
+            "#B1B2CE",
+            "#E7DFE1"
+          ],
+          "fact": {
+            "title": "Snowy Lone Tree Sunset",
+            "fact": "This weather image shows a lone tree in snow under a colorful winter sky. Snow forms when water vapor in cold clouds becomes ice crystals that fall to the ground.",
+            "foodTitle": "Food",
+            "food": "Warm soups, oatmeal, roasted vegetables, and hot drinks are common comfort foods in snowy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Snowy weather is common in cold regions, high mountains, and places where winter temperatures stay below freezing.",
+            "learningPoints": [
+              "Snow reflects a lot of sunlight, which can make winter scenes look very bright.",
+              "Fresh snow can soften sounds by trapping air between ice crystals.",
+              "Layered clothing helps people stay warm in freezing weather."
+            ]
+          }
+        },
+        {
+          "id": "pexels_leyla_helvaci_c80e",
+          "title": "Snowy Mountain Village",
+          "url": "/weather/pexels_leyla_helvaci_c80e.webp",
+          "dominantColorHex": "#F3F1FA",
+          "colorPaletteHex": [
+            "#F3F1FA",
+            "#96939C",
+            "#E6E5ED",
+            "#F8F7FD",
+            "#FEFEFF"
+          ],
+          "fact": {
+            "title": "Snowy Mountain Village",
+            "fact": "This weather image shows a snow-covered village tucked below white mountains. Snow forms when water vapor in cold clouds becomes ice crystals that fall to the ground.",
+            "foodTitle": "Food",
+            "food": "Warm soups, oatmeal, roasted vegetables, and hot drinks are common comfort foods in snowy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Snowy weather is common in cold regions, high mountains, and places where winter temperatures stay below freezing.",
+            "learningPoints": [
+              "Snow reflects a lot of sunlight, which can make winter scenes look very bright.",
+              "Fresh snow can soften sounds by trapping air between ice crystals.",
+              "Layered clothing helps people stay warm in freezing weather."
+            ]
+          }
+        },
+        {
+          "id": "pexels_lichtblick_1d0c",
+          "title": "Yellow Daffodil Bloom",
+          "url": "/weather/pexels_lichtblick_1d0c.webp",
+          "dominantColorHex": "#4C3C4D",
+          "colorPaletteHex": [
+            "#4C3C4D",
+            "#504A59",
+            "#352F3A",
+            "#F4D80F",
+            "#746969"
+          ],
+          "fact": {
+            "title": "Yellow Daffodil Bloom",
+            "fact": "This weather image shows a yellow daffodil blooming as spring begins. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_luo_chris_78c7",
+          "title": "Red Camellia Blossom",
+          "url": "/weather/pexels_luo_chris_78c7.webp",
+          "dominantColorHex": "#011918",
+          "colorPaletteHex": [
+            "#011918",
+            "#3A3D3E",
+            "#4A5B5B",
+            "#681724",
+            "#8D8079"
+          ],
+          "fact": {
+            "title": "Red Camellia Blossom",
+            "fact": "This weather image shows a red camellia-like blossom opened among glossy leaves. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_macro_photography_4f58",
+          "title": "Warm Weather Wasp",
+          "url": "/weather/pexels_macro_photography_4f58.webp",
+          "dominantColorHex": "#59B602",
+          "colorPaletteHex": [
+            "#59B602",
+            "#5BB802",
+            "#563611",
+            "#76A416",
+            "#74BE15"
+          ],
+          "fact": {
+            "title": "Warm Weather Wasp",
+            "fact": "This weather image shows a wasp perched on a twig in warm outdoor weather. Sunny weather brings direct sunlight that warms land, water, plants, and air near the ground.",
+            "foodTitle": "Food",
+            "food": "Fresh fruit, water, salads, and picnic foods are common choices on warm sunny days.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Sunny weather can appear in any region when clouds are thin or absent.",
+            "learningPoints": [
+              "Sunlight helps plants make food through photosynthesis.",
+              "Bright sun creates strong shadows and vivid colors in photos.",
+              "Hats, shade, sunscreen, and water help people stay safer in strong sunlight."
+            ]
+          }
+        },
+        {
+          "id": "pexels_mahmoud_yahyaoui_c755",
+          "title": "Cloudy Green Valley",
+          "url": "/weather/pexels_mahmoud_yahyaoui_c755.webp",
+          "dominantColorHex": "#B3DDD1",
+          "colorPaletteHex": [
+            "#B3DDD1",
+            "#3A573A",
+            "#447756",
+            "#83A473",
+            "#7F7C58"
+          ],
+          "fact": {
+            "title": "Cloudy Green Valley",
+            "fact": "This weather image shows green hills and fields under a cloudy sky. Clouds are made of tiny water droplets or ice crystals suspended in the air.",
+            "foodTitle": "Food",
+            "food": "Cloudy days often pair well with picnic foods if it is dry, or warm meals if the air feels cool.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Clouds can form anywhere moist air cools enough for water vapor to condense.",
+            "learningPoints": [
+              "Cloud shapes can hint at calm weather, changing weather, or storms ahead.",
+              "Mountains can force air upward, which helps clouds form along ridges.",
+              "Cloud cover can cool daytime temperatures by blocking direct sunlight."
+            ]
+          }
+        },
+        {
+          "id": "pexels_marc_nesen_6eb2",
+          "title": "Pink Flower and Insect",
+          "url": "/weather/pexels_marc_nesen_6eb2.webp",
+          "dominantColorHex": "#747351",
+          "colorPaletteHex": [
+            "#747351",
+            "#D0AAB6",
+            "#3B4222",
+            "#524634",
+            "#585939"
+          ],
+          "fact": {
+            "title": "Pink Flower and Insect",
+            "fact": "This weather image shows a pink flower with a tiny insect visitor during blooming weather. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_maria_12ef",
+          "title": "Autumn Woodland Trail",
+          "url": "/weather/pexels_maria_12ef.webp",
+          "dominantColorHex": "#875E5B",
+          "colorPaletteHex": [
+            "#875E5B",
+            "#AB9B9C",
+            "#47252D",
+            "#7A4540",
+            "#6C312E"
+          ],
+          "fact": {
+            "title": "Autumn Woodland Trail",
+            "fact": "This weather image shows a woodland trail lined with copper and orange leaves. Autumn weather brings shorter days and cooler nights, which can change leaf colors before they fall.",
+            "foodTitle": "Food",
+            "food": "Apples, squash, soups, warm bread, and roasted foods are common autumn favorites.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Autumn color is common in temperate forests where deciduous trees prepare for winter.",
+            "learningPoints": [
+              "Leaves can turn yellow, orange, or red as green chlorophyll breaks down.",
+              "Cooler air and shorter daylight signal many seasonal changes.",
+              "Fallen leaves help return nutrients to the soil as they decompose."
+            ]
+          }
+        },
+        {
+          "id": "pexels_mazinomron_7b9c",
+          "title": "Snowy Mountain Ridges",
+          "url": "/weather/pexels_mazinomron_7b9c.webp",
+          "dominantColorHex": "#B5B8C7",
+          "colorPaletteHex": [
+            "#B5B8C7",
+            "#68718D",
+            "#293349",
+            "#3F5378",
+            "#4D5875"
+          ],
+          "fact": {
+            "title": "Snowy Mountain Ridges",
+            "fact": "This weather image shows jagged mountain ridges covered in snow. Snow forms when water vapor in cold clouds becomes ice crystals that fall to the ground.",
+            "foodTitle": "Food",
+            "food": "Warm soups, oatmeal, roasted vegetables, and hot drinks are common comfort foods in snowy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Snowy weather is common in cold regions, high mountains, and places where winter temperatures stay below freezing.",
+            "learningPoints": [
+              "Snow reflects a lot of sunlight, which can make winter scenes look very bright.",
+              "Fresh snow can soften sounds by trapping air between ice crystals.",
+              "Layered clothing helps people stay warm in freezing weather."
+            ]
+          }
+        },
+        {
+          "id": "pexels_mfdg_0150",
+          "title": "Snowy Mountain Peak",
+          "url": "/weather/pexels_mfdg_0150.webp",
+          "dominantColorHex": "#FAFBFC",
+          "colorPaletteHex": [
+            "#FAFBFC",
+            "#3A569D",
+            "#5577BC",
+            "#799CD4",
+            "#ACCBF1"
+          ],
+          "fact": {
+            "title": "Snowy Mountain Peak",
+            "fact": "This weather image shows a high mountain peak with bright snow and blue sky. Snow forms when water vapor in cold clouds becomes ice crystals that fall to the ground.",
+            "foodTitle": "Food",
+            "food": "Warm soups, oatmeal, roasted vegetables, and hot drinks are common comfort foods in snowy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Snowy weather is common in cold regions, high mountains, and places where winter temperatures stay below freezing.",
+            "learningPoints": [
+              "Snow reflects a lot of sunlight, which can make winter scenes look very bright.",
+              "Fresh snow can soften sounds by trapping air between ice crystals.",
+              "Layered clothing helps people stay warm in freezing weather."
+            ]
+          }
+        },
+        {
+          "id": "pexels_mitbg_a543",
+          "title": "Sunny Willow Park",
+          "url": "/weather/pexels_mitbg_a543.webp",
+          "dominantColorHex": "#131912",
+          "colorPaletteHex": [
+            "#131912",
+            "#5C5A29",
+            "#958B34",
+            "#B6A53A",
+            "#D1BA5B"
+          ],
+          "fact": {
+            "title": "Sunny Willow Park",
+            "fact": "This weather image shows a green park with willow branches glowing in sunlight. Sunny weather brings direct sunlight that warms land, water, plants, and air near the ground.",
+            "foodTitle": "Food",
+            "food": "Fresh fruit, water, salads, and picnic foods are common choices on warm sunny days.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Sunny weather can appear in any region when clouds are thin or absent.",
+            "learningPoints": [
+              "Sunlight helps plants make food through photosynthesis.",
+              "Bright sun creates strong shadows and vivid colors in photos.",
+              "Hats, shade, sunscreen, and water help people stay safer in strong sunlight."
+            ]
+          }
+        },
+        {
+          "id": "pexels_mitbg_f5f3",
+          "title": "White Blossoms Blue Sky",
+          "url": "/weather/pexels_mitbg_f5f3.webp",
+          "dominantColorHex": "#AAB9C7",
+          "colorPaletteHex": [
+            "#AAB9C7",
+            "#B8BFC9",
+            "#C1C3CB",
+            "#9B9486",
+            "#D2CBCD"
+          ],
+          "fact": {
+            "title": "White Blossoms Blue Sky",
+            "fact": "This weather image shows white blossoms standing out against a clear blue sky. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_mitchel3uo_8738",
+          "title": "Autumn Branch Leaves",
+          "url": "/weather/pexels_mitchel3uo_8738.webp",
+          "dominantColorHex": "#FFFFFF",
+          "colorPaletteHex": [
+            "#FFFFFF",
+            "#BF741F",
+            "#F7CB8D",
+            "#FFFEFD",
+            "#FDFFFF"
+          ],
+          "fact": {
+            "title": "Autumn Branch Leaves",
+            "fact": "This weather image shows golden leaves hanging from bare branches. Autumn weather brings shorter days and cooler nights, which can change leaf colors before they fall.",
+            "foodTitle": "Food",
+            "food": "Apples, squash, soups, warm bread, and roasted foods are common autumn favorites.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Autumn color is common in temperate forests where deciduous trees prepare for winter.",
+            "learningPoints": [
+              "Leaves can turn yellow, orange, or red as green chlorophyll breaks down.",
+              "Cooler air and shorter daylight signal many seasonal changes.",
+              "Fallen leaves help return nutrients to the soil as they decompose."
+            ]
+          }
+        },
+        {
+          "id": "pexels_nahmad_fec2",
+          "title": "Heavy City Rain",
+          "url": "/weather/pexels_nahmad_fec2.webp",
+          "dominantColorHex": "#929EA5",
+          "colorPaletteHex": [
+            "#929EA5",
+            "#63696B",
+            "#A8B8C1",
+            "#778287",
+            "#848C8D"
+          ],
+          "fact": {
+            "title": "Heavy City Rain",
+            "fact": "This weather image shows heavy rain falling across a city street. Rain falls when water droplets in clouds grow heavy enough to drop through the air.",
+            "foodTitle": "Food",
+            "food": "Warm tea, soups, bread, and simple indoor meals often feel satisfying during rainy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Rain happens in many climates, especially where moist air rises and cools into clouds.",
+            "learningPoints": [
+              "Rain helps refill rivers, lakes, soil, and groundwater.",
+              "Raindrops can make ripples, splashes, and reflections on wet surfaces.",
+              "Clouds become rain clouds when they hold enough condensed water."
+            ]
+          }
+        },
+        {
+          "id": "pexels_nihongraphy_b1e3",
+          "title": "Snowy Forest Road",
+          "url": "/weather/pexels_nihongraphy_b1e3.webp",
+          "dominantColorHex": "#686A6F",
+          "colorPaletteHex": [
+            "#686A6F",
+            "#34363D",
+            "#959499",
+            "#BDB9BE",
+            "#E3DCE0"
+          ],
+          "fact": {
+            "title": "Snowy Forest Road",
+            "fact": "This weather image shows a white road cutting through a dense snowy forest. Snow forms when water vapor in cold clouds becomes ice crystals that fall to the ground.",
+            "foodTitle": "Food",
+            "food": "Warm soups, oatmeal, roasted vegetables, and hot drinks are common comfort foods in snowy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Snowy weather is common in cold regions, high mountains, and places where winter temperatures stay below freezing.",
+            "learningPoints": [
+              "Snow reflects a lot of sunlight, which can make winter scenes look very bright.",
+              "Fresh snow can soften sounds by trapping air between ice crystals.",
+              "Layered clothing helps people stay warm in freezing weather."
+            ]
+          }
+        },
+        {
+          "id": "pexels_nikiemmert_4168",
+          "title": "Lavender Field Summer",
+          "url": "/weather/pexels_nikiemmert_4168.webp",
+          "dominantColorHex": "#424F32",
+          "colorPaletteHex": [
+            "#424F32",
+            "#A2E8FF",
+            "#7E7380",
+            "#DDF5FF",
+            "#81B6B3"
+          ],
+          "fact": {
+            "title": "Lavender Field Summer",
+            "fact": "This weather image shows purple lavender rows under a bright summer sky. Sunny weather brings direct sunlight that warms land, water, plants, and air near the ground.",
+            "foodTitle": "Food",
+            "food": "Fresh fruit, water, salads, and picnic foods are common choices on warm sunny days.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Sunny weather can appear in any region when clouds are thin or absent.",
+            "learningPoints": [
+              "Sunlight helps plants make food through photosynthesis.",
+              "Bright sun creates strong shadows and vivid colors in photos.",
+              "Hats, shade, sunscreen, and water help people stay safer in strong sunlight."
+            ]
+          }
+        },
+        {
+          "id": "pexels_nikolaeva_nastia_a60c",
+          "title": "Purple Iris Shade",
+          "url": "/weather/pexels_nikolaeva_nastia_a60c.webp",
+          "dominantColorHex": "#1F2222",
+          "colorPaletteHex": [
+            "#1F2222",
+            "#121814",
+            "#282F2D",
+            "#373D3F",
+            "#6D607F"
+          ],
+          "fact": {
+            "title": "Purple Iris Shade",
+            "fact": "This weather image shows a purple iris blooming in cool shaded light. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_nikolaeva_nastia_e6d6",
+          "title": "Spring Blossoms and Church",
+          "url": "/weather/pexels_nikolaeva_nastia_e6d6.webp",
+          "dominantColorHex": "#241916",
+          "colorPaletteHex": [
+            "#241916",
+            "#9DCCEF",
+            "#6F4C3D",
+            "#9FA9B5",
+            "#DDDBE2"
+          ],
+          "fact": {
+            "title": "Spring Blossoms and Church",
+            "fact": "This weather image shows pink spring blossoms framing a building below clear sky. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_nils_jonsson_cf27",
+          "title": "Snowy Dawn Forest",
+          "url": "/weather/pexels_nils_jonsson_cf27.webp",
+          "dominantColorHex": "#96ADCE",
+          "colorPaletteHex": [
+            "#96ADCE",
+            "#BBC7E0",
+            "#6F7B8E",
+            "#F4E8E9",
+            "#D3E0F1"
+          ],
+          "fact": {
+            "title": "Snowy Dawn Forest",
+            "fact": "This weather image shows snowy treetops under soft dawn colors. Snow forms when water vapor in cold clouds becomes ice crystals that fall to the ground.",
+            "foodTitle": "Food",
+            "food": "Warm soups, oatmeal, roasted vegetables, and hot drinks are common comfort foods in snowy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Snowy weather is common in cold regions, high mountains, and places where winter temperatures stay below freezing.",
+            "learningPoints": [
+              "Snow reflects a lot of sunlight, which can make winter scenes look very bright.",
+              "Fresh snow can soften sounds by trapping air between ice crystals.",
+              "Layered clothing helps people stay warm in freezing weather."
+            ]
+          }
+        },
+        {
+          "id": "pexels_nils_rotura_d9e1",
+          "title": "Sun Through Leaves",
+          "url": "/weather/pexels_nils_rotura_d9e1.webp",
+          "dominantColorHex": "#1E2523",
+          "colorPaletteHex": [
+            "#1E2523",
+            "#443B46",
+            "#6B7269",
+            "#F4EBDA",
+            "#A3B67E"
+          ],
+          "fact": {
+            "title": "Sun Through Leaves",
+            "fact": "This weather image shows sunlight shining through fresh green leaves. Sunny weather brings direct sunlight that warms land, water, plants, and air near the ground.",
+            "foodTitle": "Food",
+            "food": "Fresh fruit, water, salads, and picnic foods are common choices on warm sunny days.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Sunny weather can appear in any region when clouds are thin or absent.",
+            "learningPoints": [
+              "Sunlight helps plants make food through photosynthesis.",
+              "Bright sun creates strong shadows and vivid colors in photos.",
+              "Hats, shade, sunscreen, and water help people stay safer in strong sunlight."
+            ]
+          }
+        },
+        {
+          "id": "pexels_pavel_hajek_cc72",
+          "title": "Pink Thistle Bloom",
+          "url": "/weather/pexels_pavel_hajek_cc72.webp",
+          "dominantColorHex": "#191A04",
+          "colorPaletteHex": [
+            "#191A04",
+            "#493624",
+            "#665741",
+            "#C79EAD",
+            "#93746F"
+          ],
+          "fact": {
+            "title": "Pink Thistle Bloom",
+            "fact": "This weather image shows a pink thistle-like flower opening in the growing season. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_phil_ledwith_6f10",
+          "title": "Orange Flower Sunny Sky",
+          "url": "/weather/pexels_phil_ledwith_6f10.webp",
+          "dominantColorHex": "#F08403",
+          "colorPaletteHex": [
+            "#F08403",
+            "#00477D",
+            "#C54901",
+            "#0E4775",
+            "#786E36"
+          ],
+          "fact": {
+            "title": "Orange Flower Sunny Sky",
+            "fact": "This weather image shows an orange flower glowing against a blue sunny sky. Sunny weather brings direct sunlight that warms land, water, plants, and air near the ground.",
+            "foodTitle": "Food",
+            "food": "Fresh fruit, water, salads, and picnic foods are common choices on warm sunny days.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Sunny weather can appear in any region when clouds are thin or absent.",
+            "learningPoints": [
+              "Sunlight helps plants make food through photosynthesis.",
+              "Bright sun creates strong shadows and vivid colors in photos.",
+              "Hats, shade, sunscreen, and water help people stay safer in strong sunlight."
+            ]
+          }
+        },
+        {
+          "id": "pexels_qhung_4e3e",
+          "title": "Wildflower Meadow",
+          "url": "/weather/pexels_qhung_4e3e.webp",
+          "dominantColorHex": "#DEC5D4",
+          "colorPaletteHex": [
+            "#DEC5D4",
+            "#18763C",
+            "#69996B",
+            "#234A31",
+            "#6F7B68"
+          ],
+          "fact": {
+            "title": "Wildflower Meadow",
+            "fact": "This weather image shows a meadow filled with small bright flowers. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_rhiannonstone_5217",
+          "title": "Stormy Coastline",
+          "url": "/weather/pexels_rhiannonstone_5217.webp",
+          "dominantColorHex": "#E4D5B4",
+          "colorPaletteHex": [
+            "#E4D5B4",
+            "#0C64A4",
+            "#71A1C4",
+            "#071740",
+            "#4B6D8A"
+          ],
+          "fact": {
+            "title": "Stormy Coastline",
+            "fact": "This weather image shows dark clouds gathering over a coastline at sunset. Storms form when warm, moist air rises quickly and builds tall clouds with strong winds and rain.",
+            "foodTitle": "Food",
+            "food": "During stormy weather, people often keep easy meals, drinking water, and warm drinks available indoors.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Thunderstorms are common where warm, humid air can rise rapidly, especially in spring and summer.",
+            "learningPoints": [
+              "Lightning is a giant electrical discharge between clouds or between cloud and ground.",
+              "Thunder is the sound made when lightning heats air very quickly.",
+              "The safest place during lightning is inside a sturdy building or enclosed vehicle."
+            ]
+          }
+        },
+        {
+          "id": "pexels_rhiannonstone_97f7",
+          "title": "Snowy Lakeside Village",
+          "url": "/weather/pexels_rhiannonstone_97f7.webp",
+          "dominantColorHex": "#FFFFFF",
+          "colorPaletteHex": [
+            "#FFFFFF",
+            "#5E7B82",
+            "#0D2129",
+            "#C5D1CE",
+            "#FCFFFF"
+          ],
+          "fact": {
+            "title": "Snowy Lakeside Village",
+            "fact": "This weather image shows a snowy lakeside village reflected in cold water. Snow forms when water vapor in cold clouds becomes ice crystals that fall to the ground.",
+            "foodTitle": "Food",
+            "food": "Warm soups, oatmeal, roasted vegetables, and hot drinks are common comfort foods in snowy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Snowy weather is common in cold regions, high mountains, and places where winter temperatures stay below freezing.",
+            "learningPoints": [
+              "Snow reflects a lot of sunlight, which can make winter scenes look very bright.",
+              "Fresh snow can soften sounds by trapping air between ice crystals.",
+              "Layered clothing helps people stay warm in freezing weather."
+            ]
+          }
+        },
+        {
+          "id": "pexels_rob_mowe_87eb",
+          "title": "Bright Winter Sun",
+          "url": "/weather/pexels_rob_mowe_87eb.webp",
+          "dominantColorHex": "#201E35",
+          "colorPaletteHex": [
+            "#201E35",
+            "#A49398",
+            "#D0AE96",
+            "#615364",
+            "#F4D59C"
+          ],
+          "fact": {
+            "title": "Bright Winter Sun",
+            "fact": "This weather image shows low winter sun shining over snow-covered hills. Clear weather happens when clouds are scarce and sunlight or open sky is easy to see.",
+            "foodTitle": "Food",
+            "food": "Fresh fruit, sandwiches, salads, and plenty of water are useful for clear outdoor days.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Clear skies can happen in every climate when air is stable and there is not much moisture forming clouds.",
+            "learningPoints": [
+              "Clear nights can cool quickly because fewer clouds trap heat near the ground.",
+              "A blue sky appears when air scatters blue wavelengths of sunlight strongly.",
+              "Sun protection and hydration matter on bright clear days."
+            ]
+          }
+        },
+        {
+          "id": "pexels_rosivanmorais_dd01",
+          "title": "Autumn Cycling Path",
+          "url": "/weather/pexels_rosivanmorais_dd01.webp",
+          "dominantColorHex": "#B8995F",
+          "colorPaletteHex": [
+            "#B8995F",
+            "#E4CF96",
+            "#523B21",
+            "#7C6A44",
+            "#A07A42"
+          ],
+          "fact": {
+            "title": "Autumn Cycling Path",
+            "fact": "This weather image shows cyclists riding beneath yellow autumn trees. Autumn weather brings shorter days and cooler nights, which can change leaf colors before they fall.",
+            "foodTitle": "Food",
+            "food": "Apples, squash, soups, warm bread, and roasted foods are common autumn favorites.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Autumn color is common in temperate forests where deciduous trees prepare for winter.",
+            "learningPoints": [
+              "Leaves can turn yellow, orange, or red as green chlorophyll breaks down.",
+              "Cooler air and shorter daylight signal many seasonal changes.",
+              "Fallen leaves help return nutrients to the soil as they decompose."
+            ]
+          }
+        },
+        {
+          "id": "pexels_simon_4b49",
+          "title": "Lone Tree Snowfield",
+          "url": "/weather/pexels_simon_4b49.webp",
+          "dominantColorHex": "#B1D8F1",
+          "colorPaletteHex": [
+            "#B1D8F1",
+            "#CCE9FC",
+            "#D7ECFE",
+            "#DDF1FF",
+            "#7AA4C1"
+          ],
+          "fact": {
+            "title": "Lone Tree Snowfield",
+            "fact": "This weather image shows a single bare tree standing in a wide snowy field. Snow forms when water vapor in cold clouds becomes ice crystals that fall to the ground.",
+            "foodTitle": "Food",
+            "food": "Warm soups, oatmeal, roasted vegetables, and hot drinks are common comfort foods in snowy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Snowy weather is common in cold regions, high mountains, and places where winter temperatures stay below freezing.",
+            "learningPoints": [
+              "Snow reflects a lot of sunlight, which can make winter scenes look very bright.",
+              "Fresh snow can soften sounds by trapping air between ice crystals.",
+              "Layered clothing helps people stay warm in freezing weather."
+            ]
+          }
+        },
+        {
+          "id": "pexels_simon_78a9",
+          "title": "Golden Autumn Tunnel",
+          "url": "/weather/pexels_simon_78a9.webp",
+          "dominantColorHex": "#B8390A",
+          "colorPaletteHex": [
+            "#B8390A",
+            "#D0661B",
+            "#581B0C",
+            "#E19033",
+            "#EBC167"
+          ],
+          "fact": {
+            "title": "Golden Autumn Tunnel",
+            "fact": "This weather image shows a walkway covered by golden autumn leaves. Autumn weather brings shorter days and cooler nights, which can change leaf colors before they fall.",
+            "foodTitle": "Food",
+            "food": "Apples, squash, soups, warm bread, and roasted foods are common autumn favorites.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Autumn color is common in temperate forests where deciduous trees prepare for winter.",
+            "learningPoints": [
+              "Leaves can turn yellow, orange, or red as green chlorophyll breaks down.",
+              "Cooler air and shorter daylight signal many seasonal changes.",
+              "Fallen leaves help return nutrients to the soil as they decompose."
+            ]
+          }
+        },
+        {
+          "id": "pexels_sonny_2799",
+          "title": "Fresh Green Leaves",
+          "url": "/weather/pexels_sonny_2799.webp",
+          "dominantColorHex": "#2B643E",
+          "colorPaletteHex": [
+            "#2B643E",
+            "#95B46F",
+            "#001017",
+            "#002923",
+            "#092C23"
+          ],
+          "fact": {
+            "title": "Fresh Green Leaves",
+            "fact": "This weather image shows new green leaves growing in bright seasonal light. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_stephane_tendon_fdb3",
+          "title": "Dandelion Seed Puff",
+          "url": "/weather/pexels_stephane_tendon_fdb3.webp",
+          "dominantColorHex": "#13130D",
+          "colorPaletteHex": [
+            "#13130D",
+            "#090A0D",
+            "#100F0B",
+            "#0E0C0C",
+            "#59554E"
+          ],
+          "fact": {
+            "title": "Dandelion Seed Puff",
+            "fact": "This weather image shows a dandelion seed puff ready to travel on moving air. Wind is moving air, and it forms when air pressure differs from one place to another.",
+            "foodTitle": "Food",
+            "food": "Warm drinks and easy-to-hold snacks are practical when breezy weather makes outdoor eating harder.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Windy conditions are common on coasts, plains, mountain passes, and before or after weather fronts.",
+            "learningPoints": [
+              "Wind can move clouds, seeds, pollen, dust, and ocean waves.",
+              "Some plants use wind to spread seeds to new places.",
+              "Strong wind can make the air feel colder than the thermometer reading."
+            ]
+          }
+        },
+        {
+          "id": "pexels_talenareese_f298",
+          "title": "Orange Tree in Snow",
+          "url": "/weather/pexels_talenareese_f298.webp",
+          "dominantColorHex": "#A32E06",
+          "colorPaletteHex": [
+            "#A32E06",
+            "#5D260D",
+            "#FFFFFF",
+            "#FDFCF8",
+            "#CB9F84"
+          ],
+          "fact": {
+            "title": "Orange Tree in Snow",
+            "fact": "This weather image shows a bright orange tree standing above a snowy ground. Autumn weather brings shorter days and cooler nights, which can change leaf colors before they fall.",
+            "foodTitle": "Food",
+            "food": "Apples, squash, soups, warm bread, and roasted foods are common autumn favorites.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Autumn color is common in temperate forests where deciduous trees prepare for winter.",
+            "learningPoints": [
+              "Leaves can turn yellow, orange, or red as green chlorophyll breaks down.",
+              "Cooler air and shorter daylight signal many seasonal changes.",
+              "Fallen leaves help return nutrients to the soil as they decompose."
+            ]
+          }
+        },
+        {
+          "id": "pexels_tanya_harrington_e466",
+          "title": "Yellow Crocus Flowers",
+          "url": "/weather/pexels_tanya_harrington_e466.webp",
+          "dominantColorHex": "#5C9511",
+          "colorPaletteHex": [
+            "#5C9511",
+            "#373D0A",
+            "#66740A",
+            "#C69517",
+            "#C2B328"
+          ],
+          "fact": {
+            "title": "Yellow Crocus Flowers",
+            "fact": "This weather image shows yellow crocus flowers emerging from spring grass. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_technobulka_5361",
+          "title": "White Lawn Daisies",
+          "url": "/weather/pexels_technobulka_5361.webp",
+          "dominantColorHex": "#1C4521",
+          "colorPaletteHex": [
+            "#1C4521",
+            "#000302",
+            "#032211",
+            "#C2C6A0",
+            "#01120A"
+          ],
+          "fact": {
+            "title": "White Lawn Daisies",
+            "fact": "This weather image shows small white daisies growing in green grass. Spring weather brings longer daylight and warmer temperatures that help many plants bloom.",
+            "foodTitle": "Food",
+            "food": "Spring meals often include fresh greens, berries, peas, herbs, and lighter outdoor snacks.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Spring seasons occur in temperate regions after winter as daylight increases and temperatures rise.",
+            "learningPoints": [
+              "Flowers often bloom when temperature and daylight cues are right.",
+              "Spring rain and warmth help seeds sprout and leaves expand.",
+              "Pollinators visit many flowers for nectar and pollen during blooming seasons."
+            ]
+          }
+        },
+        {
+          "id": "pexels_thepaintedsquare_6c22",
+          "title": "Pink Flower Close-Up",
+          "url": "/weather/pexels_thepaintedsquare_6c22.webp",
+          "dominantColorHex": "#794F7B",
+          "colorPaletteHex": [
+            "#794F7B",
+            "#F00C89",
+            "#E7A09F",
+            "#881A70",
+            "#B17289"
+          ],
+          "fact": {
+            "title": "Pink Flower Close-Up",
+            "fact": "This weather image shows a pink flower petal glowing in soft light. Sunny weather brings direct sunlight that warms land, water, plants, and air near the ground.",
+            "foodTitle": "Food",
+            "food": "Fresh fruit, water, salads, and picnic foods are common choices on warm sunny days.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Sunny weather can appear in any region when clouds are thin or absent.",
+            "learningPoints": [
+              "Sunlight helps plants make food through photosynthesis.",
+              "Bright sun creates strong shadows and vivid colors in photos.",
+              "Hats, shade, sunscreen, and water help people stay safer in strong sunlight."
+            ]
+          }
+        },
+        {
+          "id": "pexels_travelers_tw_80bf",
+          "title": "Blowing Snow Road",
+          "url": "/weather/pexels_travelers_tw_80bf.webp",
+          "dominantColorHex": "#C7D2E9",
+          "colorPaletteHex": [
+            "#C7D2E9",
+            "#DBE5F7",
+            "#9A9FB5",
+            "#D3DEF2",
+            "#DDE8F8"
+          ],
+          "fact": {
+            "title": "Blowing Snow Road",
+            "fact": "This weather image shows a road fading into blowing snow and poor visibility. Snow forms when water vapor in cold clouds becomes ice crystals that fall to the ground.",
+            "foodTitle": "Food",
+            "food": "Warm soups, oatmeal, roasted vegetables, and hot drinks are common comfort foods in snowy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Snowy weather is common in cold regions, high mountains, and places where winter temperatures stay below freezing.",
+            "learningPoints": [
+              "Snow reflects a lot of sunlight, which can make winter scenes look very bright.",
+              "Fresh snow can soften sounds by trapping air between ice crystals.",
+              "Layered clothing helps people stay warm in freezing weather."
+            ]
+          }
+        },
+        {
+          "id": "pexels_travelers_tw_c546",
+          "title": "Snowy City Crossing",
+          "url": "/weather/pexels_travelers_tw_c546.webp",
+          "dominantColorHex": "#817E7F",
+          "colorPaletteHex": [
+            "#817E7F",
+            "#97989A",
+            "#574F50",
+            "#AFADAE",
+            "#DFDEE2"
+          ],
+          "fact": {
+            "title": "Snowy City Crossing",
+            "fact": "This weather image shows snow falling on a city crosswalk and streetscape. Snow forms when water vapor in cold clouds becomes ice crystals that fall to the ground.",
+            "foodTitle": "Food",
+            "food": "Warm soups, oatmeal, roasted vegetables, and hot drinks are common comfort foods in snowy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Snowy weather is common in cold regions, high mountains, and places where winter temperatures stay below freezing.",
+            "learningPoints": [
+              "Snow reflects a lot of sunlight, which can make winter scenes look very bright.",
+              "Fresh snow can soften sounds by trapping air between ice crystals.",
+              "Layered clothing helps people stay warm in freezing weather."
+            ]
+          }
+        },
+        {
+          "id": "pexels_vizi_kata_4bba",
+          "title": "Rainbow Over Fields",
+          "url": "/weather/pexels_vizi_kata_4bba.webp",
+          "dominantColorHex": "#262B0E",
+          "colorPaletteHex": [
+            "#262B0E",
+            "#647C86",
+            "#334B48",
+            "#4C676B",
+            "#929D91"
+          ],
+          "fact": {
+            "title": "Rainbow Over Fields",
+            "fact": "This weather image shows a rainbow appearing over open fields after rain. A rainbow appears when sunlight bends and reflects inside raindrops, splitting into colors.",
+            "foodTitle": "Food",
+            "food": "After rainy weather, bright snacks like fruit and fresh water are easy choices for outdoor time.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Rainbows can appear anywhere sunlight shines through falling rain or mist at the right angle.",
+            "learningPoints": [
+              "Rainbows are usually seen opposite the Sun in the sky.",
+              "Water droplets act like tiny prisms that separate sunlight into colors.",
+              "A rainbow often means rain and sunshine are happening nearby at the same time."
+            ]
+          }
+        },
+        {
+          "id": "pexels_wanderedguy_d194",
+          "title": "Towering Storm Cloud",
+          "url": "/weather/pexels_wanderedguy_d194.webp",
+          "dominantColorHex": "#EBECE8",
+          "colorPaletteHex": [
+            "#EBECE8",
+            "#193E62",
+            "#99A1A7",
+            "#6A757D",
+            "#496076"
+          ],
+          "fact": {
+            "title": "Towering Storm Cloud",
+            "fact": "This weather image shows a tall storm cloud rising into bright sky. Storms form when warm, moist air rises quickly and builds tall clouds with strong winds and rain.",
+            "foodTitle": "Food",
+            "food": "During stormy weather, people often keep easy meals, drinking water, and warm drinks available indoors.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Thunderstorms are common where warm, humid air can rise rapidly, especially in spring and summer.",
+            "learningPoints": [
+              "Lightning is a giant electrical discharge between clouds or between cloud and ground.",
+              "Thunder is the sound made when lightning heats air very quickly.",
+              "The safest place during lightning is inside a sturdy building or enclosed vehicle."
+            ]
+          }
+        },
+        {
+          "id": "pexels_wandering_bo_0317",
+          "title": "Snowy Forest Path",
+          "url": "/weather/pexels_wandering_bo_0317.webp",
+          "dominantColorHex": "#86A1A0",
+          "colorPaletteHex": [
+            "#86A1A0",
+            "#DDE7E8",
+            "#224842",
+            "#658280",
+            "#4B716F"
+          ],
+          "fact": {
+            "title": "Snowy Forest Path",
+            "fact": "This weather image shows a forest path surrounded by snow-covered branches. Snow forms when water vapor in cold clouds becomes ice crystals that fall to the ground.",
+            "foodTitle": "Food",
+            "food": "Warm soups, oatmeal, roasted vegetables, and hot drinks are common comfort foods in snowy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Snowy weather is common in cold regions, high mountains, and places where winter temperatures stay below freezing.",
+            "learningPoints": [
+              "Snow reflects a lot of sunlight, which can make winter scenes look very bright.",
+              "Fresh snow can soften sounds by trapping air between ice crystals.",
+              "Layered clothing helps people stay warm in freezing weather."
+            ]
+          }
+        },
+        {
+          "id": "pexels_wenchengphoto_3ae6",
+          "title": "Rainy Umbrella",
+          "url": "/weather/pexels_wenchengphoto_3ae6.webp",
+          "dominantColorHex": "#5D686F",
+          "colorPaletteHex": [
+            "#5D686F",
+            "#000E12",
+            "#C3C1BF",
+            "#272F2F",
+            "#031319"
+          ],
+          "fact": {
+            "title": "Rainy Umbrella",
+            "fact": "This weather image shows a clear umbrella covered with raindrops at night. Rain falls when water droplets in clouds grow heavy enough to drop through the air.",
+            "foodTitle": "Food",
+            "food": "Warm tea, soups, bread, and simple indoor meals often feel satisfying during rainy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Rain happens in many climates, especially where moist air rises and cools into clouds.",
+            "learningPoints": [
+              "Rain helps refill rivers, lakes, soil, and groundwater.",
+              "Raindrops can make ripples, splashes, and reflections on wet surfaces.",
+              "Clouds become rain clouds when they hold enough condensed water."
+            ]
+          }
+        },
+        {
+          "id": "pexels_wired_optics_a78f",
+          "title": "Cyclist in Snow",
+          "url": "/weather/pexels_wired_optics_a78f.webp",
+          "dominantColorHex": "#FFFFFF",
+          "colorPaletteHex": [
+            "#FFFFFF",
+            "#FBFCFD",
+            "#CCD0D7",
+            "#FEFFFF",
+            "#FFFFFE"
+          ],
+          "fact": {
+            "title": "Cyclist in Snow",
+            "fact": "This weather image shows a cyclist riding through bright falling snow. Snow forms when water vapor in cold clouds becomes ice crystals that fall to the ground.",
+            "foodTitle": "Food",
+            "food": "Warm soups, oatmeal, roasted vegetables, and hot drinks are common comfort foods in snowy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Snowy weather is common in cold regions, high mountains, and places where winter temperatures stay below freezing.",
+            "learningPoints": [
+              "Snow reflects a lot of sunlight, which can make winter scenes look very bright.",
+              "Fresh snow can soften sounds by trapping air between ice crystals.",
+              "Layered clothing helps people stay warm in freezing weather."
+            ]
+          }
+        },
+        {
+          "id": "pexels_yury_5c61",
+          "title": "Cold Mountain Lake",
+          "url": "/weather/pexels_yury_5c61.webp",
+          "dominantColorHex": "#182C46",
+          "colorPaletteHex": [
+            "#182C46",
+            "#2E5685",
+            "#5483B5",
+            "#7AA9D7",
+            "#ACD2F0"
+          ],
+          "fact": {
+            "title": "Cold Mountain Lake",
+            "fact": "This weather image shows a clear cold lake bordered by snowy mountains. Clear weather happens when clouds are scarce and sunlight or open sky is easy to see.",
+            "foodTitle": "Food",
+            "food": "Fresh fruit, sandwiches, salads, and plenty of water are useful for clear outdoor days.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Clear skies can happen in every climate when air is stable and there is not much moisture forming clouds.",
+            "learningPoints": [
+              "Clear nights can cool quickly because fewer clouds trap heat near the ground.",
+              "A blue sky appears when air scatters blue wavelengths of sunlight strongly.",
+              "Sun protection and hydration matter on bright clear days."
+            ]
+          }
+        },
+        {
+          "id": "pexels_zzzzlz_184f",
+          "title": "Snowy Sunset Tree",
+          "url": "/weather/pexels_zzzzlz_184f.webp",
+          "dominantColorHex": "#A997A5",
+          "colorPaletteHex": [
+            "#A997A5",
+            "#647AA0",
+            "#162A47",
+            "#D79C95",
+            "#F0A18D"
+          ],
+          "fact": {
+            "title": "Snowy Sunset Tree",
+            "fact": "This weather image shows a bare tree silhouetted against a pastel snowy sunset. Snow forms when water vapor in cold clouds becomes ice crystals that fall to the ground.",
+            "foodTitle": "Food",
+            "food": "Warm soups, oatmeal, roasted vegetables, and hot drinks are common comfort foods in snowy weather.",
+            "strongholdTitle": "Where They Are Found",
+            "stronghold": "Snowy weather is common in cold regions, high mountains, and places where winter temperatures stay below freezing.",
+            "learningPoints": [
+              "Snow reflects a lot of sunlight, which can make winter scenes look very bright.",
+              "Fresh snow can soften sounds by trapping air between ice crystals.",
+              "Layered clothing helps people stay warm in freezing weather."
             ]
           }
         }
