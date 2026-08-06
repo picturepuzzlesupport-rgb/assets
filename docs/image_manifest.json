@@ -3043,1000 +3043,6 @@
       ]
     },
     {
-      "id": "fantasy",
-      "title": "Fantasy",
-      "images": [
-        {
-          "id": "pexels_alexasfotos_7c16",
-          "title": "Feathered Potion Bottles",
-          "url": "/Fantasy/pexels_alexasfotos_7c16.webp",
-          "dominantColorHex": "#0E060D",
-          "colorPaletteHex": [
-            "#0E060D",
-            "#B1713D",
-            "#551C14",
-            "#24090D",
-            "#0A040C"
-          ],
-          "fact": {
-            "title": "Feathered Potion Bottles",
-            "fact": "This playful still life shows three colorful bottles topped with feathery shapes, like pretend potions in a story scene.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine each bottle holds a different color spell for painting clouds, warming campfires, or making moonlight sparkle.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the bright orange, yellow, and gray plumes, rounded bottle shapes, and dark background.",
-            "learningPoints": [
-              "Strong contrast makes the bright objects stand out from the dark scene.",
-              "Repeating bottle shapes help the picture feel balanced.",
-              "Textures like feathers can make ordinary objects feel imaginary."
-            ]
-          }
-        },
-        {
-          "id": "pexels_amar_c7ea",
-          "title": "Tiny Sky Planet",
-          "url": "/Fantasy/pexels_amar_c7ea.webp",
-          "dominantColorHex": "#22529E",
-          "colorPaletteHex": [
-            "#22529E",
-            "#476993",
-            "#668CBC",
-            "#9EB8DE",
-            "#D0DDF1"
-          ],
-          "fact": {
-            "title": "Tiny Sky Planet",
-            "fact": "This image turns a landscape into a tiny round world floating in a bright blue sky.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine walking all the way around the tiny planet and finding a new view with every step.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the circular land, surrounding clouds, and sunny sky wrapped around the scene.",
-            "learningPoints": [
-              "A tiny-planet effect bends a wide view into a circle.",
-              "The round shape creates a fantasy world from a real landscape.",
-              "Clouds and blue sky make the planet feel light and floating."
-            ]
-          }
-        },
-        {
-          "id": "pexels_anas_albadri_e382",
-          "title": "Golden Dragon Eye",
-          "url": "/Fantasy/pexels_anas_albadri_e382.webp",
-          "dominantColorHex": "#000000",
-          "colorPaletteHex": [
-            "#000000",
-            "#FA7F2C",
-            "#CE4D24",
-            "#000102",
-            "#250F0B"
-          ],
-          "fact": {
-            "title": "Golden Dragon Eye",
-            "fact": "This close-up eye image uses bright orange texture and a dark center to feel mysterious and dramatic.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the eye belongs to a wise guardian watching over a hidden treasure room.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the glowing orange ring, tiny radial lines, and deep black center.",
-            "learningPoints": [
-              "Close-up photography can make small details look huge.",
-              "Radial lines point attention toward the center.",
-              "Warm colors can make a scene feel intense or magical."
-            ]
-          }
-        },
-        {
-          "id": "pexels_anderson_martinsz_946d",
-          "title": "Cyber Explorer Mask",
-          "url": "/Fantasy/pexels_anderson_martinsz_946d.webp",
-          "dominantColorHex": "#E5ECEB",
-          "colorPaletteHex": [
-            "#E5ECEB",
-            "#504748",
-            "#DEE6E4",
-            "#EAEEED",
-            "#EBF1EF"
-          ],
-          "fact": {
-            "title": "Cyber Explorer Mask",
-            "fact": "This image shows a futuristic mask with round lenses, headphones, and mechanical details.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine a space explorer using the mask to listen for signals from a faraway city.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the shiny lenses, circular ear pieces, breathing tube, and pale background.",
-            "learningPoints": [
-              "Symmetrical parts can make a design look robotic.",
-              "Metal and glass textures suggest technology.",
-              "Small cables and tubes add detail for puzzle solving."
-            ]
-          }
-        },
-        {
-          "id": "pexels_anya_juarez_tenorio_6a5b",
-          "title": "Mushroom Forest Friend",
-          "url": "/Fantasy/pexels_anya_juarez_tenorio_6a5b.webp",
-          "dominantColorHex": "#030201",
-          "colorPaletteHex": [
-            "#030201",
-            "#190D0B",
-            "#342820",
-            "#4C4B37",
-            "#939381"
-          ],
-          "fact": {
-            "title": "Mushroom Forest Friend",
-            "fact": "This tiny figure under a mushroom makes the forest floor look like a miniature fantasy world.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the little friend using the mushroom as a rain umbrella during a woodland adventure.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the small figure, spotted mushroom cap, green leaves, and shadowy ground.",
-            "learningPoints": [
-              "Miniature scenes can make everyday places feel enormous.",
-              "Leaves and soil add natural texture around the subject.",
-              "A small bright figure helps guide the eye in a dark scene."
-            ]
-          }
-        },
-        {
-          "id": "pexels_artyusufpatel_0b58",
-          "title": "Floating Shadow Cube",
-          "url": "/Fantasy/pexels_artyusufpatel_0b58.webp",
-          "dominantColorHex": "#17171C",
-          "colorPaletteHex": [
-            "#17171C",
-            "#0A0A0B",
-            "#28282F",
-            "#41424C",
-            "#8C8E97"
-          ],
-          "fact": {
-            "title": "Floating Shadow Cube",
-            "fact": "This dark architectural scene shows a cube-like shape suspended inside a tall shaft of light and shadow.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the cube is a puzzle key hovering inside a secret tower.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the glowing diagonal lines, deep shadows, and small floating block near the top.",
-            "learningPoints": [
-              "Leading lines draw the eye upward through the image.",
-              "Light and shadow create a mysterious mood.",
-              "A single floating object can become the center of a story."
-            ]
-          }
-        },
-        {
-          "id": "pexels_aydin_photography_0acc",
-          "title": "Storybook Castle Towers",
-          "url": "/Fantasy/pexels_aydin_photography_0acc.webp",
-          "dominantColorHex": "#120F0F",
-          "colorPaletteHex": [
-            "#120F0F",
-            "#554E4D",
-            "#C6BCBE",
-            "#AA9B99",
-            "#DACFD0"
-          ],
-          "fact": {
-            "title": "Storybook Castle Towers",
-            "fact": "This castle view has tall pointed roofs and rounded towers that look like they came from a storybook.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine climbing the highest tower to read a map of the kingdom from above.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the pointed rooftops, stone walls, arched windows, and cloudy sky.",
-            "learningPoints": [
-              "Tall towers help castles look grand and dramatic.",
-              "Repeating roof shapes make the building feel unified.",
-              "Looking upward makes the castle seem taller."
-            ]
-          }
-        },
-        {
-          "id": "pexels_bakytzhan_baurzhanov_992f",
-          "title": "Moonlit Playroom",
-          "url": "/Fantasy/pexels_bakytzhan_baurzhanov_992f.webp",
-          "dominantColorHex": "#FEFDFD",
-          "colorPaletteHex": [
-            "#FEFDFD",
-            "#97664B",
-            "#E6DAD8",
-            "#B9927D",
-            "#D2A690"
-          ],
-          "fact": {
-            "title": "Moonlit Playroom",
-            "fact": "This bright playroom scene includes a round window and tiny toys, giving the room a gentle imaginary feel.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the round window becomes a moon portal after the toys are put away.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the circular window, wooden walls, small toys, and soft white furniture.",
-            "learningPoints": [
-              "Simple shapes like circles and triangles are easy to spot in puzzles.",
-              "Warm wood tones make the room feel cozy.",
-              "Tiny toys add scale and story detail."
-            ]
-          }
-        },
-        {
-          "id": "pexels_bon_d43a",
-          "title": "Wall-Climbing Creatures",
-          "url": "/Fantasy/pexels_bon_d43a.webp",
-          "dominantColorHex": "#57A0E9",
-          "colorPaletteHex": [
-            "#57A0E9",
-            "#A89A9B",
-            "#5F799E",
-            "#8FA8CA",
-            "#7A94B7"
-          ],
-          "fact": {
-            "title": "Wall-Climbing Creatures",
-            "fact": "This image shows small climbing figures on a tall wall beneath a wide blue sky.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the climbers are scaling a castle wall to discover what waits on the other side.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the two small figures, rough wall surface, and large open sky.",
-            "learningPoints": [
-              "The open sky makes the wall feel tall.",
-              "Diagonal body positions add movement to the scene.",
-              "Small subjects can make a puzzle more challenging."
-            ]
-          }
-        },
-        {
-          "id": "pexels_brahim_dogan_a816",
-          "title": "Floating Banana Balloon",
-          "url": "/Fantasy/pexels_brahim_dogan_a816.webp",
-          "dominantColorHex": "#FFDBCC",
-          "colorPaletteHex": [
-            "#FFDBCC",
-            "#FDCEBE",
-            "#FFD7C6",
-            "#F0BEAB",
-            "#FFE5D7"
-          ],
-          "fact": {
-            "title": "Floating Banana Balloon",
-            "fact": "This surreal scene pairs a banana with a glowing round balloon against a soft peach background.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the banana is a tiny moon boat floating under a lantern balloon.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the white balloon, curved yellow banana, and smooth pastel background.",
-            "learningPoints": [
-              "Surreal art combines unexpected objects.",
-              "Simple backgrounds help the main shapes stand out.",
-              "Curved and round forms make the picture feel gentle."
-            ]
-          }
-        },
-        {
-          "id": "pexels_christian_marohn_4a04",
-          "title": "Forest Castle",
-          "url": "/Fantasy/pexels_christian_marohn_4a04.webp",
-          "dominantColorHex": "#96B8DB",
-          "colorPaletteHex": [
-            "#96B8DB",
-            "#071207",
-            "#5885AB",
-            "#173A27",
-            "#36515B"
-          ],
-          "fact": {
-            "title": "Forest Castle",
-            "fact": "This castle rises above a green forest with mountains and dramatic clouds in the distance.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the castle protects a hidden library full of maps, songs, and secret doors.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the tall spires, forest treetops, distant hills, and blue-gray sky.",
-            "learningPoints": [
-              "A high viewpoint shows the castle and landscape together.",
-              "Forests can make buildings feel remote and mysterious.",
-              "Cool sky colors contrast with the green trees."
-            ]
-          }
-        },
-        {
-          "id": "pexels_db48",
-          "title": "Magic Garden Desk",
-          "url": "/Fantasy/pexels_db48.webp",
-          "dominantColorHex": "#F9C327",
-          "colorPaletteHex": [
-            "#F9C327",
-            "#FED02C",
-            "#FFF6CA",
-            "#CF6226",
-            "#F3E9AD"
-          ],
-          "fact": {
-            "title": "Magic Garden Desk",
-            "fact": "This bright scene shows garden tools, flowers, and a notebook arranged on a bold yellow surface.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the notebook contains instructions for growing a glowing flower overnight.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the red watering can, pale tulips, notebook, pencil, and yellow background.",
-            "learningPoints": [
-              "Bright backgrounds can make tools and flowers pop.",
-              "A top-down view turns objects into clear puzzle shapes.",
-              "Garden objects can inspire stories about growing and caring."
-            ]
-          }
-        },
-        {
-          "id": "pexels_esteban_santiago_gonzalez_483d",
-          "title": "Cozy Reading Chair",
-          "url": "/Fantasy/pexels_esteban_santiago_gonzalez_483d.webp",
-          "dominantColorHex": "#8C5839",
-          "colorPaletteHex": [
-            "#8C5839",
-            "#72442D",
-            "#512F1E",
-            "#DCB8A5",
-            "#A87356"
-          ],
-          "fact": {
-            "title": "Cozy Reading Chair",
-            "fact": "This warm chair scene feels like a quiet place where a fantasy story could begin.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine opening a book in the chair and finding a map tucked between the pages.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the curved chair back, soft fabric, wooden legs, and warm brown shadows.",
-            "learningPoints": [
-              "A single object can suggest a whole setting.",
-              "Warm lighting makes the chair look comfortable.",
-              "Curved furniture shapes add softness to the image."
-            ]
-          }
-        },
-        {
-          "id": "pexels_googledeepmind_05e2",
-          "title": "Pixel Garden Maze",
-          "url": "/Fantasy/pexels_googledeepmind_05e2.webp",
-          "dominantColorHex": "#784733",
-          "colorPaletteHex": [
-            "#784733",
-            "#8A8667",
-            "#F1C9CA",
-            "#A5C17F",
-            "#F5F3DF"
-          ],
-          "fact": {
-            "title": "Pixel Garden Maze",
-            "fact": "This abstract image uses many small blocks of color that look like a digital maze or garden map.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine each colored square is a stepping stone through a secret puzzle garden.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the green, red, pink, white, and brown blocks scattered across the image.",
-            "learningPoints": [
-              "Abstract images can focus on color, rhythm, and pattern.",
-              "Small repeated shapes create a busy puzzle texture.",
-              "Contrasting colors help different areas stand apart."
-            ]
-          }
-        },
-        {
-          "id": "pexels_googledeepmind_0fbf",
-          "title": "Purple Pixel Cloud",
-          "url": "/Fantasy/pexels_googledeepmind_0fbf.webp",
-          "dominantColorHex": "#5C2B5B",
-          "colorPaletteHex": [
-            "#5C2B5B",
-            "#280C28",
-            "#AD6DAA",
-            "#F7F7F7",
-            "#F1D0EE"
-          ],
-          "fact": {
-            "title": "Purple Pixel Cloud",
-            "fact": "This image forms a cloud-like shape from many tiny purple pieces, blending digital texture with organic form.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the purple cloud stores dreams and releases them as tiny sparkling blocks.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the clustered purple pieces, rounded outline, and pale background.",
-            "learningPoints": [
-              "Many tiny shapes can merge into one larger form.",
-              "Purple tones create depth through light and dark values.",
-              "Texture helps a simple silhouette become more detailed."
-            ]
-          }
-        },
-        {
-          "id": "pexels_googledeepmind_84fe",
-          "title": "Crystal Pixel City",
-          "url": "/Fantasy/pexels_googledeepmind_84fe.webp",
-          "dominantColorHex": "#BED0DD",
-          "colorPaletteHex": [
-            "#BED0DD",
-            "#ECEBF9",
-            "#8CA8B9",
-            "#D3EAF4",
-            "#F7F6FB"
-          ],
-          "fact": {
-            "title": "Crystal Pixel City",
-            "fact": "This pale digital scene looks like a small city built from translucent cubes and glowing platforms.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine crossing the glassy city to find a door made of light.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the stacked cubes, blue glow, white floor, and misty vertical lights.",
-            "learningPoints": [
-              "Cubes can create a city-like pattern even without windows or streets.",
-              "Pale colors make the scene feel icy and futuristic.",
-              "Repeated blocks are useful visual anchors in a puzzle."
-            ]
-          }
-        },
-        {
-          "id": "pexels_googledeepmind_85f8",
-          "title": "Candy Game Pieces",
-          "url": "/Fantasy/pexels_googledeepmind_85f8.webp",
-          "dominantColorHex": "#EBDED6",
-          "colorPaletteHex": [
-            "#EBDED6",
-            "#F6F1F9",
-            "#FFFEFF",
-            "#BC848F",
-            "#FFF6DF"
-          ],
-          "fact": {
-            "title": "Candy Game Pieces",
-            "fact": "This close-up scene shows colorful rounded pieces that look like playful tokens on a bright surface.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine each piece unlocks a different level in a magical board game.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the orange sticks, blue circles, pink pieces, and soft white background.",
-            "learningPoints": [
-              "Close-up views can make small objects feel oversized.",
-              "Bright colors create clear puzzle landmarks.",
-              "Rounded shapes give the scene a playful mood."
-            ]
-          }
-        },
-        {
-          "id": "pexels_googledeepmind_88bb",
-          "title": "Floating Garden Network",
-          "url": "/Fantasy/pexels_googledeepmind_88bb.webp",
-          "dominantColorHex": "#F2C7D0",
-          "colorPaletteHex": [
-            "#F2C7D0",
-            "#F9FEFF",
-            "#EAF0F5",
-            "#E89891",
-            "#F8ECEF"
-          ],
-          "fact": {
-            "title": "Floating Garden Network",
-            "fact": "This delicate image connects tiny objects with thin lines, like a floating map of a dream garden.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the lines are paths between flowers, tools, and tiny flying machines.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the fine connecting lines, pink background, small flowers, and suspended objects.",
-            "learningPoints": [
-              "Thin lines can show connections between separate shapes.",
-              "Negative space makes the floating pieces feel light.",
-              "Small details reward careful looking."
-            ]
-          }
-        },
-        {
-          "id": "pexels_googledeepmind_a894",
-          "title": "Floating Stone Island",
-          "url": "/Fantasy/pexels_googledeepmind_a894.webp",
-          "dominantColorHex": "#E6E2D7",
-          "colorPaletteHex": [
-            "#E6E2D7",
-            "#EAEAE3",
-            "#8F6B55",
-            "#F4F5F1",
-            "#FBFBF7"
-          ],
-          "fact": {
-            "title": "Floating Stone Island",
-            "fact": "This surreal composition shows fragments arranged like a small floating island or broken landscape.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the island is drifting through the air with clues hidden under every shard.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the rocky pieces, layered fragments, pointed base, and pale background.",
-            "learningPoints": [
-              "Floating objects can make a scene feel impossible and imaginative.",
-              "Layered textures suggest rocks, soil, and tiny structures.",
-              "A pale background keeps attention on the central form."
-            ]
-          }
-        },
-        {
-          "id": "pexels_gypsy_soul_sa_febf",
-          "title": "Golden Ring World",
-          "url": "/Fantasy/pexels_gypsy_soul_sa_febf.webp",
-          "dominantColorHex": "#B17756",
-          "colorPaletteHex": [
-            "#B17756",
-            "#513127",
-            "#905439",
-            "#CE8D5E",
-            "#F5B16E"
-          ],
-          "fact": {
-            "title": "Golden Ring World",
-            "fact": "This circular image bends a scene into a glowing ring, creating the feeling of a tiny world seen through a portal.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine stepping through the ring into a city that curves all around the sky.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the round opening, warm golden light, tiny buildings, and central blue-gray circle.",
-            "learningPoints": [
-              "Circular composition pulls attention toward the center.",
-              "Warm orange tones make the image feel glowing.",
-              "Curved perspective can transform real places into fantasy worlds."
-            ]
-          }
-        },
-        {
-          "id": "pexels_ian_timothy_6cc8",
-          "title": "Sky Propeller",
-          "url": "/Fantasy/pexels_ian_timothy_6cc8.webp",
-          "dominantColorHex": "#0B0C0D",
-          "colorPaletteHex": [
-            "#0B0C0D",
-            "#6687A5",
-            "#383929",
-            "#B9D9F8",
-            "#88A9C7"
-          ],
-          "fact": {
-            "title": "Sky Propeller",
-            "fact": "This airplane propeller points toward the viewer, turning a real machine into a bold adventure image.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the plane is ready to fly explorers over mountains, islands, and cloud castles.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the red-tipped blades, round center, grass below, and open blue sky.",
-            "learningPoints": [
-              "Radial shapes lead the eye toward the center hub.",
-              "Low viewpoints can make machines look powerful.",
-              "Clear sky adds a sense of travel and adventure."
-            ]
-          }
-        },
-        {
-          "id": "pexels_jj_jordan_16ce",
-          "title": "Magic Banana Burst",
-          "url": "/Fantasy/pexels_jj_jordan_16ce.webp",
-          "dominantColorHex": "#B7BD4B",
-          "colorPaletteHex": [
-            "#B7BD4B",
-            "#C5CF5D",
-            "#9E9130",
-            "#CFDA6A",
-            "#D9E47D"
-          ],
-          "fact": {
-            "title": "Magic Banana Burst",
-            "fact": "This playful image shows a banana bursting into colorful pieces above a wooden board.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the banana has become a spell that releases tiny symbols, shapes, and snacks.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the curved banana peel, flying pieces, wooden board, and bright green background.",
-            "learningPoints": [
-              "Frozen motion can make objects look like they are exploding in midair.",
-              "A bright background helps small flying pieces stand out.",
-              "Unexpected combinations make surreal images fun to inspect."
-            ]
-          }
-        },
-        {
-          "id": "pexels_john_logan_42ba",
-          "title": "Upside-Down Ice Cream",
-          "url": "/Fantasy/pexels_john_logan_42ba.webp",
-          "dominantColorHex": "#FF4ABC",
-          "colorPaletteHex": [
-            "#FF4ABC",
-            "#FD79E0",
-            "#FC6DD7",
-            "#C63180",
-            "#F6A9D0"
-          ],
-          "fact": {
-            "title": "Upside-Down Ice Cream",
-            "fact": "This image turns an ice cream cone upside down, making a familiar treat look surprising and unreal.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the cone is a rocket lifting off from a pink candy planet.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the waffle cone, pink topping, soft shadow, and bright magenta background.",
-            "learningPoints": [
-              "Changing an object's direction can make it feel new.",
-              "Strong color backgrounds create a poster-like effect.",
-              "Soft shadows show where an object sits in space."
-            ]
-          }
-        },
-        {
-          "id": "pexels_joshsorenson_816b",
-          "title": "Stormy Sky Eye",
-          "url": "/Fantasy/pexels_joshsorenson_816b.webp",
-          "dominantColorHex": "#8CBAC7",
-          "colorPaletteHex": [
-            "#8CBAC7",
-            "#DDDBD3",
-            "#3EA2B9",
-            "#304344",
-            "#48A3B8"
-          ],
-          "fact": {
-            "title": "Stormy Sky Eye",
-            "fact": "This tiny-planet image wraps clouds and sky around a dark center, creating an eye-like fantasy view.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine looking through the center and seeing a hidden weather world on the other side.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the dark circular center, cloudy blue ring, and smooth turquoise background.",
-            "learningPoints": [
-              "Circular distortion can turn a landscape into a symbol.",
-              "Cloud shapes add motion around the ring.",
-              "Dark centers create strong contrast with bright sky."
-            ]
-          }
-        },
-        {
-          "id": "pexels_kindelmedia_ea25",
-          "title": "Strawberry Cone Bouquet",
-          "url": "/Fantasy/pexels_kindelmedia_ea25.webp",
-          "dominantColorHex": "#FFF305",
-          "colorPaletteHex": [
-            "#FFF305",
-            "#A35310",
-            "#FAD90E",
-            "#FFFF58",
-            "#FFFA2B"
-          ],
-          "fact": {
-            "title": "Strawberry Cone Bouquet",
-            "fact": "This bright arrangement fills an ice cream cone with strawberries and green leaves like a playful bouquet.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the cone grows berry blossoms in a candy garden.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the waffle cone, red strawberries, green leaves, and yellow background.",
-            "learningPoints": [
-              "Food styling can turn familiar snacks into art.",
-              "Red and yellow create a cheerful high-contrast palette.",
-              "Repeated strawberries make a clear pattern near the top."
-            ]
-          }
-        },
-        {
-          "id": "pexels_leo_gilmant_1bc2",
-          "title": "Golden Galaxy Eye",
-          "url": "/Fantasy/pexels_leo_gilmant_1bc2.webp",
-          "dominantColorHex": "#000000",
-          "colorPaletteHex": [
-            "#000000",
-            "#180E02",
-            "#6E4E0F",
-            "#030000",
-            "#000001"
-          ],
-          "fact": {
-            "title": "Golden Galaxy Eye",
-            "fact": "This dark image uses golden dust and a black center to suggest a glowing space portal or watchful eye.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the golden ring opens only when the stars line up around it.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the smoky gold texture, circular center, and deep black background.",
-            "learningPoints": [
-              "Glowing particles can suggest stars or magic dust.",
-              "A dark background makes the golden shape look brighter.",
-              "Circular forms often feel like portals, eyes, or planets."
-            ]
-          }
-        },
-        {
-          "id": "pexels_liam_gant_f2c2",
-          "title": "Sky Courtyard Portal",
-          "url": "/Fantasy/pexels_liam_gant_f2c2.webp",
-          "dominantColorHex": "#D9E4EA",
-          "colorPaletteHex": [
-            "#D9E4EA",
-            "#090807",
-            "#858081",
-            "#484140",
-            "#2B2725"
-          ],
-          "fact": {
-            "title": "Sky Courtyard Portal",
-            "fact": "This upward view through buildings frames the sky like a bright opening at the top of a tower.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the courtyard walls are the inside of a portal leading straight into the clouds.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the building walls, open sky shape, windows, and repeating vertical lines.",
-            "learningPoints": [
-              "Looking straight up can turn architecture into a geometric pattern.",
-              "The sky becomes the brightest shape in the center.",
-              "Repeating windows and edges help guide the eye around the frame."
-            ]
-          }
-        },
-        {
-          "id": "pexels_lucky_ae23",
-          "title": "Space-Age Roof",
-          "url": "/Fantasy/pexels_lucky_ae23.webp",
-          "dominantColorHex": "#201818",
-          "colorPaletteHex": [
-            "#201818",
-            "#9FA4A8",
-            "#5B4946",
-            "#8D8080",
-            "#C9C3C4"
-          ],
-          "fact": {
-            "title": "Space-Age Roof",
-            "fact": "This architectural detail uses sweeping curves and sharp angles that feel futuristic and otherworldly.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the roof belongs to a quiet station built for travelers between worlds.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the curved white panels, dark triangular shadows, and pale blue sky.",
-            "learningPoints": [
-              "Architecture can feel fantastical when shapes are unusual.",
-              "Curves and triangles create strong visual movement.",
-              "Light-colored surfaces show shadows clearly."
-            ]
-          }
-        },
-        {
-          "id": "pexels_nicosiegl_e487",
-          "title": "Glass Dome Portal",
-          "url": "/Fantasy/pexels_nicosiegl_e487.webp",
-          "dominantColorHex": "#0D0603",
-          "colorPaletteHex": [
-            "#0D0603",
-            "#402C1B",
-            "#947F72",
-            "#D6CAC3",
-            "#EFEBE6"
-          ],
-          "fact": {
-            "title": "Glass Dome Portal",
-            "fact": "This upward view shows a circular glass dome surrounded by ornate building details.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the dome is a window for watching clouds drift over a grand magical hall.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the round skylight, metal ribs, patterned walls, and bright center.",
-            "learningPoints": [
-              "Radial lines spread outward from the center like spokes.",
-              "Glass roofs bring natural light into large interiors.",
-              "Ornate details add texture around the circular shape."
-            ]
-          }
-        },
-        {
-          "id": "pexels_phototribbiani_e8fa",
-          "title": "Painted Creature Map",
-          "url": "/Fantasy/pexels_phototribbiani_e8fa.webp",
-          "dominantColorHex": "#E7ECE9",
-          "colorPaletteHex": [
-            "#E7ECE9",
-            "#4A3524",
-            "#916743",
-            "#63503E",
-            "#C9BCAE"
-          ],
-          "fact": {
-            "title": "Painted Creature Map",
-            "fact": "This art scene shows a hand adding paint and small shapes to a playful creature drawing.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the drawing is a map where every painted mark becomes a path to a new place.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the painted figure, hand, small color marks, and white paper.",
-            "learningPoints": [
-              "Handmade marks give art a personal, playful feeling.",
-              "Small symbols can become clues in a picture.",
-              "White space helps colorful paint marks stay easy to see."
-            ]
-          }
-        },
-        {
-          "id": "pexels_pu_ca_adryan_b3b7",
-          "title": "Flower Field Piano",
-          "url": "/Fantasy/pexels_pu_ca_adryan_b3b7.webp",
-          "dominantColorHex": "#282E3D",
-          "colorPaletteHex": [
-            "#282E3D",
-            "#14171F",
-            "#404258",
-            "#575271",
-            "#7B7995"
-          ],
-          "fact": {
-            "title": "Flower Field Piano",
-            "fact": "This dreamy scene places a black piano among purple flowers with a bright beam of light across it.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the piano plays songs that make the flowers glow at dusk.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the black piano, purple flower field, diagonal light beam, and dark trees.",
-            "learningPoints": [
-              "Unexpected objects outdoors can make a scene feel dreamlike.",
-              "Diagonal light adds drama and direction.",
-              "Purple flowers create a soft, magical atmosphere."
-            ]
-          }
-        },
-        {
-          "id": "pexels_pu_ca_adryan_ea98",
-          "title": "Forest Armchair",
-          "url": "/Fantasy/pexels_pu_ca_adryan_ea98.webp",
-          "dominantColorHex": "#151009",
-          "colorPaletteHex": [
-            "#151009",
-            "#322C22",
-            "#435935",
-            "#5C7045",
-            "#939989"
-          ],
-          "fact": {
-            "title": "Forest Armchair",
-            "fact": "This image places a modern armchair in a green outdoor setting, making the scene feel quietly surreal.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the chair waits for anyone who wants to hear stories from the forest.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the gray chair, grassy clearing, surrounding trees, and rounded seat shape.",
-            "learningPoints": [
-              "Moving an indoor object outside can create surprise.",
-              "Green surroundings contrast with the smooth gray chair.",
-              "The chair becomes the main landmark in the puzzle."
-            ]
-          }
-        },
-        {
-          "id": "pexels_rostislav_e120",
-          "title": "Crimson Block Maze",
-          "url": "/Fantasy/pexels_rostislav_e120.webp",
-          "dominantColorHex": "#1A0D17",
-          "colorPaletteHex": [
-            "#1A0D17",
-            "#3B171F",
-            "#6D3037",
-            "#C26260",
-            "#E69FA1"
-          ],
-          "fact": {
-            "title": "Crimson Block Maze",
-            "fact": "This abstract scene uses red blocks, beams, and shadows to create the feeling of a miniature maze.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine each block is part of a puzzle path that changes when the light moves.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the red rectangular shapes, dark shadows, and glowing highlights.",
-            "learningPoints": [
-              "Geometric shapes can build imaginary spaces.",
-              "Red light makes the maze feel dramatic.",
-              "Shadows help separate one block from another."
-            ]
-          }
-        },
-        {
-          "id": "pexels_rpphotos_f7eb",
-          "title": "Garden Mushroom Fairy",
-          "url": "/Fantasy/pexels_rpphotos_f7eb.webp",
-          "dominantColorHex": "#6F9C2A",
-          "colorPaletteHex": [
-            "#6F9C2A",
-            "#1D3B07",
-            "#98D35E",
-            "#D5F7C2",
-            "#DAD999"
-          ],
-          "fact": {
-            "title": "Garden Mushroom Fairy",
-            "fact": "This small garden figure sitting on a mushroom creates a gentle fairy-tale scene.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the figure is resting after carrying messages through the flowers.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the tiny figure, mushroom seat, leafy garden, and bright green background.",
-            "learningPoints": [
-              "Miniature figures make garden details look larger.",
-              "Green backgrounds help soft colors feel fresh.",
-              "A seated pose makes the scene feel calm."
-            ]
-          }
-        },
-        {
-          "id": "pexels_samir_zeka_4441",
-          "title": "Moonlit Playground Rider",
-          "url": "/Fantasy/pexels_samir_zeka_4441.webp",
-          "dominantColorHex": "#080808",
-          "colorPaletteHex": [
-            "#080808",
-            "#3A3A3A",
-            "#6C6C6C",
-            "#9A9A9A",
-            "#D7D7D7"
-          ],
-          "fact": {
-            "title": "Moonlit Playground Rider",
-            "fact": "This black-and-white playground scene uses curved metal shapes and shadows to create a quiet story mood.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the rider waits in a moonlit park for the next adventure to begin.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the spring rider, curved handles, striped shadows, and grayscale tones.",
-            "learningPoints": [
-              "Black-and-white images focus attention on shape and contrast.",
-              "Curved metal parts create repeating arcs.",
-              "Shadows can make a familiar place feel mysterious."
-            ]
-          }
-        },
-        {
-          "id": "pexels_samsilitongajr_802e",
-          "title": "Tree View Perch",
-          "url": "/Fantasy/pexels_samsilitongajr_802e.webp",
-          "dominantColorHex": "#8C9A3E",
-          "colorPaletteHex": [
-            "#8C9A3E",
-            "#4E5918",
-            "#BDC375",
-            "#EEDDA4",
-            "#FEFBCF"
-          ],
-          "fact": {
-            "title": "Tree View Perch",
-            "fact": "This peaceful image shows a small sitting spot in a tree with a wide view of hills and sky.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the perch is a lookout for watching clouds and planning a journey through the valley.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the tree trunk, wooden platform, seated figure, green hills, and pale sky.",
-            "learningPoints": [
-              "High viewpoints can make landscapes feel expansive.",
-              "Trees frame the scene and add depth.",
-              "A small figure helps show the scale of the view."
-            ]
-          }
-        },
-        {
-          "id": "pexels_souvenirpixels_5d89",
-          "title": "Glowing Carousel Horse",
-          "url": "/Fantasy/pexels_souvenirpixels_5d89.webp",
-          "dominantColorHex": "#010621",
-          "colorPaletteHex": [
-            "#010621",
-            "#3145A0",
-            "#7491D6",
-            "#36141A",
-            "#080C24"
-          ],
-          "fact": {
-            "title": "Glowing Carousel Horse",
-            "fact": "This colorful scene shows a carousel horse glowing with blue, red, and golden lights.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the carousel horse comes alive only when the fairground lights turn on.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the bright blue base, horse figure, warm bulbs, and colorful reflections.",
-            "learningPoints": [
-              "Colored lights can make a night scene feel magical.",
-              "Carousel figures often use decorative details and painted shapes.",
-              "Bright highlights become useful landmarks in a dark puzzle."
-            ]
-          }
-        },
-        {
-          "id": "pexels_steve_0cc4",
-          "title": "Golden Orb Path",
-          "url": "/Fantasy/pexels_steve_0cc4.webp",
-          "dominantColorHex": "#000000",
-          "colorPaletteHex": [
-            "#000000",
-            "#7E506C",
-            "#C89C96",
-            "#42223C",
-            "#180B1D"
-          ],
-          "fact": {
-            "title": "Golden Orb Path",
-            "fact": "This close-up image lines up glowing golden spheres across a dark surface like stepping stones.",
-            "foodTitle": "Imagination Idea",
-            "food": "Imagine the orbs mark the safe path through a quiet treasure room.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for the round metallic spheres, soft reflections, purple shadows, and dark background.",
-            "learningPoints": [
-              "Repeating round shapes create rhythm across the image.",
-              "Shallow focus makes nearby objects sharper than distant ones.",
-              "Gold and purple tones give the scene a rich, mysterious look."
-            ]
-          }
-        }
-      ]
-    },
-    {
       "id": "food_and_garden",
       "title": "Food And Garden",
       "images": [
@@ -6144,6 +5150,994 @@
             "#5A8CA1",
             "#A6CED0"
           ]
+        },
+        {
+          "id": "pexels_alexasfotos_7c16",
+          "title": "Feathered Potion Bottles",
+          "url": "/Fantasy/pexels_alexasfotos_7c16.webp",
+          "dominantColorHex": "#0E060D",
+          "colorPaletteHex": [
+            "#0E060D",
+            "#B1713D",
+            "#551C14",
+            "#24090D",
+            "#0A040C"
+          ],
+          "fact": {
+            "title": "Feathered Potion Bottles",
+            "fact": "This playful still life shows three colorful bottles topped with feathery shapes, like pretend potions in a story scene.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine each bottle holds a different color spell for painting clouds, warming campfires, or making moonlight sparkle.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the bright orange, yellow, and gray plumes, rounded bottle shapes, and dark background.",
+            "learningPoints": [
+              "Strong contrast makes the bright objects stand out from the dark scene.",
+              "Repeating bottle shapes help the picture feel balanced.",
+              "Textures like feathers can make ordinary objects feel imaginary."
+            ]
+          }
+        },
+        {
+          "id": "pexels_amar_c7ea",
+          "title": "Tiny Sky Planet",
+          "url": "/Fantasy/pexels_amar_c7ea.webp",
+          "dominantColorHex": "#22529E",
+          "colorPaletteHex": [
+            "#22529E",
+            "#476993",
+            "#668CBC",
+            "#9EB8DE",
+            "#D0DDF1"
+          ],
+          "fact": {
+            "title": "Tiny Sky Planet",
+            "fact": "This image turns a landscape into a tiny round world floating in a bright blue sky.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine walking all the way around the tiny planet and finding a new view with every step.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the circular land, surrounding clouds, and sunny sky wrapped around the scene.",
+            "learningPoints": [
+              "A tiny-planet effect bends a wide view into a circle.",
+              "The round shape creates a fantasy world from a real landscape.",
+              "Clouds and blue sky make the planet feel light and floating."
+            ]
+          }
+        },
+        {
+          "id": "pexels_anas_albadri_e382",
+          "title": "Golden Dragon Eye",
+          "url": "/Fantasy/pexels_anas_albadri_e382.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#FA7F2C",
+            "#CE4D24",
+            "#000102",
+            "#250F0B"
+          ],
+          "fact": {
+            "title": "Golden Dragon Eye",
+            "fact": "This close-up eye image uses bright orange texture and a dark center to feel mysterious and dramatic.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the eye belongs to a wise guardian watching over a hidden treasure room.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the glowing orange ring, tiny radial lines, and deep black center.",
+            "learningPoints": [
+              "Close-up photography can make small details look huge.",
+              "Radial lines point attention toward the center.",
+              "Warm colors can make a scene feel intense or magical."
+            ]
+          }
+        },
+        {
+          "id": "pexels_anderson_martinsz_946d",
+          "title": "Cyber Explorer Mask",
+          "url": "/Fantasy/pexels_anderson_martinsz_946d.webp",
+          "dominantColorHex": "#E5ECEB",
+          "colorPaletteHex": [
+            "#E5ECEB",
+            "#504748",
+            "#DEE6E4",
+            "#EAEEED",
+            "#EBF1EF"
+          ],
+          "fact": {
+            "title": "Cyber Explorer Mask",
+            "fact": "This image shows a futuristic mask with round lenses, headphones, and mechanical details.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine a space explorer using the mask to listen for signals from a faraway city.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the shiny lenses, circular ear pieces, breathing tube, and pale background.",
+            "learningPoints": [
+              "Symmetrical parts can make a design look robotic.",
+              "Metal and glass textures suggest technology.",
+              "Small cables and tubes add detail for puzzle solving."
+            ]
+          }
+        },
+        {
+          "id": "pexels_anya_juarez_tenorio_6a5b",
+          "title": "Mushroom Forest Friend",
+          "url": "/Fantasy/pexels_anya_juarez_tenorio_6a5b.webp",
+          "dominantColorHex": "#030201",
+          "colorPaletteHex": [
+            "#030201",
+            "#190D0B",
+            "#342820",
+            "#4C4B37",
+            "#939381"
+          ],
+          "fact": {
+            "title": "Mushroom Forest Friend",
+            "fact": "This tiny figure under a mushroom makes the forest floor look like a miniature fantasy world.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the little friend using the mushroom as a rain umbrella during a woodland adventure.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the small figure, spotted mushroom cap, green leaves, and shadowy ground.",
+            "learningPoints": [
+              "Miniature scenes can make everyday places feel enormous.",
+              "Leaves and soil add natural texture around the subject.",
+              "A small bright figure helps guide the eye in a dark scene."
+            ]
+          }
+        },
+        {
+          "id": "pexels_artyusufpatel_0b58",
+          "title": "Floating Shadow Cube",
+          "url": "/Fantasy/pexels_artyusufpatel_0b58.webp",
+          "dominantColorHex": "#17171C",
+          "colorPaletteHex": [
+            "#17171C",
+            "#0A0A0B",
+            "#28282F",
+            "#41424C",
+            "#8C8E97"
+          ],
+          "fact": {
+            "title": "Floating Shadow Cube",
+            "fact": "This dark architectural scene shows a cube-like shape suspended inside a tall shaft of light and shadow.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the cube is a puzzle key hovering inside a secret tower.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the glowing diagonal lines, deep shadows, and small floating block near the top.",
+            "learningPoints": [
+              "Leading lines draw the eye upward through the image.",
+              "Light and shadow create a mysterious mood.",
+              "A single floating object can become the center of a story."
+            ]
+          }
+        },
+        {
+          "id": "pexels_aydin_photography_0acc",
+          "title": "Storybook Castle Towers",
+          "url": "/Fantasy/pexels_aydin_photography_0acc.webp",
+          "dominantColorHex": "#120F0F",
+          "colorPaletteHex": [
+            "#120F0F",
+            "#554E4D",
+            "#C6BCBE",
+            "#AA9B99",
+            "#DACFD0"
+          ],
+          "fact": {
+            "title": "Storybook Castle Towers",
+            "fact": "This castle view has tall pointed roofs and rounded towers that look like they came from a storybook.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine climbing the highest tower to read a map of the kingdom from above.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the pointed rooftops, stone walls, arched windows, and cloudy sky.",
+            "learningPoints": [
+              "Tall towers help castles look grand and dramatic.",
+              "Repeating roof shapes make the building feel unified.",
+              "Looking upward makes the castle seem taller."
+            ]
+          }
+        },
+        {
+          "id": "pexels_bakytzhan_baurzhanov_992f",
+          "title": "Moonlit Playroom",
+          "url": "/Fantasy/pexels_bakytzhan_baurzhanov_992f.webp",
+          "dominantColorHex": "#FEFDFD",
+          "colorPaletteHex": [
+            "#FEFDFD",
+            "#97664B",
+            "#E6DAD8",
+            "#B9927D",
+            "#D2A690"
+          ],
+          "fact": {
+            "title": "Moonlit Playroom",
+            "fact": "This bright playroom scene includes a round window and tiny toys, giving the room a gentle imaginary feel.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the round window becomes a moon portal after the toys are put away.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the circular window, wooden walls, small toys, and soft white furniture.",
+            "learningPoints": [
+              "Simple shapes like circles and triangles are easy to spot in puzzles.",
+              "Warm wood tones make the room feel cozy.",
+              "Tiny toys add scale and story detail."
+            ]
+          }
+        },
+        {
+          "id": "pexels_bon_d43a",
+          "title": "Wall-Climbing Creatures",
+          "url": "/Fantasy/pexels_bon_d43a.webp",
+          "dominantColorHex": "#57A0E9",
+          "colorPaletteHex": [
+            "#57A0E9",
+            "#A89A9B",
+            "#5F799E",
+            "#8FA8CA",
+            "#7A94B7"
+          ],
+          "fact": {
+            "title": "Wall-Climbing Creatures",
+            "fact": "This image shows small climbing figures on a tall wall beneath a wide blue sky.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the climbers are scaling a castle wall to discover what waits on the other side.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the two small figures, rough wall surface, and large open sky.",
+            "learningPoints": [
+              "The open sky makes the wall feel tall.",
+              "Diagonal body positions add movement to the scene.",
+              "Small subjects can make a puzzle more challenging."
+            ]
+          }
+        },
+        {
+          "id": "pexels_brahim_dogan_a816",
+          "title": "Floating Banana Balloon",
+          "url": "/Fantasy/pexels_brahim_dogan_a816.webp",
+          "dominantColorHex": "#FFDBCC",
+          "colorPaletteHex": [
+            "#FFDBCC",
+            "#FDCEBE",
+            "#FFD7C6",
+            "#F0BEAB",
+            "#FFE5D7"
+          ],
+          "fact": {
+            "title": "Floating Banana Balloon",
+            "fact": "This surreal scene pairs a banana with a glowing round balloon against a soft peach background.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the banana is a tiny moon boat floating under a lantern balloon.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the white balloon, curved yellow banana, and smooth pastel background.",
+            "learningPoints": [
+              "Surreal art combines unexpected objects.",
+              "Simple backgrounds help the main shapes stand out.",
+              "Curved and round forms make the picture feel gentle."
+            ]
+          }
+        },
+        {
+          "id": "pexels_christian_marohn_4a04",
+          "title": "Forest Castle",
+          "url": "/Fantasy/pexels_christian_marohn_4a04.webp",
+          "dominantColorHex": "#96B8DB",
+          "colorPaletteHex": [
+            "#96B8DB",
+            "#071207",
+            "#5885AB",
+            "#173A27",
+            "#36515B"
+          ],
+          "fact": {
+            "title": "Forest Castle",
+            "fact": "This castle rises above a green forest with mountains and dramatic clouds in the distance.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the castle protects a hidden library full of maps, songs, and secret doors.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the tall spires, forest treetops, distant hills, and blue-gray sky.",
+            "learningPoints": [
+              "A high viewpoint shows the castle and landscape together.",
+              "Forests can make buildings feel remote and mysterious.",
+              "Cool sky colors contrast with the green trees."
+            ]
+          }
+        },
+        {
+          "id": "pexels_db48",
+          "title": "Magic Garden Desk",
+          "url": "/Fantasy/pexels_db48.webp",
+          "dominantColorHex": "#F9C327",
+          "colorPaletteHex": [
+            "#F9C327",
+            "#FED02C",
+            "#FFF6CA",
+            "#CF6226",
+            "#F3E9AD"
+          ],
+          "fact": {
+            "title": "Magic Garden Desk",
+            "fact": "This bright scene shows garden tools, flowers, and a notebook arranged on a bold yellow surface.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the notebook contains instructions for growing a glowing flower overnight.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the red watering can, pale tulips, notebook, pencil, and yellow background.",
+            "learningPoints": [
+              "Bright backgrounds can make tools and flowers pop.",
+              "A top-down view turns objects into clear puzzle shapes.",
+              "Garden objects can inspire stories about growing and caring."
+            ]
+          }
+        },
+        {
+          "id": "pexels_esteban_santiago_gonzalez_483d",
+          "title": "Cozy Reading Chair",
+          "url": "/Fantasy/pexels_esteban_santiago_gonzalez_483d.webp",
+          "dominantColorHex": "#8C5839",
+          "colorPaletteHex": [
+            "#8C5839",
+            "#72442D",
+            "#512F1E",
+            "#DCB8A5",
+            "#A87356"
+          ],
+          "fact": {
+            "title": "Cozy Reading Chair",
+            "fact": "This warm chair scene feels like a quiet place where a fantasy story could begin.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine opening a book in the chair and finding a map tucked between the pages.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the curved chair back, soft fabric, wooden legs, and warm brown shadows.",
+            "learningPoints": [
+              "A single object can suggest a whole setting.",
+              "Warm lighting makes the chair look comfortable.",
+              "Curved furniture shapes add softness to the image."
+            ]
+          }
+        },
+        {
+          "id": "pexels_googledeepmind_05e2",
+          "title": "Pixel Garden Maze",
+          "url": "/Fantasy/pexels_googledeepmind_05e2.webp",
+          "dominantColorHex": "#784733",
+          "colorPaletteHex": [
+            "#784733",
+            "#8A8667",
+            "#F1C9CA",
+            "#A5C17F",
+            "#F5F3DF"
+          ],
+          "fact": {
+            "title": "Pixel Garden Maze",
+            "fact": "This abstract image uses many small blocks of color that look like a digital maze or garden map.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine each colored square is a stepping stone through a secret puzzle garden.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the green, red, pink, white, and brown blocks scattered across the image.",
+            "learningPoints": [
+              "Abstract images can focus on color, rhythm, and pattern.",
+              "Small repeated shapes create a busy puzzle texture.",
+              "Contrasting colors help different areas stand apart."
+            ]
+          }
+        },
+        {
+          "id": "pexels_googledeepmind_0fbf",
+          "title": "Purple Pixel Cloud",
+          "url": "/Fantasy/pexels_googledeepmind_0fbf.webp",
+          "dominantColorHex": "#5C2B5B",
+          "colorPaletteHex": [
+            "#5C2B5B",
+            "#280C28",
+            "#AD6DAA",
+            "#F7F7F7",
+            "#F1D0EE"
+          ],
+          "fact": {
+            "title": "Purple Pixel Cloud",
+            "fact": "This image forms a cloud-like shape from many tiny purple pieces, blending digital texture with organic form.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the purple cloud stores dreams and releases them as tiny sparkling blocks.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the clustered purple pieces, rounded outline, and pale background.",
+            "learningPoints": [
+              "Many tiny shapes can merge into one larger form.",
+              "Purple tones create depth through light and dark values.",
+              "Texture helps a simple silhouette become more detailed."
+            ]
+          }
+        },
+        {
+          "id": "pexels_googledeepmind_84fe",
+          "title": "Crystal Pixel City",
+          "url": "/Fantasy/pexels_googledeepmind_84fe.webp",
+          "dominantColorHex": "#BED0DD",
+          "colorPaletteHex": [
+            "#BED0DD",
+            "#ECEBF9",
+            "#8CA8B9",
+            "#D3EAF4",
+            "#F7F6FB"
+          ],
+          "fact": {
+            "title": "Crystal Pixel City",
+            "fact": "This pale digital scene looks like a small city built from translucent cubes and glowing platforms.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine crossing the glassy city to find a door made of light.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the stacked cubes, blue glow, white floor, and misty vertical lights.",
+            "learningPoints": [
+              "Cubes can create a city-like pattern even without windows or streets.",
+              "Pale colors make the scene feel icy and futuristic.",
+              "Repeated blocks are useful visual anchors in a puzzle."
+            ]
+          }
+        },
+        {
+          "id": "pexels_googledeepmind_85f8",
+          "title": "Candy Game Pieces",
+          "url": "/Fantasy/pexels_googledeepmind_85f8.webp",
+          "dominantColorHex": "#EBDED6",
+          "colorPaletteHex": [
+            "#EBDED6",
+            "#F6F1F9",
+            "#FFFEFF",
+            "#BC848F",
+            "#FFF6DF"
+          ],
+          "fact": {
+            "title": "Candy Game Pieces",
+            "fact": "This close-up scene shows colorful rounded pieces that look like playful tokens on a bright surface.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine each piece unlocks a different level in a magical board game.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the orange sticks, blue circles, pink pieces, and soft white background.",
+            "learningPoints": [
+              "Close-up views can make small objects feel oversized.",
+              "Bright colors create clear puzzle landmarks.",
+              "Rounded shapes give the scene a playful mood."
+            ]
+          }
+        },
+        {
+          "id": "pexels_googledeepmind_88bb",
+          "title": "Floating Garden Network",
+          "url": "/Fantasy/pexels_googledeepmind_88bb.webp",
+          "dominantColorHex": "#F2C7D0",
+          "colorPaletteHex": [
+            "#F2C7D0",
+            "#F9FEFF",
+            "#EAF0F5",
+            "#E89891",
+            "#F8ECEF"
+          ],
+          "fact": {
+            "title": "Floating Garden Network",
+            "fact": "This delicate image connects tiny objects with thin lines, like a floating map of a dream garden.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the lines are paths between flowers, tools, and tiny flying machines.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the fine connecting lines, pink background, small flowers, and suspended objects.",
+            "learningPoints": [
+              "Thin lines can show connections between separate shapes.",
+              "Negative space makes the floating pieces feel light.",
+              "Small details reward careful looking."
+            ]
+          }
+        },
+        {
+          "id": "pexels_googledeepmind_a894",
+          "title": "Floating Stone Island",
+          "url": "/Fantasy/pexels_googledeepmind_a894.webp",
+          "dominantColorHex": "#E6E2D7",
+          "colorPaletteHex": [
+            "#E6E2D7",
+            "#EAEAE3",
+            "#8F6B55",
+            "#F4F5F1",
+            "#FBFBF7"
+          ],
+          "fact": {
+            "title": "Floating Stone Island",
+            "fact": "This surreal composition shows fragments arranged like a small floating island or broken landscape.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the island is drifting through the air with clues hidden under every shard.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the rocky pieces, layered fragments, pointed base, and pale background.",
+            "learningPoints": [
+              "Floating objects can make a scene feel impossible and imaginative.",
+              "Layered textures suggest rocks, soil, and tiny structures.",
+              "A pale background keeps attention on the central form."
+            ]
+          }
+        },
+        {
+          "id": "pexels_gypsy_soul_sa_febf",
+          "title": "Golden Ring World",
+          "url": "/Fantasy/pexels_gypsy_soul_sa_febf.webp",
+          "dominantColorHex": "#B17756",
+          "colorPaletteHex": [
+            "#B17756",
+            "#513127",
+            "#905439",
+            "#CE8D5E",
+            "#F5B16E"
+          ],
+          "fact": {
+            "title": "Golden Ring World",
+            "fact": "This circular image bends a scene into a glowing ring, creating the feeling of a tiny world seen through a portal.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine stepping through the ring into a city that curves all around the sky.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the round opening, warm golden light, tiny buildings, and central blue-gray circle.",
+            "learningPoints": [
+              "Circular composition pulls attention toward the center.",
+              "Warm orange tones make the image feel glowing.",
+              "Curved perspective can transform real places into fantasy worlds."
+            ]
+          }
+        },
+        {
+          "id": "pexels_ian_timothy_6cc8",
+          "title": "Sky Propeller",
+          "url": "/Fantasy/pexels_ian_timothy_6cc8.webp",
+          "dominantColorHex": "#0B0C0D",
+          "colorPaletteHex": [
+            "#0B0C0D",
+            "#6687A5",
+            "#383929",
+            "#B9D9F8",
+            "#88A9C7"
+          ],
+          "fact": {
+            "title": "Sky Propeller",
+            "fact": "This airplane propeller points toward the viewer, turning a real machine into a bold adventure image.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the plane is ready to fly explorers over mountains, islands, and cloud castles.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the red-tipped blades, round center, grass below, and open blue sky.",
+            "learningPoints": [
+              "Radial shapes lead the eye toward the center hub.",
+              "Low viewpoints can make machines look powerful.",
+              "Clear sky adds a sense of travel and adventure."
+            ]
+          }
+        },
+        {
+          "id": "pexels_jj_jordan_16ce",
+          "title": "Magic Banana Burst",
+          "url": "/Fantasy/pexels_jj_jordan_16ce.webp",
+          "dominantColorHex": "#B7BD4B",
+          "colorPaletteHex": [
+            "#B7BD4B",
+            "#C5CF5D",
+            "#9E9130",
+            "#CFDA6A",
+            "#D9E47D"
+          ],
+          "fact": {
+            "title": "Magic Banana Burst",
+            "fact": "This playful image shows a banana bursting into colorful pieces above a wooden board.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the banana has become a spell that releases tiny symbols, shapes, and snacks.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the curved banana peel, flying pieces, wooden board, and bright green background.",
+            "learningPoints": [
+              "Frozen motion can make objects look like they are exploding in midair.",
+              "A bright background helps small flying pieces stand out.",
+              "Unexpected combinations make surreal images fun to inspect."
+            ]
+          }
+        },
+        {
+          "id": "pexels_john_logan_42ba",
+          "title": "Upside-Down Ice Cream",
+          "url": "/Fantasy/pexels_john_logan_42ba.webp",
+          "dominantColorHex": "#FF4ABC",
+          "colorPaletteHex": [
+            "#FF4ABC",
+            "#FD79E0",
+            "#FC6DD7",
+            "#C63180",
+            "#F6A9D0"
+          ],
+          "fact": {
+            "title": "Upside-Down Ice Cream",
+            "fact": "This image turns an ice cream cone upside down, making a familiar treat look surprising and unreal.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the cone is a rocket lifting off from a pink candy planet.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the waffle cone, pink topping, soft shadow, and bright magenta background.",
+            "learningPoints": [
+              "Changing an object's direction can make it feel new.",
+              "Strong color backgrounds create a poster-like effect.",
+              "Soft shadows show where an object sits in space."
+            ]
+          }
+        },
+        {
+          "id": "pexels_joshsorenson_816b",
+          "title": "Stormy Sky Eye",
+          "url": "/Fantasy/pexels_joshsorenson_816b.webp",
+          "dominantColorHex": "#8CBAC7",
+          "colorPaletteHex": [
+            "#8CBAC7",
+            "#DDDBD3",
+            "#3EA2B9",
+            "#304344",
+            "#48A3B8"
+          ],
+          "fact": {
+            "title": "Stormy Sky Eye",
+            "fact": "This tiny-planet image wraps clouds and sky around a dark center, creating an eye-like fantasy view.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine looking through the center and seeing a hidden weather world on the other side.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the dark circular center, cloudy blue ring, and smooth turquoise background.",
+            "learningPoints": [
+              "Circular distortion can turn a landscape into a symbol.",
+              "Cloud shapes add motion around the ring.",
+              "Dark centers create strong contrast with bright sky."
+            ]
+          }
+        },
+        {
+          "id": "pexels_kindelmedia_ea25",
+          "title": "Strawberry Cone Bouquet",
+          "url": "/Fantasy/pexels_kindelmedia_ea25.webp",
+          "dominantColorHex": "#FFF305",
+          "colorPaletteHex": [
+            "#FFF305",
+            "#A35310",
+            "#FAD90E",
+            "#FFFF58",
+            "#FFFA2B"
+          ],
+          "fact": {
+            "title": "Strawberry Cone Bouquet",
+            "fact": "This bright arrangement fills an ice cream cone with strawberries and green leaves like a playful bouquet.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the cone grows berry blossoms in a candy garden.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the waffle cone, red strawberries, green leaves, and yellow background.",
+            "learningPoints": [
+              "Food styling can turn familiar snacks into art.",
+              "Red and yellow create a cheerful high-contrast palette.",
+              "Repeated strawberries make a clear pattern near the top."
+            ]
+          }
+        },
+        {
+          "id": "pexels_leo_gilmant_1bc2",
+          "title": "Golden Galaxy Eye",
+          "url": "/Fantasy/pexels_leo_gilmant_1bc2.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#180E02",
+            "#6E4E0F",
+            "#030000",
+            "#000001"
+          ],
+          "fact": {
+            "title": "Golden Galaxy Eye",
+            "fact": "This dark image uses golden dust and a black center to suggest a glowing space portal or watchful eye.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the golden ring opens only when the stars line up around it.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the smoky gold texture, circular center, and deep black background.",
+            "learningPoints": [
+              "Glowing particles can suggest stars or magic dust.",
+              "A dark background makes the golden shape look brighter.",
+              "Circular forms often feel like portals, eyes, or planets."
+            ]
+          }
+        },
+        {
+          "id": "pexels_liam_gant_f2c2",
+          "title": "Sky Courtyard Portal",
+          "url": "/Fantasy/pexels_liam_gant_f2c2.webp",
+          "dominantColorHex": "#D9E4EA",
+          "colorPaletteHex": [
+            "#D9E4EA",
+            "#090807",
+            "#858081",
+            "#484140",
+            "#2B2725"
+          ],
+          "fact": {
+            "title": "Sky Courtyard Portal",
+            "fact": "This upward view through buildings frames the sky like a bright opening at the top of a tower.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the courtyard walls are the inside of a portal leading straight into the clouds.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the building walls, open sky shape, windows, and repeating vertical lines.",
+            "learningPoints": [
+              "Looking straight up can turn architecture into a geometric pattern.",
+              "The sky becomes the brightest shape in the center.",
+              "Repeating windows and edges help guide the eye around the frame."
+            ]
+          }
+        },
+        {
+          "id": "pexels_lucky_ae23",
+          "title": "Space-Age Roof",
+          "url": "/Fantasy/pexels_lucky_ae23.webp",
+          "dominantColorHex": "#201818",
+          "colorPaletteHex": [
+            "#201818",
+            "#9FA4A8",
+            "#5B4946",
+            "#8D8080",
+            "#C9C3C4"
+          ],
+          "fact": {
+            "title": "Space-Age Roof",
+            "fact": "This architectural detail uses sweeping curves and sharp angles that feel futuristic and otherworldly.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the roof belongs to a quiet station built for travelers between worlds.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the curved white panels, dark triangular shadows, and pale blue sky.",
+            "learningPoints": [
+              "Architecture can feel fantastical when shapes are unusual.",
+              "Curves and triangles create strong visual movement.",
+              "Light-colored surfaces show shadows clearly."
+            ]
+          }
+        },
+        {
+          "id": "pexels_nicosiegl_e487",
+          "title": "Glass Dome Portal",
+          "url": "/Fantasy/pexels_nicosiegl_e487.webp",
+          "dominantColorHex": "#0D0603",
+          "colorPaletteHex": [
+            "#0D0603",
+            "#402C1B",
+            "#947F72",
+            "#D6CAC3",
+            "#EFEBE6"
+          ],
+          "fact": {
+            "title": "Glass Dome Portal",
+            "fact": "This upward view shows a circular glass dome surrounded by ornate building details.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the dome is a window for watching clouds drift over a grand magical hall.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the round skylight, metal ribs, patterned walls, and bright center.",
+            "learningPoints": [
+              "Radial lines spread outward from the center like spokes.",
+              "Glass roofs bring natural light into large interiors.",
+              "Ornate details add texture around the circular shape."
+            ]
+          }
+        },
+        {
+          "id": "pexels_phototribbiani_e8fa",
+          "title": "Painted Creature Map",
+          "url": "/Fantasy/pexels_phototribbiani_e8fa.webp",
+          "dominantColorHex": "#E7ECE9",
+          "colorPaletteHex": [
+            "#E7ECE9",
+            "#4A3524",
+            "#916743",
+            "#63503E",
+            "#C9BCAE"
+          ],
+          "fact": {
+            "title": "Painted Creature Map",
+            "fact": "This art scene shows a hand adding paint and small shapes to a playful creature drawing.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the drawing is a map where every painted mark becomes a path to a new place.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the painted figure, hand, small color marks, and white paper.",
+            "learningPoints": [
+              "Handmade marks give art a personal, playful feeling.",
+              "Small symbols can become clues in a picture.",
+              "White space helps colorful paint marks stay easy to see."
+            ]
+          }
+        },
+        {
+          "id": "pexels_pu_ca_adryan_b3b7",
+          "title": "Flower Field Piano",
+          "url": "/Fantasy/pexels_pu_ca_adryan_b3b7.webp",
+          "dominantColorHex": "#282E3D",
+          "colorPaletteHex": [
+            "#282E3D",
+            "#14171F",
+            "#404258",
+            "#575271",
+            "#7B7995"
+          ],
+          "fact": {
+            "title": "Flower Field Piano",
+            "fact": "This dreamy scene places a black piano among purple flowers with a bright beam of light across it.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the piano plays songs that make the flowers glow at dusk.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the black piano, purple flower field, diagonal light beam, and dark trees.",
+            "learningPoints": [
+              "Unexpected objects outdoors can make a scene feel dreamlike.",
+              "Diagonal light adds drama and direction.",
+              "Purple flowers create a soft, magical atmosphere."
+            ]
+          }
+        },
+        {
+          "id": "pexels_pu_ca_adryan_ea98",
+          "title": "Forest Armchair",
+          "url": "/Fantasy/pexels_pu_ca_adryan_ea98.webp",
+          "dominantColorHex": "#151009",
+          "colorPaletteHex": [
+            "#151009",
+            "#322C22",
+            "#435935",
+            "#5C7045",
+            "#939989"
+          ],
+          "fact": {
+            "title": "Forest Armchair",
+            "fact": "This image places a modern armchair in a green outdoor setting, making the scene feel quietly surreal.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the chair waits for anyone who wants to hear stories from the forest.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the gray chair, grassy clearing, surrounding trees, and rounded seat shape.",
+            "learningPoints": [
+              "Moving an indoor object outside can create surprise.",
+              "Green surroundings contrast with the smooth gray chair.",
+              "The chair becomes the main landmark in the puzzle."
+            ]
+          }
+        },
+        {
+          "id": "pexels_rostislav_e120",
+          "title": "Crimson Block Maze",
+          "url": "/Fantasy/pexels_rostislav_e120.webp",
+          "dominantColorHex": "#1A0D17",
+          "colorPaletteHex": [
+            "#1A0D17",
+            "#3B171F",
+            "#6D3037",
+            "#C26260",
+            "#E69FA1"
+          ],
+          "fact": {
+            "title": "Crimson Block Maze",
+            "fact": "This abstract scene uses red blocks, beams, and shadows to create the feeling of a miniature maze.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine each block is part of a puzzle path that changes when the light moves.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the red rectangular shapes, dark shadows, and glowing highlights.",
+            "learningPoints": [
+              "Geometric shapes can build imaginary spaces.",
+              "Red light makes the maze feel dramatic.",
+              "Shadows help separate one block from another."
+            ]
+          }
+        },
+        {
+          "id": "pexels_rpphotos_f7eb",
+          "title": "Garden Mushroom Fairy",
+          "url": "/Fantasy/pexels_rpphotos_f7eb.webp",
+          "dominantColorHex": "#6F9C2A",
+          "colorPaletteHex": [
+            "#6F9C2A",
+            "#1D3B07",
+            "#98D35E",
+            "#D5F7C2",
+            "#DAD999"
+          ],
+          "fact": {
+            "title": "Garden Mushroom Fairy",
+            "fact": "This small garden figure sitting on a mushroom creates a gentle fairy-tale scene.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the figure is resting after carrying messages through the flowers.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the tiny figure, mushroom seat, leafy garden, and bright green background.",
+            "learningPoints": [
+              "Miniature figures make garden details look larger.",
+              "Green backgrounds help soft colors feel fresh.",
+              "A seated pose makes the scene feel calm."
+            ]
+          }
+        },
+        {
+          "id": "pexels_samir_zeka_4441",
+          "title": "Moonlit Playground Rider",
+          "url": "/Fantasy/pexels_samir_zeka_4441.webp",
+          "dominantColorHex": "#080808",
+          "colorPaletteHex": [
+            "#080808",
+            "#3A3A3A",
+            "#6C6C6C",
+            "#9A9A9A",
+            "#D7D7D7"
+          ],
+          "fact": {
+            "title": "Moonlit Playground Rider",
+            "fact": "This black-and-white playground scene uses curved metal shapes and shadows to create a quiet story mood.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the rider waits in a moonlit park for the next adventure to begin.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the spring rider, curved handles, striped shadows, and grayscale tones.",
+            "learningPoints": [
+              "Black-and-white images focus attention on shape and contrast.",
+              "Curved metal parts create repeating arcs.",
+              "Shadows can make a familiar place feel mysterious."
+            ]
+          }
+        },
+        {
+          "id": "pexels_samsilitongajr_802e",
+          "title": "Tree View Perch",
+          "url": "/Fantasy/pexels_samsilitongajr_802e.webp",
+          "dominantColorHex": "#8C9A3E",
+          "colorPaletteHex": [
+            "#8C9A3E",
+            "#4E5918",
+            "#BDC375",
+            "#EEDDA4",
+            "#FEFBCF"
+          ],
+          "fact": {
+            "title": "Tree View Perch",
+            "fact": "This peaceful image shows a small sitting spot in a tree with a wide view of hills and sky.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the perch is a lookout for watching clouds and planning a journey through the valley.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the tree trunk, wooden platform, seated figure, green hills, and pale sky.",
+            "learningPoints": [
+              "High viewpoints can make landscapes feel expansive.",
+              "Trees frame the scene and add depth.",
+              "A small figure helps show the scale of the view."
+            ]
+          }
+        },
+        {
+          "id": "pexels_souvenirpixels_5d89",
+          "title": "Glowing Carousel Horse",
+          "url": "/Fantasy/pexels_souvenirpixels_5d89.webp",
+          "dominantColorHex": "#010621",
+          "colorPaletteHex": [
+            "#010621",
+            "#3145A0",
+            "#7491D6",
+            "#36141A",
+            "#080C24"
+          ],
+          "fact": {
+            "title": "Glowing Carousel Horse",
+            "fact": "This colorful scene shows a carousel horse glowing with blue, red, and golden lights.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the carousel horse comes alive only when the fairground lights turn on.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the bright blue base, horse figure, warm bulbs, and colorful reflections.",
+            "learningPoints": [
+              "Colored lights can make a night scene feel magical.",
+              "Carousel figures often use decorative details and painted shapes.",
+              "Bright highlights become useful landmarks in a dark puzzle."
+            ]
+          }
+        },
+        {
+          "id": "pexels_steve_0cc4",
+          "title": "Golden Orb Path",
+          "url": "/Fantasy/pexels_steve_0cc4.webp",
+          "dominantColorHex": "#000000",
+          "colorPaletteHex": [
+            "#000000",
+            "#7E506C",
+            "#C89C96",
+            "#42223C",
+            "#180B1D"
+          ],
+          "fact": {
+            "title": "Golden Orb Path",
+            "fact": "This close-up image lines up glowing golden spheres across a dark surface like stepping stones.",
+            "foodTitle": "Imagination Idea",
+            "food": "Imagine the orbs mark the safe path through a quiet treasure room.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for the round metallic spheres, soft reflections, purple shadows, and dark background.",
+            "learningPoints": [
+              "Repeating round shapes create rhythm across the image.",
+              "Shallow focus makes nearby objects sharper than distant ones.",
+              "Gold and purple tones give the scene a rich, mysterious look."
+            ]
+          }
         }
       ]
     },
