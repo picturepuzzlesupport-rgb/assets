@@ -1859,32 +1859,6 @@
       "title": "Architecture",
       "images": [
         {
-          "id": "pexels_234elijohnson_fc45",
-          "title": "High-Rise Balconies",
-          "url": "/architecture/pexels_234elijohnson_fc45.webp",
-          "dominantColorHex": "#2653CB",
-          "colorPaletteHex": [
-            "#2653CB",
-            "#0F0F12",
-            "#E8E8E8",
-            "#4D6DC0",
-            "#1F3C93"
-          ],
-          "fact": {
-            "title": "High-Rise Balconies",
-            "fact": "This architecture image shows a tall high-rise building with stacked balconies against a blue sky, highlighting how buildings use shape, material, structure, and light.",
-            "foodTitle": "Architecture Note",
-            "food": "Architecture is the design of buildings and spaces for shelter, movement, gathering, work, and daily life.",
-            "strongholdTitle": "Look For",
-            "stronghold": "Look for a tall high-rise building with stacked balconies against a blue sky.",
-            "learningPoints": [
-              "Tall buildings use strong structural systems to carry weight and resist wind.",
-              "Repeating windows and floors create clear visual rhythm.",
-              "Looking upward can make height and perspective feel more dramatic."
-            ]
-          }
-        },
-        {
           "id": "pexels_9d72",
           "title": "Glass Office Towers",
           "url": "/architecture/pexels_9d72.webp",
@@ -3805,6 +3779,32 @@
               "Paths, stairs, and bridges guide people through buildings and cities.",
               "Strong lines can show direction and movement through a space.",
               "Railings, steps, and supports are designed for both safety and structure."
+            ]
+          }
+        },
+        {
+          "id": "pexels_234elijohnson_fc45",
+          "title": "High-Rise Balconies",
+          "url": "/architecture/pexels_234elijohnson_fc45.webp",
+          "dominantColorHex": "#2653CB",
+          "colorPaletteHex": [
+            "#2653CB",
+            "#0F0F12",
+            "#E8E8E8",
+            "#4D6DC0",
+            "#1F3C93"
+          ],
+          "fact": {
+            "title": "High-Rise Balconies",
+            "fact": "This architecture image shows a tall high-rise building with stacked balconies against a blue sky, highlighting how buildings use shape, material, structure, and light.",
+            "foodTitle": "Architecture Note",
+            "food": "Architecture is the design of buildings and spaces for shelter, movement, gathering, work, and daily life.",
+            "strongholdTitle": "Look For",
+            "stronghold": "Look for a tall high-rise building with stacked balconies against a blue sky.",
+            "learningPoints": [
+              "Tall buildings use strong structural systems to carry weight and resist wind.",
+              "Repeating windows and floors create clear visual rhythm.",
+              "Looking upward can make height and perspective feel more dramatic."
             ]
           }
         }
