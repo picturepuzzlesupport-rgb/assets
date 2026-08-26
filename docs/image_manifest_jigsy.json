@@ -8,7 +8,7 @@
       "images": [
         {
           "id": "pexels_zhengyang_tian_4ca2",
-          "title": "Small Dog on Leash",
+          "title": "Dog",
           "url": "/animal/pexels_zhengyang_tian_4ca2.webp",
           "dominantColorHex": "#D78485",
           "colorPaletteHex": [
@@ -19,7 +19,7 @@
             "#FAE8D8"
           ],
           "fact": {
-            "title": "Small Dog on Leash",
+            "title": "Dog",
             "fact": "A leash and harness help keep a small dog close and safe during walks in busy places.",
             "foodTitle": "Food",
             "food": "Small dogs eat balanced dog food in portions suited to their size and activity.",
@@ -34,7 +34,7 @@
         },
         {
           "id": "pexels_zetong_li_d593",
-          "title": "Sleeping Kitten",
+          "title": "Cat",
           "url": "/animal/pexels_zetong_li_d593.webp",
           "dominantColorHex": "#B57A53",
           "colorPaletteHex": [
@@ -45,7 +45,7 @@
             "#F0DDC9"
           ],
           "fact": {
-            "title": "Sleeping Kitten",
+            "title": "Cat",
             "fact": "Kittens sleep for many hours each day because rest supports growth and learning.",
             "foodTitle": "Food",
             "food": "Kittens need nutrient-rich meat-based food and fresh water as they grow.",
@@ -60,7 +60,7 @@
         },
         {
           "id": "pexels_wanderingpickle_7a7d",
-          "title": "Ring-Necked Parakeet",
+          "title": "Parrot",
           "url": "/animal/pexels_wanderingpickle_7a7d.webp",
           "dominantColorHex": "#616E3B",
           "colorPaletteHex": [
@@ -71,7 +71,7 @@
             "#515232"
           ],
           "fact": {
-            "title": "Ring-Necked Parakeet",
+            "title": "Parrot",
             "fact": "Ring-necked parakeets are green parrots with long tails and a bright red bill.",
             "foodTitle": "Food",
             "food": "Ring-necked parakeets eat seeds, fruits, buds, grains, flowers, and other plant foods.",
@@ -86,7 +86,7 @@
         },
         {
           "id": "pexels_tuongchopper_f9d9",
-          "title": "Cat Watching Duckling",
+          "title": "Cat",
           "url": "/animal/pexels_tuongchopper_f9d9.webp",
           "dominantColorHex": "#48230D",
           "colorPaletteHex": [
@@ -97,7 +97,7 @@
             "#F8F6F6"
           ],
           "fact": {
-            "title": "Cat Watching Duckling",
+            "title": "Cat",
             "fact": "Cats often focus closely on small moving animals because quick movement attracts their attention.",
             "foodTitle": "Food",
             "food": "Cats eat meat-based food, while ducklings need balanced starter feed and safe water access.",
@@ -112,7 +112,7 @@
         },
         {
           "id": "pexels_tuongchopper_688e",
-          "title": "Cat with Duckling",
+          "title": "Cat",
           "url": "/animal/pexels_tuongchopper_688e.webp",
           "dominantColorHex": "#421F09",
           "colorPaletteHex": [
@@ -123,7 +123,7 @@
             "#F7F4F3"
           ],
           "fact": {
-            "title": "Cat with Duckling",
+            "title": "Cat",
             "fact": "Cats and ducklings may share human spaces, but young birds need careful protection and supervision.",
             "foodTitle": "Food",
             "food": "Cats need meat-based food, while ducklings eat starter feed, greens, and small insects.",
@@ -138,7 +138,7 @@
         },
         {
           "id": "pexels_theo_cold_0f9f",
-          "title": "Black and White Dog Portrait",
+          "title": "Dog",
           "url": "/animal/pexels_theo_cold_0f9f.webp",
           "dominantColorHex": "#B0B0B0",
           "colorPaletteHex": [
@@ -149,7 +149,7 @@
             "#1B191C"
           ],
           "fact": {
-            "title": "Black and White Dog Portrait",
+            "title": "Dog",
             "fact": "Black and white coat patterns can make a dog's face markings easy to recognize.",
             "foodTitle": "Food",
             "food": "Dogs need balanced food, clean water, and portions suited to their size and activity.",
@@ -164,7 +164,7 @@
         },
         {
           "id": "pexels_stephen_noulton_91d5",
-          "title": "Green Parakeet on Branch",
+          "title": "Parrot",
           "url": "/animal/pexels_stephen_noulton_91d5.webp",
           "dominantColorHex": "#565E2C",
           "colorPaletteHex": [
@@ -175,7 +175,7 @@
             "#EBE9D9"
           ],
           "fact": {
-            "title": "Green Parakeet on Branch",
+            "title": "Parrot",
             "fact": "Parakeets are small to medium parrots with long tails, strong beaks, and quick climbing feet.",
             "foodTitle": "Food",
             "food": "Parakeets eat seeds, fruits, buds, blossoms, and other plant foods depending on the species.",
@@ -190,7 +190,7 @@
         },
         {
           "id": "pexels_son_hoa_nguyen_4ae0",
-          "title": "Cream Puppy Profile",
+          "title": "Dog",
           "url": "/animal/pexels_son_hoa_nguyen_4ae0.webp",
           "dominantColorHex": "#736E6D",
           "colorPaletteHex": [
@@ -201,7 +201,7 @@
             "#EEF0F0"
           ],
           "fact": {
-            "title": "Cream Puppy Profile",
+            "title": "Dog",
             "fact": "Puppies explore by sniffing, watching, chewing, and following people or other animals.",
             "foodTitle": "Food",
             "food": "Puppies need puppy food with protein, fat, minerals, and calories for steady growth.",
@@ -216,7 +216,7 @@
         },
         {
           "id": "pexels_serhaterdogan_40bb",
-          "title": "Tabby Cat Looking Up",
+          "title": "Dog",
           "url": "/animal/pexels_serhaterdogan_40bb.webp",
           "dominantColorHex": "#A26B4F",
           "colorPaletteHex": [
@@ -227,7 +227,7 @@
             "#F8DBC0"
           ],
           "fact": {
-            "title": "Tabby Cat Looking Up",
+            "title": "Dog",
             "fact": "Cats look upward to track movement, sounds, and possible places to climb or perch.",
             "foodTitle": "Food",
             "food": "Domestic cats need meat-based food and regular access to fresh water.",
@@ -242,7 +242,7 @@
         },
         {
           "id": "pexels_ruben_boekeloo_7991",
-          "title": "Dog Running in Snow",
+          "title": "Dog",
           "url": "/animal/pexels_ruben_boekeloo_7991.webp",
           "dominantColorHex": "#FFFFFF",
           "colorPaletteHex": [
@@ -253,7 +253,7 @@
             "#FFFFFE"
           ],
           "fact": {
-            "title": "Dog Running in Snow",
+            "title": "Dog",
             "fact": "Running dogs use coordinated leg movements, balance, and focus to move across slippery ground.",
             "foodTitle": "Food",
             "food": "Active dogs need balanced meals, clean water, and rest after exercise.",
@@ -268,7 +268,7 @@
         },
         {
           "id": "pexels_ponvintage_f60c",
-          "title": "Guinea Pig in Hay",
+          "title": "Guinea Pig",
           "url": "/animal/pexels_ponvintage_f60c.webp",
           "dominantColorHex": "#937629",
           "colorPaletteHex": [
@@ -279,7 +279,7 @@
             "#C0DAA2"
           ],
           "fact": {
-            "title": "Guinea Pig in Hay",
+            "title": "Guinea Pig",
             "fact": "Guinea pigs are social small mammals that communicate with squeaks, chirps, and purring sounds.",
             "foodTitle": "Food",
             "food": "Guinea pigs eat hay, grasses, leafy greens, pellets, and vitamin C-rich foods.",
@@ -294,7 +294,7 @@
         },
         {
           "id": "pexels_nurgul_kelebek_6daa",
-          "title": "Siamese Kitten",
+          "title": "Cat",
           "url": "/animal/pexels_nurgul_kelebek_6daa.webp",
           "dominantColorHex": "#938289",
           "colorPaletteHex": [
@@ -305,7 +305,7 @@
             "#E5DDE9"
           ],
           "fact": {
-            "title": "Siamese Kitten",
+            "title": "Cat",
             "fact": "Siamese-type kittens often have pale bodies with darker points on the ears, face, paws, and tail.",
             "foodTitle": "Food",
             "food": "Kittens need nutrient-rich meat-based food that supports growth and play.",
@@ -320,7 +320,7 @@
         },
         {
           "id": "pexels_nikolaeva_nastia_5f99",
-          "title": "Stretching Orange Cat",
+          "title": "Cat",
           "url": "/animal/pexels_nikolaeva_nastia_5f99.webp",
           "dominantColorHex": "#6C563F",
           "colorPaletteHex": [
@@ -331,7 +331,7 @@
             "#DBE3E6"
           ],
           "fact": {
-            "title": "Stretching Orange Cat",
+            "title": "Cat",
             "fact": "Cats stretch to loosen muscles, mark surfaces with scent glands, and prepare for movement.",
             "foodTitle": "Food",
             "food": "Domestic cats need meat-based food, clean water, and meals matched to their age and health.",
@@ -346,7 +346,7 @@
         },
         {
           "id": "pexels_mohsen_naranjani_b692",
-          "title": "Pomeranian in Shirt",
+          "title": "Dog",
           "url": "/animal/pexels_mohsen_naranjani_b692.webp",
           "dominantColorHex": "#44B0AD",
           "colorPaletteHex": [
@@ -357,7 +357,7 @@
             "#D8E4B3"
           ],
           "fact": {
-            "title": "Pomeranian in Shirt",
+            "title": "Dog",
             "fact": "Pomeranians are small spitz-type dogs with fluffy coats, bright expressions, and curled tails.",
             "foodTitle": "Food",
             "food": "Pomeranians eat balanced small-breed dog food and need fresh water every day.",
@@ -372,7 +372,7 @@
         },
         {
           "id": "pexels_mitbg_897c",
-          "title": "White Dog Beside Bicycle",
+          "title": "Dog",
           "url": "/animal/pexels_mitbg_897c.webp",
           "dominantColorHex": "#EADCD9",
           "colorPaletteHex": [
@@ -383,7 +383,7 @@
             "#0D3A38"
           ],
           "fact": {
-            "title": "White Dog Beside Bicycle",
+            "title": "Dog",
             "fact": "Small fluffy dogs often have dense coats that need brushing to prevent tangles.",
             "foodTitle": "Food",
             "food": "Small dogs need balanced dog food with portions adjusted for their size and activity.",
@@ -398,7 +398,7 @@
         },
         {
           "id": "pexels_michelle_neill_attwater_a18f",
-          "title": "Rainbow Lorikeet",
+          "title": "Parrot",
           "url": "/animal/pexels_michelle_neill_attwater_a18f.webp",
           "dominantColorHex": "#FEC486",
           "colorPaletteHex": [
@@ -409,7 +409,7 @@
             "#D7C075"
           ],
           "fact": {
-            "title": "Rainbow Lorikeet",
+            "title": "Parrot",
             "fact": "Rainbow lorikeets are colorful parrots with brush-tipped tongues that help them feed on nectar.",
             "foodTitle": "Food",
             "food": "Rainbow lorikeets eat nectar, pollen, soft fruits, blossoms, and some seeds.",
@@ -424,7 +424,7 @@
         },
         {
           "id": "pexels_md_shamim_shariar_sakil_6b17",
-          "title": "Brown Goat",
+          "title": "Goat",
           "url": "/animal/pexels_md_shamim_shariar_sakil_6b17.webp",
           "dominantColorHex": "#3C1A1A",
           "colorPaletteHex": [
@@ -435,7 +435,7 @@
             "#F8F0DF"
           ],
           "fact": {
-            "title": "Brown Goat",
+            "title": "Goat",
             "fact": "Goats are curious ruminants that can browse on shrubs, leaves, and rough plants.",
             "foodTitle": "Food",
             "food": "Goats eat hay, grasses, leaves, shrubs, and balanced farm feed when needed.",
@@ -450,7 +450,7 @@
         },
         {
           "id": "pexels_mark_jenkins_edbe",
-          "title": "Curly Sheep on Hill",
+          "title": "Sheep",
           "url": "/animal/pexels_mark_jenkins_edbe.webp",
           "dominantColorHex": "#47423A",
           "colorPaletteHex": [
@@ -461,7 +461,7 @@
             "#EFE8E4"
           ],
           "fact": {
-            "title": "Curly Sheep on Hill",
+            "title": "Sheep",
             "fact": "Sheep grow wool that insulates their bodies and can be sheared for textile fiber.",
             "foodTitle": "Food",
             "food": "Sheep eat grasses, clover, hay, and other forage plants.",
@@ -476,7 +476,7 @@
         },
         {
           "id": "pexels_mahmoud_yahyaoui_702f",
-          "title": "Tabby Cat on Path",
+          "title": "Cat",
           "url": "/animal/pexels_mahmoud_yahyaoui_702f.webp",
           "dominantColorHex": "#BDA8A7",
           "colorPaletteHex": [
@@ -487,7 +487,7 @@
             "#E2DEE4"
           ],
           "fact": {
-            "title": "Tabby Cat on Path",
+            "title": "Cat",
             "fact": "Cats are agile animals with flexible bodies, sharp senses, and quiet walking movements.",
             "foodTitle": "Food",
             "food": "Domestic cats need meat-based food and fresh water to stay healthy.",
@@ -502,7 +502,7 @@
         },
         {
           "id": "pexels_mahmoud_yahyaoui_455b",
-          "title": "German Shepherd Portrait",
+          "title": "Dog",
           "url": "/animal/pexels_mahmoud_yahyaoui_455b.webp",
           "dominantColorHex": "#8E7864",
           "colorPaletteHex": [
@@ -513,7 +513,7 @@
             "#CCD3D4"
           ],
           "fact": {
-            "title": "German Shepherd Portrait",
+            "title": "Dog",
             "fact": "German shepherds are intelligent working dogs known for alert expressions and strong training ability.",
             "foodTitle": "Food",
             "food": "German shepherds need balanced dog food, fresh water, and enough calories for their activity level.",
@@ -528,7 +528,7 @@
         },
         {
           "id": "pexels_lorna_pauli_4cba",
-          "title": "Lamb in Sunlight",
+          "title": "Sheep",
           "url": "/animal/pexels_lorna_pauli_4cba.webp",
           "dominantColorHex": "#E1C8AB",
           "colorPaletteHex": [
@@ -539,7 +539,7 @@
             "#5D4126"
           ],
           "fact": {
-            "title": "Lamb in Sunlight",
+            "title": "Sheep",
             "fact": "Lambs grow woolly coats and stay near the flock while they learn to graze.",
             "foodTitle": "Food",
             "food": "Lambs drink milk when young and later eat grass, hay, and pasture plants.",
@@ -554,7 +554,7 @@
         },
         {
           "id": "pexels_kvssidhu_3a8f",
-          "title": "Chihuahua Close-Up",
+          "title": "Dog",
           "url": "/animal/pexels_kvssidhu_3a8f.webp",
           "dominantColorHex": "#ADA69C",
           "colorPaletteHex": [
@@ -565,7 +565,7 @@
             "#F0E1D4"
           ],
           "fact": {
-            "title": "Chihuahua Close-Up",
+            "title": "Dog",
             "fact": "Chihuahuas are small companion dogs that often watch their surroundings closely.",
             "foodTitle": "Food",
             "food": "Small dogs need balanced meals served in portions appropriate for their size.",
@@ -580,7 +580,7 @@
         },
         {
           "id": "pexels_joanna_niewiadomska_9cd4",
-          "title": "Standing Lamb",
+          "title": "Sheep",
           "url": "/animal/pexels_joanna_niewiadomska_9cd4.webp",
           "dominantColorHex": "#545E2D",
           "colorPaletteHex": [
@@ -591,7 +591,7 @@
             "#D9D5DE"
           ],
           "fact": {
-            "title": "Standing Lamb",
+            "title": "Sheep",
             "fact": "Young lambs can stand and walk soon after birth so they can stay close to the flock.",
             "foodTitle": "Food",
             "food": "Lambs start with milk, then gradually add grass, hay, and pasture plants.",
@@ -606,7 +606,7 @@
         },
         {
           "id": "pexels_jay_moon_de63",
-          "title": "Sheep Flock",
+          "title": "Sheep",
           "url": "/animal/pexels_jay_moon_de63.webp",
           "dominantColorHex": "#767463",
           "colorPaletteHex": [
@@ -617,7 +617,7 @@
             "#D7D9D3"
           ],
           "fact": {
-            "title": "Sheep Flock",
+            "title": "Sheep",
             "fact": "Sheep are herd animals that often stay close together for comfort and safety.",
             "foodTitle": "Food",
             "food": "Sheep graze on grass and also eat hay or other forage when pasture is limited.",
@@ -632,7 +632,7 @@
         },
         {
           "id": "pexels_iceyouge_2ce5",
-          "title": "Puppy in Grass",
+          "title": "Dog",
           "url": "/animal/pexels_iceyouge_2ce5.webp",
           "dominantColorHex": "#68920A",
           "colorPaletteHex": [
@@ -643,7 +643,7 @@
             "#687512"
           ],
           "fact": {
-            "title": "Puppy in Grass",
+            "title": "Dog",
             "fact": "Puppies learn about the world through play, smell, chewing, and short bursts of exploration.",
             "foodTitle": "Food",
             "food": "Puppies need balanced puppy food with nutrients that support growth.",
@@ -658,7 +658,7 @@
         },
         {
           "id": "pexels_hhaa_685d",
-          "title": "Scarlet Macaw Eating Leaves",
+          "title": "Parrot",
           "url": "/animal/pexels_hhaa_685d.webp",
           "dominantColorHex": "#151511",
           "colorPaletteHex": [
@@ -669,7 +669,7 @@
             "#9AA58E"
           ],
           "fact": {
-            "title": "Scarlet Macaw Eating Leaves",
+            "title": "Parrot",
             "fact": "A macaw uses its beak like a tool to bite, peel, climb, and hold objects.",
             "foodTitle": "Food",
             "food": "Macaws eat fruits, nuts, seeds, leaves, flowers, and mineral-rich clay in some wild habitats.",
@@ -684,7 +684,7 @@
         },
         {
           "id": "pexels_herry_5232",
-          "title": "Chihuahua Portrait",
+          "title": "Dog",
           "url": "/animal/pexels_herry_5232.webp",
           "dominantColorHex": "#493C33",
           "colorPaletteHex": [
@@ -695,7 +695,7 @@
             "#D6D2C8"
           ],
           "fact": {
-            "title": "Chihuahua Portrait",
+            "title": "Dog",
             "fact": "Chihuahuas are very small dogs with large eyes, alert ears, and bold expressions.",
             "foodTitle": "Food",
             "food": "Chihuahuas need balanced dog food in small portions suited to their body size.",
@@ -710,7 +710,7 @@
         },
         {
           "id": "pexels_hector_avila_2732",
-          "title": "Scarlet Macaw on Branch",
+          "title": "Parrot",
           "url": "/animal/pexels_hector_avila_2732.webp",
           "dominantColorHex": "#948117",
           "colorPaletteHex": [
@@ -721,7 +721,7 @@
             "#EDF88A"
           ],
           "fact": {
-            "title": "Scarlet Macaw on Branch",
+            "title": "Parrot",
             "fact": "Scarlet macaws are large parrots with bright red, yellow, and blue feathers.",
             "foodTitle": "Food",
             "food": "Scarlet macaws eat fruits, nuts, seeds, flowers, and other plant material.",
@@ -736,7 +736,7 @@
         },
         {
           "id": "pexels_guvo_5eb8",
-          "title": "Pug Portrait",
+          "title": "Dog",
           "url": "/animal/pexels_guvo_5eb8.webp",
           "dominantColorHex": "#AA9A8B",
           "colorPaletteHex": [
@@ -747,7 +747,7 @@
             "#EBECED"
           ],
           "fact": {
-            "title": "Pug Portrait",
+            "title": "Dog",
             "fact": "Pugs are small companion dogs with wrinkled faces, curled tails, and expressive eyes.",
             "foodTitle": "Food",
             "food": "Pugs need balanced dog food in careful portions, since small dogs can gain weight quickly.",
@@ -762,7 +762,7 @@
         },
         {
           "id": "pexels_gizem_gokce_ef05",
-          "title": "Orange and White Kitten",
+          "title": "Cat",
           "url": "/animal/pexels_gizem_gokce_ef05.webp",
           "dominantColorHex": "#9E7B6F",
           "colorPaletteHex": [
@@ -773,7 +773,7 @@
             "#DFE9F4"
           ],
           "fact": {
-            "title": "Orange and White Kitten",
+            "title": "Cat",
             "fact": "A kitten's whiskers and sensitive paws help it explore surfaces and nearby objects.",
             "foodTitle": "Food",
             "food": "Kittens need meat-based food designed for their growing bodies.",
@@ -788,7 +788,7 @@
         },
         {
           "id": "pexels_fabregattoni_589c",
-          "title": "Golden Retriever on Grass",
+          "title": "Dog",
           "url": "/animal/pexels_fabregattoni_589c.webp",
           "dominantColorHex": "#3A4B20",
           "colorPaletteHex": [
@@ -799,7 +799,7 @@
             "#E7CC9B"
           ],
           "fact": {
-            "title": "Golden Retriever on Grass",
+            "title": "Dog",
             "fact": "Golden retrievers are active dogs that often enjoy retrieving games, training, and outdoor exercise.",
             "foodTitle": "Food",
             "food": "Golden retrievers need balanced dog food, fresh water, and portions suited to their size.",
@@ -814,7 +814,7 @@
         },
         {
           "id": "pexels_evan_velez_saxer_cdfe",
-          "title": "Arctic Fox in Snow",
+          "title": "Fox",
           "url": "/animal/pexels_evan_velez_saxer_cdfe.webp",
           "dominantColorHex": "#FFFFFF",
           "colorPaletteHex": [
@@ -825,7 +825,7 @@
             "#FFFFFE"
           ],
           "fact": {
-            "title": "Arctic Fox in Snow",
+            "title": "Fox",
             "fact": "Arctic foxes have dense fur and compact ears that help reduce heat loss in icy habitats.",
             "foodTitle": "Food",
             "food": "Arctic foxes eat small mammals, birds, eggs, berries, insects, fish, and carrion when available.",
@@ -840,7 +840,7 @@
         },
         {
           "id": "pexels_erwin_bosman_bfd0",
-          "title": "Lamb Portrait",
+          "title": "Sheep",
           "url": "/animal/pexels_erwin_bosman_bfd0.webp",
           "dominantColorHex": "#7E8234",
           "colorPaletteHex": [
@@ -851,7 +851,7 @@
             "#F5F2F1"
           ],
           "fact": {
-            "title": "Lamb Portrait",
+            "title": "Sheep",
             "fact": "A lamb is a young sheep, and it learns to recognize its mother by sound and smell.",
             "foodTitle": "Food",
             "food": "Young lambs drink milk first, then gradually eat grass, hay, and other forage.",
@@ -866,7 +866,7 @@
         },
         {
           "id": "pexels_ebubekir_4519",
-          "title": "Tabby Kitten on Sofa",
+          "title": "Cat",
           "url": "/animal/pexels_ebubekir_4519.webp",
           "dominantColorHex": "#8A7A6A",
           "colorPaletteHex": [
@@ -877,7 +877,7 @@
             "#DFDAD0"
           ],
           "fact": {
-            "title": "Tabby Kitten on Sofa",
+            "title": "Cat",
             "fact": "Tabby kittens have striped or spotted markings that make each coat pattern look unique.",
             "foodTitle": "Food",
             "food": "Kittens need meat-based food with enough protein and calories for growth.",
@@ -892,7 +892,7 @@
         },
         {
           "id": "pexels_dominik_kristen_a0a7",
-          "title": "Dog on Forest Path",
+          "title": "Dog",
           "url": "/animal/pexels_dominik_kristen_a0a7.webp",
           "dominantColorHex": "#5B5C3E",
           "colorPaletteHex": [
@@ -903,7 +903,7 @@
             "#D6CBBD"
           ],
           "fact": {
-            "title": "Dog on Forest Path",
+            "title": "Dog",
             "fact": "Dogs explore outdoor paths by combining sight, hearing, and a powerful sense of smell.",
             "foodTitle": "Food",
             "food": "Dogs eat balanced dog food and need fresh water after exercise.",
@@ -918,7 +918,7 @@
         },
         {
           "id": "pexels_chithrakadha_b32b",
-          "title": "Kitten in Basket",
+          "title": "Cat",
           "url": "/animal/pexels_chithrakadha_b32b.webp",
           "dominantColorHex": "#000000",
           "colorPaletteHex": [
@@ -929,7 +929,7 @@
             "#00060C"
           ],
           "fact": {
-            "title": "Kitten in Basket",
+            "title": "Cat",
             "fact": "Kittens use play and exploration to build coordination, confidence, and social skills.",
             "foodTitle": "Food",
             "food": "Kittens need nutrient-rich, meat-based food formulated for growth.",
@@ -944,7 +944,7 @@
         },
         {
           "id": "pexels_chirag_captures_50ba",
-          "title": "White Dog Side Profile",
+          "title": "Dog",
           "url": "/animal/pexels_chirag_captures_50ba.webp",
           "dominantColorHex": "#82786F",
           "colorPaletteHex": [
@@ -955,7 +955,7 @@
             "#D1CCBE"
           ],
           "fact": {
-            "title": "White Dog Side Profile",
+            "title": "Dog",
             "fact": "A side profile can show a dog's muzzle shape, ear position, and alert posture clearly.",
             "foodTitle": "Food",
             "food": "Dogs need balanced food, clean water, and nutrients matched to their life stage.",
@@ -970,7 +970,7 @@
         },
         {
           "id": "pexels_blackcurrant_great_bfc8",
-          "title": "White Rabbit with Long Ears",
+          "title": "Rabbit",
           "url": "/animal/pexels_blackcurrant_great_bfc8.webp",
           "dominantColorHex": "#C3BAAB",
           "colorPaletteHex": [
@@ -981,7 +981,7 @@
             "#F1F2F2"
           ],
           "fact": {
-            "title": "White Rabbit with Long Ears",
+            "title": "Rabbit",
             "fact": "Rabbits have long ears that help them listen for sounds and release body heat.",
             "foodTitle": "Food",
             "food": "Rabbits eat hay, grasses, leafy greens, and small amounts of pellets or vegetables.",
@@ -996,7 +996,7 @@
         },
         {
           "id": "pexels_barnabas_davoti_050c",
-          "title": "Dog Resting in Snow",
+          "title": "Dog",
           "url": "/animal/pexels_barnabas_davoti_050c.webp",
           "dominantColorHex": "#E7E7E8",
           "colorPaletteHex": [
@@ -1007,7 +1007,7 @@
             "#D0C6BD"
           ],
           "fact": {
-            "title": "Dog Resting in Snow",
+            "title": "Dog",
             "fact": "Some dogs enjoy cold weather, but they still need shelter and care when temperatures drop.",
             "foodTitle": "Food",
             "food": "Dogs need balanced food and fresh water, with energy needs changing by age and activity.",
@@ -1022,7 +1022,7 @@
         },
         {
           "id": "pexels_aswin_6e4f",
-          "title": "Golden Retriever on Leash",
+          "title": "Dog",
           "url": "/animal/pexels_aswin_6e4f.webp",
           "dominantColorHex": "#272C10",
           "colorPaletteHex": [
@@ -1033,7 +1033,7 @@
             "#DEAC6A"
           ],
           "fact": {
-            "title": "Golden Retriever on Leash",
+            "title": "Dog",
             "fact": "Walking on a leash helps dogs explore while staying close to their handler.",
             "foodTitle": "Food",
             "food": "Active dogs need balanced meals, clean water, and treats used in moderation.",
@@ -1048,7 +1048,7 @@
         },
         {
           "id": "pexels_ar_kay_ce97",
-          "title": "Labrador Close-Up",
+          "title": "Dog",
           "url": "/animal/pexels_ar_kay_ce97.webp",
           "dominantColorHex": "#7C818D",
           "colorPaletteHex": [
@@ -1059,7 +1059,7 @@
             "#EAEDF6"
           ],
           "fact": {
-            "title": "Labrador Close-Up",
+            "title": "Dog",
             "fact": "Labrador retrievers are sturdy dogs known for friendly behavior, strong noses, and love of activity.",
             "foodTitle": "Food",
             "food": "Labradors eat balanced dog food and need careful portions because they can gain weight easily.",
@@ -1074,7 +1074,7 @@
         },
         {
           "id": "pexels_apunto_group_agencia_de_publicidad_b882",
-          "title": "Golden Retriever at Table",
+          "title": "Dog",
           "url": "/animal/pexels_apunto_group_agencia_de_publicidad_b882.webp",
           "dominantColorHex": "#AD968B",
           "colorPaletteHex": [
@@ -1085,7 +1085,7 @@
             "#D5D1D7"
           ],
           "fact": {
-            "title": "Golden Retriever at Table",
+            "title": "Dog",
             "fact": "Golden retrievers are friendly, trainable dogs often recognized by their golden coats and expressive faces.",
             "foodTitle": "Food",
             "food": "Golden retrievers need balanced dog food and fresh water, with portions matched to their activity.",
@@ -1100,7 +1100,7 @@
         },
         {
           "id": "pexels_alina_autumn_5f61",
-          "title": "Goats in Farmyard",
+          "title": "Goat",
           "url": "/animal/pexels_alina_autumn_5f61.webp",
           "dominantColorHex": "#F2F9FD",
           "colorPaletteHex": [
@@ -1111,7 +1111,7 @@
             "#9CA799"
           ],
           "fact": {
-            "title": "Goats in Farmyard",
+            "title": "Goat",
             "fact": "Goats are sure-footed farm animals that can climb, browse, and investigate new objects with curiosity.",
             "foodTitle": "Food",
             "food": "Goats browse on leaves, shrubs, hay, grasses, and specially balanced feed.",
@@ -1126,7 +1126,7 @@
         },
         {
           "id": "pexels_alexasfotos_d1d0",
-          "title": "Prairie Dog Eating",
+          "title": "Prairie Dog",
           "url": "/animal/pexels_alexasfotos_d1d0.webp",
           "dominantColorHex": "#EDDEC5",
           "colorPaletteHex": [
@@ -1137,7 +1137,7 @@
             "#534237"
           ],
           "fact": {
-            "title": "Prairie Dog Eating",
+            "title": "Prairie Dog",
             "fact": "Prairie dogs are social burrowing rodents that use calls to warn their group about danger.",
             "foodTitle": "Food",
             "food": "Prairie dogs mostly eat grasses, seeds, roots, and other low plants.",
@@ -1152,7 +1152,7 @@
         },
         {
           "id": "pexels_alexasfotos_b8af",
-          "title": "Black Dog Close-Up",
+          "title": "Dog",
           "url": "/animal/pexels_alexasfotos_b8af.webp",
           "dominantColorHex": "#090206",
           "colorPaletteHex": [
@@ -1163,7 +1163,7 @@
             "#BFB3A9"
           ],
           "fact": {
-            "title": "Black Dog Close-Up",
+            "title": "Dog",
             "fact": "A dog's nose has many scent receptors, making smell one of its most important senses.",
             "foodTitle": "Food",
             "food": "Dogs eat balanced meals made for their age, size, and activity level.",
@@ -1178,7 +1178,7 @@
         },
         {
           "id": "pexels_alexasfotos_0253",
-          "title": "Small Long-Haired Dog",
+          "title": "Dog",
           "url": "/animal/pexels_alexasfotos_0253.webp",
           "dominantColorHex": "#7C541B",
           "colorPaletteHex": [
@@ -1189,7 +1189,7 @@
             "#F3B360"
           ],
           "fact": {
-            "title": "Small Long-Haired Dog",
+            "title": "Dog",
             "fact": "Long-haired small dogs often need regular grooming to keep their coats clean and comfortable.",
             "foodTitle": "Food",
             "food": "Small dogs eat balanced dog food served in portions suited to their size and activity.",
@@ -1204,7 +1204,7 @@
         },
         {
           "id": "pexels_alef_morais_e652",
-          "title": "Husky Dog Portrait",
+          "title": "Dog",
           "url": "/animal/pexels_alef_morais_e652.webp",
           "dominantColorHex": "#4B4445",
           "colorPaletteHex": [
@@ -1215,7 +1215,7 @@
             "#E5DAC8"
           ],
           "fact": {
-            "title": "Husky Dog Portrait",
+            "title": "Dog",
             "fact": "Huskies are energetic dogs known for thick coats, upright ears, and strong running ability.",
             "foodTitle": "Food",
             "food": "Dogs need balanced food with protein, fat, vitamins, minerals, and fresh water.",
@@ -1230,7 +1230,7 @@
         },
         {
           "id": "pexels_alef_morais_c1ff",
-          "title": "Green Parrot Close-Up",
+          "title": "Parrot",
           "url": "/animal/pexels_alef_morais_c1ff.webp",
           "dominantColorHex": "#B7A824",
           "colorPaletteHex": [
@@ -1241,7 +1241,7 @@
             "#3F440E"
           ],
           "fact": {
-            "title": "Green Parrot Close-Up",
+            "title": "Parrot",
             "fact": "Parrots have curved beaks and flexible feet that help them grip branches and hold food.",
             "foodTitle": "Food",
             "food": "Many parrots eat fruits, seeds, nuts, flowers, and tender plant parts.",
@@ -1256,7 +1256,7 @@
         },
         {
           "id": "pexels_agrosales_838d",
-          "title": "Ginger Cat Sitting",
+          "title": "Cat",
           "url": "/animal/pexels_agrosales_838d.webp",
           "dominantColorHex": "#3F3436",
           "colorPaletteHex": [
@@ -1267,7 +1267,7 @@
             "#BF9D84"
           ],
           "fact": {
-            "title": "Ginger Cat Sitting",
+            "title": "Cat",
             "fact": "This ginger cat has a thick coat and alert ears that help it track sounds nearby.",
             "foodTitle": "Food",
             "food": "Domestic cats need meat-based food because they are obligate carnivores.",
@@ -1594,7 +1594,7 @@
         },
         {
           "id": "sea_turtle",
-          "title": "Sea Turtle",
+          "title": "Turtle",
           "url": "/animal/sea_turtle.webp",
           "dominantColorHex": "#115C85",
           "colorPaletteHex": [
@@ -1605,7 +1605,7 @@
             "#203A43"
           ],
           "fact": {
-            "title": "Sea Turtle",
+            "title": "Turtle",
             "fact": "Sea turtles are ocean reptiles with streamlined shells and strong flippers for long-distance swimming.",
             "foodTitle": "Food",
             "food": "Depending on the species, sea turtles eat seagrass, algae, jellyfish, crabs, sponges, and other sea life.",
@@ -1620,7 +1620,7 @@
         },
         {
           "id": "white_rabbit",
-          "title": "White Rabbit",
+          "title": "Rabbit",
           "url": "/animal/white_rabbit.webp",
           "dominantColorHex": "#2F3925",
           "colorPaletteHex": [
@@ -1631,7 +1631,7 @@
             "#ACB7BE"
           ],
           "fact": {
-            "title": "White Rabbit",
+            "title": "Rabbit",
             "fact": "White rabbits have pale fur and large ears that help them hear nearby sounds and release body heat.",
             "foodTitle": "Food",
             "food": "Rabbits eat grasses, hay, leafy plants, and suitable vegetables.",
@@ -1672,7 +1672,7 @@
         },
         {
           "id": "red_fox",
-          "title": "Red Fox",
+          "title": "Fox",
           "url": "/animal/red_fox.webp",
           "dominantColorHex": "#9DACA9",
           "colorPaletteHex": [
@@ -1683,7 +1683,7 @@
             "#BAB29C"
           ],
           "fact": {
-            "title": "Red Fox",
+            "title": "Fox",
             "fact": "Red foxes are adaptable mammals known for reddish coats, pointed ears, and long bushy tails.",
             "foodTitle": "Food",
             "food": "Red foxes eat rodents, rabbits, birds, insects, fruit, and other available foods.",
@@ -1698,7 +1698,7 @@
         },
         {
           "id": "arctic_fox",
-          "title": "Arctic Fox",
+          "title": "Fox",
           "url": "/animal/arctic_fox.webp",
           "dominantColorHex": "#B69DA1",
           "colorPaletteHex": [
@@ -1709,7 +1709,7 @@
             "#594F80"
           ],
           "fact": {
-            "title": "Arctic Fox",
+            "title": "Fox",
             "fact": "Arctic foxes have dense fur, compact ears, and furry paws that help them survive extremely cold environments.",
             "foodTitle": "Food",
             "food": "Arctic foxes eat small mammals, birds, eggs, fish, and leftover food from larger predators.",
@@ -1724,7 +1724,7 @@
         },
         {
           "id": "polar_bear",
-          "title": "Polar Bear",
+          "title": "Bear",
           "url": "/animal/polar_bear.webp",
           "dominantColorHex": "#A1A2A2",
           "colorPaletteHex": [
@@ -1735,7 +1735,7 @@
             "#B1B3B4"
           ],
           "fact": {
-            "title": "Polar Bear",
+            "title": "Bear",
             "fact": "Polar bears are large Arctic mammals with thick fur and a layer of body fat that helps them stay warm.",
             "foodTitle": "Food",
             "food": "Polar bears mainly hunt seals, though they may also eat other available animal foods.",
@@ -1802,7 +1802,7 @@
         },
         {
           "id": "red_squirrel",
-          "title": "Red Squirrel",
+          "title": "Squirrel",
           "url": "/animal/red_squirrel.webp",
           "dominantColorHex": "#61AE4F",
           "colorPaletteHex": [
@@ -1813,7 +1813,7 @@
             "#8EC36E"
           ],
           "fact": {
-            "title": "Red Squirrel",
+            "title": "Squirrel",
             "fact": "Red squirrels are quick tree-climbing mammals known for their reddish fur, bushy tails, and habit of storing food.",
             "foodTitle": "Food",
             "food": "Red squirrels eat seeds, nuts, berries, fungi, and tender plant parts.",
@@ -1828,7 +1828,7 @@
         },
         {
           "id": "tabby_kitten",
-          "title": "Tabby Kitten",
+          "title": "Cat",
           "url": "/animal/tabby_kitten.webp",
           "dominantColorHex": "#302C20",
           "colorPaletteHex": [
@@ -1839,7 +1839,7 @@
             "#D1D0C4"
           ],
           "fact": {
-            "title": "Tabby Kitten",
+            "title": "Cat",
             "fact": "A tabby kitten has striped, spotted, or swirled coat markings and learns through play, climbing, and exploring.",
             "foodTitle": "Food",
             "food": "Kittens need nutrient-rich food with animal protein to support healthy growth.",
